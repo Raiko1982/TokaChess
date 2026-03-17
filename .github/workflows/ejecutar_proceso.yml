@@ -17,3 +17,11 @@ jobs:
 
       - name: Ejecutar el script
         run: python procesoInfo64.py
+
+      - name: Guardar cambios en el repo
+        run: |
+          git config --global user.name "TokaChess Bot"
+          git config --global user.email "bot@tokachess.com"
+          git add torneos.json
+          git commit -m "Actualización automática de torneos" || echo "No hay cambios que guardar"
+          git push
