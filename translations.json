@@ -1,0 +1,30 @@
+{
+  "es": {
+    "hero_message": "Encuentra todos los torneos de ajedrez",
+    "search_label": "Localización",
+    "near_label": "Radio",
+    "btn_locate": "Mi ubicación",
+    "date_label": "Rango de fechas",
+    "btn_filter": "Filtrar",
+    "btn_clear": "Limpiar todo",
+    "placeholder_city": "Ej: Madrid",
+    "details": "Detalles del torneo",
+    "not_found": "Ciudad no encontrada",
+    "start_label": "Fecha de inicio",
+    "end_label": "Fecha de fin"
+  },
+  "en": {
+    "hero_message": "Find all chess tournaments",
+    "search_label": "Location",
+    "near_label": "Radius",
+    "btn_locate": "My location",
+    "date_label": "Date range",
+    "btn_filter": "Filter",
+    "btn_clear": "Clear all",
+    "placeholder_city": "Ex: London",
+    "details": "Tournament details",
+    "not_found": "City not found",
+    "start_label": "Start date",
+    "end_label": "End date"
+  }
+}
