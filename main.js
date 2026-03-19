@@ -4,124 +4,59 @@
 
 // --- Variables Globales ---
 let map;
-let markersLayer; 
-let torneosData = []; 
-let translations = {}; 
-let currentLang = 'es'; 
+let markersLayer;
+let torneosData = [];
 
 // --- 1. Inicialización ---
 document.addEventListener('DOMContentLoaded', async () => {
-    await cargarTraducciones();
+    document.getElementById('btnFiltrar')?.addEventListener('click', aplicarFiltros);
     initMap();
-    initForm();
-    setupEventListeners();
-    actualizarTextosInterfaz();
+    cargarTorneos();
 });
 
-async function initForm(){
-    document.getElementById("fechaInicio").value = new Date();
-    document.body.classList.toggle("dark");
+// Funciones para el Menú Móvil
+function toggleSidebar() {
+    document.getElementById('sidebar').classList.toggle('active');
+    document.getElementById('sidebar-overlay').classList.toggle('active');
 }
 
-// --- 2. Carga de Idiomas ---
-async function cargarTraducciones() {
-    try {
-        const response = await fetch(`translations.json?v=${new Date().getTime()}`);
-        if (!response.ok) throw new Error("No se pudo cargar el archivo de traducciones");
-        translations = await response.json();
-    } catch (e) { 
-        console.error("Error cargando translations.json:", e);
-        // Fallback manual en caso de error de red
-        translations = { 
-            es: { 
-                details: "Detalles del torneo", 
-                not_found: "Ciudad no encontrada", 
-                start_label: "FECHA INICIO", 
-                end_label: "FECHA FIN" 
-            }, 
-            en: { 
-                details: "Tournament details", 
-                not_found: "City not found", 
-                start_label: "START DATE", 
-                end_label: "END DATE" 
-            } 
-        };
+function filterAndClose() {
+    // Si estamos en móvil (pantalla <= 768px), cerramos el menú al filtrar
+    if (window.innerWidth <= 768) {
+        toggleSidebar();
     }
 }
 
 // --- 3. Configuración del Mapa ---
 function initMap() {
-    map = L.map('map', { 
-        zoomControl: false,
-        minZoom: 2 
-    }).setView([40.4637, -3.7492], 6);
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-        attribution: '© CARTO',
-        subdomains: 'abcd',
+    // Inicializar Mapa centrado en España
+    map = L.map('map', { zoomControl: false }).setView([40.41, -3.70], 6);
+
+    // Capa base oscura (CartoDB Dark Matter)
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+        attribution: '© CartoDB',
         maxZoom: 20
     }).addTo(map);
+
+    L.control.zoom({ position: 'topright' }).addTo(map);
+
+    // Marcador de ejemplo con Popup Premium
+    const popupContent = `
+        <div style="padding: 8px;">
+            <strong style="color: var(--accent); font-size: 1rem;">Torneo Élite Madrid</strong><br>
+            <span style="color: #8b949e; font-size: 0.85rem;">Próxima fecha: 12 de Abril</span>
+        </div>
+    `;
 
     markersLayer = L.markerClusterGroup({
         showCoverageOnHover: false,
         zoomToBoundsOnClick: true,
         spiderfyOnMaxZoom: true,
-        disableClusteringAtZoom: 16 
+        disableClusteringAtZoom: 16
     });
 
     map.addLayer(markersLayer);
-    L.control.zoom({ position: 'topright' }).addTo(map);
-
-    cargarTorneos();
-}
-
-// --- 4. Gestión de Eventos ---
-function setupEventListeners() {
-    document.getElementById('toggleSidebar').addEventListener('click', toggleSidebar);
-    document.getElementById('btnBuscar')?.addEventListener('click', buscarCiudad);
-    document.getElementById('btnLocate')?.addEventListener('click', filtrarPorPosicion);
-    document.getElementById('btnFiltrar')?.addEventListener('click', aplicarFiltros);
-    document.getElementById('btnReset')?.addEventListener('click', resetearFiltros);
-    
-    document.getElementById('langSelect')?.addEventListener('change', (e) => {
-        currentLang = e.target.value;
-        actualizarTextosInterfaz();
-        dibujarMarcadores(torneosData); 
-    });
-
-    document.getElementById('buscarCiudad')?.addEventListener('keypress', (e) => {
-        if (e.key === 'Enter') buscarCiudad();
-    });
-}
-
-// --- 5. Motor de Traducción ---
-function actualizarTextosInterfaz() {
-    const texts = translations[currentLang];
-    if (!texts) return;
-
-    document.querySelectorAll('[data-i18n]').forEach(el => {
-        const key = el.getAttribute('data-i18n');
-        if (texts[key]) {
-            if (el.tagName === 'INPUT') el.placeholder = texts[key];
-            else el.innerText = texts[key];
-        }
-    });
-}
-
-/**
- * Formatea la fecha para el diseño de calendario.
- * Soporta YYYY-MM-DD y DD/MM/YYYY
- */
-function formatearFechaVisual(fechaStr) {
-    if (!fechaStr) return { dia: '??', resto: '??/??' };
-    const sep = fechaStr.includes('-') ? '-' : '/';
-    const partes = fechaStr.split(sep);
-    if (partes.length < 3) return { dia: fechaStr, resto: '' };
-
-    if (partes[0].length === 4) { // ISO
-        return { dia: partes[2], resto: `${partes[1]}/${partes[0].substring(2)}` };
-    } 
-    return { dia: partes[0], resto: `${partes[1]}/${partes[2].substring(2)}` };
 }
 
 // --- 6. Manejo de Marcadores ---
@@ -130,7 +65,6 @@ async function cargarTorneos() {
         const response = await fetch('torneos.json');
         if (!response.ok) throw new Error("Error cargando torneos.json");
         torneosData = await response.json();
-        console.log(JSON.stringify(torneosData, null, 2));
         dibujarMarcadores(torneosData);
     } catch (e) {
         console.error("Error:", e);
@@ -151,19 +85,11 @@ function crearIconoAjedrez() {
 
 function dibujarMarcadores(datos) {
     markersLayer.clearLayers();
-    const texts = translations[currentLang] || {};
     const chessIcon = crearIconoAjedrez();
     const marcadoresNuevos = [];
 
     datos.forEach(t => {
-        // Obtenemos los labels del JSON de traducción o usamos fallback
-        const txtBoton = texts['details'] || "Detalles";
-        const labelInicio = texts['start_label'] || "INICIO";
-        const labelFin = texts['end_label'] || "FIN";
-
-        const fIni = formatearFechaVisual(t.fechaini);
-        const fFin = formatearFechaVisual(t.fechafin);
-
+   
         const popupContent = `
             <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; width: 280px; border-radius: 12px; overflow: hidden;">
                 <div style="padding: 18px 18px 5px 18px;">
@@ -175,22 +101,20 @@ function dibujarMarcadores(datos) {
                 <div style="padding: 15px 18px 18px 18px;">
                     <div style="display: flex; gap: 12px; margin-bottom: 18px;">
                         <div style="flex: 1; background: #f9fafb; padding: 10px; border-radius: 10px; text-align: center; border: 1px solid #edf2f7;">
-                            <div style="font-size: 0.6rem; color: #a0aec0; font-weight: 800; letter-spacing: 0.5px; margin-bottom: 4px; text-transform: uppercase;">${labelInicio}</div>
-                            <div style="font-size: 1.3rem; font-weight: 800; color: #2d3748; line-height: 1;">${fIni.dia}</div>
-                            <div style="font-size: 0.75rem; color: #718096; font-weight: 600; margin-top: 2px;">${fIni.resto}</div>
+                            <div style="font-size: 0.6rem; color: #a0aec0; font-weight: 800; letter-spacing: 0.5px; margin-bottom: 4px; text-transform: uppercase;">Inicio</div>
+                            <div style="font-size: 1rem; font-weight: 800; color: #2d3748; line-height: 1;">${t.fechaini}</div>
                         </div>
                         <div style="flex: 1; background: #f9fafb; padding: 10px; border-radius: 10px; text-align: center; border: 1px solid #edf2f7;">
-                            <div style="font-size: 0.6rem; color: #a0aec0; font-weight: 800; letter-spacing: 0.5px; margin-bottom: 4px; text-transform: uppercase;">${labelFin}</div>
-                            <div style="font-size: 1.3rem; font-weight: 800; color: #2d3748; line-height: 1;">${fFin.dia}</div>
-                            <div style="font-size: 0.75rem; color: #718096; font-weight: 600; margin-top: 2px;">${fFin.resto}</div>
+                            <div style="font-size: 0.6rem; color: #a0aec0; font-weight: 800; letter-spacing: 0.5px; margin-bottom: 4px; text-transform: uppercase;">Fin</div>
+                            <div style="font-size: 1rem; font-weight: 800; color: #2d3748; line-height: 1;">${t.fechafin}</div>
                         </div>
                     </div>
                     <a href="${t.link}" target="_blank" style="display: block; width: 100%; padding: 12px 0; background: #2c3e50; color: white; text-align: center; text-decoration: none; border-radius: 10px; font-size: 0.9rem; font-weight: 700; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.2s;">
-                        ${txtBoton}
+                        Accede al torneo
                     </a>
                 </div>
             </div>`;
-            
+
         const marker = L.marker([t.lat, t.lon], { icon: chessIcon }).bindPopup(popupContent, { maxWidth: 300 });
         marcadoresNuevos.push(marker);
     });
@@ -198,54 +122,17 @@ function dibujarMarcadores(datos) {
     markersLayer.addLayers(marcadoresNuevos);
 }
 
-// --- 7. Lógica de Interacción ---
-function buscarCiudad() {
-    const ciudad = document.getElementById("buscarCiudad").value;
-    if (!ciudad) return;
-    fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${ciudad}`)
-        .then(r => r.json()).then(data => {
-            if (data.length > 0) map.setView([data[0].lat, data[0].lon], 13);
-            else alert(translations[currentLang]?.['not_found'] || "Error");
-        });
-}
-
-function filtrarPorPosicion() {
-    if (!navigator.geolocation) return;
-    navigator.geolocation.getCurrentPosition(pos => {
-        map.setView([pos.coords.latitude, pos.coords.longitude], 14);
-    });
-}
-
 function aplicarFiltros() {
-    const inicio = document.getElementById("fechaInicio").value;
-    const fin = document.getElementById("fechaFin").value;
+    const inicio = document.getElementById("dateInitFilter").value;
+    const fin = document.getElementById("dateEndFilter").value;
     const filtrados = torneosData.filter(t => {
         // Si no hay filtros puestos, mostramos todo
         if (!inicio && !fin) return true;
-
         // Si hay 'inicio', el torneo debe empezar después o ese mismo día
         const cumpleInicio = inicio ? (t.fechaini >= inicio) : true;
-
         // Si hay 'fin', el torneo debe terminar antes o ese mismo día
         const cumpleFin = fin ? (t.fechafin <= fin) : true;
-
         return cumpleInicio && cumpleFin;
     });
-    console.log("filtrando");
     dibujarMarcadores(filtrados);
-}
-
-function toggleSidebar() {
-    const sidebar = document.getElementById("sidebar");
-    const btn = document.getElementById("toggleSidebar");
-    sidebar.classList.toggle("collapsed");
-    btn.innerText = sidebar.classList.contains("collapsed") ? "▶" : "◀";
-    setTimeout(() => map.invalidateSize(), 400);
-}
-
-function resetearFiltros() {
-    document.getElementById("fechaInicio").value = "";
-    document.getElementById("fechaFin").value = "";
-    document.getElementById("buscarCiudad").value = "";
-    dibujarMarcadores(torneosData);
 }

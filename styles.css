@@ -30,12 +30,6 @@ html, body {
 	z-index: 1100;
 }
 
-.logo-group {
-	display: flex;
-	align-items: center;
-	gap: 12px;
-}
-
 .logo-text {
 	font-size: 1.4rem;
 	font-weight: 850;
