@@ -90,30 +90,42 @@ function dibujarMarcadores(datos) {
 
     datos.forEach(t => {
    
-        const popupContent = `
-            <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; width: 280px; border-radius: 12px; overflow: hidden;">
-                <div style="padding: 18px 18px 5px 18px;">
-                    <h6 style="margin: 0; font-size: 1.15rem; font-weight: 800; color: #1a1a1a; line-height: 1.2;">${t.nombre}</h6>
-                    <div style="margin-top: 6px; font-size: 0.85rem; color: #777; display: flex; align-items: center; font-weight: 500;">
-                        <span style="margin-right: 6px; filter: grayscale(1);">📍</span> ${t.ciudad}
-                    </div>
+const popupContent = `
+    <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; width: 280px; border-radius: 12px; overflow: hidden; background: #fff;">
+        <div style="padding: 18px 18px 5px 18px;">
+            <h6 style="margin: 0; font-size: 1.15rem; font-weight: 800; color: #1a1a1a; line-height: 1.2;">${t.nombre}</h6>
+            
+            <div style="margin-top: 4px; font-size: 0.75rem; color: #2c3e50; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+                Org: ${t.organizador}
+            </div>
+
+            <div style="margin-top: 8px; display: flex; flex-direction: column; gap: 4px;">
+                <div style="font-size: 0.85rem; color: #666; display: flex; align-items: center; font-weight: 500;">
+                    <span style="margin-right: 6px; filter: grayscale(1);">📍</span> ${t.ciudad}
                 </div>
-                <div style="padding: 15px 18px 18px 18px;">
-                    <div style="display: flex; gap: 12px; margin-bottom: 18px;">
-                        <div style="flex: 1; background: #f9fafb; padding: 10px; border-radius: 10px; text-align: center; border: 1px solid #edf2f7;">
-                            <div style="font-size: 0.6rem; color: #a0aec0; font-weight: 800; letter-spacing: 0.5px; margin-bottom: 4px; text-transform: uppercase;">Inicio</div>
-                            <div style="font-size: 1rem; font-weight: 800; color: #2d3748; line-height: 1;">${t.fechaini}</div>
-                        </div>
-                        <div style="flex: 1; background: #f9fafb; padding: 10px; border-radius: 10px; text-align: center; border: 1px solid #edf2f7;">
-                            <div style="font-size: 0.6rem; color: #a0aec0; font-weight: 800; letter-spacing: 0.5px; margin-bottom: 4px; text-transform: uppercase;">Fin</div>
-                            <div style="font-size: 1rem; font-weight: 800; color: #2d3748; line-height: 1;">${t.fechafin}</div>
-                        </div>
-                    </div>
-                    <a href="${t.link}" target="_blank" style="display: block; width: 100%; padding: 12px 0; background: #2c3e50; color: white; text-align: center; text-decoration: none; border-radius: 10px; font-size: 0.9rem; font-weight: 700; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.2s;">
-                        Accede al torneo
-                    </a>
+                <div style="font-size: 0.85rem; color: #666; display: flex; align-items: center; font-weight: 500;">
+                    <span style="margin-right: 6px; filter: grayscale(1);">⏱️</span> Ritmo: <b>${t.ritmo}</b>
                 </div>
-            </div>`;
+            </div>
+        </div>
+
+        <div style="padding: 15px 18px 18px 18px;">
+            <div style="display: flex; gap: 12px; margin-bottom: 18px;">
+                <div style="flex: 1; background: #f9fafb; padding: 10px; border-radius: 10px; text-align: center; border: 1px solid #edf2f7;">
+                    <div style="font-size: 0.6rem; color: #a0aec0; font-weight: 800; letter-spacing: 0.5px; margin-bottom: 4px; text-transform: uppercase;">Inicio</div>
+                    <div style="font-size: 0.9rem; font-weight: 800; color: #2d3748; line-height: 1;">${t.fechaini}</div>
+                </div>
+                <div style="flex: 1; background: #f9fafb; padding: 10px; border-radius: 10px; text-align: center; border: 1px solid #edf2f7;">
+                    <div style="font-size: 0.6rem; color: #a0aec0; font-weight: 800; letter-spacing: 0.5px; margin-bottom: 4px; text-transform: uppercase;">Fin</div>
+                    <div style="font-size: 0.9rem; font-weight: 800; color: #2d3748; line-height: 1;">${t.fechafin}</div>
+                </div>
+            </div>
+            
+            <a href="${t.link}" target="_blank" style="display: block; width: 100%; padding: 12px 0; background: #2c3e50; color: white; text-align: center; text-decoration: none; border-radius: 10px; font-size: 0.9rem; font-weight: 700; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.2s;">
+                Accede al torneo
+            </a>
+        </div>
+    </div>`;
 
         const marker = L.marker([t.lat, t.lon], { icon: chessIcon }).bindPopup(popupContent, { maxWidth: 300 });
         marcadoresNuevos.push(marker);
