@@ -133,7 +133,7 @@ def main():
                 time.sleep(1.3) # Respetar Nominatim
 
         # --- PASO 3: Guardar JSON ---
-        with open('torneos_cr.json', 'w', encoding='utf-8') as f:
+        with open('torneosChessResult.json', 'w', encoding='utf-8') as f:
             json.dump(torneos_limpios, f, ensure_ascii=False, indent=4)
       
     except Exception as e:
