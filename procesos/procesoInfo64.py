@@ -73,7 +73,7 @@ def scrape_toka_chess():
                 time.sleep(1.3)
 
         # 3. Guardar el resultado para el mapa
-        with open('torneos.json', 'w', encoding='utf-8') as f:
+        with open('torneosInfo64.json', 'w', encoding='utf-8') as f:
             json.dump(torneos_limpios, f, ensure_ascii=False, indent=4)
         
         #print(f"\n✅ ¡Éxito! {len(torneos_limpios)} torneos listos en torneos.json")

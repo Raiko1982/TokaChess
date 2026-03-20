@@ -20,13 +20,6 @@ function toggleSidebar() {
     document.getElementById('sidebar-overlay').classList.toggle('active');
 }
 
-function filterAndClose() {
-    // Si estamos en móvil (pantalla <= 768px), cerramos el menú al filtrar
-    if (window.innerWidth <= 768) {
-        toggleSidebar();
-    }
-}
-
 // --- 3. Configuración del Mapa ---
 function initMap() {
 
@@ -62,7 +55,7 @@ function initMap() {
 // --- 6. Manejo de Marcadores ---
 async function cargarTorneos() {
     try {
-        const response = await fetch('torneos.json');
+        const response = await fetch('torneosInfo64.json');
         if (!response.ok) throw new Error("Error cargando torneos.json");
         torneosData = await response.json();
         dibujarMarcadores(torneosData);
@@ -135,4 +128,8 @@ function aplicarFiltros() {
         return cumpleInicio && cumpleFin;
     });
     dibujarMarcadores(filtrados);
+    // Si estamos en móvil (pantalla <= 768px), cerramos el menú al filtrar
+    if (window.innerWidth <= 768) {
+        toggleSidebar();
+    }
 }

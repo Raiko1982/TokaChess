@@ -24,13 +24,14 @@
     <div id="sidebar-overlay" onclick="toggleSidebar()"></div>
 
     <aside id="sidebar">
-        <div class="mb-5">
-            <a href="index.html" class="logo-link">
-                <img src="./logo-small.png" title="logo" alt="logo" height="100" />
-                <h1 class="logo-text">Toka<span class="logo-accent">Chess</span></h1>
-            </a>
-            <span class="slogan" data-i18n="hero_message">¡Encuentra todos los torneos de ajedrez que habrá
-                próximamente!</span>
+        <div class="alert alert-secondary mt-5 mb-2 text-center" role="info">
+            <div >
+                <a href="index.html" class="logo-link">
+                    <img src="./logo-small.png" title="logo" alt="logo" height="100" />
+                    <h1 class="logo-text">Toka<span class="logo-accent">Chess</span></h1>
+                </a>   
+            </div>        
+            ¿Toca ajedrez este finde? ¡encuentra un torneo y diviertete!                        
         </div>
 
         <div class="mb-2">
@@ -38,8 +39,7 @@
                 style="letter-spacing: 1px; font-size: 0.7rem;">Fecha del torneo desde </label>
             <input type="date" id="dateInitFilter" class="form-control form-control-custom w-100">
         </div>
-
-        <div class="mb-5">
+        <div class="mb-3">
             <label class="small text-muted mb-2 d-block text-uppercase fw-bold"
                 style="letter-spacing: 1px; font-size: 0.7rem;">Fecha del torneo hasta </label>
             <input type="date" id="dateEndFilter" class="form-control form-control-custom w-100">
