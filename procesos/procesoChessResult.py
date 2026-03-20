@@ -94,7 +94,7 @@ def main():
             print("No se encontró la tabla de resultados.")
             return
         
-        filas = tabla.find_all('tr')[1:15] # Saltamos cabecera
+        filas = tabla.find_all('tr')[1:] # Saltamos cabecera
         torneos_limpios = []
         for fila in filas:
             cols = fila.find_all('td')
