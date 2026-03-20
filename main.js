@@ -91,39 +91,56 @@ function dibujarMarcadores(datos) {
     datos.forEach(t => {
    
 const popupContent = `
-    <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; width: 280px; border-radius: 12px; overflow: hidden; background: #fff;">
-        <div style="padding: 18px 18px 5px 18px;">
-            <h6 style="margin: 0; font-size: 1.15rem; font-weight: 800; color: #1a1a1a; line-height: 1.2;">${t.nombre}</h6>
+    <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 280px; border-radius: 16px; overflow: hidden; background: #ffffff; box-shadow: 0 10px 25px rgba(0,0,0,0.1); border: 1px solid #f0f0f0;">
+        
+        <div style="padding: 20px 20px 10px 20px; background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);">
+            <h6 style="margin: 0; font-size: 1.2rem; font-weight: 800; color: #1a202c; line-height: 1.3; letter-spacing: -0.02em;">
+                ${t.nombre || 'Torneo de Ajedrez'}
+            </h6>
             
-            <div style="margin-top: 4px; font-size: 0.75rem; color: #2c3e50; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
-                Org: ${t.organizador}
-            </div>
-
-            <div style="margin-top: 8px; display: flex; flex-direction: column; gap: 4px;">
-                <div style="font-size: 0.85rem; color: #666; display: flex; align-items: center; font-weight: 500;">
-                    <span style="margin-right: 6px; filter: grayscale(1);">📍</span> ${t.ciudad}
+            ${t.organizador ? `
+                <div style="margin-top: 6px; font-size: 0.7rem; color: #718096; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; display: flex; align-items: center;">
+                    <span style="display: inline-block; width: 8px; height: 8px; background: #4a5568; border-radius: 50%; margin-right: 6px;"></span>
+                    ${t.organizador}
                 </div>
-                <div style="font-size: 0.85rem; color: #666; display: flex; align-items: center; font-weight: 500;">
-                    <span style="margin-right: 6px; filter: grayscale(1);">⏱️</span> Ritmo: <b>${t.ritmo}</b>
-                </div>
-            </div>
+            ` : ''}
         </div>
 
-        <div style="padding: 15px 18px 18px 18px;">
-            <div style="display: flex; gap: 12px; margin-bottom: 18px;">
-                <div style="flex: 1; background: #f9fafb; padding: 10px; border-radius: 10px; text-align: center; border: 1px solid #edf2f7;">
-                    <div style="font-size: 0.6rem; color: #a0aec0; font-weight: 800; letter-spacing: 0.5px; margin-bottom: 4px; text-transform: uppercase;">Inicio</div>
-                    <div style="font-size: 0.9rem; font-weight: 800; color: #2d3748; line-height: 1;">${t.fechaini}</div>
+        <div style="padding: 0 20px 15px 20px;">
+            <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 5px;">
+                
+                ${t.ciudad ? `
+                    <div style="font-size: 0.85rem; color: #4a5568; display: flex; align-items: center; gap: 8px;">
+                        <span style="font-size: 1.1rem; opacity: 0.8;">📍</span> 
+                        <span style="font-weight: 500;">${t.ciudad}</span>
+                    </div>
+                ` : ''}
+
+                ${t.ritmo ? `
+                    <div style="font-size: 0.85rem; color: #4a5568; display: flex; align-items: center; gap: 8px;">
+                        <span style="font-size: 1.1rem; opacity: 0.8;">⏱️</span> 
+                        <span>Ritmo: <strong style="color: #2d3748;">${t.ritmo}</strong></span>
+                    </div>
+                ` : ''}
+
+            </div>
+
+            <div style="display: flex; gap: 10px; margin-top: 20px; margin-bottom: 20px;">
+                <div style="flex: 1; background: #f7fafc; padding: 12px 8px; border-radius: 12px; text-align: center; border: 1px solid #edf2f7;">
+                    <div style="font-size: 0.55rem; color: #a0aec0; font-weight: 800; text-transform: uppercase; margin-bottom: 4px;">Inicio</div>
+                    <div style="font-size: 0.85rem; font-weight: 700; color: #2d3748;">${t.fechaini || 'TBD'}</div>
                 </div>
-                <div style="flex: 1; background: #f9fafb; padding: 10px; border-radius: 10px; text-align: center; border: 1px solid #edf2f7;">
-                    <div style="font-size: 0.6rem; color: #a0aec0; font-weight: 800; letter-spacing: 0.5px; margin-bottom: 4px; text-transform: uppercase;">Fin</div>
-                    <div style="font-size: 0.9rem; font-weight: 800; color: #2d3748; line-height: 1;">${t.fechafin}</div>
+                <div style="flex: 1; background: #f7fafc; padding: 12px 8px; border-radius: 12px; text-align: center; border: 1px solid #edf2f7;">
+                    <div style="font-size: 0.55rem; color: #a0aec0; font-weight: 800; text-transform: uppercase; margin-bottom: 4px;">Fin</div>
+                    <div style="font-size: 0.85rem; font-weight: 700; color: #2d3748;">${t.fechafin || 'TBD'}</div>
                 </div>
             </div>
-            
-            <a href="${t.link}" target="_blank" style="display: block; width: 100%; padding: 12px 0; background: #2c3e50; color: white; text-align: center; text-decoration: none; border-radius: 10px; font-size: 0.9rem; font-weight: 700; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.2s;">
-                Accede al torneo
-            </a>
+
+            ${t.link ? `
+                <a href="${t.link}" target="_blank" style="display: block; width: 100%; padding: 14px 0; background: #1a202c; color: #ffffff; text-align: center; text-decoration: none; border-radius: 12px; font-size: 0.9rem; font-weight: 600; transition: transform 0.2s ease, background 0.2s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+                    Ver detalles del torneo
+                </a>
+            ` : ''}
         </div>
     </div>`;
 
