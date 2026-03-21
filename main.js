@@ -32,7 +32,7 @@ function initMap() {
         maxZoom: 20
     }).addTo(map);
 
-    L.control.zoom({ position: 'topright' }).addTo(map);
+    L.control.zoom({ position: 'bottomright' }).addTo(map);
 
     // Marcador de ejemplo con Popup Premium
     const popupContent = `
@@ -43,10 +43,23 @@ function initMap() {
     `;
 
     markersLayer = L.markerClusterGroup({
-        showCoverageOnHover: false,
-        zoomToBoundsOnClick: true,
-        spiderfyOnMaxZoom: true,
-        disableClusteringAtZoom: 16
+// 1. Radio de agrupación más pequeño (por defecto es 80)
+    // Esto hace que solo se agrupen si están MUY pegados.
+    maxClusterRadius: 40, 
+
+    // 2. Desactivar clusters a partir de un zoom cercano
+    // Al llegar a nivel 15 (barrio/calle), se rompen todos los clusters automáticamente
+    disableClusteringAtZoom: 35, 
+
+    // 3. Animaciones y efectos visuales
+    showCoverageOnHover: false, // Quita el área azul fea al pasar el ratón
+    zoomToBoundsOnClick: true,  // Al hacer clic, te lleva al grupo
+    spiderfyOnMaxZoom: true,    // Si están en el mismo edificio, se abren en abanico
+    
+    // 4. Estética de los círculos (opcional)
+    // Esto hace que los clusters se vean más suaves
+    animate: true,
+    animateAddingMarkers: true
     });
 
     map.addLayer(markersLayer);
@@ -55,7 +68,7 @@ function initMap() {
 // --- 6. Manejo de Marcadores ---
 async function cargarTorneos() {
     try {
-        const response = await fetch('torneosInfo64.json');
+        const response = await fetch('torneos.json');
         if (!response.ok) throw new Error("Error cargando torneos.json");
         torneosData = await response.json();
         dibujarMarcadores(torneosData);
@@ -80,13 +93,37 @@ function dibujarMarcadores(datos) {
     markersLayer.clearLayers();
     const chessIcon = crearIconoAjedrez();
     const marcadoresNuevos = [];
-
+    const tableBody = document.getElementById('tableBody');
+    // Limpiamos la tabla antes de pintar
+    tableBody.innerHTML = '';
     datos.forEach(t => {
-   
-const popupContent = `
-    <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 280px; border-radius: 16px; overflow: hidden; background: #ffffff; box-shadow: 0 10px 25px rgba(0,0,0,0.1); border: 1px solid #f0f0f0;">
+        const row = document.createElement('tr');
         
-        <div style="padding: 20px 20px 10px 20px; background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);">
+        row.innerHTML = `
+            <td><span class="badge bg-secondary">${t.origin || 'N/A'}</span></td>
+            <td class="">${t.fechaini || '-'}</td>
+            <td>${t.fechafin || '-'}</td>
+            <td>              
+               ${t.link ? `<a href="${t.link}" target="_blank" class="small text-decoration-none">${t.nombre}</a>` : t.nombre}
+            </td>
+             <td><small>${t.ritmo || '-'}</small></td>
+            <td><small>${t.organizador || '-'}</small></td>
+            <td><i class="bi bi-geo-alt-fill text-danger"></i> <a target="_blank" href="https://www.google.com/maps/search/?api=1&query=${t.lat},${t.lon}">${t.ciudad || '-'}</a></td>
+        `;
+
+        // Opcional: Que al hacer clic en la fila te lleve al mapa
+       // row.style.cursor = 'pointer';
+       // row.onclick = () => {
+       //     switchView('map'); // Cambia a vista mapa
+       //     map.setView([t.lat, t.lon], 13); // Centra el mapa
+       // };
+
+        tableBody.appendChild(row);
+
+        const popupContent = `
+    <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 280px;  overflow: hidden;">
+        
+        <div style="padding: 10px 10px 5px 10px; background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);">
             <h6 style="margin: 0; font-size: 1.2rem; font-weight: 800; color: #1a202c; line-height: 1.3; letter-spacing: -0.02em;">
                 ${t.nombre || 'Torneo de Ajedrez'}
             </h6>
@@ -120,11 +157,11 @@ const popupContent = `
 
             <div style="display: flex; gap: 10px; margin-top: 20px; margin-bottom: 20px;">
                 <div style="flex: 1; background: #f7fafc; padding: 12px 8px; border-radius: 12px; text-align: center; border: 1px solid #edf2f7;">
-                    <div style="font-size: 0.55rem; color: #a0aec0; font-weight: 800; text-transform: uppercase; margin-bottom: 4px;">Inicio</div>
+                    <div style="font-size: 0.55rem; color: #7b8694; font-weight: 800; text-transform: uppercase; margin-bottom: 4px;">Inicio</div>
                     <div style="font-size: 0.85rem; font-weight: 700; color: #2d3748;">${t.fechaini || 'TBD'}</div>
                 </div>
                 <div style="flex: 1; background: #f7fafc; padding: 12px 8px; border-radius: 12px; text-align: center; border: 1px solid #edf2f7;">
-                    <div style="font-size: 0.55rem; color: #a0aec0; font-weight: 800; text-transform: uppercase; margin-bottom: 4px;">Fin</div>
+                    <div style="font-size: 0.55rem; color: #7b8694; font-weight: 800; text-transform: uppercase; margin-bottom: 4px;">Fin</div>
                     <div style="font-size: 0.85rem; font-weight: 700; color: #2d3748;">${t.fechafin || 'TBD'}</div>
                 </div>
             </div>
@@ -145,20 +182,61 @@ const popupContent = `
 }
 
 function aplicarFiltros() {
-    const inicio = document.getElementById("dateInitFilter").value;
-    const fin = document.getElementById("dateEndFilter").value;
+    const inicioStr = document.getElementById("dateInitFilter").value; // Suele venir como YYYY-MM-DD del input date
+    const finStr = document.getElementById("dateEndFilter").value;
+
     const filtrados = torneosData.filter(t => {
-        // Si no hay filtros puestos, mostramos todo
-        if (!inicio && !fin) return true;
-        // Si hay 'inicio', el torneo debe empezar después o ese mismo día
-        const cumpleInicio = inicio ? (t.fechaini >= inicio) : true;
-        // Si hay 'fin', el torneo debe terminar antes o ese mismo día
-        const cumpleFin = fin ? (t.fechafin <= fin) : true;
+        if (!inicioStr && !finStr) return true;
+
+        // Convertimos las fechas del JSON (DD-MM-YYYY) a objetos Date
+        // Suponiendo que t.fechaini es "21-03-2026"
+        const [diaI, mesI, anioI] = t.fechaini.split('-');
+        const fechaTorneoInicio = new Date(`${anioI}-${mesI}-${diaI}`);
+
+        const [diaF, mesF, anioF] = t.fechafin.split('-');
+        const fechaTorneoFin = new Date(`${anioF}-${mesF}-${diaF}`);
+
+        // Las fechas de los inputs (HTML5) ya suelen venir en formato YYYY-MM-DD
+        const filtroInicio = inicioStr ? new Date(inicioStr) : null;
+        const filtroFin = finStr ? new Date(finStr) : null;
+
+        const cumpleInicio = filtroInicio ? (fechaTorneoInicio >= filtroInicio) : true;
+        const cumpleFin = filtroFin ? (fechaTorneoFin <= filtroFin) : true;
+
         return cumpleInicio && cumpleFin;
     });
     dibujarMarcadores(filtrados);
     // Si estamos en móvil (pantalla <= 768px), cerramos el menú al filtrar
     if (window.innerWidth <= 768) {
         toggleSidebar();
+    }
+}
+function switchView(type) {
+    const mapDiv = document.getElementById('map');
+    const tableDiv = document.getElementById('table-view');
+    const btnMap = document.getElementById('btn-view-map');
+    const btnTable = document.getElementById('btn-view-table');
+
+    if (type === 'map') {
+        // Mostrar Mapa
+        tableDiv.classList.add('d-none');
+        mapDiv.style.visibility = 'visible';
+
+        // Cambiar colores de botones
+        btnMap.classList.replace('btn-light', 'btn-primary');
+        btnTable.classList.replace('btn-primary', 'btn-light');
+
+        // Refrescar Leaflet
+        if (typeof map !== 'undefined') {
+            setTimeout(() => { map.invalidateSize(); }, 200);
+        }
+    } else {
+        // Mostrar Tabla
+        tableDiv.classList.remove('d-none');
+        mapDiv.style.visibility = 'hidden';
+
+        // Cambiar colores de botones
+        btnTable.classList.replace('btn-light', 'btn-primary');
+        btnMap.classList.replace('btn-primary', 'btn-light');
     }
 }

@@ -5,6 +5,12 @@ import time
 from geopy.geocoders import Nominatim
 from datetime import datetime
 
+def limpiar_fecha(fecha_str):    
+    try:
+        return datetime.strptime(fecha_str.strip(), "%Y-%m-%d").strftime("%d-%m-%Y")
+    except:
+        return fecha_str
+
 def scrape_toka_chess():
     base = "https://info64.org"
     url = base + "/search?name=&city=&arbiter=&ttype=1&status=1"
@@ -62,8 +68,8 @@ def scrape_toka_chess():
                     "id": id,
                     "nombre": nombre,
                     "ciudad": lugar_raw,
-                    "fechaini": fechaini,
-                    "fechafin": fechafin,
+                    "fechaini": limpiar_fecha(fechaini),
+                    "fechafin": limpiar_fecha(fechafin),
                     "lat": lat,
                     "lon": lon,
                     "link": link

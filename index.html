@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
     <link rel="stylesheet" href="./tokaChess.css">
 </head>
 
@@ -25,15 +26,21 @@
 
     <aside id="sidebar">
         <div class="alert alert-secondary mt-5 mb-2 text-center" role="info">
-            <div >
+            <div>
                 <a href="index.html" class="logo-link">
                     <img src="./logo-small.png" title="logo" alt="logo" height="100" />
                     <h1 class="logo-text">Toka<span class="logo-accent">Chess</span></h1>
-                </a>   
-            </div>        
-            ¿Toca ajedrez este finde? ¡encuentra un torneo y diviertete!                        
-        </div>
+                </a>
+            </div>
+            <p class="mb-0">¿Toca ajedrez?</p>
+            <p class="mb-2">¡Encuentra un torneo y diviertete! </p>
 
+        </div>
+         <div class="mb-2">
+            <label class="small text-muted mb-2 d-block text-uppercase fw-bold"
+                style="letter-spacing: 1px; font-size: 0.7rem;">Nombre del torneo </label>
+            <input type="text" id="nombreFilter" class="form-control form-control-custom w-100">
+        </div>
         <div class="mb-2">
             <label class="small text-muted mb-2 d-block text-uppercase fw-bold"
                 style="letter-spacing: 1px; font-size: 0.7rem;">Fecha del torneo desde </label>
@@ -62,10 +69,45 @@
 
         </div>
     </aside>
+    <div id="map-container" style="position: relative;">
 
-    <div id="map-container">
-        <div id="map"></div>
-    </div>    
+    <div style="position: absolute; top: 20px; right: 20px; z-index: 1000; display: flex; gap: 10px;">
+        <button id="btn-view-map" class="btn btn-primary d-flex align-items-center gap-2 shadow" onclick="switchView('map')">
+            <i class="bi bi-map-fill"></i> 
+            <span>Mapa</span>
+        </button>
+        <button id="btn-view-table" class="btn btn-light d-flex align-items-center gap-2 shadow" onclick="switchView('table')">
+            <i class="bi bi-layout-three-columns"></i> 
+            <span>Tabla</span>
+        </button>
+    </div>
+
+        <div id="map" style="height: 100vh; width: 100%;"></div>
+
+        <div id="table-view" class="d-none" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 999; overflow-y: auto; padding: 80px 20px 20px 20px; background: #d4dadc;">
+            <div class="table-responsive">
+            <div class="card border-secondary">
+                <table class="table table-striped mb-0">
+                    <thead>
+                        <tr>
+                            <th>Origen</th>
+                            <th>Fecha inicio</th>
+                            <th>Fecha fin</th>
+                            <th>Torneo</th>
+                             <th>Ritmo</th>
+                            <th>Organizador</th>
+                            <th>Ciudad</th>                            
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        
+                    </tbody>
+                </table>
+            </div>
+            </div>
+        </div>
+
+    </div>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
     <script src="./main.js"></script>

@@ -203,3 +203,23 @@
         .github-icon {
             fill: currentColor; /* El icono toma el color del texto automáticamente */
         }
+
+        /* Color del círculo exterior (el más transparente) */
+.marker-cluster-small, 
+.marker-cluster-medium, 
+.marker-cluster-large {
+    background-color: rgba(174, 183, 197, 0.4) !important; /* Azul suave */
+}
+
+/* Color del círculo interior (el más sólido) */
+.marker-cluster-small div, 
+.marker-cluster-medium div, 
+.marker-cluster-large div {
+    background-color:rgba(29, 28, 28, 0.7) !important; /* Azul fuerte */
+    color: white !important; /* Color del número */
+    font-weight: bold;
+}
+
+.leaflet-popup-close-button{
+    font-size: 1.3rem;
+}
