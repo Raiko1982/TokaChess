@@ -1,4 +1,4 @@
-name: Ejecutar mi script de Python
+name: Actualizar torneos Info64
 
 on:
   workflow_dispatch: # Esto permite que tú le des al botón de "Play" manualmente
