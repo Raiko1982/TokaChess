@@ -23,7 +23,7 @@ def extraer_campo(html, field_id):
 
 def limpiar_fecha(fecha_str):    
     try:
-        return datetime.strptime(fecha_str.strip(), "%Y-%m-%d").strftime("%d.%m.%Y")
+        return datetime.strptime(fecha_str.strip(), "%Y/%m/%d").strftime("%d-%m-%Y")
     except:
         return fecha_str
 
@@ -93,7 +93,7 @@ def main():
         if not tabla:
             print("No se encontró la tabla de resultados.")
             return
-        
+        hoy = datetime.now().date()
         filas = tabla.find_all('tr')[1:] # Saltamos cabecera
         torneos_limpios = []
         for fila in filas:
@@ -101,10 +101,11 @@ def main():
             if len(cols) >= 8:
                 # Mapeo de columnas en Chess-Results (ajustar si varían)
                 # Col 2: Nombre, Col 3: Ciudad/Org, Col 4: Fecha Ini, Col 5: Fecha Fin
-                id = cols[0].text.strip()
+                #id = cols[0].text.strip()
                 nombre = cols[1].text.strip()
                 lugar_raw = cols[12].text.strip()
-                fecha_ini_raw = cols[5].text.strip()
+                fecha_ini_raw = cols[5].text.strip()                 
+                if datetime.strptime(fecha_ini_raw, "%Y/%m/%d").date() < hoy: continue
                 fecha_fin_raw = cols[6].text.strip()
                 organizador = cols[8].text.strip()
                 ritmo = cols[13].text.strip()
@@ -122,7 +123,7 @@ def main():
 
                 torneos_limpios.append({
                     "origin": "chess-results",
-                    "id": "CR-" + re.findall(r'tnr=(\d+)', link)[0] if "tnr=" in link else "N/A",
+                    #"id": "CR-" + re.findall(r'tnr=(\d+)', link)[0] if "tnr=" in link else "N/A",
                     "nombre": nombre,
                     "ciudad": lugar_raw,
                     "fechaini": limpiar_fecha(fecha_ini_raw),

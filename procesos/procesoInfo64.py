@@ -38,7 +38,7 @@ def scrape_toka_chess():
             cols = fila.find_all('td')
             if len(cols) >= 2:
                 # 1. Extraer datos básicos
-                id = cols[0].text.strip()
+                #id = cols[0].text.strip()
                 nombre = cols[1].text.strip()
                 link = base + cols[1].find("a")['href']
                 # La ciudad suele venir con el país, ej: "Madrid (ESP)"
@@ -65,11 +65,12 @@ def scrape_toka_chess():
 
                 torneos_limpios.append({
                     "origin": "info64",
-                    "id": id,
                     "nombre": nombre,
                     "ciudad": lugar_raw,
                     "fechaini": limpiar_fecha(fechaini),
                     "fechafin": limpiar_fecha(fechafin),
+                    "organizador": "-",
+                    "ritmo": "-",
                     "lat": lat,
                     "lon": lon,
                     "link": link

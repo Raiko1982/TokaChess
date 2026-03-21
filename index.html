@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TokaChess | Encuentra todos los torneos de ajedrez</title>
+    <link rel="icon" href="data:,">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -32,30 +33,36 @@
                     <h1 class="logo-text">Toka<span class="logo-accent">Chess</span></h1>
                 </a>
             </div>
-            <p class="mb-0">¿Toca ajedrez?</p>
+            <p class="mt-1 mb-0">¿Toca ajedrez?</p>
             <p class="mb-2">¡Encuentra un torneo y diviertete! </p>
 
         </div>
-         <div class="mb-2">
-            <label class="small text-muted mb-2 d-block text-uppercase fw-bold"
-                style="letter-spacing: 1px; font-size: 0.7rem;">Nombre del torneo </label>
-            <input type="text" id="nombreFilter" class="form-control form-control-custom w-100">
-        </div>
-        <div class="mb-2">
-            <label class="small text-muted mb-2 d-block text-uppercase fw-bold"
-                style="letter-spacing: 1px; font-size: 0.7rem;">Fecha del torneo desde </label>
-            <input type="date" id="dateInitFilter" class="form-control form-control-custom w-100">
-        </div>
-        <div class="mb-3">
-            <label class="small text-muted mb-2 d-block text-uppercase fw-bold"
-                style="letter-spacing: 1px; font-size: 0.7rem;">Fecha del torneo hasta </label>
-            <input type="date" id="dateEndFilter" class="form-control form-control-custom w-100">
-        </div>
+        <div class="alert alert-secondary"  role="info">
+            <div class="mb-2">
+                <label class="small text-muted mb-2 d-block text-uppercase fw-bold"
+                    style="letter-spacing: 1px; font-size: 0.7rem;">Nombre del torneo </label>
+                <input type="text" id="nombreFilter" class="form-control form-control-custom w-100">
+            </div>
+            <div class="mb-2">
+                <label class="small text-muted mb-2 d-block text-uppercase fw-bold"
+                    style="letter-spacing: 1px; font-size: 0.7rem;">Fecha del torneo desde... </label>
+                <input type="date" id="dateInitFilter" class="form-control form-control-custom w-100">
+            </div>
+            <div class="mb-3">
+                <label class="small text-muted mb-2 d-block text-uppercase fw-bold"
+                    style="letter-spacing: 1px; font-size: 0.7rem;">Fecha del torneo hasta... </label>
+                <input type="date" id="dateEndFilter" class="form-control form-control-custom w-100">
+            </div>
 
-        <button class="btn btn-premium w-100" id="btnFiltrar">
-            Filtrar
-        </button>
-
+            <div class="d-grid gap-2">
+                <button class="btn btn-premium" id="btnFiltrar" onclick="aplicarFiltros()">
+                    Filtrar
+                </button>
+                <button class="btn btn-sm btn-link text-decoration-none text-muted" id="btnLimpiar" onclick="limpiarFiltros()">
+                    <i class="bi bi-x-circle"></i> Limpiar filtros
+                </button>
+            </div>
+    </div>
         <div class="mt-auto opacity-50 small text-center pt-3 border-top border-secondary">
 
             <a href="https://github.com/Raiko1982/" target="_blank" class="github-link">

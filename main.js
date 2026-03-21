@@ -10,6 +10,17 @@ let torneosData = [];
 // --- 1. Inicialización ---
 document.addEventListener('DOMContentLoaded', async () => {
     document.getElementById('btnFiltrar')?.addEventListener('click', aplicarFiltros);
+    // Seleccionamos todos los inputs dentro de tu panel de filtros
+    const filtros = document.querySelectorAll('#nombreFilter, #dateInitFilter, #dateEndFilter');
+    filtros.forEach(input => {
+        input.addEventListener('keydown', (event) => {
+            if (event.key === 'Enter') {
+                // Evitamos que el formulario haga un "submit" real (recarga de página)
+                event.preventDefault(); 
+                aplicarFiltros();
+            }
+        });
+    });
     initMap();
     cargarTorneos();
 });
@@ -182,28 +193,34 @@ function dibujarMarcadores(datos) {
 }
 
 function aplicarFiltros() {
-    const inicioStr = document.getElementById("dateInitFilter").value; // Suele venir como YYYY-MM-DD del input date
+// 1. Capturamos los valores de todos los filtros
+    const nombreBusqueda = document.getElementById("nombreFilter").value.toLowerCase().trim();
+    const inicioStr = document.getElementById("dateInitFilter").value;
     const finStr = document.getElementById("dateEndFilter").value;
 
     const filtrados = torneosData.filter(t => {
-        if (!inicioStr && !finStr) return true;
-
+        // --- FILTRO DE NOMBRE ---
+        // Si el nombre del torneo NO incluye lo que escribió el usuario, descartamos
+        const cumpleNombre = t.nombre.toLowerCase().includes(nombreBusqueda);
+        
+        // --- FILTRO DE FECHAS ---
         // Convertimos las fechas del JSON (DD-MM-YYYY) a objetos Date
-        // Suponiendo que t.fechaini es "21-03-2026"
         const [diaI, mesI, anioI] = t.fechaini.split('-');
         const fechaTorneoInicio = new Date(`${anioI}-${mesI}-${diaI}`);
 
         const [diaF, mesF, anioF] = t.fechafin.split('-');
         const fechaTorneoFin = new Date(`${anioF}-${mesF}-${diaF}`);
 
-        // Las fechas de los inputs (HTML5) ya suelen venir en formato YYYY-MM-DD
+        // Fechas de los inputs (vienen como YYYY-MM-DD)
         const filtroInicio = inicioStr ? new Date(inicioStr) : null;
         const filtroFin = finStr ? new Date(finStr) : null;
 
         const cumpleInicio = filtroInicio ? (fechaTorneoInicio >= filtroInicio) : true;
         const cumpleFin = filtroFin ? (fechaTorneoFin <= filtroFin) : true;
 
-        return cumpleInicio && cumpleFin;
+        // --- RETORNO FINAL ---
+        // Solo sobrevive el torneo si cumple con el nombre Y con las fechas
+        return cumpleNombre && cumpleInicio && cumpleFin;
     });
     dibujarMarcadores(filtrados);
     // Si estamos en móvil (pantalla <= 768px), cerramos el menú al filtrar
@@ -239,4 +256,17 @@ function switchView(type) {
         btnTable.classList.replace('btn-light', 'btn-primary');
         btnMap.classList.replace('btn-primary', 'btn-light');
     }
+}
+
+function limpiarFiltros() {
+    // 1. Limpiamos los valores de los inputs
+    document.getElementById("nombreFilter").value = "";
+    document.getElementById("dateInitFilter").value = "";
+    document.getElementById("dateEndFilter").value = "";
+
+    // 2. Si estás usando Flatpickr (el del paso anterior), usa esto:
+    // fp.clear(); 
+
+    // 3. Ejecutamos el filtro para que se refresque la vista/mapa con TODO
+    aplicarFiltros();
 }
