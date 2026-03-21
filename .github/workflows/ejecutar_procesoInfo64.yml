@@ -2,7 +2,9 @@ name: Ejecutar mi script de Python
 
 on:
   workflow_dispatch: # Esto permite que tú le des al botón de "Play" manualmente
-
+  schedule:
+    # Se ejecuta cada 6 horas (0, 6, 12, 18 UTC)
+    - cron: '50 */6 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,12 +23,23 @@ jobs:
           pip install requests beautifulsoup4 geopy python-dateutil
         
       - name: Ejecutar el script
-        run: python procesos/procesoChessResult.py
+        run: python procesos/procesoInfo64.py
 
       - name: Guardar cambios en el repo
         run: |
           git config --global user.name "TokaChess Bot"
           git config --global user.email "bot@tokachess.com"
-          git add torneosChessResult.json
+          git add torneosInfo64.json
+          git commit -m "Actualización automática de torneos" || echo "No hay cambios que guardar"
+          git push
+
+      - name: Ejecutar el script
+        run: python procesos/ordena.py
+
+      - name: Guardar cambios en el repo
+        run: |
+          git config --global user.name "TokaChess Bot"
+          git config --global user.email "bot@tokachess.com"
+          git add torneos.json
           git commit -m "Actualización automática de torneos" || echo "No hay cambios que guardar"
           git push

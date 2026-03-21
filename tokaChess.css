@@ -33,6 +33,9 @@
             padding-top: 0.5rem;
             z-index: 1050;
             transition: all 0.3s ease;
+            max-height: 100vh;    /* Limita la altura al tamaño de la pantalla */
+            overflow-y: auto;     /* Activa el scroll vertical si el contenido sobresale */
+            -webkit-overflow-scrolling: touch; /* Suaviza el scroll en iPhone/iOS */
         }
 
         .logo-link {
