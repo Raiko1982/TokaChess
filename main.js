@@ -10,12 +10,11 @@ let torneosData = [];
 // --- 1. Inicialización ---
 document.addEventListener('DOMContentLoaded', async () => {
     document.getElementById('btnFiltrar')?.addEventListener('click', aplicarFiltros);
-    // Seleccionamos todos los inputs dentro de tu panel de filtros
+    
     const filtros = document.querySelectorAll('#nombreFilter, #dateInitFilter, #dateEndFilter');
     filtros.forEach(input => {
         input.addEventListener('keydown', (event) => {
             if (event.key === 'Enter') {
-                // Evitamos que el formulario haga un "submit" real (recarga de página)
                 event.preventDefault(); 
                 aplicarFiltros();
             }
@@ -33,11 +32,8 @@ function toggleSidebar() {
 
 // --- 3. Configuración del Mapa ---
 function initMap() {
-
-    // Inicializar Mapa centrado en España
     map = L.map('map', { zoomControl: false }).setView([40.41, -3.70], 6);
 
-    // Capa base oscura (CartoDB Dark Matter)
     L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
         attribution: '© CartoDB',
         maxZoom: 20
@@ -45,32 +41,14 @@ function initMap() {
 
     L.control.zoom({ position: 'bottomright' }).addTo(map);
 
-    // Marcador de ejemplo con Popup Premium
-    const popupContent = `
-        <div style="padding: 8px;">
-            <strong style="color: var(--accent); font-size: 1rem;">Torneo Élite Madrid</strong><br>
-            <span style="color: #8b949e; font-size: 0.85rem;">Próxima fecha: 12 de Abril</span>
-        </div>
-    `;
-
     markersLayer = L.markerClusterGroup({
-// 1. Radio de agrupación más pequeño (por defecto es 80)
-    // Esto hace que solo se agrupen si están MUY pegados.
-    maxClusterRadius: 40, 
-
-    // 2. Desactivar clusters a partir de un zoom cercano
-    // Al llegar a nivel 15 (barrio/calle), se rompen todos los clusters automáticamente
-    disableClusteringAtZoom: 35, 
-
-    // 3. Animaciones y efectos visuales
-    showCoverageOnHover: false, // Quita el área azul fea al pasar el ratón
-    zoomToBoundsOnClick: true,  // Al hacer clic, te lleva al grupo
-    spiderfyOnMaxZoom: true,    // Si están en el mismo edificio, se abren en abanico
-    
-    // 4. Estética de los círculos (opcional)
-    // Esto hace que los clusters se vean más suaves
-    animate: true,
-    animateAddingMarkers: true
+        maxClusterRadius: 40, 
+        disableClusteringAtZoom: 15, 
+        showCoverageOnHover: false,
+        zoomToBoundsOnClick: true,
+        spiderfyOnMaxZoom: true,
+        animate: true,
+        animateAddingMarkers: true
     });
 
     map.addLayer(markersLayer);
@@ -105,85 +83,38 @@ function dibujarMarcadores(datos) {
     const chessIcon = crearIconoAjedrez();
     const marcadoresNuevos = [];
     const tableBody = document.getElementById('tableBody');
-    // Limpiamos la tabla antes de pintar
+    
     tableBody.innerHTML = '';
+    
     datos.forEach(t => {
+        // Renderizado de Tabla
         const row = document.createElement('tr');
-        
         row.innerHTML = `
             <td><span class="badge bg-secondary">${t.origin || 'N/A'}</span></td>
-            <td class="">${t.fechaini || '-'}</td>
+            <td>${t.fechaini || '-'}</td>
             <td>${t.fechafin || '-'}</td>
-            <td>              
-               ${t.link ? `<a href="${t.link}" target="_blank" class="small text-decoration-none">${t.nombre}</a>` : t.nombre}
-            </td>
-             <td><small>${t.ritmo || '-'}</small></td>
+            <td>${t.link ? `<a href="${t.link}" target="_blank" class="small text-decoration-none">${t.nombre}</a>` : t.nombre}</td>
+            <td><small>${t.ritmo || '-'}</small></td>
             <td><small>${t.organizador || '-'}</small></td>
-            <td><i class="bi bi-geo-alt-fill text-danger"></i> <a target="_blank" href="https://www.google.com/maps/search/?api=1&query=${t.lat},${t.lon}">${t.ciudad || '-'}</a></td>
+            <td><i class="bi bi-geo-alt-fill text-danger"></i> <a target="_blank" href="https://www.google.com/maps?q=${t.lat},${t.lon}">${t.ciudad || '-'}</a></td>
         `;
-
-        // Opcional: Que al hacer clic en la fila te lleve al mapa
-       // row.style.cursor = 'pointer';
-       // row.onclick = () => {
-       //     switchView('map'); // Cambia a vista mapa
-       //     map.setView([t.lat, t.lon], 13); // Centra el mapa
-       // };
-
         tableBody.appendChild(row);
 
+        // Renderizado de Popup
         const popupContent = `
-    <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 280px;  overflow: hidden;">
-        
-        <div style="padding: 10px 10px 5px 10px; background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);">
-            <h6 style="margin: 0; font-size: 1.2rem; font-weight: 800; color: #1a202c; line-height: 1.3; letter-spacing: -0.02em;">
-                ${t.nombre || 'Torneo de Ajedrez'}
-            </h6>
-            
-            ${t.organizador ? `
-                <div style="margin-top: 6px; font-size: 0.7rem; color: #718096; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; display: flex; align-items: center;">
-                    <span style="display: inline-block; width: 8px; height: 8px; background: #4a5568; border-radius: 50%; margin-right: 6px;"></span>
-                    ${t.organizador}
+            <div style="font-family: 'Segoe UI', sans-serif; width: 260px; padding: 5px;">
+                <h6 style="margin: 0; color: #1a202c; font-weight: 800;">${t.nombre}</h6>
+                <div style="font-size: 0.8rem; color: #718096; margin-bottom: 8px;">${t.organizador || ''}</div>
+                <div style="display: flex; flex-direction: column; gap: 4px; font-size: 0.85rem;">
+                    <span>📍 <strong>${t.ciudad || '-'}</strong></span>
+                    <span>⏱️ Ritmo: ${t.ritmo || '-'}</span>
                 </div>
-            ` : ''}
-        </div>
-
-        <div style="padding: 0 20px 15px 20px;">
-            <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 5px;">
-                
-                ${t.ciudad ? `
-                    <div style="font-size: 0.85rem; color: #4a5568; display: flex; align-items: center; gap: 8px;">
-                        <span style="font-size: 1.1rem; opacity: 0.8;">📍</span> 
-                        <span style="font-weight: 500;">${t.ciudad}</span>
-                    </div>
-                ` : ''}
-
-                ${t.ritmo ? `
-                    <div style="font-size: 0.85rem; color: #4a5568; display: flex; align-items: center; gap: 8px;">
-                        <span style="font-size: 1.1rem; opacity: 0.8;">⏱️</span> 
-                        <span>Ritmo: <strong style="color: #2d3748;">${t.ritmo}</strong></span>
-                    </div>
-                ` : ''}
-
-            </div>
-
-            <div style="display: flex; gap: 10px; margin-top: 20px; margin-bottom: 20px;">
-                <div style="flex: 1; background: #f7fafc; padding: 12px 8px; border-radius: 12px; text-align: center; border: 1px solid #edf2f7;">
-                    <div style="font-size: 0.55rem; color: #7b8694; font-weight: 800; text-transform: uppercase; margin-bottom: 4px;">Inicio</div>
-                    <div style="font-size: 0.85rem; font-weight: 700; color: #2d3748;">${t.fechaini || 'TBD'}</div>
+                <div style="display: flex; gap: 8px; margin-top: 12px; background: #f7fafc; padding: 8px; border-radius: 8px; border: 1px solid #edf2f7;">
+                    <div style="flex:1; text-align:center;"><small style="display:block; font-size:0.6rem; color: #a0aec0;">INICIO</small><strong>${t.fechaini}</strong></div>
+                    <div style="flex:1; text-align:center;"><small style="display:block; font-size:0.6rem; color: #a0aec0;">FIN</small><strong>${t.fechafin}</strong></div>
                 </div>
-                <div style="flex: 1; background: #f7fafc; padding: 12px 8px; border-radius: 12px; text-align: center; border: 1px solid #edf2f7;">
-                    <div style="font-size: 0.55rem; color: #7b8694; font-weight: 800; text-transform: uppercase; margin-bottom: 4px;">Fin</div>
-                    <div style="font-size: 0.85rem; font-weight: 700; color: #2d3748;">${t.fechafin || 'TBD'}</div>
-                </div>
-            </div>
-
-            ${t.link ? `
-                <a href="${t.link}" target="_blank" style="display: block; width: 100%; padding: 14px 0; background: #1a202c; color: #ffffff; text-align: center; text-decoration: none; border-radius: 12px; font-size: 0.9rem; font-weight: 600; transition: transform 0.2s ease, background 0.2s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-                    Ver detalles del torneo
-                </a>
-            ` : ''}
-        </div>
-    </div>`;
+                ${t.link ? `<a href="${t.link}" target="_blank" style="display: block; width: 100%; margin-top: 12px; padding: 10px; background: #1a202c; color: #fff; text-align: center; border-radius: 8px; text-decoration: none; font-size: 0.8rem; font-weight: 600;">Ver detalles</a>` : ''}
+            </div>`;
 
         const marker = L.marker([t.lat, t.lon], { icon: chessIcon }).bindPopup(popupContent, { maxWidth: 300 });
         marcadoresNuevos.push(marker);
@@ -193,39 +124,83 @@ function dibujarMarcadores(datos) {
 }
 
 function aplicarFiltros() {
-// 1. Capturamos los valores de todos los filtros
-    const nombreBusqueda = document.getElementById("nombreFilter").value.toLowerCase().trim();
-    const inicioStr = document.getElementById("dateInitFilter").value;
-    const finStr = document.getElementById("dateEndFilter").value;
+    const mapDiv = document.getElementById('map');
+    
+    // --- EFECTO VISUAL: ACTIVAR CARGA ---
+    mapDiv.classList.add('map-updating');
+    const loader = document.createElement('div');
+    loader.id = "map-loader-overlay";
+    loader.innerHTML = `<div class="chess-spinner"></div><span style="color:white; font-weight:bold; margin-top:10px; text-shadow: 1px 1px 2px black;">Actualizando...</span>`;
+    mapDiv.parentElement.appendChild(loader);
 
-    const filtrados = torneosData.filter(t => {
-        // --- FILTRO DE NOMBRE ---
-        // Si el nombre del torneo NO incluye lo que escribió el usuario, descartamos
-        const cumpleNombre = t.nombre.toLowerCase().includes(nombreBusqueda);
-        
-        // --- FILTRO DE FECHAS ---
-        // Convertimos las fechas del JSON (DD-MM-YYYY) a objetos Date
-        const [diaI, mesI, anioI] = t.fechaini.split('-');
-        const fechaTorneoInicio = new Date(`${anioI}-${mesI}-${diaI}`);
+    // Pequeño retardo para que el usuario vea la transición
+    setTimeout(() => {
+        const nombreBusqueda = document.getElementById("nombreFilter").value.toLowerCase().trim();
+        const inicioStr = document.getElementById("dateInitFilter").value;
+        const finStr = document.getElementById("dateEndFilter").value;
 
-        const [diaF, mesF, anioF] = t.fechafin.split('-');
-        const fechaTorneoFin = new Date(`${anioF}-${mesF}-${diaF}`);
+        const filtrados = torneosData.filter(t => {
+            const cumpleNombre = t.nombre.toLowerCase().includes(nombreBusqueda);
+            
+            // Parsing de fechas DD-MM-YYYY a Date Object
+            const parseFecha = (str) => {
+                if(!str) return null;
+                const [d, m, y] = str.split('-');
+                return new Date(`${y}-${m}-${d}`);
+            };
 
-        // Fechas de los inputs (vienen como YYYY-MM-DD)
-        const filtroInicio = inicioStr ? new Date(inicioStr) : null;
-        const filtroFin = finStr ? new Date(finStr) : null;
+            const fechaTorneoInicio = parseFecha(t.fechaini);
+            const fechaTorneoFin = parseFecha(t.fechafin);
 
-        const cumpleInicio = filtroInicio ? (fechaTorneoInicio >= filtroInicio) : true;
-        const cumpleFin = filtroFin ? (fechaTorneoFin <= filtroFin) : true;
+            const filtroInicio = inicioStr ? new Date(inicioStr) : null;
+            const filtroFin = finStr ? new Date(finStr) : null;
 
-        // --- RETORNO FINAL ---
-        // Solo sobrevive el torneo si cumple con el nombre Y con las fechas
-        return cumpleNombre && cumpleInicio && cumpleFin;
-    });
-    dibujarMarcadores(filtrados);
-    // Si estamos en móvil (pantalla <= 768px), cerramos el menú al filtrar
-    if (window.innerWidth <= 768) {
-        toggleSidebar();
+            const cumpleInicio = filtroInicio && fechaTorneoInicio ? (fechaTorneoInicio >= filtroInicio) : true;
+            const cumpleFin = filtroFin && fechaTorneoFin ? (fechaTorneoFin <= filtroFin) : true;
+
+            return cumpleNombre && cumpleInicio && cumpleFin;
+        });
+
+        dibujarMarcadores(filtrados);
+
+        // --- EFECTO VISUAL: FINALIZAR ---
+        mapDiv.classList.remove('map-updating');
+        document.getElementById('map-loader-overlay')?.remove();
+
+        // Si hay resultados, ajustar vista suavemente
+        if (filtrados.length > 0) {
+            const bounds = L.featureGroup(markersLayer.getLayers()).getBounds();
+            map.flyToBounds(bounds, { padding: [30, 30], duration: 1.2 });
+        }
+
+        if (window.innerWidth <= 768) {
+            toggleSidebar();
+        }
+    }, 500);
+}
+/**
+ * Actualiza la fecha mínima permitida en el filtro 'Hasta' 
+ * basándose en lo seleccionado en 'Desde'.
+ */
+function actualizarRestriccionFecha() {
+    const fechaInicioInput = document.getElementById('dateInitFilter');
+    const fechaFinInput = document.getElementById('dateEndFilter');
+
+    // Obtenemos el valor seleccionado (YYYY-MM-DD)
+    const fechaSeleccionada = fechaInicioInput.value;
+
+    if (fechaSeleccionada) {
+        // Establecemos que la fecha mínima del segundo input sea la elegida en el primero
+        fechaFinInput.min = fechaSeleccionada;
+
+        // Si la fecha que ya estaba puesta en 'Hasta' es anterior a la nueva fecha de inicio, 
+        // la reseteamos para evitar filtros imposibles
+        if (fechaFinInput.value && fechaFinInput.value < fechaSeleccionada) {
+            fechaFinInput.value = fechaSeleccionada;
+        }
+    } else {
+        // Si borran la fecha de inicio, quitamos la restricción
+        fechaFinInput.removeAttribute('min');
     }
 }
 function switchView(type) {
@@ -235,38 +210,22 @@ function switchView(type) {
     const btnTable = document.getElementById('btn-view-table');
 
     if (type === 'map') {
-        // Mostrar Mapa
         tableDiv.classList.add('d-none');
         mapDiv.style.visibility = 'visible';
-
-        // Cambiar colores de botones
         btnMap.classList.replace('btn-light', 'btn-primary');
         btnTable.classList.replace('btn-primary', 'btn-light');
-
-        // Refrescar Leaflet
-        if (typeof map !== 'undefined') {
-            setTimeout(() => { map.invalidateSize(); }, 200);
-        }
+        setTimeout(() => { map.invalidateSize(); }, 200);
     } else {
-        // Mostrar Tabla
         tableDiv.classList.remove('d-none');
         mapDiv.style.visibility = 'hidden';
-
-        // Cambiar colores de botones
         btnTable.classList.replace('btn-light', 'btn-primary');
         btnMap.classList.replace('btn-primary', 'btn-light');
     }
 }
 
 function limpiarFiltros() {
-    // 1. Limpiamos los valores de los inputs
     document.getElementById("nombreFilter").value = "";
     document.getElementById("dateInitFilter").value = "";
     document.getElementById("dateEndFilter").value = "";
-
-    // 2. Si estás usando Flatpickr (el del paso anterior), usa esto:
-    // fp.clear(); 
-
-    // 3. Ejecutamos el filtro para que se refresque la vista/mapa con TODO
     aplicarFiltros();
 }
