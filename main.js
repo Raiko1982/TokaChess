@@ -110,8 +110,8 @@ function dibujarMarcadores(datos) {
                     <span>⏱️ Ritmo: ${t.ritmo || '-'}</span>
                 </div>
                 <div style="display: flex; gap: 8px; margin-top: 12px; background: #f7fafc; padding: 8px; border-radius: 8px; border: 1px solid #edf2f7;">
-                    <div style="flex:1; text-align:center;"><small style="display:block; font-size:0.6rem; color: #a0aec0;">INICIO</small><strong>${t.fechaini}</strong></div>
-                    <div style="flex:1; text-align:center;"><small style="display:block; font-size:0.6rem; color: #a0aec0;">FIN</small><strong>${t.fechafin}</strong></div>
+                    <div style="flex:1; text-align:center;"><small style="display:block; font-size:0.6rem; color: #737981;">INICIO</small><strong>${t.fechaini}</strong></div>
+                    <div style="flex:1; text-align:center;"><small style="display:block; font-size:0.6rem; color: #737981;">FIN</small><strong>${t.fechafin}</strong></div>
                 </div>
                 ${t.link ? `<a href="${t.link}" target="_blank" style="display: block; width: 100%; margin-top: 12px; padding: 10px; background: #1a202c; color: #fff; text-align: center; border-radius: 8px; text-decoration: none; font-size: 0.8rem; font-weight: 600;">Ver detalles</a>` : ''}
             </div>`;

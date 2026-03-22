@@ -223,9 +223,24 @@
     font-weight: bold;
 }
 
-.leaflet-popup-close-button{
-    font-size: 1.3rem;
+.leaflet-popup-close-button {
+    font-size: 1.2rem !important;
+    background-color: #000 !important;
+    color: #fff !important; /* Cambié a blanco para que resalte más en el marrón */
+    
+    /* El truco para el círculo perfecto */
+   
+    width: 30px !important;  /* Ajusta el tamaño a tu gusto */
+    height: 30px !important;
+    
+    /* Para centrar la "X" perfectamente */
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    padding: 0 !important; 
+
 }
+
 /* Feedback visual para el mapa */
 #map {
     transition: filter 0.4s ease;
