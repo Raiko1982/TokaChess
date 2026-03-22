@@ -10,12 +10,12 @@ let torneosData = [];
 // --- 1. Inicialización ---
 document.addEventListener('DOMContentLoaded', async () => {
     document.getElementById('btnFiltrar')?.addEventListener('click', aplicarFiltros);
-    
+
     const filtros = document.querySelectorAll('#nombreFilter, #dateInitFilter, #dateEndFilter');
     filtros.forEach(input => {
         input.addEventListener('keydown', (event) => {
             if (event.key === 'Enter') {
-                event.preventDefault(); 
+                event.preventDefault();
                 aplicarFiltros();
             }
         });
@@ -42,8 +42,8 @@ function initMap() {
     L.control.zoom({ position: 'bottomright' }).addTo(map);
 
     markersLayer = L.markerClusterGroup({
-        maxClusterRadius: 40, 
-        disableClusteringAtZoom: 15, 
+        maxClusterRadius: 40,
+        disableClusteringAtZoom: 15,
         showCoverageOnHover: false,
         zoomToBoundsOnClick: true,
         spiderfyOnMaxZoom: true,
@@ -83,9 +83,9 @@ function dibujarMarcadores(datos) {
     const chessIcon = crearIconoAjedrez();
     const marcadoresNuevos = [];
     const tableBody = document.getElementById('tableBody');
-    
+
     tableBody.innerHTML = '';
-    
+
     datos.forEach(t => {
         // Renderizado de Tabla
         const row = document.createElement('tr');
@@ -101,20 +101,53 @@ function dibujarMarcadores(datos) {
         tableBody.appendChild(row);
 
         // Renderizado de Popup
-        const popupContent = `
-            <div style="font-family: 'Segoe UI', sans-serif; width: 260px; padding: 5px;">
-                <h6 style="margin: 0; color: #1a202c; font-weight: 800;">${t.nombre}</h6>
-                <div style="font-size: 0.8rem; color: #718096; margin-bottom: 8px;">${t.organizador || ''}</div>
-                <div style="display: flex; flex-direction: column; gap: 4px; font-size: 0.85rem;">
-                    <span>📍 <strong>${t.ciudad || '-'}</strong></span>
-                    <span>⏱️ Ritmo: ${t.ritmo || '-'}</span>
-                </div>
-                <div style="display: flex; gap: 8px; margin-top: 12px; background: #f7fafc; padding: 8px; border-radius: 8px; border: 1px solid #edf2f7;">
-                    <div style="flex:1; text-align:center;"><small style="display:block; font-size:0.6rem; color: #737981;">INICIO</small><strong>${t.fechaini}</strong></div>
-                    <div style="flex:1; text-align:center;"><small style="display:block; font-size:0.6rem; color: #737981;">FIN</small><strong>${t.fechafin}</strong></div>
-                </div>
-                ${t.link ? `<a href="${t.link}" target="_blank" style="display: block; width: 100%; margin-top: 12px; padding: 10px; background: #1a202c; color: #fff; text-align: center; border-radius: 8px; text-decoration: none; font-size: 0.8rem; font-weight: 600;">Ver detalles</a>` : ''}
-            </div>`;
+        // Renderizado de Popup con bloques condicionales
+        let popupContent = `
+    <div style="font-family: 'Segoe UI', sans-serif; width: 260px; padding: 5px;">
+        <h6 style="margin: 0; color: #1a202c; font-weight: 800;">${t.nombre}</h6>`;
+
+        // Organizador
+        if (t.organizador && t.organizador !== '-') {
+            popupContent += `<div style="font-size: 0.8rem; color: #718096; margin-bottom: 3px; margin-top: 3px;">${t.organizador}</div>`;
+        }
+
+        // Bloque de Ciudad y Ritmo (Solo se renderiza si hay al menos uno de los dos)
+        if ((t.ciudad && t.ciudad !== '-') || (t.ritmo && t.ritmo !== '-')) {
+            popupContent += `<div style="display: flex; flex-direction: column; gap: 4px; font-size: 0.85rem; margin-top: 5px;">`;
+
+            if (t.ciudad && t.ciudad !== '-') {
+                popupContent += `<span>📍 <strong>${t.ciudad}</strong></span>`;
+            }
+            if (t.ritmo && t.ritmo !== '-') {
+                popupContent += `<span>⏱️ Ritmo: ${t.ritmo}</span>`;
+            }
+
+            popupContent += `</div>`;
+        }
+
+        // Sección de fechas
+        if (t.fechaini || t.fechafin) {
+            popupContent += `
+    <div style="display: flex; gap: 8px; margin-top: 12px; background: #f7fafc; padding: 8px; border-radius: 8px; border: 1px solid #edf2f7;">
+        ${t.fechaini ? `
+            <div style="flex:1; text-align:center;">
+                <small style="display:block; font-size:0.6rem; font-weight: bold; color: #696d72;">INICIO</small>
+                <strong>${t.fechaini}</strong>
+            </div>` : ''}
+        ${t.fechafin ? `
+            <div style="flex:1; text-align:center;">
+                <small style="display:block; font-size:0.6rem; font-weight: bold; color: #696d72;">FIN</small>
+                <strong>${t.fechafin}</strong>
+            </div>` : ''}
+    </div>`;
+        }
+
+        // Botón de link
+        if (t.link) {
+            popupContent += `<a href="${t.link}" target="_blank" style="display: block; width: 100%; margin-top: 12px; padding: 10px; background: #1a202c; color: #fff; text-align: center; border-radius: 8px; text-decoration: none; font-size: 0.8rem; font-weight: 600;">Ver detalles</a>`;
+        }
+
+        popupContent += `</div>`;
 
         const marker = L.marker([t.lat, t.lon], { icon: chessIcon }).bindPopup(popupContent, { maxWidth: 300 });
         marcadoresNuevos.push(marker);
@@ -125,7 +158,7 @@ function dibujarMarcadores(datos) {
 
 function aplicarFiltros() {
     const mapDiv = document.getElementById('map');
-    
+
     // --- EFECTO VISUAL: ACTIVAR CARGA ---
     mapDiv.classList.add('map-updating');
     const loader = document.createElement('div');
@@ -141,10 +174,10 @@ function aplicarFiltros() {
 
         const filtrados = torneosData.filter(t => {
             const cumpleNombre = t.nombre.toLowerCase().includes(nombreBusqueda);
-            
+
             // Parsing de fechas DD-MM-YYYY a Date Object
             const parseFecha = (str) => {
-                if(!str) return null;
+                if (!str) return null;
                 const [d, m, y] = str.split('-');
                 return new Date(`${y}-${m}-${d}`);
             };
