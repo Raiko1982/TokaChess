@@ -36,7 +36,7 @@
     <div id="sidebar-overlay" onclick="toggleSidebar()"></div>
 
     <aside id="sidebar">
-        <div class="alert alert-secondary mt-5 mb-2 text-center" role="info">
+        <div class="alert alert-secondary mt-5 mb-1 text-center" role="info">
             <div>
                 <a href="index.html" class="logo-link">
                     <img src="./logo-small.png" title="logo" alt="logo" height="100" />
@@ -45,33 +45,55 @@
             </div>
             <p class="mt-1 mb-0">¿Toca ajedrez?</p>
             <p class="mb-2">¡Encuentra un torneo y diviertete! </p>
-
         </div>
         <div class="alert alert-secondary"  role="info">
+            <div class="text-center mb-2 border-bottom border-dark pb-2">
+                <h6 class="text-uppercase fw-bold mb-1" style="letter-spacing: 2px; font-size: 0.85rem; color: #fff;">
+                    <i class="bi bi-sliders2 me-2"></i>Filtro de Torneos
+                </h6>
+                <p class="text-muted small mb-0" style="font-size: 0.65rem;">
+                    Ajusta los parámetros para tu búsqueda
+                </p>
+            </div>
             <div class="mb-2">
                 <label class="small text-muted mb-2 d-block text-uppercase fw-bold"
                     style="letter-spacing: 1px; font-size: 0.7rem;">Nombre del torneo </label>
-                <input type="text" id="nombreFilter" class="form-control form-control-custom w-100">
+                <input type="text" id="nombreFilter" placeholder="ej: blitz" class="form-control form-control-custom w-100">
             </div>
             <div class="mb-2">
                 <label class="small text-muted mb-2 d-block text-uppercase fw-bold"
                     style="letter-spacing: 1px; font-size: 0.7rem;">Fecha del torneo desde... </label>
-                <input type="date" id="dateInitFilter" class="form-control form-control-custom w-100">
+                <input type="text" placeholder="Selecciona fecha de inicio"   onfocus="(this.type='date')"  onblur="if(!this.value)this.type='text'" id="dateInitFilter" placeholder="fecha inicio" class="form-control form-control-custom w-100">
             </div>
-            <div class="mb-3">
-                <label class="small text-muted mb-2 d-block text-uppercase fw-bold"
-                    style="letter-spacing: 1px; font-size: 0.7rem;">Fecha del torneo hasta... </label>
-                <input type="date" id="dateEndFilter" class="form-control form-control-custom w-100">
+            <div class="mb-2">
+                <label class="small text-muted mb-2 d-block text-uppercase fw-bold" style="letter-spacing: 1px; font-size: 0.7rem;">Fecha del torneo hasta... </label>
+                <input type="text" placeholder="Selecciona fecha de fin"  onfocus="(this.type='date')" onblur="if(!this.value)this.type='text'" id="dateEndFilter" placeholder="fecha inicio" class="form-control form-control-custom w-100">
             </div>
-
-            <div class="d-grid gap-2">
-                <button class="btn btn-premium" id="btnFiltrar" onclick="aplicarFiltros()">
+           <div class="mb-3 position-relative">
+                  <label class="small text-muted mb-2 d-block text-uppercase fw-bold" style="letter-spacing: 1px; font-size: 0.7rem;">
+                        Ciudad
+                    </label>
+               <!--  <div class="input-group mb-3">                   -->
+                    <input type="text" id="cityFilter" placeholder="Busca una ciudad..." class="form-control form-control-custom w-100" autocomplete="off">
+               <!--      <select id="radioFilter" class="form-select form-control-custom">
+                        <option selected></option>
+                        <option value="5">5km</option>
+                        <option value="10">10km</option>
+                        <option value="30">30km</option>
+                        <option value="50">50km</option>
+                        <option value="100">100km</option>
+                    </select>      -->
+                    <div id="citySuggestions" class="list-group position-absolute w-100 shadow-sm d-none" style="z-index: 1050; max-height: 200px; overflow-y: auto;"></div>
+             </div>                     
+            <div class="d-flex align-items-center gap-2">
+                <button class="btn btn-premium " id="btnFiltrar" style="width: 65%;" onclick="aplicarFiltros()">
                     Filtrar
-                </button>
-                <button class="btn btn-sm btn-link text-decoration-none text-muted" id="btnLimpiar" onclick="limpiarFiltros()">
-                    <i class="bi bi-x-circle"></i> Limpiar filtros
+                </button>                
+                <button class="btn btn-sm btn-link text-decoration-none text-muted p-0" id="btnLimpiar" onclick="limpiarFiltros()" title="Limpiar filtros">
+                     <i class="bi bi-x-circle"></i> limpiar
                 </button>
             </div>
+             </div> 
     </div>
         <div class="mt-auto opacity-50 small text-center pt-3 border-top border-secondary">
 

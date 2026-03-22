@@ -6,7 +6,10 @@
 let map;
 let markersLayer;
 let torneosData = [];
-
+let cityInput = document.getElementById('cityFilter');
+let cityLat;
+let cityLon;
+let radioMax = 50; //50km
 // --- 1. Inicialización ---
 document.addEventListener('DOMContentLoaded', async () => {
     document.getElementById('btnFiltrar')?.addEventListener('click', aplicarFiltros);
@@ -23,6 +26,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     document.getElementById('dateInitFilter').addEventListener('change', actualizarRestriccionesFechas);
     document.getElementById('dateEndFilter').addEventListener('change', actualizarRestriccionesFechas);
     initMap();
+    cityInput = document.getElementById('cityFilter');
+    initCityInput();
     cargarTorneos();
 });
 
@@ -158,6 +163,18 @@ function dibujarMarcadores(datos) {
     markersLayer.addLayers(marcadoresNuevos);
 }
 
+// --- FUNCIÓN HAVERSINE ---
+const getDistance = (lat1, lon1, lat2, lon2) => {
+    const R = 6371; // Radio de la Tierra en km
+    const dLat = (lat2 - lat1) * Math.PI / 180;
+    const dLon = (lon2 - lon1) * Math.PI / 180;
+    const a =
+        Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+        Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * Math.sin(dLon / 2) * Math.sin(dLon / 2);
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    return R * c; // Distancia en km
+};
+
 function aplicarFiltros() {
     const mapDiv = document.getElementById('map');
 
@@ -173,6 +190,8 @@ function aplicarFiltros() {
         const nombreBusqueda = document.getElementById("nombreFilter").value.toLowerCase().trim();
         const inicioStr = document.getElementById("dateInitFilter").value;
         const finStr = document.getElementById("dateEndFilter").value;
+        const cityLonActual = cityLon;
+        const cityLatActual = cityLat;
 
         const filtrados = torneosData.filter(t => {
             const cumpleNombre = t.nombre.toLowerCase().includes(nombreBusqueda);
@@ -193,7 +212,14 @@ function aplicarFiltros() {
             const cumpleInicio = filtroInicio && fechaTorneoInicio ? (fechaTorneoInicio >= filtroInicio) : true;
             const cumpleFin = filtroFin && fechaTorneoFin ? (fechaTorneoFin <= filtroFin) : true;
 
-            return cumpleNombre && cumpleInicio && cumpleFin;
+            let cumpleDistancia = true;
+
+            if (cityLatActual && cityLonActual && t.lat && t.lon) {
+                const distancia = getDistance(cityLatActual, cityLonActual, parseFloat(t.lat), parseFloat(t.lon));
+                cumpleDistancia = distancia <= radioMax;
+            }
+
+            return cumpleNombre && cumpleInicio && cumpleFin && cumpleDistancia;
         });
 
         dibujarMarcadores(filtrados);
@@ -267,7 +293,107 @@ function switchView(type) {
 
 function limpiarFiltros() {
     document.getElementById("nombreFilter").value = "";
+    document.getElementById("dateInitFilter").type = "text";
+    document.getElementById("dateEndFilter").type = "text";
     document.getElementById("dateInitFilter").value = "";
     document.getElementById("dateEndFilter").value = "";
+    document.getElementById("cityFilter").value = "";
+    cityLat = null;
+    cityLon = null;
+    //document.getElementById("radioFilter").value = "";
     aplicarFiltros();
+}
+
+function initCityInput() {
+    const suggestionsBox = document.getElementById('citySuggestions');
+    // Es recomendable que selectedCoords sea accesible fuera o se guarde en un atributo data
+    window.selectedCoords = null;
+
+    let timeout = null;
+
+    cityInput.addEventListener('input', () => {
+        clearTimeout(timeout);
+        const query = cityInput.value.trim();
+
+        if (query.length < 3) {
+            suggestionsBox.classList.add('d-none');
+            window.selectedCoords = null; // Reset si borra el texto
+            return;
+        }
+
+        timeout = setTimeout(() => {
+            fetch(`https://nominatim.openstreetmap.org/search?format=json&addressdetails=1&countrycodes=es&featuretype=settlement&q=${query}&limit=10`) // Subimos el limit a 10 para tener más margen de filtrado
+                .then(res => res.json())
+                .then(data => {
+                    suggestionsBox.innerHTML = '';
+
+                    if (data && data.length > 0) {
+                        suggestionsBox.classList.remove('d-none');
+
+                        // --- CONTROL DE DUPLICADOS ---
+                        const nombresProcesados = new Set();
+
+                        data.forEach(place => {
+                            const addr = place.address;
+                            const city = addr.city || addr.town || addr.village || addr.municipality || "";
+                           // const country = addr.country || "";
+
+                            // Formato: "Ciudad, País"
+                            const displayName = city ? `${city}` : place.display_name.split(',').slice(0, 1);
+
+                            // SI EL NOMBRE YA EXISTE EN NUESTRO SET, PASAMOS AL SIGUIENTE (SKIP)
+                            if (nombresProcesados.has(displayName)) {
+                                return;
+                            }
+
+                            // Si no existe, lo añadimos al Set y creamos el botón
+                            nombresProcesados.add(displayName);
+
+                            const item = document.createElement('button');
+                            item.type = 'button';
+                            item.className = 'list-group-item list-group-item-action small py-2 bg-dark text-white border-secondary';
+                            item.style.fontSize = '0.75rem';
+                            item.innerText = displayName;
+
+                            item.onclick = (e) => {
+                                e.preventDefault();
+                                cityInput.value = displayName;
+                                window.selectedCoords = [parseFloat(place.lat), parseFloat(place.lon)];
+                                cityLat = place.lat;
+                                cityLon = place.lon;
+
+                                map.flyTo([place.lat, place.lon], 10, {
+                                    animate: true,
+                                    duration: 1
+                                });
+
+                                suggestionsBox.classList.add('d-none');
+                                aplicarFiltros();
+                            };
+
+                            suggestionsBox.appendChild(item);
+                        });
+
+                        // Si después de filtrar duplicados no queda nada, ocultamos
+                        if (suggestionsBox.children.length === 0) {
+                            suggestionsBox.classList.add('d-none');
+                        }
+
+                    } else {
+                        suggestionsBox.classList.add('d-none');
+                    }
+                })
+                .catch(err => {
+                    console.error("Error Nominatim:", err);
+                    suggestionsBox.classList.add('d-none');
+                });
+        }, 400);
+    });
+
+    // Ocultar sugerencias si se hace clic fuera
+    document.addEventListener('click', (e) => {
+        if (!cityInput.contains(e.target) && !suggestionsBox.contains(e.target)) {
+            suggestionsBox.classList.add('d-none');
+        }
+    });
 }
