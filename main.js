@@ -10,7 +10,6 @@ let torneosData = [];
 // --- 1. Inicialización ---
 document.addEventListener('DOMContentLoaded', async () => {
     document.getElementById('btnFiltrar')?.addEventListener('click', aplicarFiltros);
-
     const filtros = document.querySelectorAll('#nombreFilter, #dateInitFilter, #dateEndFilter');
     filtros.forEach(input => {
         input.addEventListener('keydown', (event) => {
@@ -20,6 +19,9 @@ document.addEventListener('DOMContentLoaded', async () => {
             }
         });
     });
+    // Escuchamos ambos campos
+    document.getElementById('dateInitFilter').addEventListener('change', actualizarRestriccionesFechas);
+    document.getElementById('dateEndFilter').addEventListener('change', actualizarRestriccionesFechas);
     initMap();
     cargarTorneos();
 });
@@ -212,28 +214,35 @@ function aplicarFiltros() {
     }, 500);
 }
 /**
- * Actualiza la fecha mínima permitida en el filtro 'Hasta' 
- * basándose en lo seleccionado en 'Desde'.
+ * Actualiza las restricciones de fecha de forma bidireccional.
  */
-function actualizarRestriccionFecha() {
+function actualizarRestriccionesFechas() {
     const fechaInicioInput = document.getElementById('dateInitFilter');
     const fechaFinInput = document.getElementById('dateEndFilter');
 
-    // Obtenemos el valor seleccionado (YYYY-MM-DD)
-    const fechaSeleccionada = fechaInicioInput.value;
+    const inicio = fechaInicioInput.value;
+    const fin = fechaFinInput.value;
 
-    if (fechaSeleccionada) {
-        // Establecemos que la fecha mínima del segundo input sea la elegida en el primero
-        fechaFinInput.min = fechaSeleccionada;
-
-        // Si la fecha que ya estaba puesta en 'Hasta' es anterior a la nueva fecha de inicio, 
-        // la reseteamos para evitar filtros imposibles
-        if (fechaFinInput.value && fechaFinInput.value < fechaSeleccionada) {
-            fechaFinInput.value = fechaSeleccionada;
+    // 1. Si hay fecha de INICIO, el 'Fin' no puede ser anterior
+    if (inicio) {
+        fechaFinInput.min = inicio;
+        // Si el valor actual de Fin es inválido (menor al nuevo inicio), lo igualamos
+        if (fin && fin < inicio) {
+            fechaFinInput.value = inicio;
         }
     } else {
-        // Si borran la fecha de inicio, quitamos la restricción
         fechaFinInput.removeAttribute('min');
+    }
+
+    // 2. Si hay fecha de FIN, el 'Inicio' no puede ser posterior
+    if (fin) {
+        fechaInicioInput.max = fin;
+        // Si el valor actual de Inicio es inválido (mayor al nuevo fin), lo igualamos
+        if (inicio && inicio > fin) {
+            fechaInicioInput.value = fin;
+        }
+    } else {
+        fechaInicioInput.removeAttribute('max');
     }
 }
 function switchView(type) {
