@@ -306,10 +306,34 @@
         "fechaini": "22-03-2026",
         "fechafin": "22-03-2026",
         "organizador": "Federación Insular de Ajedrez de Tenerife",
-        "ritmo": "15 min + 5 seg / jugada",
-        "lat": 28.3668737,
-        "lon": -16.7209409,
+        "ritmo": "10 min + 5 seg / jugada",
+        "lat": 28.3671278,
+        "lon": -16.7199576,
         "link": "https://chess-results.com/tnr1376541.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Memorial Jesús Boo 2026 Sub12",
+        "ciudad": "El Astillero",
+        "fechaini": "22-03-2026",
+        "fechafin": "22-03-2026",
+        "organizador": "Club Ajedrez Astillero",
+        "ritmo": "5+3",
+        "lat": 43.4001931,
+        "lon": -3.8185789,
+        "link": "https://chess-results.com/tnr1377969.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Memorial Jesús Boo 2026 Sub16",
+        "ciudad": "El Astillero",
+        "fechaini": "22-03-2026",
+        "fechafin": "22-03-2026",
+        "organizador": "Club Ajedrez Astillero",
+        "ritmo": "5+3",
+        "lat": 43.4001931,
+        "lon": -3.8185789,
+        "link": "https://chess-results.com/tnr1377979.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -322,6 +346,18 @@
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1375379.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo Interautonómico San José 2026",
+        "ciudad": "El Astillero",
+        "fechaini": "22-03-2026",
+        "fechafin": "22-03-2026",
+        "organizador": "Club Ajedrez Astillero",
+        "ritmo": "5+3",
+        "lat": 43.4001931,
+        "lon": -3.8185789,
+        "link": "https://chess-results.com/tnr1377970.aspx?lan=2"
     },
     {
         "origin": "info64",
@@ -865,54 +901,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Circuito Provincial de Ajedrez - Diputación de Sev",
-        "ciudad": "Arahal - Cazalla de la Sierra - Écija - Alcalá de Guadaira",
-        "fechaini": "28-03-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "Diputación de Sevilla",
-        "ritmo": "10´",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1368371.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Circuito Provincial de Ajedrez - Diputación de Sev",
-        "ciudad": "Arahal - Cazalla de la Sierra - Écija - Alcalá de Guadaira",
-        "fechaini": "28-03-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "Diputación de Sevilla",
-        "ritmo": "10´",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1368374.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Circuito Provincial de Ajedrez - Diputación de Sev",
-        "ciudad": "Arahal - Cazalla de la Sierra - Écija - Alcalá de Guadaira",
-        "fechaini": "28-03-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "Diputación de Sevilla",
-        "ritmo": "10´",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1368375.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Circuito Provincial de Ajedrez - Diputación de Sev",
-        "ciudad": "Arahal - Cazalla de la Sierra - Écija - Alcalá de Guadaira",
-        "fechaini": "28-03-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "Diputación de Sevilla",
-        "ritmo": "10´",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1368377.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "EBUSUS2026",
         "ciudad": "IBIZA",
         "fechaini": "28-03-2026",
@@ -1066,6 +1054,102 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1333551.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXIII Circuito Provincial de Ajedrez - Diputación",
+        "ciudad": "Arahal - Cazalla de la Sierra - Écija - Alcalá de Guadaira",
+        "fechaini": "28-03-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "Diputación de Sevilla",
+        "ritmo": "10´",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1368371.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXIII Circuito Provincial de Ajedrez - Diputación",
+        "ciudad": "Arahal - Cazalla de la Sierra - Écija - Alcalá de Guadaira",
+        "fechaini": "28-03-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "Diputación de Sevilla",
+        "ritmo": "10´",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1368374.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXIII Circuito Provincial de Ajedrez - Diputación",
+        "ciudad": "Arahal - Cazalla de la Sierra - Écija - Alcalá de Guadaira",
+        "fechaini": "28-03-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "Diputación de Sevilla",
+        "ritmo": "10´",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1368375.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXIII Circuito Provincial de Ajedrez - Diputación",
+        "ciudad": "Arahal - Cazalla de la Sierra - Écija - Alcalá de Guadaira",
+        "fechaini": "28-03-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "Diputación de Sevilla",
+        "ritmo": "10´",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1368377.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXIII Circuito Provincial de Ajedrez - Diputación",
+        "ciudad": "Arahal (Sevilla) Pabellon Israel Rodriguez",
+        "fechaini": "28-03-2026",
+        "fechafin": "28-03-2026",
+        "organizador": "Diputación de Sevilla",
+        "ritmo": "10´",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1377951.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXIII Circuito Provincial de Ajedrez - Diputación",
+        "ciudad": "Arahal (Sevilla) Pabellon Israel Rodriguez",
+        "fechaini": "28-03-2026",
+        "fechafin": "28-03-2026",
+        "organizador": "Diputación de Sevilla",
+        "ritmo": "10´",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1377976.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXIII Circuito Provincial de Ajedrez - Diputación",
+        "ciudad": "Arahal (Sevilla) Pabellon Israel Rodriguez",
+        "fechaini": "28-03-2026",
+        "fechafin": "28-03-2026",
+        "organizador": "Diputación de Sevilla",
+        "ritmo": "10´",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1377968.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXIII Circuito Provincial de Ajedrez - Diputación",
+        "ciudad": "Arahal (Sevilla) Pabellon Israel Rodriguez",
+        "fechaini": "28-03-2026",
+        "fechafin": "28-03-2026",
+        "organizador": "Diputación de Sevilla",
+        "ritmo": "10´",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1377977.aspx?lan=2"
     },
     {
         "origin": "info64",
@@ -3310,6 +3394,18 @@
         "lat": 41.2199677,
         "lon": 1.5348566,
         "link": "https://chess-results.com/tnr1337270.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "I Open Internacional Fuxan os Ventos Lugo",
+        "ciudad": "Auditorio Fuxan os Ventos - Lugo",
+        "fechaini": "13-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "Escola Luguesa de xadrez",
+        "ritmo": "90+30",
+        "lat": 42.9999682,
+        "lon": -7.5577147,
+        "link": "https://chess-results.com/tnr1378144.aspx?lan=2"
     },
     {
         "origin": "info64",
