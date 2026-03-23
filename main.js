@@ -332,7 +332,7 @@ const TokaChess = {
     syncDateConstraints() {
         const startInput = document.getElementById('dateInitFilter');
         const endInput = document.getElementById('dateEndFilter');
-        if (startInput.value) {
+        if (startInput.value) {          
             endInput.min = startInput.value;
         } else {
             startInput.min = hoy;
@@ -341,7 +341,7 @@ const TokaChess = {
         if (endInput.value) {
             startInput.max = endInput.value;
         } else {
-            endInput.min = hoy;
+            if(!startInput.value) endInput.min = hoy;
             startInput.max = "";
         }
     },
