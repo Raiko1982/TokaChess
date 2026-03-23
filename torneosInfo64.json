@@ -1,6 +1,138 @@
 [
     {
         "origin": "info64",
+        "nombre": "Campeonato Provincial Veteranos +50, Castellon",
+        "ciudad": "Castellon",
+        "fechaini": "27-03-2026",
+        "fechafin": "29-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.2518568,
+        "lon": -0.0615052,
+        "link": "https://info64.org/campeonato-provincial-veteranos-50-castellon-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Almeria por Edades 2026 SUB 14",
+        "ciudad": "El Ejido, Almeria",
+        "fechaini": "28-03-2026",
+        "fechafin": "29-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7743863,
+        "lon": -2.8124886,
+        "link": "https://info64.org/campeonato-de-almeria-por-edades-2026-sub-14"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Veteranos +65, Castellon",
+        "ciudad": "Castellon",
+        "fechaini": "27-03-2026",
+        "fechafin": "29-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.2518568,
+        "lon": -0.0615052,
+        "link": "https://info64.org/campeonato-provincial-veteranos-65-castellon-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXI Open de Primavera GROS XAKE Udaberriko Irekia",
+        "ciudad": "Club de Gros",
+        "fechaini": "18-04-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.7281253,
+        "lon": 2.9189918,
+        "link": "https://info64.org/xxi-open-de-primavera-gros-xake-udaberriko-irekia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XVII torneig juvenil montserrat 2026",
+        "ciudad": "Montserrat",
+        "fechaini": "14-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.3576494,
+        "lon": -0.6031,
+        "link": "https://info64.org/xvii-torneig-juvenil-montserrat-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Rapid de Estiu",
+        "ciudad": "Montserrat",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.3576494,
+        "lon": -0.6031,
+        "link": "https://info64.org/rapid-de-estiu"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Almeria por Edades 2026 SUB 12",
+        "ciudad": "El Ejido, Almeria",
+        "fechaini": "28-03-2026",
+        "fechafin": "29-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7743863,
+        "lon": -2.8124886,
+        "link": "https://info64.org/campeonato-de-almeria-por-edades-2026-sub-12"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Ajedrez Cofrades Sub-1800 Talavera de la Reina",
+        "ciudad": "Talavera de la Reina",
+        "fechaini": "02-04-2026",
+        "fechafin": "03-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9603798,
+        "lon": -4.8311717,
+        "link": "https://info64.org/ii-open-ajedrez-cofrades-sub-1800-talavera-de-la-reina"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II TORNEO SEMANA CULTURAL UMH CAMPUS ORIHUELA",
+        "ciudad": "Orihuela",
+        "fechaini": "25-03-2026",
+        "fechafin": "25-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0856891,
+        "lon": -0.9448805,
+        "link": "https://info64.org/ii-torneo-semana-cultural-umh-campus-orihuela"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXV Torneo Pueblo Nuevo  Martes y Jueves",
+        "ciudad": "Calle Alava, 14. Madrid",
+        "fechaini": "09-04-2026",
+        "fechafin": "07-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4201061,
+        "lon": -3.5265901,
+        "link": "https://info64.org/xxv-torneo-pueblo-nuevo-martes-y-jueves"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Almeria por Edades 2026 SUB 10",
+        "ciudad": "El Ejido, Almeria",
+        "fechaini": "28-03-2026",
+        "fechafin": "29-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7743863,
+        "lon": -2.8124886,
+        "link": "https://info64.org/campeonato-de-almeria-por-edades-2026-sub-10"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Torneo de Ajedrez Fundacion Ramon Rey Ardid",
         "ciudad": "Huesca",
         "fechaini": "19-04-2026",
@@ -385,18 +517,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II TORNEO SEMANA CULTURAL UMH CAMPUS ORIHUELA",
-        "ciudad": "Orihuela",
-        "fechaini": "25-03-2026",
-        "fechafin": "25-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0856891,
-        "lon": -0.9448805,
-        "link": "https://info64.org/ii-torneo-semana-cultural-umh-campus-orihuela"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open Internacional Fuxan Os Ventos Lugo",
         "ciudad": "Lugo",
         "fechaini": "13-07-2026",
@@ -406,30 +526,6 @@
         "lat": 43.0395266,
         "lon": -7.4567985,
         "link": "https://info64.org/i-open-internacional-fuxan-os-ventos-lugo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Rapid de Estiu",
-        "ciudad": "Montserrat",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.3576494,
-        "lon": -0.6031,
-        "link": "https://info64.org/rapid-de-estiu"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open Ajedrez Cofrades Sub-1800 Talavera de la Reina",
-        "ciudad": "Talavera de la Reina",
-        "fechaini": "02-04-2026",
-        "fechafin": "03-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9603798,
-        "lon": -4.8311717,
-        "link": "https://info64.org/ii-open-ajedrez-cofrades-sub-1800-talavera-de-la-reina"
     },
     {
         "origin": "info64",
@@ -505,18 +601,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Veteranos +65, Castellon",
-        "ciudad": "Castellon",
-        "fechaini": "27-03-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.2518568,
-        "lon": -0.0615052,
-        "link": "https://info64.org/campeonato-provincial-veteranos-65-castellon-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "X TORNEO AJEDREZ APYMER",
         "ciudad": "Ronda",
         "fechaini": "28-03-2026",
@@ -541,30 +625,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Almeria por Edades 2026 SUB 14",
-        "ciudad": "El Ejido, Almeria",
-        "fechaini": "28-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7743863,
-        "lon": -2.8124886,
-        "link": "https://info64.org/campeonato-de-almeria-por-edades-2026-sub-14"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Almeria por Edades 2026 SUB 12",
-        "ciudad": "El Ejido, Almeria",
-        "fechaini": "28-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7743863,
-        "lon": -2.8124886,
-        "link": "https://info64.org/campeonato-de-almeria-por-edades-2026-sub-12"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato de Almeria por Edades 2026 SUB 08",
         "ciudad": "El Ejido, Almeria",
         "fechaini": "28-03-2026",
@@ -574,18 +634,6 @@
         "lat": 36.7743863,
         "lon": -2.8124886,
         "link": "https://info64.org/campeonato-de-almeria-por-edades-2026-sub-08"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Almeria por Edades 2026 SUB 10",
-        "ciudad": "El Ejido, Almeria",
-        "fechaini": "28-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7743863,
-        "lon": -2.8124886,
-        "link": "https://info64.org/campeonato-de-almeria-por-edades-2026-sub-10"
     },
     {
         "origin": "info64",
@@ -730,18 +778,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/open-internacional-de-ajedrez-semana-santa-tajamar-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXV Torneo Pueblo Nuevo  Martes y Jueves",
-        "ciudad": "Calle Alava, 14. Madrid",
-        "fechaini": "09-04-2026",
-        "fechafin": "07-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4201061,
-        "lon": -3.5265901,
-        "link": "https://info64.org/xxv-torneo-pueblo-nuevo-martes-y-jueves"
     },
     {
         "origin": "info64",
@@ -1033,18 +1069,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Veteranos +50, Castellon",
-        "ciudad": "Castellon",
-        "fechaini": "27-03-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.2518568,
-        "lon": -0.0615052,
-        "link": "https://info64.org/campeonato-provincial-veteranos-50-castellon-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campionato Galego Sub 12 2026",
         "ciudad": "Padrón",
         "fechaini": "28-03-2026",
@@ -1186,18 +1210,6 @@
         "lat": 42.7390228,
         "lon": -8.6602504,
         "link": "https://info64.org/campionato-galego-sub-16-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXI Open de Primavera GROS XAKE Udaberriko Irekia",
-        "ciudad": "Club de Gros",
-        "fechaini": "18-04-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.7281253,
-        "lon": 2.9189918,
-        "link": "https://info64.org/xxi-open-de-primavera-gros-xake-udaberriko-irekia"
     },
     {
         "origin": "info64",
