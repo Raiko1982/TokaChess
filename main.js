@@ -422,3 +422,9 @@ function switchView(type) {
         btnMap.classList.replace('btn-primary', 'btn-light');
     }
 }
+
+// Funciones para el Menú Móvil
+function toggleSidebar() {
+    document.getElementById('sidebar').classList.toggle('active');
+    document.getElementById('sidebar-overlay').classList.toggle('active');
+}
