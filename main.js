@@ -11,11 +11,11 @@ const TokaChess = {
         markersLayer: null,
         torneosData: [],
         cityCoords: { lat: null, lon: null },
-        radioMaxKm: 50,
+        radioMaxKm: 100,
         config: {
             tileLayer: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
-            mapCenter: [40.41, -3.70],
-            defaultZoom: 6
+            mapCenter: [40.41, -2.70],
+            defaultZoom: 6.8
         }
     },
 
@@ -66,7 +66,9 @@ const TokaChess = {
      */
     initMap() {
         const { config } = this.state;
-        this.state.map = L.map('map', { zoomControl: false }).setView(config.mapCenter, config.defaultZoom);
+        this.state.map = L.map('map', {
+            zoomControl: false
+        }).setView(config.mapCenter, config.defaultZoom);
 
         L.tileLayer(config.tileLayer, {
             attribution: '© CartoDB',
@@ -113,7 +115,7 @@ const TokaChess = {
         const markers = datos.map(t => {
             this.appendTableRow(t, tableBody);
             return L.marker([t.lat, t.lon], { icon: chessIcon })
-                    .bindPopup(this.createPopupContent(t), { maxWidth: 300 });
+                .bindPopup(this.createPopupContent(t), { maxWidth: 300 });
         });
 
         this.state.markersLayer.addLayers(markers);
@@ -132,12 +134,12 @@ const TokaChess = {
                 <circle cx="182.9" cy="162.9" r="120" fill="white"/>
                 <path d="M183 70c-22.1 0-40 17.9-40 40 0 11.2 4.6 21.3 12.1 28.6-8.3 5.4-13.8 14.7-13.8 25.2v26.2H120v20h126v-20h-21.3v-26.2c0-10.5-5.5-19.8-13.8-25.2 7.5-7.3 12.1-17.4 12.1-28.6 0-22.1-17.9-40-40-40zm0 20c11 0 20 9 20 20s-9 20-20 20-20-9-20-20 9-20 20-20zm0 60c9.1 0 16.5 7.4 16.5 16.5v27.7h-33v-27.7c0-9.1 7.4-16.5 16.5-16.5z" fill="${pinColor}"/>
             </svg>`;
-        return L.divIcon({ 
-            className: 'custom-chess-pin', 
-            iconSize: [32, 49], 
-            iconAnchor: [16, 49], 
-            popupAnchor: [0, -49], 
-            html: svg 
+        return L.divIcon({
+            className: 'custom-chess-pin',
+            iconSize: [32, 49],
+            iconAnchor: [16, 49],
+            popupAnchor: [0, -49],
+            html: svg
         });
     },
 
@@ -194,7 +196,7 @@ const TokaChess = {
 
             const filtrados = this.state.torneosData.filter(t => {
                 const matchesName = t.nombre.toLowerCase().includes(query);
-                
+
                 // Fechas
                 const tStart = this.parseFecha(t.fechaini);
                 const tEnd = this.parseFecha(t.fechafin);
@@ -208,7 +210,7 @@ const TokaChess = {
                 let matchesDist = true;
                 if (this.state.cityCoords.lat && t.lat) {
                     const d = this.getHaversineDistance(
-                        this.state.cityCoords.lat, this.state.cityCoords.lon, 
+                        this.state.cityCoords.lat, this.state.cityCoords.lon,
                         parseFloat(t.lat), parseFloat(t.lon)
                     );
                     matchesDist = d <= this.state.radioMaxKm;
@@ -249,8 +251,8 @@ const TokaChess = {
         const R = 6371;
         const dLat = toRad(lat2 - lat1);
         const dLon = toRad(lon2 - lon1);
-        const a = Math.sin(dLat / 2) ** 2 + 
-                  Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLon / 2) ** 2;
+        const a = Math.sin(dLat / 2) ** 2 +
+            Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLon / 2) ** 2;
         return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
     },
 
@@ -284,16 +286,16 @@ const TokaChess = {
         const endInput = document.getElementById('dateEndFilter');
         if (startInput.value) {
             endInput.min = startInput.value;
-        }else{
+        } else {
             startInput.min = hoy;
             endInput.min = hoy;
         }
-        if (endInput.value){
+        if (endInput.value) {
             startInput.max = endInput.value;
-        }else{
+        } else {
             endInput.min = hoy;
             startInput.max = "";
-        }            
+        }
     },
 
     initCityAutocomplete() {
@@ -318,20 +320,35 @@ const TokaChess = {
 
     renderCitySuggestions(data, container, input) {
         container.innerHTML = '';
+
         if (!data.length) return container.classList.add('d-none');
 
         container.classList.remove('d-none');
+
+        // Usamos un Set para rastrear los nombres que ya hemos procesado
+        const seenNames = new Set();
+
         data.forEach(place => {
+            const cityName = place.display_name.split(',')[0];
+
+            // Si ya añadimos esta ciudad, saltamos a la siguiente iteración
+            if (seenNames.has(cityName)) return;
+
+            // Si es nueva, la registramos en el Set
+            seenNames.add(cityName);
+
             const btn = document.createElement('button');
             btn.className = 'list-group-item list-group-item-action small bg-dark text-white border-secondary';
-            btn.textContent = place.display_name.split(',')[0];
+            btn.textContent = cityName;
+
             btn.onclick = () => {
-                input.value = btn.textContent;
+                input.value = cityName;
                 this.state.cityCoords = { lat: parseFloat(place.lat), lon: parseFloat(place.lon) };
                 this.state.map.flyTo([place.lat, place.lon], 10);
                 container.classList.add('d-none');
                 this.aplicarFiltros();
             };
+
             container.appendChild(btn);
         });
     }
