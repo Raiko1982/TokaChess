@@ -112,10 +112,33 @@ const TokaChess = {
         if (tableBody) tableBody.innerHTML = '';
 
         const chessIcon = this.createChessIcon();
+
         const markers = datos.map(t => {
             this.appendTableRow(t, tableBody);
-            return L.marker([t.lat, t.lon], { icon: chessIcon })
-                .bindPopup(this.createPopupContent(t), { maxWidth: 300 });
+
+            // 1. Creamos el marcador
+            const marker = L.marker([t.lat, t.lon], { icon: chessIcon });
+
+            // 2. Vinculamos el popup con una configuración más cómoda
+            marker.bindPopup(this.createPopupContent(t), {
+                maxWidth: 300,
+                closeButton: true, // Opcional: queda más limpio para hover
+                offset: L.point(0, 10) // Evita que el popup tape el marcador
+            });
+
+            // 3. Añadimos el evento para abrir al pasar el ratón
+            /*marker.on('mouseover', function (e) {
+                this.openPopup();
+            });
+
+            // NOTA: Si quieres que se cierre al quitar el ratón, añade esto:
+            
+            marker.on('mouseout', function (e) {
+                this.closePopup();
+            });
+            */
+
+            return marker;
         });
 
         this.state.markersLayer.addLayers(markers);
@@ -147,20 +170,45 @@ const TokaChess = {
      * Construye el HTML del Popup de forma limpia.
      */
     createPopupContent(t) {
+        // Función para verificar que el campo no sea nulo, vacío o un guion
+        const isValid = (val) => val && val !== "" && val !== "-";
+        const formatDate = (dateStr) => isValid(dateStr) ? dateStr : '-';
+
+        // Estilo común para alinear iconos de Bootstrap inline con texto
+        const iconStyle = "margin-right: 4px; vertical-align: -0.125em; color: #718096;";
+
         return `
-            <div class="tc-popup" style="font-family: sans-serif; width: 260px;">
-                <h6 style="margin:0; font-weight:800;">${t.nombre}</h6>
-                ${t.organizador ? `<div style="color:#718096; font-size:0.8rem;">${t.organizador}</div>` : ''}
-                <div style="margin-top:8px; font-size:0.85rem;">
-                    ${t.ciudad ? `<div>📍 <strong>${t.ciudad}</strong></div>` : ''}
-                    ${t.ritmo ? `<div>⏱️ Ritmo: ${t.ritmo}</div>` : ''}
+        <div class="tc-popup" style="font-family: system-ui, -apple-system, sans-serif; width: 260px; line-height: 1.4;">
+            <h6 style="margin:0; font-size: 1rem; font-weight:800; color: #1a202c;">${t.nombre}</h6>
+            
+            ${isValid(t.organizador) ? `<div style="color:#718096; font-size:0.75rem; margin-bottom: 4px;">${t.organizador}</div>` : ''}
+            
+            ${isValid(t.ciudad) || isValid(t.ritmo) ? `
+                <div style="margin-top:8px; font-size:0.85rem; color: #2d3748;">
+                    ${isValid(t.ciudad) ? `<div style="margin-bottom: 3px;"><i class="bi bi-geo-alt-fill" style="${iconStyle}"></i><strong>${t.ciudad}</strong></div>` : ''}
+                    
+                    ${isValid(t.ritmo) ? `<div><i class="bi bi-stopwatch" style="${iconStyle}"></i><span style="color: #4a5568;">Ritmo:</span> ${t.ritmo}</div>` : ''}
                 </div>
-                <div style="display:flex; gap:8px; margin-top:12px; background:#f7fafc; padding:8px; border-radius:8px; border:1px solid #edf2f7; text-align:center;">
-                    <div style="flex:1;"><small style="display:block; font-size:0.6rem; color:#696d72;">INICIO</small><strong>${t.fechaini || '-'}</strong></div>
-                    <div style="flex:1;"><small style="display:block; font-size:0.6rem; color:#696d72;">FIN</small><strong>${t.fechafin || '-'}</strong></div>
+            ` : ''}
+
+            <div style="display:flex; gap:8px; margin-top:12px; background:#f7fafc; padding:10px; border-radius:8px; border:1px solid #edf2f7; text-align:center;">
+                <div style="flex:1;">
+                    <small style="display:block; font-size:0.65rem; font-weight: 700; color:#a0aec0; text-transform: uppercase;">Inicio</small>
+                    <strong style="font-size: 0.8rem; color: #2d3748;">${formatDate(t.fechaini)}</strong>
                 </div>
-                ${t.link ? `<a href="${t.link}" target="_blank" style="display:block; margin-top:12px; padding:10px; background:#1a202c; color:#fff; text-align:center; border-radius:8px; text-decoration:none; font-size:0.8rem; font-weight:600;">Ver detalles</a>` : ''}
-            </div>`;
+                <div style="width: 1px; background: #edf2f7;"></div>
+                <div style="flex:1;">
+                    <small style="display:block; font-size:0.65rem; font-weight: 700; color:#a0aec0; text-transform: uppercase;">Fin</small>
+                    <strong style="font-size: 0.8rem; color: #2d3748;">${formatDate(t.fechafin)}</strong>
+                </div>
+            </div>
+
+            ${isValid(t.link) ? `
+                <a href="${t.link}" target="_blank" rel="noopener" 
+                   style="display:block; margin-top:12px; padding:10px; background:#1a202c; color:#fff; text-align:center; border-radius:8px; text-decoration:none; font-size:0.8rem; font-weight:600; transition: opacity 0.2s;">
+                   Ver detalles
+                </a>` : ''}
+        </div>`;
     },
 
     /**
