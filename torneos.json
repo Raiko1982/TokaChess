@@ -1,15 +1,15 @@
 [
     {
         "origin": "info64",
-        "nombre": "I Torneo de Ajedrez Casa Chinastur",
-        "ciudad": "Oviedo",
-        "fechaini": "22-03-2026",
-        "fechafin": "22-03-2026",
+        "nombre": "JUDEX Promocional Mérida-Salesianos (Cadete) 2026",
+        "ciudad": "Merida",
+        "fechaini": "23-03-2026",
+        "fechafin": "23-03-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.3533452,
-        "lon": -5.8795096,
-        "link": "https://info64.org/i-torneo-de-ajedrez-casa-chinastur"
+        "lat": 38.9174665,
+        "lon": -6.3443977,
+        "link": "https://info64.org/judex-promocional-merida-cadete-2026"
     },
     {
         "origin": "info64",
@@ -34,18 +34,6 @@
         "lat": 40.1219442,
         "lon": -5.6069514,
         "link": "https://info64.org/judex-promocional-ceip-francisco-parras-2026-alevin"
-    },
-    {
-        "origin": "info64",
-        "nombre": "JUDEX Promocional Mérida-Salesianos (Cadete) 2026",
-        "ciudad": "Merida",
-        "fechaini": "23-03-2026",
-        "fechafin": "23-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9174665,
-        "lon": -6.3443977,
-        "link": "https://info64.org/judex-promocional-merida-cadete-2026"
     },
     {
         "origin": "chess-results",
@@ -145,6 +133,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "IX Torneo Sub 2400 Club Ajedrez V Centenario",
+        "ciudad": "San Sebastian de los Reyes",
+        "fechaini": "27-03-2026",
+        "fechafin": "29-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5473698,
+        "lon": -3.6260586,
+        "link": "https://info64.org/ix-torneo-sub-2400-club-ajedrez-v-centenario"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Festival de Ajedrez La Manga Sub 2400",
         "ciudad": "Cartagena",
         "fechaini": "27-03-2026",
@@ -190,18 +190,6 @@
         "lat": 38.6982348,
         "lon": -0.4747619,
         "link": "https://info64.org/campeonato-provincial-veteranos-65-alicante-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IX Torneo Sub 2400 Club Ajedrez V Centenario",
-        "ciudad": "San Sebastian de los Reyes",
-        "fechaini": "27-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5473698,
-        "lon": -3.6260586,
-        "link": "https://info64.org/ix-torneo-sub-2400-club-ajedrez-v-centenario"
     },
     {
         "origin": "info64",
@@ -361,15 +349,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXVIII Open Internacional Padre Arrupe - Universidad de Deusto",
-        "ciudad": "Bilbao",
+        "nombre": "IV Torneo de Ajedrez Semana Santa",
+        "ciudad": "Cordoba",
         "fechaini": "28-03-2026",
         "fechafin": "28-03-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.2630018,
-        "lon": -2.9350039,
-        "link": "https://info64.org/xxviii-open-internacional-padre-arrupe-universidad-de-deusto"
+        "lat": 37.8845813,
+        "lon": -4.7760138,
+        "link": "https://info64.org/iv-torneo-de-semana-santa"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XLVI Open Internacional Ciudad de San Sebastian",
+        "ciudad": "Donostia",
+        "fechaini": "28-03-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3224219,
+        "lon": -1.9838889,
+        "link": "https://info64.org/xvli-open-internacional-ciudad-de-san-sebastian"
     },
     {
         "origin": "info64",
@@ -382,6 +382,18 @@
         "lat": 27.9580004,
         "lon": -15.6062305,
         "link": "https://info64.org/xviii-memorial-pedro-lezcano-montalvo-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXVIII Open Internacional Padre Arrupe - Universidad de Deusto",
+        "ciudad": "Bilbao",
+        "fechaini": "28-03-2026",
+        "fechafin": "28-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2630018,
+        "lon": -2.9350039,
+        "link": "https://info64.org/xxviii-open-internacional-padre-arrupe-universidad-de-deusto"
     },
     {
         "origin": "info64",
@@ -457,18 +469,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XLVI Open Internacional Ciudad de San Sebastian",
-        "ciudad": "Donostia",
-        "fechaini": "28-03-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3224219,
-        "lon": -1.9838889,
-        "link": "https://info64.org/xvli-open-internacional-ciudad-de-san-sebastian"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Torneo Jaque al Alzheimer",
         "ciudad": "Parque San Eufrasio, Andújar",
         "fechaini": "28-03-2026",
@@ -478,18 +478,6 @@
         "lat": 38.0400228,
         "lon": -4.0475485,
         "link": "https://info64.org/i-torneo-jaque-al-alzheimer"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo de Ajedrez Semana Santa",
-        "ciudad": "Cordoba",
-        "fechaini": "28-03-2026",
-        "fechafin": "28-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8845813,
-        "lon": -4.7760138,
-        "link": "https://info64.org/iv-torneo-de-semana-santa"
     },
     {
         "origin": "info64",
@@ -805,18 +793,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo Primavera Sierra Norte",
-        "ciudad": "Bustarviejo",
-        "fechaini": "29-03-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.8587766,
-        "lon": -3.7097632,
-        "link": "https://info64.org/torneo-primavera-sierra-norte"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Torneo Ajedrez Aficionados Villajoyosa",
         "ciudad": "Villajoyosa",
         "fechaini": "29-03-2026",
@@ -826,6 +802,18 @@
         "lat": 38.5100778,
         "lon": -0.2296202,
         "link": "https://info64.org/ii-torneo-ajedrez-aficionados-villajoyosa"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Primavera Sierra Norte",
+        "ciudad": "Bustarviejo",
+        "fechaini": "29-03-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.8587766,
+        "lon": -3.7097632,
+        "link": "https://info64.org/torneo-primavera-sierra-norte"
     },
     {
         "origin": "info64",
@@ -1021,6 +1009,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 B",
+        "ciudad": "San Vicente del Raspeig",
+        "fechaini": "01-04-2026",
+        "fechafin": "06-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3964248,
+        "lon": -0.5250339,
+        "link": "https://info64.org/x-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2026-b"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Aberto de Xadrez Lóstego Semana Santa Barrocás 2026",
         "ciudad": "Ourense",
         "fechaini": "01-04-2026",
@@ -1042,18 +1042,6 @@
         "lat": 38.3964248,
         "lon": -0.5250339,
         "link": "https://info64.org/x-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2026-a"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 B",
-        "ciudad": "San Vicente del Raspeig",
-        "fechaini": "01-04-2026",
-        "fechafin": "06-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3964248,
-        "lon": -0.5250339,
-        "link": "https://info64.org/x-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2026-b"
     },
     {
         "origin": "info64",
@@ -1426,6 +1414,78 @@
         "lat": 39.9920763,
         "lon": 3.8978496,
         "link": "https://chess-results.com/tnr1258113.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Individual Sub-20 de Madrid 2025-2026 - Final",
+        "ciudad": "Madrid",
+        "fechaini": "11-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/campeonato-individual-sub-20-de-madrid-2025-2026-final"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Individual Sub-18 de Madrid 2025-2026 - Final",
+        "ciudad": "Madrid",
+        "fechaini": "11-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/campeonato-individual-sub-18-de-madrid-2025-2026-final"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Individual Sub-16 de Madrid 2025-2026 - Final",
+        "ciudad": "Madrid",
+        "fechaini": "11-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/campeonato-individual-sub-16-de-madrid-2025-2026-final"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Individual Sub-14 de Madrid 2025-2026 - Final",
+        "ciudad": "Madrid",
+        "fechaini": "11-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/campeonato-individual-sub-14-de-madrid-2025-2026-final"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Individual Sub-12 de Madrid 2025-2026 - Final",
+        "ciudad": "Madrid",
+        "fechaini": "11-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/campeonato-individual-sub-12-de-madrid-2025-2026-final"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Individual Sub-10 de Madrid 2025-2026 - Final",
+        "ciudad": "Madrid",
+        "fechaini": "11-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/campeonato-individual-sub-10-de-madrid-2025-2026-final"
     },
     {
         "origin": "info64",
@@ -1819,8 +1879,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4467782,
-        "lon": -3.714568,
+        "lat": 40.4466867,
+        "lon": -3.7144127,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
@@ -2233,6 +2293,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "El Viso del Alcor 2026",
+        "ciudad": "EL Viso del ALcor",
+        "fechaini": "25-04-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3891783,
+        "lon": -5.7224779,
+        "link": "https://info64.org/el-viso-del-alcor-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "II Maraton Blitz Rincon Lleno de Vida",
         "ciudad": "Rincon de la Victoria",
         "fechaini": "25-04-2026",
@@ -2266,18 +2338,6 @@
         "lat": 40.2466579,
         "lon": -3.31377,
         "link": "https://info64.org/v-open-rapidas-tielmes-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "El Viso del Alcor 2026",
-        "ciudad": "EL Viso del ALcor",
-        "fechaini": "25-04-2026",
-        "fechafin": "25-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3891783,
-        "lon": -5.7224779,
-        "link": "https://info64.org/el-viso-del-alcor-2026"
     },
     {
         "origin": "chess-results",
