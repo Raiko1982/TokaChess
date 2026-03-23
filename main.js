@@ -1,399 +1,341 @@
 /**
- * TokaChess - Main JavaScript
+ * TokaChess - Gestión de Torneos de Ajedrez con Leaflet
+ * @author TuNombre/Equipo
+ * @version 1.1.0
  */
+const hoy = new Date().toISOString().split('T')[0];
+const TokaChess = {
+    // --- Estado de la Aplicación ---
+    state: {
+        map: null,
+        markersLayer: null,
+        torneosData: [],
+        cityCoords: { lat: null, lon: null },
+        radioMaxKm: 50,
+        config: {
+            tileLayer: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
+            mapCenter: [40.41, -3.70],
+            defaultZoom: 6
+        }
+    },
 
-// --- Variables Globales ---
-let map;
-let markersLayer;
-let torneosData = [];
-let cityInput = document.getElementById('cityFilter');
-let cityLat;
-let cityLon;
-let radioMax = 50; //50km
-// --- 1. Inicialización ---
-document.addEventListener('DOMContentLoaded', async () => {
-    document.getElementById('btnFiltrar')?.addEventListener('click', aplicarFiltros);
-    const filtros = document.querySelectorAll('#nombreFilter, #dateInitFilter, #dateEndFilter');
-    filtros.forEach(input => {
-        input.addEventListener('keydown', (event) => {
-            if (event.key === 'Enter') {
-                event.preventDefault();
-                aplicarFiltros();
-            }
+    /**
+     * Inicializa la aplicación cargando eventos y componentes.
+     */
+    async init() {
+        this.initEventListeners();
+        this.initMap();
+        this.initCityAutocomplete();
+        await this.fetchTorneos();
+    },
+
+    /**
+     * Configura todos los escuchadores de eventos del DOM.
+     */
+    initEventListeners() {
+        document.addEventListener('DOMContentLoaded', () => {
+            // Filtros principales
+            const btnFiltrar = document.getElementById('btnFiltrar');
+            btnFiltrar?.addEventListener('click', () => this.aplicarFiltros());
+            const btnLimpiar = document.getElementById('btnLimpiar');
+            btnLimpiar?.addEventListener('click', () => this.limpiarFiltros());
+
+            // Filtros rápidos con tecla Enter
+            const inputs = ['#nombreFilter', '#dateInitFilter', '#dateEndFilter'];
+            inputs.forEach(selector => {
+                document.querySelector(selector)?.addEventListener('keydown', (e) => {
+                    if (e.key === 'Enter') {
+                        e.preventDefault();
+                        this.aplicarFiltros();
+                    }
+                });
+            });
+
+            // Restricciones de fechas
+            document.getElementById('dateInitFilter').setAttribute('min', hoy);
+            document.getElementById('dateEndFilter').setAttribute('min', hoy);
+            document.getElementById('dateInitFilter')?.addEventListener('change', () => this.syncDateConstraints());
+            document.getElementById('dateEndFilter')?.addEventListener('change', () => this.syncDateConstraints());
         });
-    });
-    // Escuchamos ambos campos
-    document.getElementById('dateInitFilter').addEventListener('change', actualizarRestriccionesFechas);
-    document.getElementById('dateEndFilter').addEventListener('change', actualizarRestriccionesFechas);
-    initMap();
-    cityInput = document.getElementById('cityFilter');
-    initCityInput();
-    cargarTorneos();
-});
+    },
 
-// Funciones para el Menú Móvil
-function toggleSidebar() {
-    document.getElementById('sidebar').classList.toggle('active');
-    document.getElementById('sidebar-overlay').classList.toggle('active');
-}
+    // --- Core: Mapa y Datos ---
 
-// --- 3. Configuración del Mapa ---
-function initMap() {
-    map = L.map('map', { zoomControl: false }).setView([40.41, -3.70], 6);
+    /**
+     * Inicializa el mapa de Leaflet y la capa de clusters.
+     */
+    initMap() {
+        const { config } = this.state;
+        this.state.map = L.map('map', { zoomControl: false }).setView(config.mapCenter, config.defaultZoom);
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-        attribution: '© CartoDB',
-        maxZoom: 20
-    }).addTo(map);
+        L.tileLayer(config.tileLayer, {
+            attribution: '© CartoDB',
+            maxZoom: 20
+        }).addTo(this.state.map);
 
-    L.control.zoom({ position: 'bottomright' }).addTo(map);
+        L.control.zoom({ position: 'bottomright' }).addTo(this.state.map);
 
-    markersLayer = L.markerClusterGroup({
-        maxClusterRadius: 40,
-        disableClusteringAtZoom: 15,
-        showCoverageOnHover: false,
-        zoomToBoundsOnClick: true,
-        spiderfyOnMaxZoom: true,
-        animate: true,
-        animateAddingMarkers: true
-    });
+        this.state.markersLayer = L.markerClusterGroup({
+            maxClusterRadius: 40,
+            disableClusteringAtZoom: 15,
+            showCoverageOnHover: false
+        });
 
-    map.addLayer(markersLayer);
-}
+        this.state.map.addLayer(this.state.markersLayer);
+    },
 
-// --- 6. Manejo de Marcadores ---
-async function cargarTorneos() {
-    try {
-        const response = await fetch('torneos.json');
-        if (!response.ok) throw new Error("Error cargando torneos.json");
-        torneosData = await response.json();
-        dibujarMarcadores(torneosData);
-    } catch (e) {
-        console.error("Error:", e);
-    }
-}
+    /**
+     * Carga los datos de torneos desde el origen JSON.
+     */
+    async fetchTorneos() {
+        try {
+            const response = await fetch('torneos.json');
+            if (!response.ok) throw new Error("No se pudo cargar el archivo de torneos.");
+            this.state.torneosData = await response.json();
+            this.renderizar(this.state.torneosData);
+        } catch (error) {
+            console.error("Error TokaChess:", error);
+        }
+    },
 
-function crearIconoAjedrez() {
-    const pinColor = "#2c3e50";
-    const svgHtml = `
-        <svg viewBox="0 0 365 560" xmlns="http://www.w3.org/2000/svg">
-            <path d="M182.9 559.2C182.9 559.2 0 341.1 0 182.9 0 81.9 81.9 0 182.9 0s182.9 81.9 182.9 182.9c0 158.2-182.9 376.3-182.9 376.3z" fill="rgba(0,0,0,0.2)"/>
-            <path d="M182.9 519.2C182.9 519.2 20 311.1 20 162.9 20 71.9 91.9 0 182.9 0s162.9 71.9 162.9 162.9c0 148.2-162.9 356.3-162.9 356.3z" fill="${pinColor}"/>
-            <circle cx="182.9" cy="162.9" r="120" fill="white"/>
-            <path d="M183 70c-22.1 0-40 17.9-40 40 0 11.2 4.6 21.3 12.1 28.6-8.3 5.4-13.8 14.7-13.8 25.2v26.2H120v20h126v-20h-21.3v-26.2c0-10.5-5.5-19.8-13.8-25.2 7.5-7.3 12.1-17.4 12.1-28.6 0-22.1-17.9-40-40-40zm0 20c11 0 20 9 20 20s-9 20-20 20-20-9-20-20 9-20 20-20zm0 60c9.1 0 16.5 7.4 16.5 16.5v27.7h-33v-27.7c0-9.1 7.4-16.5 16.5-16.5z" fill="${pinColor}"/>
-        </svg>`;
-    return L.divIcon({ className: 'custom-chess-pin', iconSize: [32, 49], iconAnchor: [16, 49], popupAnchor: [0, -49], html: svgHtml });
-}
+    // --- UI: Renderizado ---
 
-function dibujarMarcadores(datos) {
-    markersLayer.clearLayers();
-    const chessIcon = crearIconoAjedrez();
-    const marcadoresNuevos = [];
-    const tableBody = document.getElementById('tableBody');
+    /**
+     * Dibuja los marcadores en el mapa y actualiza la tabla de resultados.
+     * @param {Array} datos Lista de torneos filtrada o completa.
+     */
+    renderizar(datos) {
+        this.state.markersLayer.clearLayers();
+        const tableBody = document.getElementById('tableBody');
+        if (tableBody) tableBody.innerHTML = '';
 
-    tableBody.innerHTML = '';
+        const chessIcon = this.createChessIcon();
+        const markers = datos.map(t => {
+            this.appendTableRow(t, tableBody);
+            return L.marker([t.lat, t.lon], { icon: chessIcon })
+                    .bindPopup(this.createPopupContent(t), { maxWidth: 300 });
+        });
 
-    datos.forEach(t => {
-        // Renderizado de Tabla
+        this.state.markersLayer.addLayers(markers);
+    },
+
+    /**
+     * Crea el SVG personalizado para el marcador.
+     * @returns {L.DivIcon}
+     */
+    createChessIcon() {
+        const pinColor = "#2c3e50";
+        const svg = `
+            <svg viewBox="0 0 365 560" xmlns="http://www.w3.org/2000/svg">
+                <path d="M182.9 559.2C182.9 559.2 0 341.1 0 182.9 0 81.9 81.9 0 182.9 0s182.9 81.9 182.9 182.9c0 158.2-182.9 376.3-182.9 376.3z" fill="rgba(0,0,0,0.2)"/>
+                <path d="M182.9 519.2C182.9 519.2 20 311.1 20 162.9 20 71.9 91.9 0 182.9 0s162.9 71.9 162.9 162.9c0 148.2-162.9 356.3-162.9 356.3z" fill="${pinColor}"/>
+                <circle cx="182.9" cy="162.9" r="120" fill="white"/>
+                <path d="M183 70c-22.1 0-40 17.9-40 40 0 11.2 4.6 21.3 12.1 28.6-8.3 5.4-13.8 14.7-13.8 25.2v26.2H120v20h126v-20h-21.3v-26.2c0-10.5-5.5-19.8-13.8-25.2 7.5-7.3 12.1-17.4 12.1-28.6 0-22.1-17.9-40-40-40zm0 20c11 0 20 9 20 20s-9 20-20 20-20-9-20-20 9-20 20-20zm0 60c9.1 0 16.5 7.4 16.5 16.5v27.7h-33v-27.7c0-9.1 7.4-16.5 16.5-16.5z" fill="${pinColor}"/>
+            </svg>`;
+        return L.divIcon({ 
+            className: 'custom-chess-pin', 
+            iconSize: [32, 49], 
+            iconAnchor: [16, 49], 
+            popupAnchor: [0, -49], 
+            html: svg 
+        });
+    },
+
+    /**
+     * Construye el HTML del Popup de forma limpia.
+     */
+    createPopupContent(t) {
+        return `
+            <div class="tc-popup" style="font-family: sans-serif; width: 260px;">
+                <h6 style="margin:0; font-weight:800;">${t.nombre}</h6>
+                ${t.organizador ? `<div style="color:#718096; font-size:0.8rem;">${t.organizador}</div>` : ''}
+                <div style="margin-top:8px; font-size:0.85rem;">
+                    ${t.ciudad ? `<div>📍 <strong>${t.ciudad}</strong></div>` : ''}
+                    ${t.ritmo ? `<div>⏱️ Ritmo: ${t.ritmo}</div>` : ''}
+                </div>
+                <div style="display:flex; gap:8px; margin-top:12px; background:#f7fafc; padding:8px; border-radius:8px; border:1px solid #edf2f7; text-align:center;">
+                    <div style="flex:1;"><small style="display:block; font-size:0.6rem; color:#696d72;">INICIO</small><strong>${t.fechaini || '-'}</strong></div>
+                    <div style="flex:1;"><small style="display:block; font-size:0.6rem; color:#696d72;">FIN</small><strong>${t.fechafin || '-'}</strong></div>
+                </div>
+                ${t.link ? `<a href="${t.link}" target="_blank" style="display:block; margin-top:12px; padding:10px; background:#1a202c; color:#fff; text-align:center; border-radius:8px; text-decoration:none; font-size:0.8rem; font-weight:600;">Ver detalles</a>` : ''}
+            </div>`;
+    },
+
+    /**
+     * Inserta una fila en la tabla de torneos.
+     */
+    appendTableRow(t, tableBody) {
+        if (!tableBody) return;
         const row = document.createElement('tr');
         row.innerHTML = `
             <td><span class="badge bg-secondary">${t.origin || 'N/A'}</span></td>
             <td>${t.fechaini || '-'}</td>
             <td>${t.fechafin || '-'}</td>
-            <td>${t.link ? `<a href="${t.link}" target="_blank" class="small text-decoration-none">${t.nombre}</a>` : t.nombre}</td>
+            <td>${t.link ? `<a href="${t.link}" target="_blank" class="text-decoration-none">${t.nombre}</a>` : t.nombre}</td>
             <td><small>${t.ritmo || '-'}</small></td>
             <td><small>${t.organizador || '-'}</small></td>
             <td><i class="bi bi-geo-alt-fill text-danger"></i> <a target="_blank" href="https://www.google.com/maps?q=${t.lat},${t.lon}">${t.ciudad || '-'}</a></td>
         `;
         tableBody.appendChild(row);
+    },
 
-        // Renderizado de Popup
-        // Renderizado de Popup con bloques condicionales
-        let popupContent = `
-    <div style="font-family: 'Segoe UI', sans-serif; width: 260px; padding: 5px;">
-        <h6 style="margin: 0; color: #1a202c; font-weight: 800;">${t.nombre}</h6>`;
+    // --- Lógica de Negocio: Filtros y Cálculos ---
 
-        // Organizador
-        if (t.organizador && t.organizador !== '-') {
-            popupContent += `<div style="font-size: 0.8rem; color: #718096; margin-bottom: 3px; margin-top: 3px;">${t.organizador}</div>`;
+    /**
+     * Aplica la lógica de filtrado por nombre, fecha y proximidad.
+     */
+    aplicarFiltros() {
+        this.toggleLoader(true);
+
+        setTimeout(() => {
+            const query = document.getElementById("nombreFilter").value.toLowerCase().trim();
+            const startLimit = document.getElementById("dateInitFilter").value;
+            const endLimit = document.getElementById("dateEndFilter").value;
+
+            const filtrados = this.state.torneosData.filter(t => {
+                const matchesName = t.nombre.toLowerCase().includes(query);
+                
+                // Fechas
+                const tStart = this.parseFecha(t.fechaini);
+                const tEnd = this.parseFecha(t.fechafin);
+                const fStart = startLimit ? new Date(startLimit) : null;
+                const fEnd = endLimit ? new Date(endLimit) : null;
+
+                const matchesStart = fStart && tStart ? tStart >= fStart : true;
+                const matchesEnd = fEnd && tEnd ? tEnd <= fEnd : true;
+
+                // Distancia
+                let matchesDist = true;
+                if (this.state.cityCoords.lat && t.lat) {
+                    const d = this.getHaversineDistance(
+                        this.state.cityCoords.lat, this.state.cityCoords.lon, 
+                        parseFloat(t.lat), parseFloat(t.lon)
+                    );
+                    matchesDist = d <= this.state.radioMaxKm;
+                }
+
+                return matchesName && matchesStart && matchesEnd && matchesDist;
+            });
+
+            this.renderizar(filtrados);
+            this.toggleLoader(false);
+
+            //if (filtrados.length > 0) {
+            //    const group = L.featureGroup(this.state.markersLayer.getLayers());
+            //    this.state.map.flyToBounds(group.getBounds(), { padding: [5, 5], duration: 0.5 });
+            //}
+
+            if (window.innerWidth <= 768) this.toggleSidebar(false);
+        }, 400);
+    },
+
+    limpiarFiltros() {
+        document.getElementById("nombreFilter").value = "";
+        document.getElementById("dateInitFilter").type = "text";
+        document.getElementById("dateEndFilter").type = "text";
+        document.getElementById("dateInitFilter").value = "";
+        document.getElementById("dateEndFilter").value = "";
+        document.getElementById("cityFilter").value = "";
+        this.state.cityCoords = { lat: null, lon: null };
+        this.syncDateConstraints();
+        this.aplicarFiltros();
+    },
+
+    /**
+     * Calcula distancia entre dos puntos (Haversine).
+     */
+    getHaversineDistance(lat1, lon1, lat2, lon2) {
+        const toRad = x => (x * Math.PI) / 180;
+        const R = 6371;
+        const dLat = toRad(lat2 - lat1);
+        const dLon = toRad(lon2 - lon1);
+        const a = Math.sin(dLat / 2) ** 2 + 
+                  Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLon / 2) ** 2;
+        return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    },
+
+    /**
+     * Convierte string DD-MM-YYYY a objeto Date.
+     */
+    parseFecha(str) {
+        if (!str || str === '-') return null;
+        const [d, m, y] = str.split('-');
+        return new Date(`${y}-${m}-${d}`);
+    },
+
+    // --- Helpers de UI ---
+
+    toggleLoader(show) {
+        const mapDiv = document.getElementById('map');
+        if (show) {
+            mapDiv.classList.add('map-updating');
+            const loader = document.createElement('div');
+            loader.id = "map-loader-overlay";
+            loader.innerHTML = `<div class="chess-spinner"></div><span class="loader-text">Actualizando...</span>`;
+            mapDiv.parentElement.appendChild(loader);
+        } else {
+            mapDiv.classList.remove('map-updating');
+            document.getElementById('map-loader-overlay')?.remove();
         }
+    },
 
-        // Bloque de Ciudad y Ritmo (Solo se renderiza si hay al menos uno de los dos)
-        if ((t.ciudad && t.ciudad !== '-') || (t.ritmo && t.ritmo !== '-')) {
-            popupContent += `<div style="display: flex; flex-direction: column; gap: 4px; font-size: 0.85rem; margin-top: 5px;">`;
-
-            if (t.ciudad && t.ciudad !== '-') {
-                popupContent += `<span>📍 <strong>${t.ciudad}</strong></span>`;
-            }
-            if (t.ritmo && t.ritmo !== '-') {
-                popupContent += `<span>⏱️ Ritmo: ${t.ritmo}</span>`;
-            }
-
-            popupContent += `</div>`;
+    syncDateConstraints() {
+        const startInput = document.getElementById('dateInitFilter');
+        const endInput = document.getElementById('dateEndFilter');
+        if (startInput.value) {
+            endInput.min = startInput.value;
+        }else{
+            startInput.min = hoy;
+            endInput.min = hoy;
         }
+        if (endInput.value){
+            startInput.max = endInput.value;
+        }else{
+            endInput.min = hoy;
+            startInput.max = "";
+        }            
+    },
 
-        // Sección de fechas
-        if (t.fechaini || t.fechafin) {
-            popupContent += `
-    <div style="display: flex; gap: 8px; margin-top: 12px; background: #f7fafc; padding: 8px; border-radius: 8px; border: 1px solid #edf2f7;">
-        ${t.fechaini ? `
-            <div style="flex:1; text-align:center;">
-                <small style="display:block; font-size:0.6rem; font-weight: bold; color: #696d72;">INICIO</small>
-                <strong>${t.fechaini}</strong>
-            </div>` : ''}
-        ${t.fechafin ? `
-            <div style="flex:1; text-align:center;">
-                <small style="display:block; font-size:0.6rem; font-weight: bold; color: #696d72;">FIN</small>
-                <strong>${t.fechafin}</strong>
-            </div>` : ''}
-    </div>`;
-        }
+    initCityAutocomplete() {
+        const input = document.getElementById('cityFilter');
+        const suggestions = document.getElementById('citySuggestions');
+        let timer;
 
-        // Botón de link
-        if (t.link) {
-            popupContent += `<a href="${t.link}" target="_blank" style="display: block; width: 100%; margin-top: 12px; padding: 10px; background: #1a202c; color: #fff; text-align: center; border-radius: 8px; text-decoration: none; font-size: 0.8rem; font-weight: 600;">Ver detalles</a>`;
-        }
+        input?.addEventListener('input', () => {
+            clearTimeout(timer);
+            const query = input.value.trim();
+            if (query.length < 3) return suggestions.classList.add('d-none');
 
-        popupContent += `</div>`;
+            timer = setTimeout(async () => {
+                try {
+                    const res = await fetch(`https://nominatim.openstreetmap.org/search?format=json&countrycodes=es&featuretype=settlement&q=${query}&limit=5`);
+                    const data = await res.json();
+                    this.renderCitySuggestions(data, suggestions, input);
+                } catch (err) { console.error("Error Nominatim", err); }
+            }, 400);
+        });
+    },
 
-        const marker = L.marker([t.lat, t.lon], { icon: chessIcon }).bindPopup(popupContent, { maxWidth: 300 });
-        marcadoresNuevos.push(marker);
-    });
+    renderCitySuggestions(data, container, input) {
+        container.innerHTML = '';
+        if (!data.length) return container.classList.add('d-none');
 
-    markersLayer.addLayers(marcadoresNuevos);
-}
-
-// --- FUNCIÓN HAVERSINE ---
-const getDistance = (lat1, lon1, lat2, lon2) => {
-    const R = 6371; // Radio de la Tierra en km
-    const dLat = (lat2 - lat1) * Math.PI / 180;
-    const dLon = (lon2 - lon1) * Math.PI / 180;
-    const a =
-        Math.sin(dLat / 2) * Math.sin(dLat / 2) +
-        Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * Math.sin(dLon / 2) * Math.sin(dLon / 2);
-    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-    return R * c; // Distancia en km
+        container.classList.remove('d-none');
+        data.forEach(place => {
+            const btn = document.createElement('button');
+            btn.className = 'list-group-item list-group-item-action small bg-dark text-white border-secondary';
+            btn.textContent = place.display_name.split(',')[0];
+            btn.onclick = () => {
+                input.value = btn.textContent;
+                this.state.cityCoords = { lat: parseFloat(place.lat), lon: parseFloat(place.lon) };
+                this.state.map.flyTo([place.lat, place.lon], 10);
+                container.classList.add('d-none');
+                this.aplicarFiltros();
+            };
+            container.appendChild(btn);
+        });
+    }
 };
 
-function aplicarFiltros() {
-    const mapDiv = document.getElementById('map');
-
-    // --- EFECTO VISUAL: ACTIVAR CARGA ---
-    mapDiv.classList.add('map-updating');
-    const loader = document.createElement('div');
-    loader.id = "map-loader-overlay";
-    loader.innerHTML = `<div class="chess-spinner"></div><span style="color:white; font-weight:bold; margin-top:10px; text-shadow: 1px 1px 2px black;">Actualizando...</span>`;
-    mapDiv.parentElement.appendChild(loader);
-
-    // Pequeño retardo para que el usuario vea la transición
-    setTimeout(() => {
-        const nombreBusqueda = document.getElementById("nombreFilter").value.toLowerCase().trim();
-        const inicioStr = document.getElementById("dateInitFilter").value;
-        const finStr = document.getElementById("dateEndFilter").value;
-        const cityLonActual = cityLon;
-        const cityLatActual = cityLat;
-
-        const filtrados = torneosData.filter(t => {
-            const cumpleNombre = t.nombre.toLowerCase().includes(nombreBusqueda);
-
-            // Parsing de fechas DD-MM-YYYY a Date Object
-            const parseFecha = (str) => {
-                if (!str) return null;
-                const [d, m, y] = str.split('-');
-                return new Date(`${y}-${m}-${d}`);
-            };
-
-            const fechaTorneoInicio = parseFecha(t.fechaini);
-            const fechaTorneoFin = parseFecha(t.fechafin);
-
-            const filtroInicio = inicioStr ? new Date(inicioStr) : null;
-            const filtroFin = finStr ? new Date(finStr) : null;
-
-            const cumpleInicio = filtroInicio && fechaTorneoInicio ? (fechaTorneoInicio >= filtroInicio) : true;
-            const cumpleFin = filtroFin && fechaTorneoFin ? (fechaTorneoFin <= filtroFin) : true;
-
-            let cumpleDistancia = true;
-
-            if (cityLatActual && cityLonActual && t.lat && t.lon) {
-                const distancia = getDistance(cityLatActual, cityLonActual, parseFloat(t.lat), parseFloat(t.lon));
-                cumpleDistancia = distancia <= radioMax;
-            }
-
-            return cumpleNombre && cumpleInicio && cumpleFin && cumpleDistancia;
-        });
-
-        dibujarMarcadores(filtrados);
-
-        // --- EFECTO VISUAL: FINALIZAR ---
-        mapDiv.classList.remove('map-updating');
-        document.getElementById('map-loader-overlay')?.remove();
-
-        // Si hay resultados, ajustar vista suavemente
-        if (filtrados.length > 0) {
-            const bounds = L.featureGroup(markersLayer.getLayers()).getBounds();
-            map.flyToBounds(bounds, { padding: [30, 30], duration: 1.2 });
-        }
-
-        if (window.innerWidth <= 768) {
-            toggleSidebar();
-        }
-    }, 500);
-}
-/**
- * Actualiza las restricciones de fecha de forma bidireccional.
- */
-function actualizarRestriccionesFechas() {
-    const fechaInicioInput = document.getElementById('dateInitFilter');
-    const fechaFinInput = document.getElementById('dateEndFilter');
-
-    const inicio = fechaInicioInput.value;
-    const fin = fechaFinInput.value;
-
-    // 1. Si hay fecha de INICIO, el 'Fin' no puede ser anterior
-    if (inicio) {
-        fechaFinInput.min = inicio;
-        // Si el valor actual de Fin es inválido (menor al nuevo inicio), lo igualamos
-        if (fin && fin < inicio) {
-            fechaFinInput.value = inicio;
-        }
-    } else {
-        fechaFinInput.removeAttribute('min');
-    }
-
-    // 2. Si hay fecha de FIN, el 'Inicio' no puede ser posterior
-    if (fin) {
-        fechaInicioInput.max = fin;
-        // Si el valor actual de Inicio es inválido (mayor al nuevo fin), lo igualamos
-        if (inicio && inicio > fin) {
-            fechaInicioInput.value = fin;
-        }
-    } else {
-        fechaInicioInput.removeAttribute('max');
-    }
-}
-function switchView(type) {
-    const mapDiv = document.getElementById('map');
-    const tableDiv = document.getElementById('table-view');
-    const btnMap = document.getElementById('btn-view-map');
-    const btnTable = document.getElementById('btn-view-table');
-
-    if (type === 'map') {
-        tableDiv.classList.add('d-none');
-        mapDiv.style.visibility = 'visible';
-        btnMap.classList.replace('btn-light', 'btn-primary');
-        btnTable.classList.replace('btn-primary', 'btn-light');
-        setTimeout(() => { map.invalidateSize(); }, 200);
-    } else {
-        tableDiv.classList.remove('d-none');
-        mapDiv.style.visibility = 'hidden';
-        btnTable.classList.replace('btn-light', 'btn-primary');
-        btnMap.classList.replace('btn-primary', 'btn-light');
-    }
-}
-
-function limpiarFiltros() {
-    document.getElementById("nombreFilter").value = "";
-    document.getElementById("dateInitFilter").type = "text";
-    document.getElementById("dateEndFilter").type = "text";
-    document.getElementById("dateInitFilter").value = "";
-    document.getElementById("dateEndFilter").value = "";
-    document.getElementById("cityFilter").value = "";
-    cityLat = null;
-    cityLon = null;
-    //document.getElementById("radioFilter").value = "";
-    aplicarFiltros();
-}
-
-function initCityInput() {
-    const suggestionsBox = document.getElementById('citySuggestions');
-    // Es recomendable que selectedCoords sea accesible fuera o se guarde en un atributo data
-    window.selectedCoords = null;
-
-    let timeout = null;
-
-    cityInput.addEventListener('input', () => {
-        clearTimeout(timeout);
-        const query = cityInput.value.trim();
-
-        if (query.length < 3) {
-            suggestionsBox.classList.add('d-none');
-            window.selectedCoords = null; // Reset si borra el texto
-            return;
-        }
-
-        timeout = setTimeout(() => {
-            fetch(`https://nominatim.openstreetmap.org/search?format=json&addressdetails=1&countrycodes=es&featuretype=settlement&q=${query}&limit=10`) // Subimos el limit a 10 para tener más margen de filtrado
-                .then(res => res.json())
-                .then(data => {
-                    suggestionsBox.innerHTML = '';
-
-                    if (data && data.length > 0) {
-                        suggestionsBox.classList.remove('d-none');
-
-                        // --- CONTROL DE DUPLICADOS ---
-                        const nombresProcesados = new Set();
-
-                        data.forEach(place => {
-                            const addr = place.address;
-                            const city = addr.city || addr.town || addr.village || addr.municipality || "";
-                           // const country = addr.country || "";
-
-                            // Formato: "Ciudad, País"
-                            const displayName = city ? `${city}` : place.display_name.split(',').slice(0, 1);
-
-                            // SI EL NOMBRE YA EXISTE EN NUESTRO SET, PASAMOS AL SIGUIENTE (SKIP)
-                            if (nombresProcesados.has(displayName)) {
-                                return;
-                            }
-
-                            // Si no existe, lo añadimos al Set y creamos el botón
-                            nombresProcesados.add(displayName);
-
-                            const item = document.createElement('button');
-                            item.type = 'button';
-                            item.className = 'list-group-item list-group-item-action small py-2 bg-dark text-white border-secondary';
-                            item.style.fontSize = '0.75rem';
-                            item.innerText = displayName;
-
-                            item.onclick = (e) => {
-                                e.preventDefault();
-                                cityInput.value = displayName;
-                                window.selectedCoords = [parseFloat(place.lat), parseFloat(place.lon)];
-                                cityLat = place.lat;
-                                cityLon = place.lon;
-
-                                map.flyTo([place.lat, place.lon], 10, {
-                                    animate: true,
-                                    duration: 1
-                                });
-
-                                suggestionsBox.classList.add('d-none');
-                                aplicarFiltros();
-                            };
-
-                            suggestionsBox.appendChild(item);
-                        });
-
-                        // Si después de filtrar duplicados no queda nada, ocultamos
-                        if (suggestionsBox.children.length === 0) {
-                            suggestionsBox.classList.add('d-none');
-                        }
-
-                    } else {
-                        suggestionsBox.classList.add('d-none');
-                    }
-                })
-                .catch(err => {
-                    console.error("Error Nominatim:", err);
-                    suggestionsBox.classList.add('d-none');
-                });
-        }, 400);
-    });
-
-    // Ocultar sugerencias si se hace clic fuera
-    document.addEventListener('click', (e) => {
-        if (!cityInput.contains(e.target) && !suggestionsBox.contains(e.target)) {
-            suggestionsBox.classList.add('d-none');
-        }
-    });
-}
+// Iniciar app
+TokaChess.init();
