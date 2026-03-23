@@ -404,3 +404,21 @@ const TokaChess = {
 
 // Iniciar app
 TokaChess.init();
+
+function switchView(type) {
+    const mapDiv = document.getElementById('map');
+    const tableDiv = document.getElementById('table-view');
+    const btnMap = document.getElementById('btn-view-map');
+    const btnTable = document.getElementById('btn-view-table');
+    if (type === 'map') {
+        tableDiv.classList.add('d-none');
+        mapDiv.style.visibility = 'visible';
+        btnMap.classList.replace('btn-light', 'btn-primary');
+        btnTable.classList.replace('btn-primary', 'btn-light');
+    } else {
+        tableDiv.classList.remove('d-none');
+        mapDiv.style.visibility = 'hidden';
+        btnTable.classList.replace('btn-light', 'btn-primary');
+        btnMap.classList.replace('btn-primary', 'btn-light');
+    }
+}
