@@ -392,7 +392,7 @@ const TokaChess = {
             btn.onclick = () => {
                 input.value = cityName;
                 this.state.cityCoords = { lat: parseFloat(place.lat), lon: parseFloat(place.lon) };
-                this.state.map.flyTo([place.lat, place.lon], 10);
+                this.state.map.panTo([place.lat, place.lon]);
                 container.classList.add('d-none');
                 this.aplicarFiltros();
             };
