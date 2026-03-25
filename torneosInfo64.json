@@ -1,6 +1,150 @@
 [
     {
         "origin": "info64",
+        "nombre": "Cto Provincial Veteranos Castellon 65 2026",
+        "ciudad": "Castellon",
+        "fechaini": "27-03-2026",
+        "fechafin": "29-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.2518568,
+        "lon": -0.0615052,
+        "link": "https://info64.org/campeonato-provincial-veteranos-65-castellon-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Cto Provincial Veteranos Castellon 50 2026",
+        "ciudad": "Castellon",
+        "fechaini": "27-03-2026",
+        "fechafin": "29-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.2518568,
+        "lon": -0.0615052,
+        "link": "https://info64.org/campeonato-provincial-veteranos-50-castellon-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I LOQUILANDIA Escuela El Rey - Torneo INFANTIL",
+        "ciudad": "Parque Loquilandia, Huércal",
+        "fechaini": "24-04-2026",
+        "fechafin": "24-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/i-loquilandia-escuela-el-rey-torneo-infantil"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Primavera Sierra Norte",
+        "ciudad": "Bustarviejo",
+        "fechaini": "29-03-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.8587766,
+        "lon": -3.7097632,
+        "link": "https://info64.org/torneo-primavera-sierra-norte"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Sub10 CTL 2026",
+        "ciudad": "Palencia",
+        "fechaini": "11-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4096322,
+        "lon": -4.6161004,
+        "link": "https://info64.org/sub10-ctl-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Festival de Ajedrez La Manga Sub 1800",
+        "ciudad": "Cartagena",
+        "fechaini": "27-03-2026",
+        "fechafin": "29-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.6155018,
+        "lon": -0.987511,
+        "link": "https://info64.org/i-festival-de-ajedrez-la-manga-sub-1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CP Toledo Absoluto B 2026",
+        "ciudad": "Toledo",
+        "fechaini": "19-04-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/cp-toledo-absoluto-b-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CP Toledo Absoluto A 2026",
+        "ciudad": "Toledo",
+        "fechaini": "19-04-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II TORNEO SEMANA CULTURAL UMH CAMPUS ORIHUELA",
+        "ciudad": "Orihuela",
+        "fechaini": "25-03-2026",
+        "fechafin": "25-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0856891,
+        "lon": -0.9448805,
+        "link": "https://info64.org/ii-torneo-semana-cultural-umh-campus-orihuela"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Andalucia C",
+        "ciudad": "Linares",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0931247,
+        "lon": -3.6357207,
+        "link": "https://info64.org/campeonato-de-andalucia-c-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Andalucia B",
+        "ciudad": "Linares",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0931247,
+        "lon": -3.6357207,
+        "link": "https://info64.org/campeonato-de-andalucia-b-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Andalucia Absoluto 2026",
+        "ciudad": "Linares",
+        "fechaini": "09-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0931247,
+        "lon": -3.6357207,
+        "link": "https://info64.org/campeonato-de-andalucia-absoluto-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato Provincial Alicante Sub-18",
         "ciudad": "Alicante",
         "fechaini": "28-03-2026",
@@ -73,18 +217,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Andalucia C",
-        "ciudad": "Linares",
-        "fechaini": "10-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0931247,
-        "lon": -3.6357207,
-        "link": "https://info64.org/campeonato-de-andalucia-c-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "XVIII Memorial Pedro Lezcano Montalvo 2026",
         "ciudad": "Gran Canaria",
         "fechaini": "28-03-2026",
@@ -94,30 +226,6 @@
         "lat": 27.9580004,
         "lon": -15.6062305,
         "link": "https://info64.org/xviii-memorial-pedro-lezcano-montalvo-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Andalucia B",
-        "ciudad": "Linares",
-        "fechaini": "10-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0931247,
-        "lon": -3.6357207,
-        "link": "https://info64.org/campeonato-de-andalucia-b-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Andalucia Absoluto 2026",
-        "ciudad": "Linares",
-        "fechaini": "09-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0931247,
-        "lon": -3.6357207,
-        "link": "https://info64.org/campeonato-de-andalucia-absoluto-2026"
     },
     {
         "origin": "info64",
@@ -361,18 +469,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "CP Toledo Absoluto A 2026",
-        "ciudad": "Toledo",
-        "fechaini": "19-04-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXV Torneo Pueblo Nuevo  Martes y Jueves",
         "ciudad": "Calle Alava, 14. Madrid",
         "fechaini": "09-04-2026",
@@ -382,18 +478,6 @@
         "lat": 40.4201061,
         "lon": -3.5265901,
         "link": "https://info64.org/xxv-torneo-pueblo-nuevo-martes-y-jueves"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Festival de Ajedrez La Manga Sub 1800",
-        "ciudad": "Cartagena",
-        "fechaini": "27-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6155018,
-        "lon": -0.987511,
-        "link": "https://info64.org/i-festival-de-ajedrez-la-manga-sub-1800"
     },
     {
         "origin": "info64",
@@ -481,18 +565,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "CP Toledo Absoluto B 2026",
-        "ciudad": "Toledo",
-        "fechaini": "19-04-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/cp-toledo-absoluto-b-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "XVII Torneo Ajedrez Ciudad los Angeles - Memorial Francisco Codes",
         "ciudad": "Madrid",
         "fechaini": "12-04-2026",
@@ -550,30 +622,6 @@
         "lat": 36.277054,
         "lon": -6.0881874,
         "link": "https://info64.org/i-open-supra-1700-fide-internacional-de-ajedrez-ciudad-de-conil"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto Provincial Veteranos Castellon 65 2026",
-        "ciudad": "Castellon",
-        "fechaini": "27-03-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.2518568,
-        "lon": -0.0615052,
-        "link": "https://info64.org/campeonato-provincial-veteranos-65-castellon-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto Provincial Veteranos Castellon 50 2026",
-        "ciudad": "Castellon",
-        "fechaini": "27-03-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.2518568,
-        "lon": -0.0615052,
-        "link": "https://info64.org/campeonato-provincial-veteranos-50-castellon-1"
     },
     {
         "origin": "info64",
@@ -670,18 +718,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/i-loquilandia-escuela-el-rey-torneo-valido-para-elo-fada"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I LOQUILANDIA Escuela El Rey - Torneo INFANTIL",
-        "ciudad": "Parque Loquilandia, Huércal",
-        "fechaini": "24-04-2026",
-        "fechafin": "24-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/i-loquilandia-escuela-el-rey-torneo-infantil"
     },
     {
         "origin": "info64",
@@ -934,18 +970,6 @@
         "lat": 42.7390228,
         "lon": -8.6602504,
         "link": "https://info64.org/campionato-galego-sub-16-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II TORNEO SEMANA CULTURAL UMH CAMPUS ORIHUELA",
-        "ciudad": "Orihuela",
-        "fechaini": "25-03-2026",
-        "fechafin": "25-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0856891,
-        "lon": -0.9448805,
-        "link": "https://info64.org/ii-torneo-semana-cultural-umh-campus-orihuela"
     },
     {
         "origin": "info64",
@@ -1405,18 +1429,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Sub10 CTL 2026",
-        "ciudad": "Palencia",
-        "fechaini": "11-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4096322,
-        "lon": -4.6161004,
-        "link": "https://info64.org/sub10-ctl-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Veteranos CTL 2026",
         "ciudad": "Palencia",
         "fechaini": "11-04-2026",
@@ -1474,18 +1486,6 @@
         "lat": 38.3436365,
         "lon": -0.4881708,
         "link": "https://info64.org/vi-irt-internacional-ajedrez-en-alicante-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Primavera Sierra Norte",
-        "ciudad": "Bustarviejo",
-        "fechaini": "29-03-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.8587766,
-        "lon": -3.7097632,
-        "link": "https://info64.org/torneo-primavera-sierra-norte"
     },
     {
         "origin": "info64",
@@ -1699,8 +1699,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
+        "lat": 40.4467782,
+        "lon": -3.714568,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
