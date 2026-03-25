@@ -1948,7 +1948,7 @@
         "nombre": "Liga por Equipos de Lanzarote 2026 (Primera)",
         "ciudad": "Sociedad Democracia y Centro Insular de Arrecife (Lanzarote)",
         "fechaini": "11-04-2026",
-        "fechafin": "10-05-2026",
+        "fechafin": "17-05-2026",
         "organizador": "Federación Canaria / Delegación de Ajedrez de Lanzarote",
         "ritmo": "90 minutos + 30 segundos por movimiento",
         "lat": 40.4167,
@@ -1960,7 +1960,7 @@
         "nombre": "Liga por Equipos de Lanzarote 2026 (Segunda)",
         "ciudad": "Sociedad Democracia y Centro Insular de Arrecife (Lanzarote)",
         "fechaini": "11-04-2026",
-        "fechafin": "10-05-2026",
+        "fechafin": "17-05-2026",
         "organizador": "Federación Canaria / Delegación de Ajedrez de Lanzarote",
         "ritmo": "90 minutos + 30 segundos por movimiento",
         "lat": 40.4167,
@@ -2602,6 +2602,18 @@
         "lat": 41.6521342,
         "lon": -0.8809428,
         "link": "https://chess-results.com/tnr1366688.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "X Obert D'Escacs Festes de Sant Jordi",
+        "ciudad": "Sant Josep de Sa Talaia (Baleares)",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "Aitor Prohens Lopez",
+        "ritmo": "7 minutes for game with 2 seconds increment from move 1",
+        "lat": 38.9472966,
+        "lon": 1.2289007,
+        "link": "https://chess-results.com/tnr1379704.aspx?lan=2"
     },
     {
         "origin": "chess-results",
