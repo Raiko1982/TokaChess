@@ -1,6 +1,138 @@
 [
     {
         "origin": "info64",
+        "nombre": "Campeonato de Andalucia C",
+        "ciudad": "Linares",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0931247,
+        "lon": -3.6357207,
+        "link": "https://info64.org/campeonato-de-andalucia-c-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo de Ajedrez de îedralaves (Avila)",
+        "ciudad": "Pîedralaves",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.3181182,
+        "lon": -4.6986188,
+        "link": "https://info64.org/iii-torneo-de-ajedrez-de-iedralaves-avila"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Blitz Xadrez Compostela",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8804219,
+        "lon": -8.5458608,
+        "link": "https://info64.org/iii-torneo-blitz-xadrez-compostela"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Escolar Benjamin Santiago 2026",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "11-04-2026",
+        "fechafin": "18-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8804219,
+        "lon": -8.5458608,
+        "link": "https://info64.org/escolar-benjamin-santiago-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I LOQUILANDIA Escuela El Rey - Torneo VÁLIDO PARA ELO FADA",
+        "ciudad": "Parque Loquilandia, Huércal",
+        "fechaini": "24-04-2026",
+        "fechafin": "24-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/i-loquilandia-escuela-el-rey-torneo-valido-para-elo-fada"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Cto. Prov. Estándar Absoluto, femenino y veteranos Guadalajara 2026",
+        "ciudad": "Guadalajara",
+        "fechaini": "18-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7399963,
+        "lon": -2.50593,
+        "link": "https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Juegos Escolares Municipales- Jornada 4. CATEGORIA INF. Y CADETE (ESO y BACH.)",
+        "ciudad": "ALICANTE",
+        "fechaini": "29-03-2026",
+        "fechafin": "29-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/juegos-escolares-municipales-jornada-4-categoria-inf-y-cadete-eso-y-bach"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Juegos Escolares Municipales- Jornada 4. CATEGORIA ALEVIN (5º y 6º)",
+        "ciudad": "ALICANTE",
+        "fechaini": "29-03-2026",
+        "fechafin": "29-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/juegos-escolares-municipales-jornada-4-categoria-alevin-5o-y-6o"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Juegos Escolares Municipales- Jornada 4. CATEGORIA BENJAMIN (3º y 4º)",
+        "ciudad": "ALICANTE",
+        "fechaini": "29-03-2026",
+        "fechafin": "29-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/juegos-escolares-municipales-jornada-4-categoria-benjamin-3o-y-4o"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Juegos Escolares Municipales- Jornada 4. CATEGORIA PREBENJAMIN (1º y 2º)",
+        "ciudad": "ALICANTE",
+        "fechaini": "29-03-2026",
+        "fechafin": "29-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/juegos-escolares-municipales-jornada-4-categoria-prebenjamin-1o-y-2o"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXV Torneo Pueblo Nuevo  Martes y Jueves",
+        "ciudad": "Calle Alava, 14. Madrid",
+        "fechaini": "09-04-2026",
+        "fechafin": "07-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4201061,
+        "lon": -3.5265901,
+        "link": "https://info64.org/xxv-torneo-pueblo-nuevo-martes-y-jueves"
+    },
+    {
+        "origin": "info64",
         "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S14",
         "ciudad": "Gijon",
         "fechaini": "12-04-2026",
@@ -154,18 +286,6 @@
         "lat": 36.7421339,
         "lon": -5.1665916,
         "link": "https://info64.org/x-torneo-ajedrez-apymer"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo de Ajedrez ''IES Los Neveros''",
-        "ciudad": "IES Los Neveros, Huétor Vega",
-        "fechaini": "26-03-2026",
-        "fechafin": "26-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.1518197,
-        "lon": -3.5750936,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-ies-los-neveros"
     },
     {
         "origin": "info64",
@@ -541,30 +661,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Andalucia C",
-        "ciudad": "Linares",
-        "fechaini": "10-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0931247,
-        "lon": -3.6357207,
-        "link": "https://info64.org/campeonato-de-andalucia-c-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I TORNEO PROVINCIAL DE AJEDREZ INTERINSTITUTOS",
-        "ciudad": "Cordoba",
-        "fechaini": "26-03-2026",
-        "fechafin": "26-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8845813,
-        "lon": -4.7760138,
-        "link": "https://info64.org/i-torneo-provincial-de-ajedrez-interinstitutos"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Caxton College Chess tournament u-10",
         "ciudad": "Puzol",
         "fechaini": "29-03-2026",
@@ -673,18 +769,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I LOQUILANDIA Escuela El Rey - Torneo VÁLIDO PARA ELO FADA",
-        "ciudad": "Parque Loquilandia, Huércal",
-        "fechaini": "24-04-2026",
-        "fechafin": "24-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/i-loquilandia-escuela-el-rey-torneo-valido-para-elo-fada"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Torneo Jaque al Alzheimer",
         "ciudad": "Parque San Eufrasio, Andújar",
         "fechaini": "28-03-2026",
@@ -781,18 +865,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Escolar Benjamin Santiago 2026",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "11-04-2026",
-        "fechafin": "18-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8804219,
-        "lon": -8.5458608,
-        "link": "https://info64.org/escolar-benjamin-santiago-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "V IRT SUB1800 CIUDAD DE MUTXAMEL",
         "ciudad": "Mutxamel",
         "fechaini": "07-04-2026",
@@ -838,18 +910,6 @@
         "lat": 36.7743863,
         "lon": -2.8124886,
         "link": "https://info64.org/campeonato-de-almeria-por-edades-2026-sub-08"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Blitz Xadrez Compostela",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8804219,
-        "lon": -8.5458608,
-        "link": "https://info64.org/iii-torneo-blitz-xadrez-compostela"
     },
     {
         "origin": "info64",
@@ -1033,18 +1093,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXV Torneo Pueblo Nuevo  Martes y Jueves",
-        "ciudad": "Calle Alava, 14. Madrid",
-        "fechaini": "09-04-2026",
-        "fechafin": "07-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4201061,
-        "lon": -3.5265901,
-        "link": "https://info64.org/xxv-torneo-pueblo-nuevo-martes-y-jueves"
-    },
-    {
-        "origin": "info64",
         "nombre": "Olimpiada Escolar Mérida",
         "ciudad": "Mérida",
         "fechaini": "26-03-2026",
@@ -1174,18 +1222,6 @@
         "lat": 36.8405841,
         "lon": -5.3905374,
         "link": "https://info64.org/v-abierto-de-ajedrez-clasico-sub-2200-villa-de-zahara-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Xadrez entre Institutos",
-        "ciudad": "Lugo",
-        "fechaini": "26-03-2026",
-        "fechafin": "26-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.0395266,
-        "lon": -7.4567985,
-        "link": "https://info64.org/xadrez-entre-institutos"
     },
     {
         "origin": "info64",
@@ -1801,18 +1837,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Cto. Prov. Estándar Absoluto, femenino y veteranos Guadalajara 2026",
-        "ciudad": "Guadalajara",
-        "fechaini": "18-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7399963,
-        "lon": -2.50593,
-        "link": "https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Open Rapidas Tielmes 2026",
         "ciudad": "Tielmes",
         "fechaini": "25-04-2026",
@@ -1843,8 +1867,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
+        "lat": 40.4467782,
+        "lon": -3.714568,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
@@ -2014,54 +2038,6 @@
         "lat": 39.6671024,
         "lon": -4.6415461,
         "link": "https://info64.org/ii-torneo-de-ajedrez-de-navalucillos-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Juegos Escolares Municipales- Jornada 4. CATEGORIA INF. Y CADETE (ESO y BACH.)",
-        "ciudad": "ALICANTE",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/juegos-escolares-municipales-jornada-4-categoria-inf-y-cadete-eso-y-bach"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Juegos Escolares Municipales- Jornada 4. CATEGORIA ALEVIN (5º y 6º)",
-        "ciudad": "ALICANTE",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/juegos-escolares-municipales-jornada-4-categoria-alevin-5o-y-6o"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Juegos Escolares Municipales- Jornada 4. CATEGORIA BENJAMIN (3º y 4º)",
-        "ciudad": "ALICANTE",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/juegos-escolares-municipales-jornada-4-categoria-benjamin-3o-y-4o"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Juegos Escolares Municipales- Jornada 4. CATEGORIA PREBENJAMIN (1º y 2º)",
-        "ciudad": "ALICANTE",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/juegos-escolares-municipales-jornada-4-categoria-prebenjamin-1o-y-2o"
     },
     {
         "origin": "info64",
