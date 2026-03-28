@@ -1,27 +1,87 @@
 [
     {
         "origin": "info64",
-        "nombre": "Escuela Oropesa  2",
-        "ciudad": "Oropesa",
-        "fechaini": "27-03-2026",
-        "fechafin": "27-03-2026",
+        "nombre": "IV Torneo de Ajedrez Semana Santa",
+        "ciudad": "Cordoba",
+        "fechaini": "28-03-2026",
+        "fechafin": "28-03-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.9175144,
-        "lon": -5.1747241,
-        "link": "https://info64.org/escuela-oropesa-2"
+        "lat": 37.8845813,
+        "lon": -4.7760138,
+        "link": "https://info64.org/iv-torneo-de-semana-santa"
     },
     {
         "origin": "info64",
-        "nombre": "V Torneo Escolar de Ajedrez Colegio B. Marcote",
-        "ciudad": "Mondariz",
-        "fechaini": "27-03-2026",
-        "fechafin": "27-03-2026",
+        "nombre": "XLVI Open Internacional Ciudad de San Sebastian",
+        "ciudad": "Donostia",
+        "fechaini": "28-03-2026",
+        "fechafin": "04-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.2329417,
-        "lon": -8.4548756,
-        "link": "https://info64.org/v-torneo-escolar-de-ajedrez-colegio-b-marcote"
+        "lat": 43.3224219,
+        "lon": -1.9838889,
+        "link": "https://info64.org/xvli-open-internacional-ciudad-de-san-sebastian"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXVIII Open Internacional Padre Arrupe - Universidad de Deusto",
+        "ciudad": "Bilbao",
+        "fechaini": "28-03-2026",
+        "fechafin": "28-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2630018,
+        "lon": -2.9350039,
+        "link": "https://info64.org/xxviii-open-internacional-padre-arrupe-universidad-de-deusto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Alicante Sub-18",
+        "ciudad": "Alicante",
+        "fechaini": "28-03-2026",
+        "fechafin": "28-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/campeonato-provincial-alicante-sub-18-1-1-1-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XVIII Memorial Pedro Lezcano Montalvo 2026",
+        "ciudad": "Gran Canaria",
+        "fechaini": "28-03-2026",
+        "fechafin": "05-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 27.9580004,
+        "lon": -15.6062305,
+        "link": "https://info64.org/xviii-memorial-pedro-lezcano-montalvo-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campionato Galego Sub-12 2026",
+        "ciudad": "Padrón",
+        "fechaini": "28-03-2026",
+        "fechafin": "30-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.7390228,
+        "lon": -8.6602504,
+        "link": "https://info64.org/campionato-galego-sub-12-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campionato Galego Sub-16 2026",
+        "ciudad": "Padron",
+        "fechaini": "28-03-2026",
+        "fechafin": "31-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.7390228,
+        "lon": -8.6602504,
+        "link": "https://info64.org/campionato-galego-sub-16-2026"
     },
     {
         "origin": "info64",
@@ -34,18 +94,6 @@
         "lat": 42.7390228,
         "lon": -8.6602504,
         "link": "https://info64.org/campionato-galego-sub-10-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campionato Galego Sub 12 2026",
-        "ciudad": "Padrón",
-        "fechaini": "28-03-2026",
-        "fechafin": "30-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7390228,
-        "lon": -8.6602504,
-        "link": "https://info64.org/campionato-galego-sub-12-2026"
     },
     {
         "origin": "info64",
@@ -94,18 +142,6 @@
         "lat": 38.3436365,
         "lon": -0.4881708,
         "link": "https://info64.org/campeonato-provincial-alicante-sub-12-1-1-1-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo de Ajedrez Semana Santa",
-        "ciudad": "Cordoba",
-        "fechaini": "28-03-2026",
-        "fechafin": "28-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8845813,
-        "lon": -4.7760138,
-        "link": "https://info64.org/iv-torneo-de-semana-santa"
     },
     {
         "origin": "info64",
@@ -181,18 +217,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Alicante Sub-18",
-        "ciudad": "Alicante",
-        "fechaini": "28-03-2026",
-        "fechafin": "28-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/campeonato-provincial-alicante-sub-18-1-1-1-1-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Alicante Sub-10",
         "ciudad": "Alicante",
         "fechaini": "28-03-2026",
@@ -214,54 +238,6 @@
         "lat": 38.3436365,
         "lon": -0.4881708,
         "link": "https://info64.org/campeonato-provincial-alicante-sub-08-1-1-1-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXVIII Open Internacional Padre Arrupe - Universidad de Deusto",
-        "ciudad": "Bilbao",
-        "fechaini": "28-03-2026",
-        "fechafin": "28-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.2630018,
-        "lon": -2.9350039,
-        "link": "https://info64.org/xxviii-open-internacional-padre-arrupe-universidad-de-deusto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XLVI Open Internacional Ciudad de San Sebastian",
-        "ciudad": "Donostia",
-        "fechaini": "28-03-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3224219,
-        "lon": -1.9838889,
-        "link": "https://info64.org/xvli-open-internacional-ciudad-de-san-sebastian"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XVIII Memorial Pedro Lezcano Montalvo 2026",
-        "ciudad": "Gran Canaria",
-        "fechaini": "28-03-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 27.9580004,
-        "lon": -15.6062305,
-        "link": "https://info64.org/xviii-memorial-pedro-lezcano-montalvo-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campionato Galego Sub-16 2026",
-        "ciudad": "Padron",
-        "fechaini": "28-03-2026",
-        "fechafin": "31-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7390228,
-        "lon": -8.6602504,
-        "link": "https://info64.org/campionato-galego-sub-16-2026"
     },
     {
         "origin": "info64",
@@ -625,18 +601,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Valencia Sub-10",
-        "ciudad": "Valencia",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/campeonato-provincial-valencia-sub-10-1-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Torneig d´Escacs Dels XLIV Jocs Esportius Joan Moles",
         "ciudad": "Nules",
         "fechaini": "29-03-2026",
@@ -658,6 +622,18 @@
         "lat": 39.4697065,
         "lon": -0.3763353,
         "link": "https://info64.org/campeonato-provincial-valencia-sub-18-1-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Valencia Sub-10",
+        "ciudad": "Valencia",
+        "fechaini": "29-03-2026",
+        "fechafin": "29-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/campeonato-provincial-valencia-sub-10-1-1"
     },
     {
         "origin": "info64",
@@ -1537,18 +1513,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXV Torneo Pueblo Nuevo  Martes y Jueves",
-        "ciudad": "Calle Alava, 14. Madrid",
-        "fechaini": "09-04-2026",
-        "fechafin": "07-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4201061,
-        "lon": -3.5265901,
-        "link": "https://info64.org/xxv-torneo-pueblo-nuevo-martes-y-jueves"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato de Andalucia Absoluto 2026",
         "ciudad": "Linares",
         "fechaini": "09-04-2026",
@@ -1558,6 +1522,18 @@
         "lat": 38.0931247,
         "lon": -3.6357207,
         "link": "https://info64.org/campeonato-de-andalucia-absoluto-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXV Torneo Pueblo Nuevo  Martes y Jueves",
+        "ciudad": "Calle Alava, 14. Madrid",
+        "fechaini": "09-04-2026",
+        "fechafin": "07-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4201061,
+        "lon": -3.5265901,
+        "link": "https://info64.org/xxv-torneo-pueblo-nuevo-martes-y-jueves"
     },
     {
         "origin": "info64",
@@ -2089,6 +2065,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S12",
+        "ciudad": "Gijon",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-12"
+    },
+    {
+        "origin": "info64",
         "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S14",
         "ciudad": "Gijon",
         "fechaini": "12-04-2026",
@@ -2146,18 +2134,6 @@
         "lat": 40.4346528,
         "lon": -3.814834,
         "link": "https://info64.org/iii-open-de-ajedrez-laura-aguado-boto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S12",
-        "ciudad": "Gijon",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-12"
     },
     {
         "origin": "info64",
