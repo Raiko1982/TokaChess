@@ -1,17 +1,5 @@
 [
     {
-        "origin": "info64",
-        "nombre": "XLVI Open Internacional Ciudad de San Sebastian",
-        "ciudad": "Donostia",
-        "fechaini": "28-03-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3224219,
-        "lon": -1.9838889,
-        "link": "https://info64.org/xvli-open-internacional-ciudad-de-san-sebastian"
-    },
-    {
         "origin": "chess-results",
         "nombre": "Campeonato de Aragón de Ajedrez por Equipos 2026 -",
         "ciudad": "ZARAGOZA (Agrupacion Artística Aragonesa, Mariano Lagasca, 23, Zaragoza)",
@@ -433,27 +421,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Valencia Sub-18",
-        "ciudad": "Valencia",
+        "nombre": "II Torneo Ajedrez Aficionados Villajoyosa",
+        "ciudad": "Villajoyosa",
         "fechaini": "29-03-2026",
         "fechafin": "29-03-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/campeonato-provincial-valencia-sub-18-1-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Valencia Sub-12",
-        "ciudad": "Valencia",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/campeonato-provincial-valencia-sub-12-1-1"
+        "lat": 38.5100778,
+        "lon": -0.2296202,
+        "link": "https://info64.org/ii-torneo-ajedrez-aficionados-villajoyosa"
     },
     {
         "origin": "info64",
@@ -481,15 +457,39 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Torneo Ajedrez Aficionados Villajoyosa",
-        "ciudad": "Villajoyosa",
+        "nombre": "I Open Freestyle de Castilla y Leon",
+        "ciudad": "Zamora",
         "fechaini": "29-03-2026",
         "fechafin": "29-03-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.5100778,
-        "lon": -0.2296202,
-        "link": "https://info64.org/ii-torneo-ajedrez-aficionados-villajoyosa"
+        "lat": 41.6857693,
+        "lon": -5.942315,
+        "link": "https://info64.org/i-open-freestyle-de-castilla-y-leon"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Valencia Sub-18",
+        "ciudad": "Valencia",
+        "fechaini": "29-03-2026",
+        "fechafin": "29-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/campeonato-provincial-valencia-sub-18-1-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Valencia Sub-12",
+        "ciudad": "Valencia",
+        "fechaini": "29-03-2026",
+        "fechafin": "29-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/campeonato-provincial-valencia-sub-12-1-1"
     },
     {
         "origin": "info64",
@@ -598,18 +598,6 @@
         "lat": 42.7887549,
         "lon": -1.666526,
         "link": "https://info64.org/cat-especial-ii-torneo-escolar-san-fermin-cerrado"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Open Freestyle de Castilla y Leon",
-        "ciudad": "Zamora",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6857693,
-        "lon": -5.942315,
-        "link": "https://info64.org/i-open-freestyle-de-castilla-y-leon"
     },
     {
         "origin": "info64",
@@ -913,6 +901,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Aberto de Xadrez Lóstego Semana Santa Barrocás 2026",
+        "ciudad": "Ourense",
+        "fechaini": "01-04-2026",
+        "fechafin": "01-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1939629,
+        "lon": -7.537124,
+        "link": "https://info64.org/i-aberto-de-xadrez-lostego-semana-santa-barrocas-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "OPEN BLITZ PASCUA",
         "ciudad": "OROPESA DEL MAR",
         "fechaini": "01-04-2026",
@@ -934,18 +934,6 @@
         "lat": 38.3964248,
         "lon": -0.5250339,
         "link": "https://info64.org/x-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2026-a"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Aberto de Xadrez Lóstego Semana Santa Barrocás 2026",
-        "ciudad": "Ourense",
-        "fechaini": "01-04-2026",
-        "fechafin": "01-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/i-aberto-de-xadrez-lostego-semana-santa-barrocas-2026"
     },
     {
         "origin": "info64",
@@ -1021,6 +1009,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II Open Ajedrez Cofrades Sub-1800 Talavera de la Reina",
+        "ciudad": "Talavera de la Reina",
+        "fechaini": "02-04-2026",
+        "fechafin": "03-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9603798,
+        "lon": -4.8311717,
+        "link": "https://info64.org/ii-open-ajedrez-cofrades-sub-1800-talavera-de-la-reina"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Open Sub 1800 FIDE Internacional de Ajedrez Ciudad de Conil",
         "ciudad": "Conil de la Frontera",
         "fechaini": "02-04-2026",
@@ -1054,18 +1054,6 @@
         "lat": 41.6521342,
         "lon": -0.8809428,
         "link": "https://info64.org/vii-palacio-de-pioneros"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open Ajedrez Cofrades Sub-1800 Talavera de la Reina",
-        "ciudad": "Talavera de la Reina",
-        "fechaini": "02-04-2026",
-        "fechafin": "03-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9603798,
-        "lon": -4.8311717,
-        "link": "https://info64.org/ii-open-ajedrez-cofrades-sub-1800-talavera-de-la-reina"
     },
     {
         "origin": "info64",
@@ -1453,6 +1441,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "V Torneo 960 Quart de Poblet",
+        "ciudad": "Quart de Poblet",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4827253,
+        "lon": -0.4438854,
+        "link": "https://info64.org/v-torneo-960-quart-de-poblet"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Open Madrid Chess Academy 2026",
         "ciudad": "Collado Villalba",
         "fechaini": "11-04-2026",
@@ -1630,18 +1630,6 @@
         "lat": 42.8804219,
         "lon": -8.5458608,
         "link": "https://info64.org/escolar-infantil-santiago-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo 960 Quart de Poblet",
-        "ciudad": "Quart de Poblet",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4827253,
-        "lon": -0.4438854,
-        "link": "https://info64.org/v-torneo-960-quart-de-poblet"
     },
     {
         "origin": "info64",
