@@ -1,6 +1,66 @@
 [
     {
         "origin": "info64",
+        "nombre": "Campeonato Provincial Valencia Sub-12",
+        "ciudad": "Valencia",
+        "fechaini": "29-03-2026",
+        "fechafin": "29-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/campeonato-provincial-valencia-sub-12-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Abierto de Ajedrez Rapid Torres Blancas de Camarma de Esteruelas 2026",
+        "ciudad": "Camarma de Esteruelas",
+        "fechaini": "25-04-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5497252,
+        "lon": -3.3785043,
+        "link": "https://info64.org/i-torneo-abierto-de-ajedrez-rapid-torres-blancas-de-camarma-de-esteruelas-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Open Blitz Tielmes 2026",
+        "ciudad": "Tielmes",
+        "fechaini": "24-04-2026",
+        "fechafin": "24-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.2466579,
+        "lon": -3.31377,
+        "link": "https://info64.org/v-open-blitz-tielmes-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo de Ajedrez de Rueda de Jalón",
+        "ciudad": "Rueda de Jalón",
+        "fechaini": "01-05-2026",
+        "fechafin": "01-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6331026,
+        "lon": -1.2747344,
+        "link": "https://info64.org/v-torneo-de-ajedrez-de-rueda-de-jalon"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Open Rapidas Tielmes 2026",
+        "ciudad": "Tielmes",
+        "fechaini": "25-04-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.2466579,
+        "lon": -3.31377,
+        "link": "https://info64.org/v-open-rapidas-tielmes-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato Provincial Valencia Sub-10",
         "ciudad": "Valencia",
         "fechaini": "29-03-2026",
@@ -61,18 +121,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Torneo Ajedrez Aficionados Villajoyosa",
-        "ciudad": "Villajoyosa",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5100778,
-        "lon": -0.2296202,
-        "link": "https://info64.org/ii-torneo-ajedrez-aficionados-villajoyosa"
-    },
-    {
-        "origin": "info64",
         "nombre": "OPEN BLITZ PASCUA",
         "ciudad": "OROPESA DEL MAR",
         "fechaini": "01-04-2026",
@@ -85,18 +133,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Juegos Escolares Municipales- Jornada 4. CATEGORIA INF. Y CADETE (ESO y BACH.)",
-        "ciudad": "ALICANTE",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/juegos-escolares-municipales-jornada-4-categoria-inf-y-cadete-eso-y-bach"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open Freestyle de Castilla y Leon",
         "ciudad": "Zamora",
         "fechaini": "29-03-2026",
@@ -106,18 +142,6 @@
         "lat": 41.6857693,
         "lon": -5.942315,
         "link": "https://info64.org/i-open-freestyle-de-castilla-y-leon"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Valencia Sub-12",
-        "ciudad": "Valencia",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/campeonato-provincial-valencia-sub-12-1-1"
     },
     {
         "origin": "info64",
@@ -166,30 +190,6 @@
         "lat": 39.4827253,
         "lon": -0.4438854,
         "link": "https://info64.org/v-torneo-960-quart-de-poblet"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Caxton College Chess tournament u-16",
-        "ciudad": "Puzol",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.6172229,
-        "lon": -0.3028272,
-        "link": "https://info64.org/i-caxton-college-chess-tournament-u-16"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Caxton College Chess tournament u-10",
-        "ciudad": "Puzol",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.6172229,
-        "lon": -0.3028272,
-        "link": "https://info64.org/i-caxton-college-chess-tournament-u-10"
     },
     {
         "origin": "info64",
@@ -370,18 +370,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/campeonato-individual-sub-16-de-madrid-2025-2026-final"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Sub12 II Torneo Escolar San Fermin (Abierto)",
-        "ciudad": "Ikastola San Fermin",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7887549,
-        "lon": -1.666526,
-        "link": "https://info64.org/sub12-ii-torneo-escolar-san-fermin-abierto"
     },
     {
         "origin": "info64",
@@ -649,30 +637,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Sub10 II Torneo Escolar San Fermin (Abierto)",
-        "ciudad": "Ikastola San Fermin",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7887549,
-        "lon": -1.666526,
-        "link": "https://info64.org/sub10-ii-torneo-escolar-san-fermin-abierto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cat. Especial II Torneo Escolar San Fermin (Abierto)",
-        "ciudad": "Ikastola San Fermin",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7887549,
-        "lon": -1.666526,
-        "link": "https://info64.org/cat-especial-ii-torneo-escolar-san-fermin-abierto"
-    },
-    {
-        "origin": "info64",
         "nombre": "Cat. Especial II Torneo Escolar San Fermin (Cerrado)",
         "ciudad": "Ikastola San Fermin",
         "fechaini": "29-03-2026",
@@ -841,18 +805,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Sub08 II Torneo Escolar San Fermin (Abierto)",
-        "ciudad": "Ikastola San Fermin",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7887549,
-        "lon": -1.666526,
-        "link": "https://info64.org/sub08-ii-torneo-escolar-san-fermin-abierto"
-    },
-    {
-        "origin": "info64",
         "nombre": "V IRT-SUB2400 OROPESA DEL MAR",
         "ciudad": "Oropesa del Mar",
         "fechaini": "04-09-2026",
@@ -925,18 +877,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Juegos Escolares Municipales- Jornada 4. CATEGORIA ALEVIN (5º y 6º)",
-        "ciudad": "ALICANTE",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/juegos-escolares-municipales-jornada-4-categoria-alevin-5o-y-6o"
-    },
-    {
-        "origin": "info64",
         "nombre": "I LOQUILANDIA Escuela El Rey - Torneo VÁLIDO PARA ELO FADA",
         "ciudad": "Parque Loquilandia, Huércal",
         "fechaini": "24-04-2026",
@@ -961,42 +901,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Juegos Escolares Municipales- Jornada 4. CATEGORIA BENJAMIN (3º y 4º)",
-        "ciudad": "ALICANTE",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/juegos-escolares-municipales-jornada-4-categoria-benjamin-3o-y-4o"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Juegos Escolares Municipales- Jornada 4. CATEGORIA PREBENJAMIN (1º y 2º)",
-        "ciudad": "ALICANTE",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/juegos-escolares-municipales-jornada-4-categoria-prebenjamin-1o-y-2o"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo de Ajedrez de Rueda de Jalón",
-        "ciudad": "Rueda de Jalón",
-        "fechaini": "01-05-2026",
-        "fechafin": "01-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6331026,
-        "lon": -1.2747344,
-        "link": "https://info64.org/v-torneo-de-ajedrez-de-rueda-de-jalon"
-    },
-    {
-        "origin": "info64",
         "nombre": "Sub10 II Torneo Escolar San Fermin (Cerrado)",
         "ciudad": "Ikastola San Fermin",
         "fechaini": "29-03-2026",
@@ -1006,18 +910,6 @@
         "lat": 42.7887549,
         "lon": -1.666526,
         "link": "https://info64.org/sub10-ii-torneo-escolar-san-fermin-cerrado"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Sub08 II Torneo Escolar San Fermin (Cerrado)",
-        "ciudad": "Ikastola San Fermin",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7887549,
-        "lon": -1.666526,
-        "link": "https://info64.org/sub08-ii-torneo-escolar-san-fermin-cerrado"
     },
     {
         "origin": "info64",
@@ -1129,18 +1021,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo Intergeneracional Valle de Aranguren",
-        "ciudad": "Valle de Aranguren",
-        "fechaini": "29-03-2026",
-        "fechafin": "29-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7752661,
-        "lon": -1.5754567,
-        "link": "https://info64.org/i-torneo-intergeneracional-valle-de-aranguren"
-    },
-    {
-        "origin": "info64",
         "nombre": "Escolar Infantil Santiago 2026",
         "ciudad": "Santiago de Compostela",
         "fechaini": "11-04-2026",
@@ -1150,18 +1030,6 @@
         "lat": 42.8804219,
         "lon": -8.5458608,
         "link": "https://info64.org/escolar-infantil-santiago-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Abierto de Ajedrez Rapid Torres Blancas de Camarma de Esteruelas 2026",
-        "ciudad": "Camarma de Esteruelas",
-        "fechaini": "25-04-2026",
-        "fechafin": "25-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5497252,
-        "lon": -3.3785043,
-        "link": "https://info64.org/i-torneo-abierto-de-ajedrez-rapid-torres-blancas-de-camarma-de-esteruelas-2026"
     },
     {
         "origin": "info64",
@@ -1510,30 +1378,6 @@
         "lat": 42.7533689,
         "lon": -0.4796771,
         "link": "https://info64.org/ix-open-de-ajedrez-canfranc-irt-sub-2200"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Open Rapidas Tielmes 2026",
-        "ciudad": "Tielmes",
-        "fechaini": "25-04-2026",
-        "fechafin": "25-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.2466579,
-        "lon": -3.31377,
-        "link": "https://info64.org/v-open-rapidas-tielmes-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Open Blitz Tielmes 2026",
-        "ciudad": "Tielmes",
-        "fechaini": "24-04-2026",
-        "fechafin": "24-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.2466579,
-        "lon": -3.31377,
-        "link": "https://info64.org/v-open-blitz-tielmes-2026"
     },
     {
         "origin": "info64",
