@@ -87,8 +87,7 @@ const TokaChess = {
         this.state.map.on('locationfound', this.onLocationFound.bind(this));
         this.state.map.on('locationerror', this.onLocationError.bind(this));
         this.state.map.locate({
-            setView: true, 
-            maxZoom: 16,
+            setView: false,            
             enableHighAccuracy: true
         });
     },
@@ -415,9 +414,11 @@ const TokaChess = {
     onLocationFound(e) {
         const radius = e.accuracy / 2;
         const map = this.state.map; // Accedemos al mapa desde el estado
+        
+        this.state.map.flyTo(e.latlng, this.state.map.getZoom());  
 
         L.marker(e.latlng).addTo(map)
-            .bindPopup("Estás a unos " + radius.toFixed(0) + " metros de aquí")
+            .bindPopup("Estás cerca de aquí")
             .openPopup();
 
         L.circle(e.latlng, radius).addTo(map);
