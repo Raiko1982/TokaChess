@@ -47,8 +47,9 @@ def scrape_toka_chess():
                 fechaini = cols[5].text.strip() if len(cols) > 2 else "Fecha no disponible"
                 fechafin = cols[6].text.strip() if len(cols) > 2 else "Fecha no disponible"
                 #print(f"Fechaini: {fechaini} Fechafin: {fechafin}")
-                fecha_torneo = datetime.strptime(fechaini, "%Y-%m-%d").date()
-                if fecha_torneo < hoy: continue
+                #fecha_torneo_ini = datetime.strptime(fechaini, "%Y-%m-%d").date()
+                fecha_torneo_fin = datetime.strptime(fechafin, "%Y-%m-%d").date()
+                if fecha_torneo_fin < hoy: continue
                 # 2. Geocodificación (Obtener Lat/Lon)
                 try:
                     # Añadimos ", Spain" para ayudar al buscador a no irse a otro país
