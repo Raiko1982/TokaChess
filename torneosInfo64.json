@@ -1,6 +1,138 @@
 [
     {
         "origin": "info64",
+        "nombre": "OPEN BLITZ PASCUA",
+        "ciudad": "OROPESA DEL MAR",
+        "fechaini": "01-04-2026",
+        "fechafin": "01-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0932078,
+        "lon": 0.1358123,
+        "link": "https://info64.org/open-blitz-pascua"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III T. Villa de Pantoja Iniciacion",
+        "ciudad": "Pantoja",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0454287,
+        "lon": -3.8354787,
+        "link": "https://info64.org/iii-t-villa-de-pantoja-iniciacion"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V IRT SUB1800 CIUDAD DE MUTXAMEL",
+        "ciudad": "Mutxamel",
+        "fechaini": "07-04-2026",
+        "fechafin": "09-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4136518,
+        "lon": -0.444471,
+        "link": "https://info64.org/v-irt-sub1800-ciudad-de-mutxamel"
+    },
+    {
+        "origin": "info64",
+        "nombre": "El Bollo 2026 - Sub 14",
+        "ciudad": "Aviles",
+        "fechaini": "30-03-2026",
+        "fechafin": "30-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5554436,
+        "lon": -5.9222466,
+        "link": "https://info64.org/el-bollo-2026-sub-14"
+    },
+    {
+        "origin": "info64",
+        "nombre": "El Bollo 2026 - Absoluto",
+        "ciudad": "Aviles",
+        "fechaini": "30-03-2026",
+        "fechafin": "30-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5554436,
+        "lon": -5.9222466,
+        "link": "https://info64.org/el-bollo-2026-absoluto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Primavera de Ajedrez 2026 - Infantil",
+        "ciudad": "Miguelturra",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9648147,
+        "lon": -3.8898604,
+        "link": "https://info64.org/ii-torneo-primavera-de-ajedrez-2026-infantil"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CAMPEONATO DE MALAGA B 2026 - SUB 2000 (464572)",
+        "ciudad": "Malaga",
+        "fechaini": "17-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7213028,
+        "lon": -4.4216366,
+        "link": "https://info64.org/campeonato-de-malaga-b-2026-sub-2000-464572"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VII Palacio de Pioneros",
+        "ciudad": "Zaragoza",
+        "fechaini": "02-04-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6521342,
+        "lon": -0.8809428,
+        "link": "https://info64.org/vii-palacio-de-pioneros"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Escolar Alevin Santiago 2026",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "11-04-2026",
+        "fechafin": "18-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8804219,
+        "lon": -8.5458608,
+        "link": "https://info64.org/escolar-alevin-santiago-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Blitz Xadrez Compostela",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8804219,
+        "lon": -8.5458608,
+        "link": "https://info64.org/iii-torneo-blitz-xadrez-compostela"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Final Autonómica XLIV Jocs Esportius Comunitat Valenciana - Sub 16",
+        "ciudad": "Xàtiva",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.988085,
+        "lon": -0.5200428,
+        "link": "https://info64.org/final-autonomica-xliv-jocs-esportius-comunitat-valenciana-sub-16"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo de ajedrez HERMANDAD DE SAN MARCOS DE ADRA 2026",
         "ciudad": "Adra",
         "fechaini": "19-04-2026",
@@ -37,18 +169,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Final Autonómica XLIV Jocs Esportius Comunitat Valenciana - Sub 16",
-        "ciudad": "Xàtiva",
-        "fechaini": "10-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.988085,
-        "lon": -0.5200428,
-        "link": "https://info64.org/final-autonomica-xliv-jocs-esportius-comunitat-valenciana-sub-16"
-    },
-    {
-        "origin": "info64",
         "nombre": "Final Autonómica XLIV Jocs Esportius Comunitat Valenciana - Sub 14",
         "ciudad": "Xàtiva",
         "fechaini": "10-04-2026",
@@ -58,30 +178,6 @@
         "lat": 38.988085,
         "lon": -0.5200428,
         "link": "https://info64.org/final-autonomica-xliv-jocs-esportius-comunitat-valenciana-sub-14"
-    },
-    {
-        "origin": "info64",
-        "nombre": "El Bollo 2026 - Absoluto",
-        "ciudad": "Aviles",
-        "fechaini": "30-03-2026",
-        "fechafin": "30-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
-        "link": "https://info64.org/el-bollo-2026-absoluto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "El Bollo 2026 - Sub 14",
-        "ciudad": "Aviles",
-        "fechaini": "30-03-2026",
-        "fechafin": "30-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
-        "link": "https://info64.org/el-bollo-2026-sub-14"
     },
     {
         "origin": "info64",
@@ -229,18 +325,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V IRT SUB1800 CIUDAD DE MUTXAMEL",
-        "ciudad": "Mutxamel",
-        "fechaini": "07-04-2026",
-        "fechafin": "09-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4136518,
-        "lon": -0.444471,
-        "link": "https://info64.org/v-irt-sub1800-ciudad-de-mutxamel"
-    },
-    {
-        "origin": "info64",
         "nombre": "XV Edicion Open de Primavera",
         "ciudad": "Colmenarejo",
         "fechaini": "05-04-2026",
@@ -250,18 +334,6 @@
         "lat": 40.5607257,
         "lon": -4.0165248,
         "link": "https://info64.org/xv-edicion-open-de-primavera"
-    },
-    {
-        "origin": "info64",
-        "nombre": "OPEN BLITZ PASCUA",
-        "ciudad": "OROPESA DEL MAR",
-        "fechaini": "01-04-2026",
-        "fechafin": "01-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0932078,
-        "lon": 0.1358123,
-        "link": "https://info64.org/open-blitz-pascua"
     },
     {
         "origin": "info64",
@@ -517,18 +589,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VII Palacio de Pioneros",
-        "ciudad": "Zaragoza",
-        "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6521342,
-        "lon": -0.8809428,
-        "link": "https://info64.org/vii-palacio-de-pioneros"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Individual Sub-20 de Madrid 2025-2026 - Final",
         "ciudad": "Madrid",
         "fechaini": "11-04-2026",
@@ -757,30 +817,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Torneo Blitz Xadrez Compostela",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8804219,
-        "lon": -8.5458608,
-        "link": "https://info64.org/iii-torneo-blitz-xadrez-compostela"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III T. Villa de Pantoja Iniciacion",
-        "ciudad": "Pantoja",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0454287,
-        "lon": -3.8354787,
-        "link": "https://info64.org/iii-t-villa-de-pantoja-iniciacion"
-    },
-    {
-        "origin": "info64",
         "nombre": "III T. Villa de Pantoja",
         "ciudad": "Pantoja",
         "fechaini": "12-04-2026",
@@ -862,18 +898,6 @@
         "lat": 38.0392362,
         "lon": -4.0505603,
         "link": "https://info64.org/ii-lince-andujar-chess-festival-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo Primavera de Ajedrez 2026 - Infantil",
-        "ciudad": "Miguelturra",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9648147,
-        "lon": -3.8898604,
-        "link": "https://info64.org/ii-torneo-primavera-de-ajedrez-2026-infantil"
     },
     {
         "origin": "info64",
@@ -982,18 +1006,6 @@
         "lat": 37.3891783,
         "lon": -5.7224779,
         "link": "https://info64.org/el-viso-del-alcor-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Escolar Alevin Santiago 2026",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "11-04-2026",
-        "fechafin": "18-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8804219,
-        "lon": -8.5458608,
-        "link": "https://info64.org/escolar-alevin-santiago-2026"
     },
     {
         "origin": "info64",
@@ -1549,6 +1561,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Circuito online Palencia CLASIFICACION",
+        "ciudad": "Palencia",
+        "fechaini": "27-01-2026",
+        "fechafin": "07-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4096322,
+        "lon": -4.6161004,
+        "link": "https://info64.org/i-circuito-online-palencia-clasificacion"
+    },
+    {
+        "origin": "info64",
         "nombre": "XLI Festival Internacional de Xadrez Cidade de Ferrol",
         "ciudad": "Ferrol",
         "fechaini": "04-07-2026",
@@ -1561,15 +1585,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "CAMPEONATO DE MALAGA B 2026 - SUB 2000 (464572)",
-        "ciudad": "Benalmadena",
-        "fechaini": "17-04-2026",
-        "fechafin": "19-04-2026",
+        "nombre": "I Circuito online Palencia",
+        "ciudad": "Palencia",
+        "fechaini": "27-01-2026",
+        "fechafin": "14-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.594519,
-        "lon": -4.572284,
-        "link": "https://info64.org/campeonato-de-malaga-b-2026-sub-2000-464572"
+        "lat": 42.4096322,
+        "lon": -4.6161004,
+        "link": "https://info64.org/i-circuito-online-palencia"
     },
     {
         "origin": "info64",
