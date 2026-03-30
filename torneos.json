@@ -1,18 +1,6 @@
 [
     {
         "origin": "info64",
-        "nombre": "El Bollo 2026 - Sub 14",
-        "ciudad": "Aviles",
-        "fechaini": "30-03-2026",
-        "fechafin": "30-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
-        "link": "https://info64.org/el-bollo-2026-sub-14"
-    },
-    {
-        "origin": "info64",
         "nombre": "El Bollo 2026 - Absoluto",
         "ciudad": "Aviles",
         "fechaini": "30-03-2026",
@@ -22,6 +10,18 @@
         "lat": 43.5554436,
         "lon": -5.9222466,
         "link": "https://info64.org/el-bollo-2026-absoluto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "El Bollo 2026 - Sub 14",
+        "ciudad": "Aviles",
+        "fechaini": "30-03-2026",
+        "fechafin": "30-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5554436,
+        "lon": -5.9222466,
+        "link": "https://info64.org/el-bollo-2026-sub-14"
     },
     {
         "origin": "chess-results",
@@ -73,18 +73,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "OPEN BLITZ PASCUA",
-        "ciudad": "OROPESA DEL MAR",
-        "fechaini": "01-04-2026",
-        "fechafin": "01-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0932078,
-        "lon": 0.1358123,
-        "link": "https://info64.org/open-blitz-pascua"
-    },
-    {
-        "origin": "info64",
         "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 A",
         "ciudad": "San Vicente del Raspeig",
         "fechaini": "01-04-2026",
@@ -97,18 +85,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Aberto de Xadrez Lóstego Semana Santa Barrocás 2026",
-        "ciudad": "Ourense",
-        "fechaini": "01-04-2026",
-        "fechafin": "01-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/i-aberto-de-xadrez-lostego-semana-santa-barrocas-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 B",
         "ciudad": "San Vicente del Raspeig",
         "fechaini": "01-04-2026",
@@ -118,6 +94,30 @@
         "lat": 38.3964248,
         "lon": -0.5250339,
         "link": "https://info64.org/x-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2026-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "OPEN BLITZ PASCUA",
+        "ciudad": "OROPESA DEL MAR",
+        "fechaini": "01-04-2026",
+        "fechafin": "01-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0932078,
+        "lon": 0.1358123,
+        "link": "https://info64.org/open-blitz-pascua"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Aberto de Xadrez Lóstego Semana Santa Barrocás 2026",
+        "ciudad": "Ourense",
+        "fechaini": "01-04-2026",
+        "fechafin": "01-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1939629,
+        "lon": -7.537124,
+        "link": "https://info64.org/i-aberto-de-xadrez-lostego-semana-santa-barrocas-2026"
     },
     {
         "origin": "info64",
@@ -181,6 +181,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Open Sub 1800 FIDE Internacional de Ajedrez Ciudad de Conil",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "02-04-2026",
+        "fechafin": "05-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/i-open-sub-1800-fide-internacional-de-ajedrez-ciudad-de-conil"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo de Ajedrez BANI EIZA",
+        "ciudad": "La Baneza",
+        "fechaini": "02-04-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.2998096,
+        "lon": -5.8970081,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-bani-eiza"
+    },
+    {
+        "origin": "info64",
         "nombre": "BLITZ Torneo Internacional Ajedrez de La Roda 2026",
         "ciudad": "La Roda",
         "fechaini": "02-04-2026",
@@ -190,6 +214,18 @@
         "lat": 39.20702,
         "lon": -2.1581637,
         "link": "https://info64.org/blitz-torneo-internacional-ajedrez-de-la-roda-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Ajedrez Cofrades Sub-1800 Talavera de la Reina",
+        "ciudad": "Talavera de la Reina",
+        "fechaini": "02-04-2026",
+        "fechafin": "03-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9603798,
+        "lon": -4.8311717,
+        "link": "https://info64.org/ii-open-ajedrez-cofrades-sub-1800-talavera-de-la-reina"
     },
     {
         "origin": "info64",
@@ -217,30 +253,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Open Sub 1800 FIDE Internacional de Ajedrez Ciudad de Conil",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "02-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/i-open-sub-1800-fide-internacional-de-ajedrez-ciudad-de-conil"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open Ajedrez Cofrades Sub-1800 Talavera de la Reina",
-        "ciudad": "Talavera de la Reina",
-        "fechaini": "02-04-2026",
-        "fechafin": "03-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9603798,
-        "lon": -4.8311717,
-        "link": "https://info64.org/ii-open-ajedrez-cofrades-sub-1800-talavera-de-la-reina"
-    },
-    {
-        "origin": "info64",
         "nombre": "VII Palacio de Pioneros",
         "ciudad": "Zaragoza",
         "fechaini": "02-04-2026",
@@ -250,18 +262,6 @@
         "lat": 41.6521342,
         "lon": -0.8809428,
         "link": "https://info64.org/vii-palacio-de-pioneros"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo de Ajedrez BANI EIZA",
-        "ciudad": "La Baneza",
-        "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.2998096,
-        "lon": -5.8970081,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-bani-eiza"
     },
     {
         "origin": "info64",
@@ -577,6 +577,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Final Autonómica XLIV Jocs Esportius Comunitat Valenciana - Sub 16",
+        "ciudad": "Xàtiva",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.988085,
+        "lon": -0.5200428,
+        "link": "https://info64.org/final-autonomica-xliv-jocs-esportius-comunitat-valenciana-sub-16"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Final Autonómica XLIV Jocs Esportius Comunitat Valenciana - Sub 14",
+        "ciudad": "Xàtiva",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.988085,
+        "lon": -0.5200428,
+        "link": "https://info64.org/final-autonomica-xliv-jocs-esportius-comunitat-valenciana-sub-14"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato de Andalucia B",
         "ciudad": "Linares",
         "fechaini": "10-04-2026",
@@ -601,27 +625,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "Final Autonómica XLIV Jocs Esportius Comunitat Valenciana - Sub 16",
-        "ciudad": "Xàtiva",
-        "fechaini": "10-04-2026",
+        "nombre": "Veteranos CTL 2026",
+        "ciudad": "Palencia",
+        "fechaini": "11-04-2026",
         "fechafin": "12-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.988085,
-        "lon": -0.5200428,
-        "link": "https://info64.org/final-autonomica-xliv-jocs-esportius-comunitat-valenciana-sub-16"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Final Autonómica XLIV Jocs Esportius Comunitat Valenciana - Sub 14",
-        "ciudad": "Xàtiva",
-        "fechaini": "10-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.988085,
-        "lon": -0.5200428,
-        "link": "https://info64.org/final-autonomica-xliv-jocs-esportius-comunitat-valenciana-sub-14"
+        "lat": 42.4096322,
+        "lon": -4.6161004,
+        "link": "https://info64.org/veteranos-ctl-2026-1"
     },
     {
         "origin": "info64",
@@ -814,18 +826,6 @@
         "lat": 42.8804219,
         "lon": -8.5458608,
         "link": "https://info64.org/escolar-infantil-santiago-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Veteranos CTL 2026",
-        "ciudad": "Palencia",
-        "fechaini": "11-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4096322,
-        "lon": -4.6161004,
-        "link": "https://info64.org/veteranos-ctl-2026-1"
     },
     {
         "origin": "info64",
@@ -1069,6 +1069,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S14",
+        "ciudad": "Gijon",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-14"
+    },
+    {
+        "origin": "info64",
         "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S10",
         "ciudad": "Gijon",
         "fechaini": "12-04-2026",
@@ -1102,18 +1114,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/xvii-torneo-ajedrez-ciudad-los-angeles-memorial-francisco-codes"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S14",
-        "ciudad": "Gijon",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-14"
     },
     {
         "origin": "info64",
@@ -1183,8 +1183,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
+        "lat": 40.4467782,
+        "lon": -3.714568,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
@@ -1417,6 +1417,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Torneo de ajedrez HERMANDAD DE SAN MARCOS DE ADRA 2026",
+        "ciudad": "Adra",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.748834,
+        "lon": -3.0203617,
+        "link": "https://info64.org/torneo-de-ajedrez-hermandad-de-san-marcos-de-adra-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "CP Toledo Absoluto A 2026",
         "ciudad": "Toledo",
         "fechaini": "19-04-2026",
@@ -1462,18 +1474,6 @@
         "lat": 39.8558913,
         "lon": -4.024265,
         "link": "https://info64.org/cp-toledo-absoluto-b-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo de ajedrez HERMANDAD DE SAN MARCOS DE ADRA 2026",
-        "ciudad": "Adra",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.748834,
-        "lon": -3.0203617,
-        "link": "https://info64.org/torneo-de-ajedrez-hermandad-de-san-marcos-de-adra-2026"
     },
     {
         "origin": "info64",
@@ -1777,6 +1777,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "III Open Internacional de Ajedrez de LOS GALLARDOS 2026",
+        "ciudad": "Los Gallardos",
+        "fechaini": "26-04-2026",
+        "fechafin": "26-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.1675863,
+        "lon": -1.9394052,
+        "link": "https://info64.org/iii-open-internacional-de-ajedrez-de-los-gallardos-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV Torneo Isabel de los Rios. Memorial Olayo Racionero Altozano",
         "ciudad": "Aldea de los Rios-Guarroman",
         "fechaini": "26-04-2026",
@@ -1798,18 +1810,6 @@
         "lat": 40.7854583,
         "lon": -2.6221233,
         "link": "https://info64.org/cto-provincial-guadalajara-de-ajedrez-escolar-2026-cifuentes"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Open Internacional de Ajedrez de LOS GALLARDOS 2026",
-        "ciudad": "Los Gallardos",
-        "fechaini": "26-04-2026",
-        "fechafin": "26-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.1675863,
-        "lon": -1.9394052,
-        "link": "https://info64.org/iii-open-internacional-de-ajedrez-de-los-gallardos-2026"
     },
     {
         "origin": "info64",
