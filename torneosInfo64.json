@@ -1,6 +1,78 @@
 [
     {
         "origin": "info64",
+        "nombre": "El Bollo 2026 - Absoluto",
+        "ciudad": "Aviles",
+        "fechaini": "30-03-2026",
+        "fechafin": "30-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5554436,
+        "lon": -5.9222466,
+        "link": "https://info64.org/el-bollo-2026-absoluto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "El Bollo 2026 - Sub 14",
+        "ciudad": "Aviles",
+        "fechaini": "30-03-2026",
+        "fechafin": "30-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5554436,
+        "lon": -5.9222466,
+        "link": "https://info64.org/el-bollo-2026-sub-14"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Autonomico Sub12 CTM 2026",
+        "ciudad": "Albacete",
+        "fechaini": "27-03-2026",
+        "fechafin": "30-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9950921,
+        "lon": -1.8559154,
+        "link": "https://info64.org/autonomico-sub12-ctm-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Autonomico Sub16 CTM 2026",
+        "ciudad": "Albacete",
+        "fechaini": "27-03-2026",
+        "fechafin": "30-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9950921,
+        "lon": -1.8559154,
+        "link": "https://info64.org/autonomico-sub16-ctm-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campionato Galego Sub-16 2026",
+        "ciudad": "Padron",
+        "fechaini": "28-03-2026",
+        "fechafin": "31-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.7390228,
+        "lon": -8.6602504,
+        "link": "https://info64.org/campionato-galego-sub-16-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campionato Galego Sub-12 2026",
+        "ciudad": "Padrón",
+        "fechaini": "28-03-2026",
+        "fechafin": "30-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.7390228,
+        "lon": -8.6602504,
+        "link": "https://info64.org/campionato-galego-sub-12-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campionato Galego Sub-10 2026",
         "ciudad": "Padrón",
         "fechaini": "28-03-2026",
@@ -10,6 +82,66 @@
         "lat": 42.7390228,
         "lon": -8.6602504,
         "link": "https://info64.org/campionato-galego-sub-10-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de Centro Jubilados de Tafalla",
+        "ciudad": "Tafalla",
+        "fechaini": "28-01-2026",
+        "fechafin": "27-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5278279,
+        "lon": -1.6744823,
+        "link": "https://info64.org/torneo-de-centro-jubilados-de-tafalla"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Autonomico Sub14 CTM 2026",
+        "ciudad": "Albacete",
+        "fechaini": "27-03-2026",
+        "fechafin": "30-03-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9950921,
+        "lon": -1.8559154,
+        "link": "https://info64.org/autonomico-sub14-ctm-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Centro Comercial Los Valles - Primavera",
+        "ciudad": "Collado Villalba",
+        "fechaini": "05-04-2026",
+        "fechafin": "05-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6432432,
+        "lon": -3.992353,
+        "link": "https://info64.org/torneo-primavera-centro-comercial-los-valles"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XLVI Open Internacional Ciudad de San Sebastian",
+        "ciudad": "Donostia",
+        "fechaini": "28-03-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3224219,
+        "lon": -1.9838889,
+        "link": "https://info64.org/xvli-open-internacional-ciudad-de-san-sebastian"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Open Internacional de Oviedo 2026",
+        "ciudad": "Oviedo",
+        "fechaini": "20-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3533452,
+        "lon": -5.8795096,
+        "link": "https://info64.org/open-internacional-de-oviedo-2026"
     },
     {
         "origin": "info64",
@@ -46,30 +178,6 @@
         "lat": 38.4136518,
         "lon": -0.444471,
         "link": "https://info64.org/v-irt-sub1800-ciudad-de-mutxamel"
-    },
-    {
-        "origin": "info64",
-        "nombre": "El Bollo 2026 - Sub 14",
-        "ciudad": "Aviles",
-        "fechaini": "30-03-2026",
-        "fechafin": "30-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
-        "link": "https://info64.org/el-bollo-2026-sub-14"
-    },
-    {
-        "origin": "info64",
-        "nombre": "El Bollo 2026 - Absoluto",
-        "ciudad": "Aviles",
-        "fechaini": "30-03-2026",
-        "fechafin": "30-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
-        "link": "https://info64.org/el-bollo-2026-absoluto"
     },
     {
         "origin": "info64",
@@ -118,54 +226,6 @@
         "lat": 41.6521342,
         "lon": -0.8809428,
         "link": "https://info64.org/vii-palacio-de-pioneros"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campionato Galego Sub-16 2026",
-        "ciudad": "Padron",
-        "fechaini": "28-03-2026",
-        "fechafin": "31-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7390228,
-        "lon": -8.6602504,
-        "link": "https://info64.org/campionato-galego-sub-16-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Autonomico Sub12 CTM 2026",
-        "ciudad": "Albacete",
-        "fechaini": "27-03-2026",
-        "fechafin": "30-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9950921,
-        "lon": -1.8559154,
-        "link": "https://info64.org/autonomico-sub12-ctm-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Autonomico Sub14 CTM 2026",
-        "ciudad": "Albacete",
-        "fechaini": "27-03-2026",
-        "fechafin": "30-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9950921,
-        "lon": -1.8559154,
-        "link": "https://info64.org/autonomico-sub14-ctm-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Autonomico Sub16 CTM 2026",
-        "ciudad": "Albacete",
-        "fechaini": "27-03-2026",
-        "fechafin": "30-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9950921,
-        "lon": -1.8559154,
-        "link": "https://info64.org/autonomico-sub16-ctm-2026"
     },
     {
         "origin": "info64",
@@ -226,18 +286,6 @@
         "lat": 38.988085,
         "lon": -0.5200428,
         "link": "https://info64.org/final-autonomica-xliv-jocs-esportius-comunitat-valenciana-sub-16"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campionato Galego Sub-12 2026",
-        "ciudad": "Padrón",
-        "fechaini": "28-03-2026",
-        "fechafin": "30-03-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7390228,
-        "lon": -8.6602504,
-        "link": "https://info64.org/campionato-galego-sub-12-2026"
     },
     {
         "origin": "info64",
@@ -457,26 +505,14 @@
     },
     {
         "origin": "info64",
-        "nombre": "XLVI Open Internacional Ciudad de San Sebastian",
-        "ciudad": "Donostia",
-        "fechaini": "28-03-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3224219,
-        "lon": -1.9838889,
-        "link": "https://info64.org/xvli-open-internacional-ciudad-de-san-sebastian"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Amigos del Ajedrez",
         "ciudad": "Online",
         "fechaini": "15-03-2026",
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.8831074,
-        "lon": 2.2431519,
+        "lat": 41.883263,
+        "lon": 2.243206,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -898,18 +934,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/open-de-ajedrez-la-didactica-chamberi-primavera-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Centro Comercial Los Valles - Primavera",
-        "ciudad": "Collado Villalba",
-        "fechaini": "05-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6432432,
-        "lon": -3.992353,
-        "link": "https://info64.org/torneo-primavera-centro-comercial-los-valles"
     },
     {
         "origin": "info64",
@@ -1573,18 +1597,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Open Internacional de Oviedo 2026",
-        "ciudad": "Oviedo",
-        "fechaini": "20-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3533452,
-        "lon": -5.8795096,
-        "link": "https://info64.org/open-internacional-de-oviedo-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Granada Chess Open 2026",
         "ciudad": "Granada",
         "fechaini": "28-07-2026",
@@ -1855,8 +1867,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
+        "lat": 40.4467782,
+        "lon": -3.714568,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
