@@ -13,7 +13,7 @@ def limpiar_fecha(fecha_str):
 
 def scrape_toka_chess():
     base = "https://info64.org"
-    url = base + "/search?name=&city=&arbiter=&ttype=1&status=1"
+    url = base + "/search?name=&city=&arbiter=&ttype=1&status=1&status=2"
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) TokaChessBot/1.0'}
     hoy = datetime.now().date()
 
