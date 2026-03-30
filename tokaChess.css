@@ -37,7 +37,9 @@
             overflow-y: auto;     /* Activa el scroll vertical si el contenido sobresale */
             -webkit-overflow-scrolling: touch; /* Suaviza el scroll en iPhone/iOS */
         }
-
+        #tokaChessLogo{
+            margin-top: 3%;
+        }
         .logo-link {
             display: flex;
             align-items: center;
@@ -69,6 +71,9 @@
             }
             #sidebar.active {
                 left: 0;
+            }
+            #tokaChessLogo{
+                margin-top: 5%;
             }
             .mobile-toggle {
                 display: block;

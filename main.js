@@ -59,8 +59,6 @@ const TokaChess = {
         });
     },
 
-    // --- Core: Mapa y Datos ---
-
     /**
      * Inicializa el mapa de Leaflet y la capa de clusters.
      */
@@ -84,6 +82,15 @@ const TokaChess = {
         });
 
         this.state.map.addLayer(this.state.markersLayer);
+        // 5. Vincular los eventos al mapa
+       // Usamos .bind(this) para que dentro de las funciones 'this' siga siendo TokaChess
+        this.state.map.on('locationfound', this.onLocationFound.bind(this));
+        this.state.map.on('locationerror', this.onLocationError.bind(this));
+        this.state.map.locate({
+            setView: true, 
+            maxZoom: 16,
+            enableHighAccuracy: true
+        });
     },
 
     /**
@@ -399,7 +406,27 @@ const TokaChess = {
 
             container.appendChild(btn);
         });
+    }, 
+
+/**
+     * Manejadores de Geolocalización
+     * Los definimos como métodos del objeto
+     */
+    onLocationFound(e) {
+        const radius = e.accuracy / 2;
+        const map = this.state.map; // Accedemos al mapa desde el estado
+
+        L.marker(e.latlng).addTo(map)
+            .bindPopup("Estás a unos " + radius.toFixed(0) + " metros de aquí")
+            .openPopup();
+
+        L.circle(e.latlng, radius).addTo(map);
+    },
+
+    onLocationError(e) {
+        console.error("Error de localización:", e.message);
     }
+
 };
 
 // Iniciar app
@@ -428,3 +455,4 @@ function toggleSidebar() {
     document.getElementById('sidebar').classList.toggle('active');
     document.getElementById('sidebar-overlay').classList.toggle('active');
 }
+
