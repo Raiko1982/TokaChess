@@ -307,8 +307,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883155,
-        "lon": 2.2430117,
+        "lat": 41.883148,
+        "lon": 2.2433061,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -349,7 +349,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo de Ajedrez de Lentas de Primavera en Vicalvaro 2026",
+        "nombre": "Torneo de Ajedrez de Lentas de Primavera Vicalvaro 2026 Rondas 1-2 Code 463571",
         "ciudad": "Madrid",
         "fechaini": "22-03-2026",
         "fechafin": "17-05-2026",
@@ -481,6 +481,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 A",
+        "ciudad": "San Vicente del Raspeig",
+        "fechaini": "01-04-2026",
+        "fechafin": "06-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3964248,
+        "lon": -0.5250339,
+        "link": "https://info64.org/x-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2026-a"
+    },
+    {
+        "origin": "info64",
         "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 B",
         "ciudad": "San Vicente del Raspeig",
         "fechaini": "01-04-2026",
@@ -493,15 +505,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 A",
-        "ciudad": "San Vicente del Raspeig",
+        "nombre": "V Magistral Villa de Zahara 2026",
+        "ciudad": "Zahara",
         "fechaini": "01-04-2026",
-        "fechafin": "06-04-2026",
+        "fechafin": "05-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.3964248,
-        "lon": -0.5250339,
-        "link": "https://info64.org/x-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2026-a"
+        "lat": 36.8405841,
+        "lon": -5.3905374,
+        "link": "https://info64.org/v-magistral-villa-de-zahara-2026"
     },
     {
         "origin": "info64",
@@ -526,30 +538,6 @@
         "lat": 40.0932078,
         "lon": 0.1358123,
         "link": "https://info64.org/open-blitz-pascua"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Magistral Villa de Zahara 2026",
-        "ciudad": "Zahara",
-        "fechaini": "01-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.8405841,
-        "lon": -5.3905374,
-        "link": "https://info64.org/v-magistral-villa-de-zahara-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "TORNEIG DE PASQUA - IES JOAN FUSTER",
-        "ciudad": "Sueca",
-        "fechaini": "01-04-2026",
-        "fechafin": "01-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2025604,
-        "lon": -0.3111645,
-        "link": "https://info64.org/torneig-de-pasqua-ies-joan-fuster"
     },
     {
         "origin": "chess-results",
@@ -613,15 +601,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE COÍN SUB2400",
-        "ciudad": "Antiguo Convento Santa María",
+        "nombre": "Campionato galego absoluto open 2026",
+        "ciudad": "Padron",
         "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
+        "fechafin": "05-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.0119302,
-        "lon": -3.3710091,
-        "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub2400-ciudad-de-coin"
+        "lat": 42.7390228,
+        "lon": -8.6602504,
+        "link": "https://info64.org/campionato-galego-absoluto-open-2026"
     },
     {
         "origin": "info64",
@@ -637,18 +625,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Torneo de Ajedrez BANI EIZA",
-        "ciudad": "La Baneza",
-        "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.2998096,
-        "lon": -5.8970081,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-bani-eiza"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open Sub 1800 FIDE Internacional de Ajedrez Ciudad de Conil",
         "ciudad": "Conil de la Frontera",
         "fechaini": "02-04-2026",
@@ -658,6 +634,30 @@
         "lat": 36.277054,
         "lon": -6.0881874,
         "link": "https://info64.org/i-open-sub-1800-fide-internacional-de-ajedrez-ciudad-de-conil"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE COÍN SUB2400",
+        "ciudad": "Antiguo Convento Santa María",
+        "fechaini": "02-04-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0119302,
+        "lon": -3.3710091,
+        "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub2400-ciudad-de-coin"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo de Ajedrez BANI EIZA",
+        "ciudad": "La Baneza",
+        "fechaini": "02-04-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.2998096,
+        "lon": -5.8970081,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-bani-eiza"
     },
     {
         "origin": "info64",
@@ -682,18 +682,6 @@
         "lat": 36.277054,
         "lon": -6.0881874,
         "link": "https://info64.org/i-open-supra-1700-fide-internacional-de-ajedrez-ciudad-de-conil"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campionato galego absoluto open 2026",
-        "ciudad": "Padron",
-        "fechaini": "02-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7390228,
-        "lon": -8.6602504,
-        "link": "https://info64.org/campionato-galego-absoluto-open-2026"
     },
     {
         "origin": "info64",
@@ -769,15 +757,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "XV Edicion Open de Primavera",
-        "ciudad": "Colmenarejo",
+        "nombre": "V Torneo Centro Comercial Los Valles - Primavera",
+        "ciudad": "Collado Villalba",
         "fechaini": "05-04-2026",
-        "fechafin": "17-05-2026",
+        "fechafin": "05-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.5607257,
-        "lon": -4.0165248,
-        "link": "https://info64.org/xv-edicion-open-de-primavera"
+        "lat": 40.6432432,
+        "lon": -3.992353,
+        "link": "https://info64.org/torneo-primavera-centro-comercial-los-valles"
     },
     {
         "origin": "info64",
@@ -793,15 +781,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Torneo Centro Comercial Los Valles - Primavera",
-        "ciudad": "Collado Villalba",
+        "nombre": "XV Edicion Open de Primavera",
+        "ciudad": "Colmenarejo",
         "fechaini": "05-04-2026",
-        "fechafin": "05-04-2026",
+        "fechafin": "17-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.6432432,
-        "lon": -3.992353,
-        "link": "https://info64.org/torneo-primavera-centro-comercial-los-valles"
+        "lat": 40.5607257,
+        "lon": -4.0165248,
+        "link": "https://info64.org/xv-edicion-open-de-primavera"
     },
     {
         "origin": "chess-results",
@@ -853,6 +841,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "V IRT SUB1800 CIUDAD DE MUTXAMEL",
+        "ciudad": "Mutxamel",
+        "fechaini": "07-04-2026",
+        "fechafin": "09-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4136518,
+        "lon": -0.444471,
+        "link": "https://info64.org/v-irt-sub1800-ciudad-de-mutxamel"
+    },
+    {
+        "origin": "info64",
         "nombre": "V OPEN CHESS MENORCA 2026",
         "ciudad": "Ciutadella",
         "fechaini": "07-04-2026",
@@ -874,18 +874,6 @@
         "lat": 39.9920763,
         "lon": 3.8978496,
         "link": "https://info64.org/v-open-chess-menorca-2026-grupo-b"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V IRT SUB1800 CIUDAD DE MUTXAMEL",
-        "ciudad": "Mutxamel",
-        "fechaini": "07-04-2026",
-        "fechafin": "09-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4136518,
-        "lon": -0.444471,
-        "link": "https://info64.org/v-irt-sub1800-ciudad-de-mutxamel"
     },
     {
         "origin": "info64",
@@ -1126,6 +1114,18 @@
         "lat": 38.0931247,
         "lon": -3.6357207,
         "link": "https://info64.org/campeonato-de-andalucia-c-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura clasificatorio sub8",
+        "ciudad": "Extremadura",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1748426,
+        "lon": -6.1529891,
+        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub8"
     },
     {
         "origin": "info64",
@@ -1687,8 +1687,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
+        "lat": 40.4467782,
+        "lon": -3.714568,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
@@ -2293,6 +2293,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II Maraton Blitz Rincon Lleno de Vida",
+        "ciudad": "Rincon de la Victoria",
+        "fechaini": "25-04-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7162109,
+        "lon": -4.2793767,
+        "link": "https://info64.org/ii-maraton-blitz-rincon-lleno-de-vida"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Torneo Abierto de Ajedrez Rapid Torres Blancas de Camarma de Esteruelas 2026",
         "ciudad": "Camarma de Esteruelas",
         "fechaini": "25-04-2026",
@@ -2326,18 +2338,6 @@
         "lat": 38.8592191,
         "lon": -6.1028965,
         "link": "https://info64.org/cpto-ext-final-senior-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Maraton Blitz Rincon Lleno de Vida",
-        "ciudad": "Rincon de la Victoria",
-        "fechaini": "25-04-2026",
-        "fechafin": "25-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7162109,
-        "lon": -4.2793767,
-        "link": "https://info64.org/ii-maraton-blitz-rincon-lleno-de-vida"
     },
     {
         "origin": "info64",
@@ -2998,6 +2998,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1376589.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXVIII Abierto Internacional CIUDAD de DOS HERMANAS 2026",
+        "ciudad": "Dos Hermanas",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.283689,
+        "lon": -5.9226718,
+        "link": "https://info64.org/xxxviii-abierto-internacional-ciudad-de-dos-hermanas-2026"
     },
     {
         "origin": "info64",
