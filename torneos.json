@@ -307,8 +307,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883155,
-        "lon": 2.2430117,
+        "lat": 41.883148,
+        "lon": 2.2433061,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -433,18 +433,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XLVI Open Internacional Ciudad de San Sebastian",
-        "ciudad": "Donostia",
-        "fechaini": "28-03-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3224219,
-        "lon": -1.9838889,
-        "link": "https://info64.org/xvli-open-internacional-ciudad-de-san-sebastian"
-    },
-    {
-        "origin": "info64",
         "nombre": "XVIII Memorial Pedro Lezcano Montalvo 2026",
         "ciudad": "Gran Canaria",
         "fechaini": "28-03-2026",
@@ -454,6 +442,18 @@
         "lat": 27.9580004,
         "lon": -15.6062305,
         "link": "https://info64.org/xviii-memorial-pedro-lezcano-montalvo-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XLVI Open Internacional Ciudad de San Sebastian",
+        "ciudad": "Donostia",
+        "fechaini": "28-03-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3224219,
+        "lon": -1.9838889,
+        "link": "https://info64.org/xvli-open-internacional-ciudad-de-san-sebastian"
     },
     {
         "origin": "info64",
@@ -517,54 +517,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VII Palacio de Pioneros",
-        "ciudad": "Zaragoza",
-        "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6521342,
-        "lon": -0.8809428,
-        "link": "https://info64.org/vii-palacio-de-pioneros"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open Ajedrez Cofrades Sub-1800 Talavera de la Reina",
-        "ciudad": "Talavera de la Reina",
-        "fechaini": "02-04-2026",
-        "fechafin": "03-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9603798,
-        "lon": -4.8311717,
-        "link": "https://info64.org/ii-open-ajedrez-cofrades-sub-1800-talavera-de-la-reina"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE COÍN SUB2400",
-        "ciudad": "Antiguo Convento Santa María",
-        "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0119302,
-        "lon": -3.3710091,
-        "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub2400-ciudad-de-coin"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo de Ajedrez BANI EIZA",
-        "ciudad": "La Baneza",
-        "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.2998096,
-        "lon": -5.8970081,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-bani-eiza"
-    },
-    {
-        "origin": "info64",
         "nombre": "BLITZ Torneo Internacional Ajedrez de La Roda 2026",
         "ciudad": "La Roda",
         "fechaini": "02-04-2026",
@@ -597,7 +549,7 @@
         "ritmo": "-",
         "lat": 42.7390228,
         "lon": -8.6602504,
-        "link": "https://info64.org/campionato-galego-absoluto-open-2026"
+        "link": "https://info64.org/campionato-galego-absoluto-open-2026-id-469437"
     },
     {
         "origin": "info64",
@@ -610,6 +562,54 @@
         "lat": 36.277054,
         "lon": -6.0881874,
         "link": "https://info64.org/i-open-sub-1800-fide-internacional-de-ajedrez-ciudad-de-conil"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo de Ajedrez BANI EIZA",
+        "ciudad": "La Baneza",
+        "fechaini": "02-04-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.2998096,
+        "lon": -5.8970081,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-bani-eiza"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VII Palacio de Pioneros",
+        "ciudad": "Zaragoza",
+        "fechaini": "02-04-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6521342,
+        "lon": -0.8809428,
+        "link": "https://info64.org/vii-palacio-de-pioneros"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE COÍN SUB2400",
+        "ciudad": "Antiguo Convento Santa María",
+        "fechaini": "02-04-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0119302,
+        "lon": -3.3710091,
+        "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub2400-ciudad-de-coin"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Ajedrez Cofrades Sub-1800 Talavera de la Reina",
+        "ciudad": "Talavera de la Reina",
+        "fechaini": "02-04-2026",
+        "fechafin": "03-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9603798,
+        "lon": -4.8311717,
+        "link": "https://info64.org/ii-open-ajedrez-cofrades-sub-1800-talavera-de-la-reina"
     },
     {
         "origin": "chess-results",
@@ -661,18 +661,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Jornada de Ajedrez 2026",
-        "ciudad": "Villarrubia Ojos",
-        "fechaini": "04-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2181465,
-        "lon": -3.6070212,
-        "link": "https://info64.org/ii-jornada-de-ajedrez-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo de ajedrez de semana Santa",
         "ciudad": "Cabra del Santo Cristo, Jaen",
         "fechaini": "04-04-2026",
@@ -685,15 +673,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo BANI EIZA Blitz 2026",
-        "ciudad": "La Baneza",
-        "fechaini": "05-04-2026",
-        "fechafin": "05-04-2026",
+        "nombre": "II Jornada de Ajedrez 2026",
+        "ciudad": "Villarrubia Ojos",
+        "fechaini": "04-04-2026",
+        "fechafin": "04-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.2998096,
-        "lon": -5.8970081,
-        "link": "https://info64.org/torneo-bani-eiza-blitz-2026"
+        "lat": 39.2181465,
+        "lon": -3.6070212,
+        "link": "https://info64.org/ii-jornada-de-ajedrez-2026"
     },
     {
         "origin": "info64",
@@ -706,6 +694,18 @@
         "lat": 43.3892333,
         "lon": -6.0696299,
         "link": "https://info64.org/iii-torneo-semana-santa-grado-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo BANI EIZA Blitz 2026",
+        "ciudad": "La Baneza",
+        "fechaini": "05-04-2026",
+        "fechafin": "05-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.2998096,
+        "lon": -5.8970081,
+        "link": "https://info64.org/torneo-bani-eiza-blitz-2026"
     },
     {
         "origin": "info64",
@@ -802,6 +802,42 @@
         "lat": 39.4827253,
         "lon": -0.4438854,
         "link": "https://info64.org/iv-irt-sub-1800-quart-de-poblet"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JDN Sub-18 Individual Femenino (Fase Final) 2026",
+        "ciudad": "Larrabide - Pamplona",
+        "fechaini": "07-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8080424,
+        "lon": -1.640845,
+        "link": "https://info64.org/jdn-sub-18-individual-femenino-fase-final-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JDN Sub-14 Individual Masculino (Fase Final) 2026",
+        "ciudad": "Larrabide - Pamplona",
+        "fechaini": "07-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8080424,
+        "lon": -1.640845,
+        "link": "https://info64.org/jdn-sub-14-individual-masculino-fase-final-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JDN Sub-16 Individual Masculino (Fase Final) 2026",
+        "ciudad": "Larrabide - Pamplona",
+        "fechaini": "07-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8080424,
+        "lon": -1.640845,
+        "link": "https://info64.org/jdn-sub-16-individual-masculino-fase-final-2026"
     },
     {
         "origin": "info64",
@@ -913,6 +949,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "JDN Sub-18 Individual Masculino (Fase Final) 2026",
+        "ciudad": "Larrabide - Pamplona",
+        "fechaini": "08-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8080424,
+        "lon": -1.640845,
+        "link": "https://info64.org/jdn-sub-18-individual-masculino-fase-final-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JDN Sub-14 y Sub-16 Individual Femenino (Fase Final) 2026",
+        "ciudad": "Larrabide - Pamplona",
+        "fechaini": "08-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8080424,
+        "lon": -1.640845,
+        "link": "https://info64.org/jdn-sub-14-y-sub-16-individual-femenino-fase-final-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato de Euskadi Absoluto 2026",
         "ciudad": "Legazpia",
         "fechaini": "08-04-2026",
@@ -1018,6 +1078,78 @@
         "lat": 39.9920763,
         "lon": 3.8978496,
         "link": "https://chess-results.com/tnr1258113.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JDN Sub-12 Individual Masculino (Fase Final) 2026",
+        "ciudad": "Larrabide - Pamplona",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8080424,
+        "lon": -1.640845,
+        "link": "https://info64.org/jdn-sub-12-individual-masculino-fase-final-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JDN Sub-10 Individual Femenino (Fase Final) 2026",
+        "ciudad": "Larrabide - Pamplona",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8080424,
+        "lon": -1.640845,
+        "link": "https://info64.org/jdn-sub-10-individual-femenino-fase-final-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JDN Sub-12 Individual Femenino (Fase Final) 2026",
+        "ciudad": "Larrabide - Pamplona",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8080424,
+        "lon": -1.640845,
+        "link": "https://info64.org/jdn-sub-12-individual-femenino-fase-final-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JDN Sub-08 Individual Femenino (Fase Final) 2026",
+        "ciudad": "Larrabide - Pamplona",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8080424,
+        "lon": -1.640845,
+        "link": "https://info64.org/jdn-sub-08-individual-femenino-fase-final-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JDN Sub-10 Individual Masculino (Fase Final) 2026",
+        "ciudad": "Larrabide - Pamplona",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8080424,
+        "lon": -1.640845,
+        "link": "https://info64.org/jdn-sub-10-individual-masculino-fase-final-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JDN Sub-08 Individual Masculino (Fase Final) 2026",
+        "ciudad": "Larrabide - Pamplona",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8080424,
+        "lon": -1.640845,
+        "link": "https://info64.org/jdn-sub-08-individual-masculino-fase-final-2026"
     },
     {
         "origin": "info64",
@@ -1585,39 +1717,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S14",
-        "ciudad": "Gijon",
+        "nombre": "Campeonato Regional Institutos CLM 2026",
+        "ciudad": "Ossa de Montiel",
         "fechaini": "12-04-2026",
         "fechafin": "12-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-14"
+        "lat": 38.9625266,
+        "lon": -2.7453748,
+        "link": "https://info64.org/team/"
     },
     {
         "origin": "info64",
-        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S12",
-        "ciudad": "Gijon",
+        "nombre": "Campeonato Regional Colegios CLM 2026",
+        "ciudad": "Ossa De Montiel",
         "fechaini": "12-04-2026",
         "fechafin": "12-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S10",
-        "ciudad": "Gijon",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-10"
+        "lat": 38.9625266,
+        "lon": -2.7453748,
+        "link": "https://info64.org/team/campeonato-regional-colegios-clm-2026"
     },
     {
         "origin": "info64",
@@ -1633,6 +1753,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S10",
+        "ciudad": "Gijon",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-10"
+    },
+    {
+        "origin": "info64",
         "nombre": "III TORNEO FIESTA DEL PCA",
         "ciudad": "CORDOBA",
         "fechaini": "12-04-2026",
@@ -1645,6 +1777,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S12",
+        "ciudad": "Gijon",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-12"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S14",
+        "ciudad": "Gijon",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-14"
+    },
+    {
+        "origin": "info64",
         "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S16",
         "ciudad": "Gijon",
         "fechaini": "12-04-2026",
@@ -1654,6 +1810,18 @@
         "lat": 43.5449422,
         "lon": -5.66275,
         "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-16"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S14-S16",
+        "ciudad": "Gijon",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-s14-s16"
     },
     {
         "origin": "info64",
