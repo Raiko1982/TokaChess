@@ -307,8 +307,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.8831074,
-        "lon": 2.2431519,
+        "lat": 41.883263,
+        "lon": 2.243206,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -517,6 +517,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV Torneo de Ajedrez BANI EIZA",
+        "ciudad": "La Baneza",
+        "fechaini": "02-04-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.2998096,
+        "lon": -5.8970081,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-bani-eiza"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Open Sub 1800 FIDE Internacional de Ajedrez Ciudad de Conil",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "02-04-2026",
+        "fechafin": "05-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/i-open-sub-1800-fide-internacional-de-ajedrez-ciudad-de-conil"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Open Supra 1700 FIDE Internacional de Ajedrez Ciudad de Conil",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "02-04-2026",
+        "fechafin": "05-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/i-open-supra-1700-fide-internacional-de-ajedrez-ciudad-de-conil"
+    },
+    {
+        "origin": "info64",
         "nombre": "VII Palacio de Pioneros",
         "ciudad": "Zaragoza",
         "fechaini": "02-04-2026",
@@ -538,18 +574,6 @@
         "lat": 39.9603798,
         "lon": -4.8311717,
         "link": "https://info64.org/ii-open-ajedrez-cofrades-sub-1800-talavera-de-la-reina"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo de Ajedrez BANI EIZA",
-        "ciudad": "La Baneza",
-        "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.2998096,
-        "lon": -5.8970081,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-bani-eiza"
     },
     {
         "origin": "info64",
@@ -586,30 +610,6 @@
         "lat": 38.0119302,
         "lon": -3.3710091,
         "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub2400-ciudad-de-coin"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Open Supra 1700 FIDE Internacional de Ajedrez Ciudad de Conil",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "02-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/i-open-supra-1700-fide-internacional-de-ajedrez-ciudad-de-conil"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Open Sub 1800 FIDE Internacional de Ajedrez Ciudad de Conil",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "02-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/i-open-sub-1800-fide-internacional-de-ajedrez-ciudad-de-conil"
     },
     {
         "origin": "chess-results",
@@ -649,18 +649,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo de ajedrez de semana Santa",
-        "ciudad": "Cabra del Santo Cristo, Jaen",
-        "fechaini": "04-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.7036217,
-        "lon": -3.2867065,
-        "link": "https://info64.org/torneo-de-ajedrez-de-semana-santa"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Jornada de Ajedrez 2026",
         "ciudad": "Villarrubia Ojos",
         "fechaini": "04-04-2026",
@@ -673,15 +661,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Torneo Semana Santa Junior Grado 2026",
-        "ciudad": "Grado",
-        "fechaini": "05-04-2026",
-        "fechafin": "05-04-2026",
+        "nombre": "Torneo de ajedrez de semana Santa",
+        "ciudad": "Cabra del Santo Cristo, Jaen",
+        "fechaini": "04-04-2026",
+        "fechafin": "04-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.3892333,
-        "lon": -6.0696299,
-        "link": "https://info64.org/iii-torneo-semana-santa-junior-grado-2026"
+        "lat": 37.7036217,
+        "lon": -3.2867065,
+        "link": "https://info64.org/torneo-de-ajedrez-de-semana-santa"
     },
     {
         "origin": "info64",
@@ -694,6 +682,18 @@
         "lat": 43.3892333,
         "lon": -6.0696299,
         "link": "https://info64.org/iii-torneo-semana-santa-grado-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Semana Santa Junior Grado 2026",
+        "ciudad": "Grado",
+        "fechaini": "05-04-2026",
+        "fechafin": "05-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3892333,
+        "lon": -6.0696299,
+        "link": "https://info64.org/iii-torneo-semana-santa-junior-grado-2026"
     },
     {
         "origin": "info64",
@@ -1711,8 +1711,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
+        "lat": 40.4467782,
+        "lon": -3.714568,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
