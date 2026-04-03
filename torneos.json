@@ -612,42 +612,6 @@
         "link": "https://info64.org/ii-open-ajedrez-cofrades-sub-1800-talavera-de-la-reina"
     },
     {
-        "origin": "chess-results",
-        "nombre": "IV Torneo de Ajedrez BANI EIZA",
-        "ciudad": "Biblioteca Municipal Juan de Ferreras.   La Bañeza (Leon)",
-        "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "Club de Ajedrez La Bañeza",
-        "ritmo": "60 minutos+ 30 segundos",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1380274.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Torneo de Parejas Jueves Santo",
-        "ciudad": "Centro Comercial Myrtea",
-        "fechaini": "02-04-2026",
-        "fechafin": "02-04-2026",
-        "organizador": "Thader Chess",
-        "ritmo": "",
-        "lat": 38.0166291,
-        "lon": -1.1622696,
-        "link": "https://chess-results.com/tnr1385278.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "VI OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE COIN SU",
-        "ciudad": "Antiguo Convento Santa María de la Encarnación, Coín (Málaga) España",
-        "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "Club Ajedrez Coín",
-        "ritmo": "60´+30´´ por jugada y jugador",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1310997.aspx?lan=2"
-    },
-    {
         "origin": "info64",
         "nombre": "Circuito Nocturno Totem 2026 - II Torneo",
         "ciudad": "Totem Cafe Gijon",
@@ -802,6 +766,18 @@
         "lat": 39.4827253,
         "lon": -0.4438854,
         "link": "https://info64.org/iv-irt-sub-1800-quart-de-poblet"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneig Escolar Pasqua 2026",
+        "ciudad": "Binissalem (Baleares)",
+        "fechaini": "06-04-2026",
+        "fechafin": "06-04-2026",
+        "organizador": "",
+        "ritmo": "5m+3s Bronstein",
+        "lat": 39.6889279,
+        "lon": 2.8420532,
+        "link": "https://chess-results.com/tnr1385384.aspx?lan=2"
     },
     {
         "origin": "info64",
