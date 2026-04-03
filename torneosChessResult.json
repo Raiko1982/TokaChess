@@ -1309,6 +1309,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Classificatori IES Marratxi",
+        "ciudad": "IES Marratxi",
+        "fechaini": "15-04-2026",
+        "fechafin": "15-04-2026",
+        "organizador": "",
+        "ritmo": "5m + 3s Bronstein",
+        "lat": 39.6175879,
+        "lon": 2.7147128,
+        "link": "https://chess-results.com/tnr1385737.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Torneo Internacional de Ajedrez  Copa Seis Nacione",
         "ciudad": "Chantada, Lugo, España",
         "fechaini": "13-04-2026",
@@ -1774,17 +1786,5 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1385606.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Classificatori IES Marratxi",
-        "ciudad": "IES Marratxi",
-        "fechaini": "03-04-2026",
-        "fechafin": "03-04-2026",
-        "organizador": "",
-        "ritmo": "5m + 3s Bronstein",
-        "lat": 39.6175879,
-        "lon": 2.7147128,
-        "link": "https://chess-results.com/tnr1385737.aspx?lan=2"
     }
 ]
