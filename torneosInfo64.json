@@ -1,6 +1,162 @@
 [
     {
         "origin": "info64",
+        "nombre": "VII Palacio de Pioneros",
+        "ciudad": "Zaragoza",
+        "fechaini": "02-04-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6521342,
+        "lon": -0.8809428,
+        "link": "https://info64.org/vii-palacio-de-pioneros"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Open Hotel Oasis Atalaya",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "16-05-2026",
+        "fechafin": "16-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/iii-open-hotel-oasis-atalaya"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Open Tardeo Hotel Oasis Atalaya",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "12-05-2026",
+        "fechafin": "14-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/iii-open-tardeo-hotel-oasis-atalaya"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Supra 50 FIDE Hotel Oasis Atalaya",
+        "ciudad": "Hotel Oasis Atalaya - Conil",
+        "fechaini": "11-05-2026",
+        "fechafin": "15-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iii-supra-50-fide-hotel-oasis-atalaya"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE COÍN SUB2400",
+        "ciudad": "Antiguo Convento Santa María",
+        "fechaini": "02-04-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0119302,
+        "lon": -3.3710091,
+        "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub2400-ciudad-de-coin"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campionato galego absoluto open 2026 ID 469437",
+        "ciudad": "Padron",
+        "fechaini": "02-04-2026",
+        "fechafin": "05-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.7390228,
+        "lon": -8.6602504,
+        "link": "https://info64.org/campionato-galego-absoluto-open-2026-id-469437"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Torneo Social Club de Ajedrez Torrelodones",
+        "ciudad": "Torrelodones, Madrid",
+        "fechaini": "06-11-2025",
+        "fechafin": "21-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5762809,
+        "lon": -3.928603,
+        "link": "https://info64.org/vi-torneo-social-club-de-ajedrez-torrelodones"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Magistral Villa de Zahara 2026",
+        "ciudad": "Zahara",
+        "fechaini": "01-04-2026",
+        "fechafin": "05-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.8405841,
+        "lon": -5.3905374,
+        "link": "https://info64.org/v-magistral-villa-de-zahara-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CP Toledo Absoluto A 2026",
+        "ciudad": "Toledo",
+        "fechaini": "19-04-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Granada Chess Open 2026",
+        "ciudad": "Granada",
+        "fechaini": "28-07-2026",
+        "fechafin": "02-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.1734995,
+        "lon": -3.5995337,
+        "link": "https://info64.org/granada-chess-open-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Open Internacional de Ajedrez de LOS GALLARDOS 2026",
+        "ciudad": "Los Gallardos",
+        "fechaini": "26-04-2026",
+        "fechafin": "26-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.1675863,
+        "lon": -1.9394052,
+        "link": "https://info64.org/iii-open-internacional-de-ajedrez-de-los-gallardos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V IRT SUB1800 CIUDAD DE MUTXAMEL",
+        "ciudad": "Mutxamel",
+        "fechaini": "07-04-2026",
+        "fechafin": "09-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4136518,
+        "lon": -0.444471,
+        "link": "https://info64.org/v-irt-sub1800-ciudad-de-mutxamel"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Open de ajedrez “La Didáctica – Chamberí” Primavera 2026",
+        "ciudad": "Madrid",
+        "fechaini": "21-03-2026",
+        "fechafin": "27-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/open-de-ajedrez-la-didactica-chamberi-primavera-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Mairena del Alcor 2026",
         "ciudad": "Mairena del Alcor",
         "fechaini": "24-05-2026",
@@ -118,18 +274,6 @@
         "lat": 40.6432432,
         "lon": -3.992353,
         "link": "https://info64.org/iii-open-madrid-chess-academy-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campionato galego absoluto open 2026 ID 469437",
-        "ciudad": "Padron",
-        "fechaini": "02-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7390228,
-        "lon": -8.6602504,
-        "link": "https://info64.org/campionato-galego-absoluto-open-2026-id-469437"
     },
     {
         "origin": "info64",
@@ -289,18 +433,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Open Internacional de Ajedrez de LOS GALLARDOS 2026",
-        "ciudad": "Los Gallardos",
-        "fechaini": "26-04-2026",
-        "fechafin": "26-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.1675863,
-        "lon": -1.9394052,
-        "link": "https://info64.org/iii-open-internacional-de-ajedrez-de-los-gallardos-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "I LOQUILANDIA Escuela El Rey - Torneo VÁLIDO PARA ELO FADA",
         "ciudad": "Parque Loquilandia, Huércal",
         "fechaini": "24-04-2026",
@@ -373,30 +505,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Magistral Villa de Zahara 2026",
-        "ciudad": "Zahara",
-        "fechaini": "01-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.8405841,
-        "lon": -5.3905374,
-        "link": "https://info64.org/v-magistral-villa-de-zahara-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VII Palacio de Pioneros",
-        "ciudad": "Zaragoza",
-        "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6521342,
-        "lon": -0.8809428,
-        "link": "https://info64.org/vii-palacio-de-pioneros"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Jornada de Ajedrez 2026",
         "ciudad": "Villarrubia Ojos",
         "fechaini": "04-04-2026",
@@ -418,18 +526,6 @@
         "lat": 43.5449422,
         "lon": -5.66275,
         "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE COÍN SUB2400",
-        "ciudad": "Antiguo Convento Santa María",
-        "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0119302,
-        "lon": -3.3710091,
-        "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub2400-ciudad-de-coin"
     },
     {
         "origin": "info64",
@@ -490,18 +586,6 @@
         "lat": 38.9625266,
         "lon": -2.7453748,
         "link": "https://info64.org/team/"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Torneo Social Club de Ajedrez Torrelodones",
-        "ciudad": "Torrelodones, Madrid",
-        "fechaini": "06-11-2025",
-        "fechafin": "21-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5762809,
-        "lon": -3.928603,
-        "link": "https://info64.org/vi-torneo-social-club-de-ajedrez-torrelodones"
     },
     {
         "origin": "info64",
@@ -718,18 +802,6 @@
         "lat": 36.7630203,
         "lon": -2.6115886,
         "link": "https://info64.org/campeonato-de-andalucia-sub14-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V IRT SUB1800 CIUDAD DE MUTXAMEL",
-        "ciudad": "Mutxamel",
-        "fechaini": "07-04-2026",
-        "fechafin": "09-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4136518,
-        "lon": -0.444471,
-        "link": "https://info64.org/v-irt-sub1800-ciudad-de-mutxamel"
     },
     {
         "origin": "info64",
@@ -1009,18 +1081,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Open Hotel Oasis Atalaya",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "16-05-2026",
-        "fechafin": "16-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/iii-open-hotel-oasis-atalaya"
-    },
-    {
-        "origin": "info64",
         "nombre": "RAPID FIDE - Ibiza Travel 2026",
         "ciudad": "San Antonio de Portmani",
         "fechaini": "03-10-2026",
@@ -1054,30 +1114,6 @@
         "lat": 43.3892333,
         "lon": -6.0696299,
         "link": "https://info64.org/iii-torneo-semana-santa-junior-grado-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Supra 50 FIDE Hotel Oasis Atalaya",
-        "ciudad": "Hotel Oasis Atalaya - Conil",
-        "fechaini": "11-05-2026",
-        "fechafin": "15-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iii-supra-50-fide-hotel-oasis-atalaya"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Open Tardeo Hotel Oasis Atalaya",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "12-05-2026",
-        "fechafin": "14-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/iii-open-tardeo-hotel-oasis-atalaya"
     },
     {
         "origin": "info64",
@@ -1246,30 +1282,6 @@
         "lat": 39.1748426,
         "lon": -6.1529891,
         "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CP Toledo Absoluto A 2026",
-        "ciudad": "Toledo",
-        "fechaini": "19-04-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Granada Chess Open 2026",
-        "ciudad": "Granada",
-        "fechaini": "28-07-2026",
-        "fechafin": "02-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.1734995,
-        "lon": -3.5995337,
-        "link": "https://info64.org/granada-chess-open-2026"
     },
     {
         "origin": "info64",
@@ -1663,8 +1675,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883148,
-        "lon": 2.2433061,
+        "lat": 41.883155,
+        "lon": 2.2430117,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -1918,18 +1930,6 @@
         "lat": 39.4697065,
         "lon": -0.3763353,
         "link": "https://info64.org/cto-provincial-veteranos-valencia-50-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Open de ajedrez “La Didáctica – Chamberí” Primavera 2026",
-        "ciudad": "Madrid",
-        "fechaini": "21-03-2026",
-        "fechafin": "27-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/open-de-ajedrez-la-didactica-chamberi-primavera-2026"
     },
     {
         "origin": "info64",
