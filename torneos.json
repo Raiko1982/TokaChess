@@ -307,8 +307,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883155,
-        "lon": 2.2430117,
+        "lat": 41.883263,
+        "lon": 2.243206,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -361,18 +361,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Cto Provincial Veteranos Valencia  +65 2026",
-        "ciudad": "Valencia",
-        "fechaini": "27-03-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/cto-provincial-veteranos-valencia-65-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Cto Provincial Veteranos Valencia  +50 2026",
         "ciudad": "Valencia",
         "fechaini": "27-03-2026",
@@ -382,6 +370,18 @@
         "lat": 39.4697065,
         "lon": -0.3763353,
         "link": "https://info64.org/cto-provincial-veteranos-valencia-50-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Cto Provincial Veteranos Valencia  +65 2026",
+        "ciudad": "Valencia",
+        "fechaini": "27-03-2026",
+        "fechafin": "29-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/cto-provincial-veteranos-valencia-65-2026"
     },
     {
         "origin": "info64",
@@ -445,18 +445,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XLVI Open Internacional Ciudad de San Sebastian",
-        "ciudad": "Donostia",
-        "fechaini": "28-03-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3224219,
-        "lon": -1.9838889,
-        "link": "https://info64.org/xvli-open-internacional-ciudad-de-san-sebastian"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Primavera Sierra Norte",
         "ciudad": "Bustarviejo",
         "fechaini": "29-03-2026",
@@ -517,15 +505,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "VII Palacio de Pioneros",
-        "ciudad": "Zaragoza",
+        "nombre": "IV Torneo de Ajedrez BANI EIZA",
+        "ciudad": "La Baneza",
         "fechaini": "02-04-2026",
         "fechafin": "04-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.6521342,
-        "lon": -0.8809428,
-        "link": "https://info64.org/vii-palacio-de-pioneros"
+        "lat": 42.2998096,
+        "lon": -5.8970081,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-bani-eiza"
     },
     {
         "origin": "info64",
@@ -553,18 +541,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Torneo de Ajedrez BANI EIZA",
-        "ciudad": "La Baneza",
-        "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.2998096,
-        "lon": -5.8970081,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-bani-eiza"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open Sub 1800 FIDE Internacional de Ajedrez Ciudad de Conil",
         "ciudad": "Conil de la Frontera",
         "fechaini": "02-04-2026",
@@ -589,18 +565,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo de ajedrez de semana Santa",
-        "ciudad": "Cabra del Santo Cristo, Jaen",
-        "fechaini": "04-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.7036217,
-        "lon": -3.2867065,
-        "link": "https://info64.org/torneo-de-ajedrez-de-semana-santa"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Jornada de Ajedrez 2026",
         "ciudad": "Villarrubia Ojos",
         "fechaini": "04-04-2026",
@@ -613,6 +577,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Torneo de ajedrez de semana Santa",
+        "ciudad": "Cabra del Santo Cristo, Jaen",
+        "fechaini": "04-04-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.7036217,
+        "lon": -3.2867065,
+        "link": "https://info64.org/torneo-de-ajedrez-de-semana-santa"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo BANI EIZA Blitz 2026",
         "ciudad": "La Baneza",
         "fechaini": "05-04-2026",
@@ -622,6 +598,18 @@
         "lat": 42.2998096,
         "lon": -5.8970081,
         "link": "https://info64.org/torneo-bani-eiza-blitz-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Semana Santa Grado 2026",
+        "ciudad": "Grado",
+        "fechaini": "05-04-2026",
+        "fechafin": "05-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3892333,
+        "lon": -6.0696299,
+        "link": "https://info64.org/iii-torneo-semana-santa-grado-2026"
     },
     {
         "origin": "info64",
@@ -646,18 +634,6 @@
         "lat": 40.6432432,
         "lon": -3.992353,
         "link": "https://info64.org/torneo-primavera-centro-comercial-los-valles"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Semana Santa Grado 2026",
-        "ciudad": "Grado",
-        "fechaini": "05-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3892333,
-        "lon": -6.0696299,
-        "link": "https://info64.org/iii-torneo-semana-santa-grado-2026"
     },
     {
         "origin": "info64",
@@ -1681,6 +1657,54 @@
     },
     {
         "origin": "info64",
+        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S10",
+        "ciudad": "Gijon",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-10"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S08",
+        "ciudad": "Gijon",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-8"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III T. Villa de Pantoja Iniciacion",
+        "ciudad": "Pantoja",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0454287,
+        "lon": -3.8354787,
+        "link": "https://info64.org/iii-t-villa-de-pantoja-iniciacion"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III T. Villa de Pantoja",
+        "ciudad": "Pantoja",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0454287,
+        "lon": -3.8354787,
+        "link": "https://info64.org/iii-t-villa-de-pantoja"
+    },
+    {
+        "origin": "info64",
         "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S12",
         "ciudad": "Gijon",
         "fechaini": "12-04-2026",
@@ -1714,30 +1738,6 @@
         "lat": 38.9625266,
         "lon": -2.7453748,
         "link": "https://info64.org/team/"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S08",
-        "ciudad": "Gijon",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-8"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S10",
-        "ciudad": "Gijon",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-10"
     },
     {
         "origin": "info64",
@@ -1801,18 +1801,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III T. Villa de Pantoja Iniciacion",
-        "ciudad": "Pantoja",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0454287,
-        "lon": -3.8354787,
-        "link": "https://info64.org/iii-t-villa-de-pantoja-iniciacion"
-    },
-    {
-        "origin": "info64",
         "nombre": "XVII Torneo Ajedrez Ciudad los Angeles - Memorial Francisco Codes",
         "ciudad": "Madrid",
         "fechaini": "12-04-2026",
@@ -1825,26 +1813,14 @@
     },
     {
         "origin": "info64",
-        "nombre": "III T. Villa de Pantoja",
-        "ciudad": "Pantoja",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0454287,
-        "lon": -3.8354787,
-        "link": "https://info64.org/iii-t-villa-de-pantoja"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Torneo Social sub1800 Blanco y Negro 2026",
         "ciudad": "Calle de la Cimera, 2. Madrid",
         "fechaini": "12-04-2026",
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
+        "lat": 40.4467782,
+        "lon": -3.714568,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
@@ -2137,15 +2113,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "CP Toledo Absoluto A 2026",
-        "ciudad": "Toledo",
+        "nombre": "III Torneo de Ajedrez de Piedralaves (Avila)",
+        "ciudad": "Pîedralaves",
         "fechaini": "19-04-2026",
-        "fechafin": "10-05-2026",
+        "fechafin": "19-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
+        "lat": 40.3181182,
+        "lon": -4.6986188,
+        "link": "https://info64.org/iii-torneo-de-ajedrez-de-iedralaves-avila"
     },
     {
         "origin": "info64",
@@ -2161,6 +2137,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "CP Toledo Absoluto A 2026",
+        "ciudad": "Toledo",
+        "fechaini": "19-04-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Torneo de Ajedrez Fundacion Ramon Rey Ardid",
         "ciudad": "Huesca",
         "fechaini": "19-04-2026",
@@ -2170,18 +2158,6 @@
         "lat": 42.1360615,
         "lon": -0.0298027,
         "link": "https://info64.org/vi-torneo-de-ajedrez-fundacion-ramon-rey-ardid"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo de Ajedrez de Piedralaves (Avila)",
-        "ciudad": "Pîedralaves",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.3181182,
-        "lon": -4.6986188,
-        "link": "https://info64.org/iii-torneo-de-ajedrez-de-iedralaves-avila"
     },
     {
         "origin": "info64",
