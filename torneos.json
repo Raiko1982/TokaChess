@@ -307,8 +307,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883148,
-        "lon": 2.2433061,
+        "lat": 41.883155,
+        "lon": 2.2430117,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -481,6 +481,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "V Magistral Villa de Zahara 2026",
+        "ciudad": "Zahara",
+        "fechaini": "01-04-2026",
+        "fechafin": "05-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.8405841,
+        "lon": -5.3905374,
+        "link": "https://info64.org/v-magistral-villa-de-zahara-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 A",
         "ciudad": "San Vicente del Raspeig",
         "fechaini": "01-04-2026",
@@ -505,15 +517,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Magistral Villa de Zahara 2026",
-        "ciudad": "Zahara",
-        "fechaini": "01-04-2026",
-        "fechafin": "05-04-2026",
+        "nombre": "VII Palacio de Pioneros",
+        "ciudad": "Zaragoza",
+        "fechaini": "02-04-2026",
+        "fechafin": "04-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.8405841,
-        "lon": -5.3905374,
-        "link": "https://info64.org/v-magistral-villa-de-zahara-2026"
+        "lat": 41.6521342,
+        "lon": -0.8809428,
+        "link": "https://info64.org/vii-palacio-de-pioneros"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE COÍN SUB2400",
+        "ciudad": "Antiguo Convento Santa María",
+        "fechaini": "02-04-2026",
+        "fechafin": "04-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0119302,
+        "lon": -3.3710091,
+        "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub2400-ciudad-de-coin"
     },
     {
         "origin": "info64",
@@ -562,30 +586,6 @@
         "lat": 36.277054,
         "lon": -6.0881874,
         "link": "https://info64.org/i-open-supra-1700-fide-internacional-de-ajedrez-ciudad-de-conil"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VII Palacio de Pioneros",
-        "ciudad": "Zaragoza",
-        "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6521342,
-        "lon": -0.8809428,
-        "link": "https://info64.org/vii-palacio-de-pioneros"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE COÍN SUB2400",
-        "ciudad": "Antiguo Convento Santa María",
-        "fechaini": "02-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0119302,
-        "lon": -3.3710091,
-        "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub2400-ciudad-de-coin"
     },
     {
         "origin": "info64",
@@ -745,6 +745,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "V IRT SUB1800 CIUDAD DE MUTXAMEL",
+        "ciudad": "Mutxamel",
+        "fechaini": "07-04-2026",
+        "fechafin": "09-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4136518,
+        "lon": -0.444471,
+        "link": "https://info64.org/v-irt-sub1800-ciudad-de-mutxamel"
+    },
+    {
+        "origin": "info64",
         "nombre": "V OPEN CHESS MENORCA 2026 GRUPO B",
         "ciudad": "Ciutadella",
         "fechaini": "07-04-2026",
@@ -766,18 +778,6 @@
         "lat": 39.9920763,
         "lon": 3.8978496,
         "link": "https://info64.org/v-open-chess-menorca-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V IRT SUB1800 CIUDAD DE MUTXAMEL",
-        "ciudad": "Mutxamel",
-        "fechaini": "07-04-2026",
-        "fechafin": "09-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4136518,
-        "lon": -0.444471,
-        "link": "https://info64.org/v-irt-sub1800-ciudad-de-mutxamel"
     },
     {
         "origin": "info64",
@@ -2113,6 +2113,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "CP Toledo Absoluto A 2026",
+        "ciudad": "Toledo",
+        "fechaini": "19-04-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo de ajedrez HERMANDAD DE SAN MARCOS DE ADRA 2026",
         "ciudad": "Adra",
         "fechaini": "19-04-2026",
@@ -2158,18 +2170,6 @@
         "lat": 42.1528695,
         "lon": -4.6922384,
         "link": "https://info64.org/iii-torneo-apac-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CP Toledo Absoluto A 2026",
-        "ciudad": "Toledo",
-        "fechaini": "19-04-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
     },
     {
         "origin": "info64",
