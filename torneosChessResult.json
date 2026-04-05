@@ -493,6 +493,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "I TORNEO BLITZ NOCTURNO DE PASAIA",
+        "ciudad": "",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "BERAUN BERA XAKE ELKARTEA",
+        "ritmo": "3+2",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1386917.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "IX Lliga Comarcal per Equips d’Escacs 2026 (SUB 16",
         "ciudad": "Riurau d’Arnauda, Carrer Federico García Lorca, 13, 03730, Xàbia",
         "fechaini": "30-05-2026",
@@ -1021,7 +1033,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "(12 plazas)SAN PRUDENTZIO- Open Eskolarra Xake Txa",
+        "nombre": "(9 plazas)SAN PRUDENTZIO- Open Eskolarra Xake Txap",
         "ciudad": "Calle Intxaurdi 2, Bar Nagusi",
         "fechaini": "19-04-2026",
         "fechafin": "19-04-2026",
@@ -1030,18 +1042,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1385063.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "III Torneo de Ajedrez de Piedralaves (Avila)",
-        "ciudad": "Antiguas Escuelas ( Av Castilla y León 40 Primera Planta )   Piedralaves",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "Taller de Ajedrez de Piedralaves y Delegación Abulense de Ajedrez",
-        "ritmo": "10 minutos+ 5 segundos",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1380274.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1741,12 +1741,12 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "V Festival de Torrevieja Blitz 2026",
+        "nombre": "V Festival de Torrevieja Rapid 2026",
         "ciudad": "Torrevieja",
         "fechaini": "07-04-2026",
         "fechafin": "07-04-2026",
         "organizador": "Club de Ajedrez Capablanca de Torrevieja",
-        "ritmo": "3 min + 2 sec",
+        "ritmo": "10 min + 2 sec",
         "lat": 37.9775416,
         "lon": -0.6828446,
         "link": "https://chess-results.com/tnr1355530.aspx?lan=2"
@@ -1810,17 +1810,5 @@
         "lat": 37.4818415,
         "lon": -5.9484671,
         "link": "https://chess-results.com/tnr1372069.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "IV Torneo de Ajedrez Benéfico AECC",
-        "ciudad": "Torrelodones",
-        "fechaini": "04-04-2026",
-        "fechafin": "04-04-2026",
-        "organizador": "Club de Ajedrez Torrelodones",
-        "ritmo": "10 minutes a finish",
-        "lat": 40.5762809,
-        "lon": -3.928603,
-        "link": "https://chess-results.com/tnr1386819.aspx?lan=2"
     }
 ]
