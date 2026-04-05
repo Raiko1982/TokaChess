@@ -1,54 +1,6 @@
 [
     {
         "origin": "info64",
-        "nombre": "V Torneo Centro Comercial Los Valles Sub14 - Primavera",
-        "ciudad": "Collado Villalba",
-        "fechaini": "05-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6432432,
-        "lon": -3.992353,
-        "link": "https://info64.org/v-torneo-centro-comercial-los-valles-sub14-primavera"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Centro Comercial Los Valles - Primavera",
-        "ciudad": "Collado Villalba",
-        "fechaini": "05-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6432432,
-        "lon": -3.992353,
-        "link": "https://info64.org/torneo-primavera-centro-comercial-los-valles"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Regional Institutos CLM 2026",
-        "ciudad": "Ossa de Montiel",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9625266,
-        "lon": -2.7453748,
-        "link": "https://info64.org/team/"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campionato galego absoluto open 2026 ID 469437",
-        "ciudad": "Padron",
-        "fechaini": "02-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7390228,
-        "lon": -8.6602504,
-        "link": "https://info64.org/campionato-galego-absoluto-open-2026-id-469437"
-    },
-    {
-        "origin": "info64",
         "nombre": "XV Edicion Open de Primavera",
         "ciudad": "Colmenarejo",
         "fechaini": "05-04-2026",
@@ -61,27 +13,87 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Magistral Villa de Zahara 2026",
-        "ciudad": "Zahara",
+        "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 B",
+        "ciudad": "San Vicente del Raspeig",
         "fechaini": "01-04-2026",
-        "fechafin": "05-04-2026",
+        "fechafin": "06-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.8405841,
-        "lon": -5.3905374,
-        "link": "https://info64.org/v-magistral-villa-de-zahara-2026"
+        "lat": 38.3964248,
+        "lon": -0.5250339,
+        "link": "https://info64.org/x-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2026-b"
     },
     {
         "origin": "info64",
-        "nombre": "I Open Sub 1800 FIDE Internacional de Ajedrez Ciudad de Conil",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "02-04-2026",
-        "fechafin": "05-04-2026",
+        "nombre": "V OPEN CHESS MENORCA 2026 GRUPO B",
+        "ciudad": "Ciutadella",
+        "fechaini": "07-04-2026",
+        "fechafin": "12-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/i-open-sub-1800-fide-internacional-de-ajedrez-ciudad-de-conil"
+        "lat": 39.9920763,
+        "lon": 3.8978496,
+        "link": "https://info64.org/v-open-chess-menorca-2026-grupo-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I INTERNACIONAL SUB 2400 RINCON LLENO DE VIDA",
+        "ciudad": "Rincon de la Victoria",
+        "fechaini": "29-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7162109,
+        "lon": -4.2793767,
+        "link": "https://info64.org/open-sub-2400-rincon-lleno-de-vida"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Maraton Blitz Rincon Lleno de Vida",
+        "ciudad": "Rincon de la Victoria",
+        "fechaini": "25-04-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7162109,
+        "lon": -4.2793767,
+        "link": "https://info64.org/ii-maraton-blitz-rincon-lleno-de-vida"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V OPEN CHESS MENORCA 2026",
+        "ciudad": "Ciutadella",
+        "fechaini": "07-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9920763,
+        "lon": 3.8978496,
+        "link": "https://info64.org/v-open-chess-menorca-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V IRT SUB1800 CIUDAD DE MUTXAMEL",
+        "ciudad": "Mutxamel",
+        "fechaini": "07-04-2026",
+        "fechafin": "09-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4136518,
+        "lon": -0.444471,
+        "link": "https://info64.org/v-irt-sub1800-ciudad-de-mutxamel"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Euskadi Absoluto 2026",
+        "ciudad": "Legazpia",
+        "fechaini": "08-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.051235,
+        "lon": -2.3344403,
+        "link": "https://info64.org/campeonato-de-euskadi-absoluto-2026"
     },
     {
         "origin": "info64",
@@ -97,15 +109,123 @@
     },
     {
         "origin": "info64",
-        "nombre": "52º Torneo Internacional de Ajedrez de La Roda",
-        "ciudad": "La Roda",
-        "fechaini": "31-03-2026",
+        "nombre": "IX IRT Sub-2400 Quart de Poblet",
+        "ciudad": "Quart de Poblet",
+        "fechaini": "06-04-2026",
+        "fechafin": "10-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4827253,
+        "lon": -0.4438854,
+        "link": "https://info64.org/ix-irt-sub-2400-quart-de-poblet"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campionato galego absoluto open 2026 ID 469437",
+        "ciudad": "Padron",
+        "fechaini": "02-04-2026",
         "fechafin": "05-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.20702,
-        "lon": -2.1581637,
-        "link": "https://info64.org/52o-torneo-internacional-de-ajedrez-de-la-roda"
+        "lat": 42.7390228,
+        "lon": -8.6602504,
+        "link": "https://info64.org/campionato-galego-absoluto-open-2026-id-469437"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S14-S16",
+        "ciudad": "Gijon",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-s14-s16"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S10",
+        "ciudad": "Gijon",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-10"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S12",
+        "ciudad": "Gijon",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-12"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Blitz Xadrez Compostela",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8804219,
+        "lon": -8.5458608,
+        "link": "https://info64.org/iii-torneo-blitz-xadrez-compostela"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I IRT SUB1800 ESCOLA ESCACS CASTELLÓ",
+        "ciudad": "Castelló de la Plana",
+        "fechaini": "11-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9860347,
+        "lon": -0.0377354,
+        "link": "https://info64.org/i-irt-sub1800-escola-escacs-castello"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Regional Colegios CLM 2026",
+        "ciudad": "Ossa De Montiel",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9625266,
+        "lon": -2.7453748,
+        "link": "https://info64.org/team/campeonato-regional-colegios-clm-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Regional Institutos CLM 2026",
+        "ciudad": "Ossa de Montiel",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9625266,
+        "lon": -2.7453748,
+        "link": "https://info64.org/team/"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Escolar Alevin Santiago 2026",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "11-04-2026",
+        "fechafin": "18-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8804219,
+        "lon": -8.5458608,
+        "link": "https://info64.org/escolar-alevin-santiago-2026"
     },
     {
         "origin": "info64",
@@ -157,18 +277,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S12",
-        "ciudad": "Gijon",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-12"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato de Andalucia C",
         "ciudad": "Linares",
         "fechaini": "10-04-2026",
@@ -205,30 +313,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XVIII Memorial Pedro Lezcano Montalvo 2026",
-        "ciudad": "Gran Canaria",
-        "fechaini": "28-03-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 27.9580004,
-        "lon": -15.6062305,
-        "link": "https://info64.org/xviii-memorial-pedro-lezcano-montalvo-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 B",
-        "ciudad": "San Vicente del Raspeig",
-        "fechaini": "01-04-2026",
-        "fechafin": "06-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3964248,
-        "lon": -0.5250339,
-        "link": "https://info64.org/x-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2026-b"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Torneo Primavera de Ajedrez 2026- Absoluto",
         "ciudad": "Miguelturra",
         "fechaini": "11-04-2026",
@@ -253,30 +337,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Open Supra 1700 FIDE Internacional de Ajedrez Ciudad de Conil",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "02-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/i-open-supra-1700-fide-internacional-de-ajedrez-ciudad-de-conil"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Semana Santa Grado 2026",
-        "ciudad": "Grado",
-        "fechaini": "05-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3892333,
-        "lon": -6.0696299,
-        "link": "https://info64.org/iii-torneo-semana-santa-grado-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Torneo de Ajedrez de Piedralaves (Avila)",
         "ciudad": "Pîedralaves",
         "fechaini": "19-04-2026",
@@ -286,18 +346,6 @@
         "lat": 40.3181182,
         "lon": -4.6986188,
         "link": "https://info64.org/iii-torneo-de-ajedrez-de-iedralaves-avila"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I IRT SUB1800 ESCOLA ESCACS CASTELLÓ",
-        "ciudad": "Castelló de la Plana",
-        "fechaini": "11-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9860347,
-        "lon": -0.0377354,
-        "link": "https://info64.org/i-irt-sub1800-escola-escacs-castello"
     },
     {
         "origin": "info64",
@@ -397,18 +445,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IX IRT Sub-2400 Quart de Poblet",
-        "ciudad": "Quart de Poblet",
-        "fechaini": "06-04-2026",
-        "fechafin": "10-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4827253,
-        "lon": -0.4438854,
-        "link": "https://info64.org/ix-irt-sub-2400-quart-de-poblet"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo BANI EIZA Blitz 2026",
         "ciudad": "La Baneza",
         "fechaini": "05-04-2026",
@@ -478,30 +514,6 @@
         "lat": 43.309341,
         "lon": -3.0074501,
         "link": "https://info64.org/41o-open-sestao-basque-country-34o-magistral-internacional-de-euskadi"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V IRT SUB1800 CIUDAD DE MUTXAMEL",
-        "ciudad": "Mutxamel",
-        "fechaini": "07-04-2026",
-        "fechafin": "09-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4136518,
-        "lon": -0.444471,
-        "link": "https://info64.org/v-irt-sub1800-ciudad-de-mutxamel"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S10",
-        "ciudad": "Gijon",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-10"
     },
     {
         "origin": "info64",
@@ -673,18 +685,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Euskadi Absoluto 2026",
-        "ciudad": "Legazpia",
-        "fechaini": "08-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.051235,
-        "lon": -2.3344403,
-        "link": "https://info64.org/campeonato-de-euskadi-absoluto-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "XII Abierto Internacional de Ajedrez Hotel CEMAR",
         "ciudad": "MONDARIZ BALNEARIO",
         "fechaini": "09-08-2026",
@@ -745,18 +745,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Escolar Alevin Santiago 2026",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "11-04-2026",
-        "fechafin": "18-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8804219,
-        "lon": -8.5458608,
-        "link": "https://info64.org/escolar-alevin-santiago-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Escolar Infantil Santiago 2026",
         "ciudad": "Santiago de Compostela",
         "fechaini": "11-04-2026",
@@ -793,18 +781,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Regional Colegios CLM 2026",
-        "ciudad": "Ossa De Montiel",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9625266,
-        "lon": -2.7453748,
-        "link": "https://info64.org/team/campeonato-regional-colegios-clm-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Torneo Isabel de los Rios. Memorial Olayo Racionero Altozano",
         "ciudad": "Aldea de los Rios-Guarroman",
         "fechaini": "26-04-2026",
@@ -838,30 +814,6 @@
         "lat": 40.6012354,
         "lon": -3.7038475,
         "link": "https://info64.org/v-open-blitz-tres-cantos"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V OPEN CHESS MENORCA 2026 GRUPO B",
-        "ciudad": "Ciutadella",
-        "fechaini": "07-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9920763,
-        "lon": 3.8978496,
-        "link": "https://info64.org/v-open-chess-menorca-2026-grupo-b"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V OPEN CHESS MENORCA 2026",
-        "ciudad": "Ciutadella",
-        "fechaini": "07-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9920763,
-        "lon": 3.8978496,
-        "link": "https://info64.org/v-open-chess-menorca-2026"
     },
     {
         "origin": "info64",
@@ -1129,18 +1081,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S14-S16",
-        "ciudad": "Gijon",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-s14-s16"
-    },
-    {
-        "origin": "info64",
         "nombre": "JDN Sub-10 Individual Femenino (Fase Final) 2026",
         "ciudad": "Larrabide - Pamplona",
         "fechaini": "10-04-2026",
@@ -1225,18 +1165,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Torneo Blitz Xadrez Compostela",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8804219,
-        "lon": -8.5458608,
-        "link": "https://info64.org/iii-torneo-blitz-xadrez-compostela"
-    },
-    {
-        "origin": "info64",
         "nombre": "RAPID FIDE - Ibiza Travel 2026",
         "ciudad": "San Antonio de Portmani",
         "fechaini": "03-10-2026",
@@ -1258,18 +1186,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/blitz-fide-ibiza-travel-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Semana Santa Junior Grado 2026",
-        "ciudad": "Grado",
-        "fechaini": "05-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3892333,
-        "lon": -6.0696299,
-        "link": "https://info64.org/iii-torneo-semana-santa-junior-grado-2026"
     },
     {
         "origin": "info64",
@@ -1426,18 +1342,6 @@
         "lat": 39.9803187,
         "lon": -3.4403876,
         "link": "https://info64.org/iv-torneo-ajedrez-villa-de-noblejas"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Maraton Blitz Rincon Lleno de Vida",
-        "ciudad": "Rincon de la Victoria",
-        "fechaini": "25-04-2026",
-        "fechafin": "25-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7162109,
-        "lon": -4.2793767,
-        "link": "https://info64.org/ii-maraton-blitz-rincon-lleno-de-vida"
     },
     {
         "origin": "info64",
@@ -1693,18 +1597,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I INTERNACIONAL SUB 2400 RINCON LLENO DE VIDA",
-        "ciudad": "Rincon de la Victoria",
-        "fechaini": "29-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7162109,
-        "lon": -4.2793767,
-        "link": "https://info64.org/open-sub-2400-rincon-lleno-de-vida"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo de Centro Jubilados de Tafalla",
         "ciudad": "Tafalla",
         "fechaini": "28-01-2026",
@@ -1771,8 +1663,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883155,
-        "lon": 2.2430117,
+        "lat": 41.8831074,
+        "lon": 2.2431519,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -2323,8 +2215,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
+        "lat": 40.4467782,
+        "lon": -3.714568,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
