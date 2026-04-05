@@ -307,8 +307,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883263,
-        "lon": 2.243206,
+        "lat": 41.8831074,
+        "lon": 2.2431519,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -469,18 +469,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 A",
-        "ciudad": "San Vicente del Raspeig",
-        "fechaini": "01-04-2026",
-        "fechafin": "06-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3964248,
-        "lon": -0.5250339,
-        "link": "https://info64.org/x-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2026-a"
-    },
-    {
-        "origin": "info64",
         "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 B",
         "ciudad": "San Vicente del Raspeig",
         "fechaini": "01-04-2026",
@@ -490,6 +478,18 @@
         "lat": 38.3964248,
         "lon": -0.5250339,
         "link": "https://info64.org/x-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2026-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 A",
+        "ciudad": "San Vicente del Raspeig",
+        "fechaini": "01-04-2026",
+        "fechafin": "06-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3964248,
+        "lon": -0.5250339,
+        "link": "https://info64.org/x-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2026-a"
     },
     {
         "origin": "info64",
@@ -949,6 +949,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Campeonato de Andalucia C",
+        "ciudad": "Linares",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0931247,
+        "lon": -3.6357207,
+        "link": "https://info64.org/campeonato-de-andalucia-c-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Andalucia B",
+        "ciudad": "Linares",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0931247,
+        "lon": -3.6357207,
+        "link": "https://info64.org/campeonato-de-andalucia-b-1-1"
+    },
+    {
+        "origin": "info64",
         "nombre": "JDN Sub-12 Individual Femenino (Fase Final) 2026",
         "ciudad": "Larrabide - Pamplona",
         "fechaini": "10-04-2026",
@@ -1045,27 +1069,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Andalucia B",
-        "ciudad": "Linares",
-        "fechaini": "10-04-2026",
-        "fechafin": "12-04-2026",
+        "nombre": "II Torneo Primavera de Ajedrez 2026- Absoluto",
+        "ciudad": "Miguelturra",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.0931247,
-        "lon": -3.6357207,
-        "link": "https://info64.org/campeonato-de-andalucia-b-1-1"
+        "lat": 38.9648147,
+        "lon": -3.8898604,
+        "link": "https://info64.org/ii-torneo-primavera-de-ajedrez-2026-absoluto"
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Andalucia C",
-        "ciudad": "Linares",
-        "fechaini": "10-04-2026",
-        "fechafin": "12-04-2026",
+        "nombre": "II Torneo Primavera de Ajedrez 2026 - Infantil",
+        "ciudad": "Miguelturra",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.0931247,
-        "lon": -3.6357207,
-        "link": "https://info64.org/campeonato-de-andalucia-c-1"
+        "lat": 38.9648147,
+        "lon": -3.8898604,
+        "link": "https://info64.org/ii-torneo-primavera-de-ajedrez-2026-infantil"
     },
     {
         "origin": "info64",
@@ -1150,30 +1174,6 @@
         "lat": 42.4096322,
         "lon": -4.6161004,
         "link": "https://info64.org/veteranos-ctl-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo Primavera de Ajedrez 2026- Absoluto",
-        "ciudad": "Miguelturra",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9648147,
-        "lon": -3.8898604,
-        "link": "https://info64.org/ii-torneo-primavera-de-ajedrez-2026-absoluto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo Primavera de Ajedrez 2026 - Infantil",
-        "ciudad": "Miguelturra",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9648147,
-        "lon": -3.8898604,
-        "link": "https://info64.org/ii-torneo-primavera-de-ajedrez-2026-infantil"
     },
     {
         "origin": "info64",
@@ -1609,6 +1609,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S12",
+        "ciudad": "Gijon",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-12"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo relámpago El Greco. Abril 2026",
         "ciudad": "Zaragoza",
         "fechaini": "12-04-2026",
@@ -1666,18 +1678,6 @@
         "lat": 40.0454287,
         "lon": -3.8354787,
         "link": "https://info64.org/iii-t-villa-de-pantoja"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S12",
-        "ciudad": "Gijon",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-12"
     },
     {
         "origin": "info64",
@@ -1783,8 +1783,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4467782,
-        "lon": -3.714568,
+        "lat": 40.4466867,
+        "lon": -3.7144127,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
@@ -2077,6 +2077,54 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV Circuito Provincial PROMOCHESS Categ. C (2011-12-13) Y ABS. SIN ELO GUARDAMAR",
+        "ciudad": "GUARDAMAR DEL SEGURA",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-c-2013-2012-2011-guardamar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. B (2016-2015-2014) GUARDAMAR",
+        "ciudad": "GUARDAMAR DEL SEGURA",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-b-2016-2015-2014-huardamar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. A (2019-2018-2017) GUARDAMAR",
+        "ciudad": "GUARDAMAR DEL SEGURA",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-a-2019-2018-2017-guardamar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VII OPEN INTERNACIONAL VII MEMORIAL JOSÉ MANUEL HERNÁNDEZ ORTIZ",
+        "ciudad": "GUARDAMAR DEL SEGURA",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/vii-open-internacional-vii-memorial-jose-manuel-hernandez-ortiz"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Torneo de Ajedrez de Piedralaves (Avila)",
         "ciudad": "Pîedralaves",
         "fechaini": "19-04-2026",
@@ -2146,54 +2194,6 @@
         "lat": 39.8558913,
         "lon": -4.024265,
         "link": "https://info64.org/cp-toledo-absoluto-b-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Circuito Provincial PROMOCHESS Categ. C (2011-12-13) Y ABS. SIN ELO GUARDAMAR",
-        "ciudad": "GUARDAMAR DEL SEGURA",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-c-2013-2012-2011-guardamar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VII OPEN INTERNACIONAL VII MEMORIAL JOSÉ MANUEL HERNÁNDEZ ORTIZ",
-        "ciudad": "GUARDAMAR DEL SEGURA",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/vii-open-internacional-vii-memorial-jose-manuel-hernandez-ortiz"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. B (2016-2015-2014) GUARDAMAR",
-        "ciudad": "GUARDAMAR DEL SEGURA",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-b-2016-2015-2014-huardamar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. A (2019-2018-2017) GUARDAMAR",
-        "ciudad": "GUARDAMAR DEL SEGURA",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-a-2019-2018-2017-guardamar"
     },
     {
         "origin": "info64",
