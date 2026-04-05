@@ -307,8 +307,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.8831074,
-        "lon": 2.2431519,
+        "lat": 41.883155,
+        "lon": 2.2430117,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -469,15 +469,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 B",
-        "ciudad": "San Vicente del Raspeig",
+        "nombre": "V Magistral Villa de Zahara 2026",
+        "ciudad": "Zahara",
         "fechaini": "01-04-2026",
-        "fechafin": "06-04-2026",
+        "fechafin": "05-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.3964248,
-        "lon": -0.5250339,
-        "link": "https://info64.org/x-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2026-b"
+        "lat": 36.8405841,
+        "lon": -5.3905374,
+        "link": "https://info64.org/v-magistral-villa-de-zahara-2026"
     },
     {
         "origin": "info64",
@@ -493,15 +493,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Magistral Villa de Zahara 2026",
-        "ciudad": "Zahara",
+        "nombre": "X Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2026 B",
+        "ciudad": "San Vicente del Raspeig",
         "fechaini": "01-04-2026",
-        "fechafin": "05-04-2026",
+        "fechafin": "06-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.8405841,
-        "lon": -5.3905374,
-        "link": "https://info64.org/v-magistral-villa-de-zahara-2026"
+        "lat": 38.3964248,
+        "lon": -0.5250339,
+        "link": "https://info64.org/x-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2026-b"
     },
     {
         "origin": "info64",
@@ -517,18 +517,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Open Supra 1700 FIDE Internacional de Ajedrez Ciudad de Conil",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "02-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/i-open-supra-1700-fide-internacional-de-ajedrez-ciudad-de-conil"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open Sub 1800 FIDE Internacional de Ajedrez Ciudad de Conil",
         "ciudad": "Conil de la Frontera",
         "fechaini": "02-04-2026",
@@ -541,27 +529,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Torneo Centro Comercial Los Valles - Primavera",
-        "ciudad": "Collado Villalba",
-        "fechaini": "05-04-2026",
+        "nombre": "I Open Supra 1700 FIDE Internacional de Ajedrez Ciudad de Conil",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "02-04-2026",
         "fechafin": "05-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.6432432,
-        "lon": -3.992353,
-        "link": "https://info64.org/torneo-primavera-centro-comercial-los-valles"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Semana Santa Grado 2026",
-        "ciudad": "Grado",
-        "fechaini": "05-04-2026",
-        "fechafin": "05-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3892333,
-        "lon": -6.0696299,
-        "link": "https://info64.org/iii-torneo-semana-santa-grado-2026"
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/i-open-supra-1700-fide-internacional-de-ajedrez-ciudad-de-conil"
     },
     {
         "origin": "info64",
@@ -577,15 +553,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo BANI EIZA Blitz 2026",
-        "ciudad": "La Baneza",
+        "nombre": "V Torneo Centro Comercial Los Valles - Primavera",
+        "ciudad": "Collado Villalba",
         "fechaini": "05-04-2026",
         "fechafin": "05-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.2998096,
-        "lon": -5.8970081,
-        "link": "https://info64.org/torneo-bani-eiza-blitz-2026"
+        "lat": 40.6432432,
+        "lon": -3.992353,
+        "link": "https://info64.org/torneo-primavera-centro-comercial-los-valles"
     },
     {
         "origin": "info64",
@@ -598,6 +574,30 @@
         "lat": 40.5607257,
         "lon": -4.0165248,
         "link": "https://info64.org/xv-edicion-open-de-primavera"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Semana Santa Grado 2026",
+        "ciudad": "Grado",
+        "fechaini": "05-04-2026",
+        "fechafin": "05-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3892333,
+        "lon": -6.0696299,
+        "link": "https://info64.org/iii-torneo-semana-santa-grado-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo BANI EIZA Blitz 2026",
+        "ciudad": "La Baneza",
+        "fechaini": "05-04-2026",
+        "fechafin": "05-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.2998096,
+        "lon": -5.8970081,
+        "link": "https://info64.org/torneo-bani-eiza-blitz-2026"
     },
     {
         "origin": "info64",
@@ -1609,6 +1609,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Campeonato Regional Institutos CLM 2026",
+        "ciudad": "Ossa de Montiel",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9625266,
+        "lon": -2.7453748,
+        "link": "https://info64.org/team/"
+    },
+    {
+        "origin": "info64",
         "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S12",
         "ciudad": "Gijon",
         "fechaini": "12-04-2026",
@@ -1690,18 +1702,6 @@
         "lat": 38.9625266,
         "lon": -2.7453748,
         "link": "https://info64.org/team/campeonato-regional-colegios-clm-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Regional Institutos CLM 2026",
-        "ciudad": "Ossa de Montiel",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9625266,
-        "lon": -2.7453748,
-        "link": "https://info64.org/team/"
     },
     {
         "origin": "info64",
