@@ -1309,6 +1309,42 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Campeonato de Aragón Sub 10",
+        "ciudad": "Estadio Miralbueno El Olivar, Zaragoza",
+        "fechaini": "11-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "Federación Aragonesa de Ajedrez",
+        "ritmo": "50' + 10\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1387961.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Campeonato de Aragón Sub 12",
+        "ciudad": "Estadio Miralbueno El Olivar, Zaragoza",
+        "fechaini": "11-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "Federación Aragonesa de Ajedrez",
+        "ritmo": "50' + 10\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1387972.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Campeonato de Aragón Sub 18",
+        "ciudad": "Estadio Miralbueno El Olivar, Zaragoza",
+        "fechaini": "11-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "Federación Aragonesa de Ajedrez",
+        "ritmo": "60' + 30\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1387975.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Circuito Escolar de Ajedrez de Granada 2026 - Torn",
         "ciudad": "Centro Cívico de la Chana, Granada",
         "fechaini": "11-04-2026",
@@ -1714,6 +1750,18 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/xvii-torneo-ajedrez-ciudad-los-angeles-memorial-francisco-codes"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Campeonato de Aragón Sub 8",
+        "ciudad": "Estadio Miralbueno El Olivar, Zaragoza",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "Federación Aragonesa de Ajedrez",
+        "ritmo": "25' + 5\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1387974.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2502,7 +2550,7 @@
         "fechaini": "25-04-2026",
         "fechafin": "25-04-2026",
         "organizador": "Federación de Ajedrez de Castilla-La Mancha",
-        "ritmo": "3 minutos + 2 segundos",
+        "ritmo": "3 minutes + 2 seconds per move",
         "lat": 38.9493033,
         "lon": -2.5390599,
         "link": "https://chess-results.com/tnr1383587.aspx?lan=2"
@@ -2526,7 +2574,7 @@
         "fechaini": "25-04-2026",
         "fechafin": "25-04-2026",
         "organizador": "Federación de Ajedrez de Castilla-La Mancha",
-        "ritmo": "10 minutos + 5 segundos",
+        "ritmo": "10 minutes + 5 seconds per move",
         "lat": 38.9493033,
         "lon": -2.5390599,
         "link": "https://chess-results.com/tnr1383589.aspx?lan=2"
@@ -2557,6 +2605,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "II TORNEO DE AJEDREZ ESCOLAR IES LA PUEBLA",
+        "ciudad": "IES La Puebla. C/Platon, 5 (Vicar, Almeria)",
+        "fechaini": "25-04-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "IES La Puebla y CA Vicar",
+        "ritmo": "10'+2''",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1387925.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "III Torneo de Ajedrez Escolar \"Duque de Ahumada\".",
         "ciudad": "Villamartín (Cádiz)",
         "fechaini": "25-04-2026",
@@ -2578,6 +2638,30 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1383723.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "TORNEO DE AJEDREZ PRIMAVERA 2026 General",
+        "ciudad": "BODEGAS SAN ISIDRO ( B S I ) - Avda. de Murcia, s/n, JUMILLA",
+        "fechaini": "25-04-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "Club de Ajedrez Coimbra Jumilla",
+        "ritmo": "8´+ 3\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1387924.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "TORNEO DE AJEDREZ PRIMAVERA 2026 SUB-14",
+        "ciudad": "JUMILLA, Bodegas BSI",
+        "fechaini": "25-04-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "Club de Ajedrez Coimbra Jumilla",
+        "ritmo": "8´ + 3\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1387958.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2722,6 +2806,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1337727.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XI Torneo Entreviñas",
+        "ciudad": "Aldeanueva de Ebro",
+        "fechaini": "26-04-2026",
+        "fechafin": "26-04-2026",
+        "organizador": "Club Ajedrez Alfaro",
+        "ritmo": "12 minutos + 3 segundos por jugada",
+        "lat": 42.2293469,
+        "lon": -1.8880858,
+        "link": "https://chess-results.com/tnr1387793.aspx?lan=2"
     },
     {
         "origin": "chess-results",
