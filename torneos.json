@@ -480,42 +480,6 @@
         "link": "https://info64.org/iv-irt-sub-1800-quart-de-poblet"
     },
     {
-        "origin": "chess-results",
-        "nombre": "I TORNEO DE AJEDREZ PEÑA CULTURAL RECR. DE MONTALB",
-        "ciudad": "PEÑA CULTURAL RECREATIVA (MONTALBÁN)",
-        "fechaini": "06-04-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "PEÑA RECR. CULTURAL DE MONTALBÁN",
-        "ritmo": "15 MINUTOS MAS 5 SEGUNDOS POR JUGADA",
-        "lat": 37.5822502,
-        "lon": -4.7497912,
-        "link": "https://chess-results.com/tnr1387731.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "IV TORNEO LA PEÑA",
-        "ciudad": "",
-        "fechaini": "06-04-2026",
-        "fechafin": "06-04-2026",
-        "organizador": "",
-        "ritmo": "",
-        "lat": 39.3260685,
-        "lon": -4.8379791,
-        "link": "https://chess-results.com/tnr1387643.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Torneig Escolar Pasqua 2026",
-        "ciudad": "Binissalem (Baleares)",
-        "fechaini": "06-04-2026",
-        "fechafin": "06-04-2026",
-        "organizador": "",
-        "ritmo": "5m+3s Bronstein",
-        "lat": 39.6889279,
-        "lon": 2.8420532,
-        "link": "https://chess-results.com/tnr1385384.aspx?lan=2"
-    },
-    {
         "origin": "info64",
         "nombre": "JDN Sub-14 Individual Masculino (Fase Final) 2026",
         "ciudad": "Larrabide - Pamplona",
@@ -2269,6 +2233,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "II Blitz de Ajedrez Pitijuela",
+        "ciudad": "Pitijuela",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "Ruy Lopez de Baena",
+        "ritmo": "5+3",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1388023.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "III Torneo de Ajedrez de Piedralaves (Avila)",
         "ciudad": "Antiguas Escuelas ( Av Castilla y León 40 Primera Planta )   Piedralaves",
         "fechaini": "19-04-2026",
@@ -2785,12 +2761,12 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "..",
+        "nombre": "Encuentro Xake Marianistas",
         "ciudad": "Colegio Santa María - Marianistas",
         "fechaini": "26-04-2026",
         "fechafin": "26-04-2026",
         "organizador": "Marianistas Gasteiz",
-        "ritmo": "10+3",
+        "ritmo": "10",
         "lat": 41.6264269,
         "lon": -0.8998346,
         "link": "https://chess-results.com/tnr1360418.aspx?lan=2"
