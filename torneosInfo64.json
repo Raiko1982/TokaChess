@@ -1,15 +1,135 @@
 [
     {
         "origin": "info64",
-        "nombre": "JDN Sub-16 Individual Masculino (Fase Final) 2026",
-        "ciudad": "Larrabide - Pamplona",
+        "nombre": "XXV Torneo Pueblo Nuevo  Martes y Jueves",
+        "ciudad": "Calle Alava, 14. Madrid",
+        "fechaini": "09-04-2026",
+        "fechafin": "07-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4201061,
+        "lon": -3.5265901,
+        "link": "https://info64.org/xxv-torneo-pueblo-nuevo-martes-y-jueves"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XLIII Torneo Abierto Internacional de Ajedrez de Collado Villalba",
+        "ciudad": "Collado Villalba",
+        "fechaini": "21-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6432432,
+        "lon": -3.992353,
+        "link": "https://info64.org/xliii-torneo-abierto-internacional-de-ajedrez-de-collado-villalba"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Social sub1800 Blanco y Negro 2026",
+        "ciudad": "Calle de la Cimera, 2. Madrid",
+        "fechaini": "12-04-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4467782,
+        "lon": -3.714568,
+        "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S08",
+        "ciudad": "Gijon",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-8"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I LOQUILANDIA Escuela El Rey - Torneo INFANTIL",
+        "ciudad": "Parque Loquilandia, Huércal",
+        "fechaini": "24-04-2026",
+        "fechafin": "24-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/i-loquilandia-escuela-el-rey-torneo-infantil"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura clasificatorio sub14",
+        "ciudad": "Extremadura",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1748426,
+        "lon": -6.1529891,
+        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub14"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII Blitz Individual de Cordoba",
+        "ciudad": "Cordoba",
+        "fechaini": "18-04-2026",
+        "fechafin": "18-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.8845813,
+        "lon": -4.7760138,
+        "link": "https://info64.org/viii-blitz-individual-de-cordoba"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V OPEN CHESS MENORCA 2026",
+        "ciudad": "Ciutadella",
         "fechaini": "07-04-2026",
         "fechafin": "12-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.8080424,
-        "lon": -1.640845,
-        "link": "https://info64.org/jdn-sub-16-individual-masculino-fase-final-2026"
+        "lat": 39.9920763,
+        "lon": 3.8978496,
+        "link": "https://info64.org/v-open-chess-menorca-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura clasificatorio sub10",
+        "ciudad": "Extremadura",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1748426,
+        "lon": -6.1529891,
+        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub10"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura clasificatorio sub12",
+        "ciudad": "Extremadura",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1748426,
+        "lon": -6.1529891,
+        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub12"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Cordoba de Ajedrez Activo 2026",
+        "ciudad": "Cordoba",
+        "fechaini": "18-04-2026",
+        "fechafin": "18-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.8845813,
+        "lon": -4.7760138,
+        "link": "https://info64.org/campeonato-de-cordoba-de-ajedrez-activo-2026"
     },
     {
         "origin": "info64",
@@ -22,6 +142,66 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/open-de-ajedrez-la-didactica-chamberi-primavera-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JDN Sub-08 Individual Femenino (Fase Final) 2026",
+        "ciudad": "Larrabide - Pamplona",
+        "fechaini": "10-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8080424,
+        "lon": -1.640845,
+        "link": "https://info64.org/jdn-sub-08-individual-femenino-fase-final-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo Pueblo Nuevo de los domingos",
+        "ciudad": "Calle Alava, 14. Madrid",
+        "fechaini": "15-03-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4201061,
+        "lon": -3.5265901,
+        "link": "https://info64.org/iv-torneo-pueblo-nuevo-de-los-domingos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IX IRT Sub-2400 Quart de Poblet",
+        "ciudad": "Quart de Poblet",
+        "fechaini": "06-04-2026",
+        "fechafin": "10-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4827253,
+        "lon": -0.4438854,
+        "link": "https://info64.org/ix-irt-sub-2400-quart-de-poblet"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Insular de Ajedrez de Gran Canaria Veteranos 2026",
+        "ciudad": "Gran Canaria",
+        "fechaini": "08-04-2026",
+        "fechafin": "22-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 27.9580004,
+        "lon": -15.6062305,
+        "link": "https://info64.org/campeonato-insular-de-ajedrez-de-gran-canaria-veteranos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JDN Sub-16 Individual Masculino (Fase Final) 2026",
+        "ciudad": "Larrabide - Pamplona",
+        "fechaini": "07-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8080424,
+        "lon": -1.640845,
+        "link": "https://info64.org/jdn-sub-16-individual-masculino-fase-final-2026"
     },
     {
         "origin": "info64",
@@ -190,18 +370,6 @@
         "lat": 37.8845813,
         "lon": -4.7760138,
         "link": "https://info64.org/ii-torneo-de-ajedrez-sub2400-primavera"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Insular de Ajedrez de Gran Canaria Veteranos 2026",
-        "ciudad": "Gran Canaria",
-        "fechaini": "08-04-2026",
-        "fechafin": "22-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 27.9580004,
-        "lon": -15.6062305,
-        "link": "https://info64.org/campeonato-insular-de-ajedrez-de-gran-canaria-veteranos-2026"
     },
     {
         "origin": "info64",
@@ -409,18 +577,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IX IRT Sub-2400 Quart de Poblet",
-        "ciudad": "Quart de Poblet",
-        "fechaini": "06-04-2026",
-        "fechafin": "10-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4827253,
-        "lon": -0.4438854,
-        "link": "https://info64.org/ix-irt-sub-2400-quart-de-poblet"
-    },
-    {
-        "origin": "info64",
         "nombre": "I INTERNACIONAL SUB 2400 RINCON LLENO DE VIDA",
         "ciudad": "Rincon de la Victoria",
         "fechaini": "29-05-2026",
@@ -517,18 +673,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V OPEN CHESS MENORCA 2026",
-        "ciudad": "Ciutadella",
-        "fechaini": "07-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9920763,
-        "lon": 3.8978496,
-        "link": "https://info64.org/v-open-chess-menorca-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "V IRT SUB1800 CIUDAD DE MUTXAMEL",
         "ciudad": "Mutxamel",
         "fechaini": "07-04-2026",
@@ -562,18 +706,6 @@
         "lat": 43.051235,
         "lon": -2.3344403,
         "link": "https://info64.org/campeonato-de-euskadi-absoluto-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Social sub1800 Blanco y Negro 2026",
-        "ciudad": "Calle de la Cimera, 2. Madrid",
-        "fechaini": "12-04-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
-        "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
         "origin": "info64",
@@ -781,18 +913,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Extremadura clasificatorio sub10",
-        "ciudad": "Extremadura",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1748426,
-        "lon": -6.1529891,
-        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub10"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Abierto de Ajedrez Clasico Sub 2200 Villa de Zahara",
         "ciudad": "Zahara de la Sierra",
         "fechaini": "03-07-2026",
@@ -826,18 +946,6 @@
         "lat": 42.4096322,
         "lon": -4.6161004,
         "link": "https://info64.org/veteranos-ctl-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Extremadura clasificatorio sub12",
-        "ciudad": "Extremadura",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1748426,
-        "lon": -6.1529891,
-        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub12"
     },
     {
         "origin": "info64",
@@ -985,18 +1093,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S08",
-        "ciudad": "Gijon",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-8"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXI Open de Primavera GROS XAKE Udaberriko Irekia",
         "ciudad": "Club de Gros",
         "fechaini": "18-04-2026",
@@ -1018,18 +1114,6 @@
         "lat": 42.8080424,
         "lon": -1.640845,
         "link": "https://info64.org/jdn-sub-14-y-sub-16-individual-femenino-fase-final-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "JDN Sub-08 Individual Femenino (Fase Final) 2026",
-        "ciudad": "Larrabide - Pamplona",
-        "fechaini": "10-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8080424,
-        "lon": -1.640845,
-        "link": "https://info64.org/jdn-sub-08-individual-femenino-fase-final-2026"
     },
     {
         "origin": "info64",
@@ -1186,18 +1270,6 @@
         "lat": 39.1748426,
         "lon": -6.1529891,
         "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub16"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Extremadura clasificatorio sub14",
-        "ciudad": "Extremadura",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1748426,
-        "lon": -6.1529891,
-        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub14"
     },
     {
         "origin": "info64",
@@ -1390,18 +1462,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/i-loquilandia-escuela-el-rey-torneo-valido-para-elo-fada"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I LOQUILANDIA Escuela El Rey - Torneo INFANTIL",
-        "ciudad": "Parque Loquilandia, Huércal",
-        "fechaini": "24-04-2026",
-        "fechafin": "24-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/i-loquilandia-escuela-el-rey-torneo-infantil"
     },
     {
         "origin": "info64",
@@ -2173,18 +2233,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXV Torneo Pueblo Nuevo  Martes y Jueves",
-        "ciudad": "Calle Alava, 14. Madrid",
-        "fechaini": "09-04-2026",
-        "fechafin": "07-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4201061,
-        "lon": -3.5265901,
-        "link": "https://info64.org/xxv-torneo-pueblo-nuevo-martes-y-jueves"
-    },
-    {
-        "origin": "info64",
         "nombre": "V IRT-SUB2400 OROPESA DEL MAR",
         "ciudad": "Oropesa del Mar",
         "fechaini": "04-09-2026",
@@ -2206,18 +2254,6 @@
         "lat": 39.5039227,
         "lon": -0.4421014,
         "link": "https://info64.org/xiii-irt-sub-1800-les-coves-de-paterna"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo Pueblo Nuevo de los domingos",
-        "ciudad": "Calle Alava, 14. Madrid",
-        "fechaini": "15-03-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4201061,
-        "lon": -3.5265901,
-        "link": "https://info64.org/iv-torneo-pueblo-nuevo-de-los-domingos"
     },
     {
         "origin": "info64",
