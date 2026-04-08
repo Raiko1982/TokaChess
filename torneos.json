@@ -307,8 +307,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883263,
-        "lon": 2.243206,
+        "lat": 41.8831074,
+        "lon": 2.2431519,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -649,18 +649,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Teleco-Chess Tournament",
-        "ciudad": "Valladolid",
-        "fechaini": "09-04-2026",
-        "fechafin": "09-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6521807,
-        "lon": -4.728605,
-        "link": "https://info64.org/teleco-chess-tournament"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXV Torneo Pueblo Nuevo  Martes y Jueves",
         "ciudad": "Calle Alava, 14. Madrid",
         "fechaini": "09-04-2026",
@@ -670,6 +658,18 @@
         "lat": 40.4201061,
         "lon": -3.5265901,
         "link": "https://info64.org/xxv-torneo-pueblo-nuevo-martes-y-jueves"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Teleco-Chess Tournament",
+        "ciudad": "Valladolid",
+        "fechaini": "09-04-2026",
+        "fechafin": "09-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6521807,
+        "lon": -4.728605,
+        "link": "https://info64.org/teleco-chess-tournament"
     },
     {
         "origin": "info64",
@@ -865,6 +865,54 @@
     },
     {
         "origin": "info64",
+        "nombre": "Campeonato de Extremadura clasificatorio sub8",
+        "ciudad": "Extremadura",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1748426,
+        "lon": -6.1529891,
+        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub8"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Blitz Xadrez Compostela",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8804219,
+        "lon": -8.5458608,
+        "link": "https://info64.org/iii-torneo-blitz-xadrez-compostela"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura clasificatorio sub14",
+        "ciudad": "Extremadura",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1748426,
+        "lon": -6.1529891,
+        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub14"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I IRT SUB1800 ESCOLA ESCACS CASTELLÓ",
+        "ciudad": "Castelló de la Plana",
+        "fechaini": "11-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9860347,
+        "lon": -0.0377354,
+        "link": "https://info64.org/i-irt-sub1800-escola-escacs-castello"
+    },
+    {
+        "origin": "info64",
         "nombre": "CP Toledo Clubes Sub 18 2026",
         "ciudad": "Recas",
         "fechaini": "11-04-2026",
@@ -886,30 +934,6 @@
         "lat": 40.6432432,
         "lon": -3.992353,
         "link": "https://info64.org/iii-open-madrid-chess-academy-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I IRT SUB1800 ESCOLA ESCACS CASTELLÓ",
-        "ciudad": "Castelló de la Plana",
-        "fechaini": "11-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9860347,
-        "lon": -0.0377354,
-        "link": "https://info64.org/i-irt-sub1800-escola-escacs-castello"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Blitz Xadrez Compostela",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8804219,
-        "lon": -8.5458608,
-        "link": "https://info64.org/iii-torneo-blitz-xadrez-compostela"
     },
     {
         "origin": "info64",
@@ -1006,18 +1030,6 @@
         "lat": 42.8804219,
         "lon": -8.5458608,
         "link": "https://info64.org/escolar-infantil-santiago-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Extremadura clasificatorio sub14",
-        "ciudad": "Extremadura",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1748426,
-        "lon": -6.1529891,
-        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub14"
     },
     {
         "origin": "info64",
@@ -1222,18 +1234,6 @@
         "lat": 39.1748426,
         "lon": -6.1529891,
         "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub18"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Extremadura clasificatorio sub8",
-        "ciudad": "Extremadura",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1748426,
-        "lon": -6.1529891,
-        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub8"
     },
     {
         "origin": "chess-results",
@@ -1573,6 +1573,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S08",
+        "ciudad": "Gijon",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-8"
+    },
+    {
+        "origin": "info64",
         "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S10",
         "ciudad": "Gijon",
         "fechaini": "12-04-2026",
@@ -1627,8 +1639,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4467782,
-        "lon": -3.714568,
+        "lat": 40.4466867,
+        "lon": -3.7144127,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
@@ -1654,18 +1666,6 @@
         "lat": 43.5449422,
         "lon": -5.66275,
         "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-14"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Copa Escolar de Ajedrez La Peñuca 2026 S08",
-        "ciudad": "Gijon",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-sub-8"
     },
     {
         "origin": "info64",
@@ -1909,6 +1909,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "V Torneo Europeo de Primavera 2026",
+        "ciudad": "Alzira",
+        "fechaini": "18-04-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.151212,
+        "lon": -0.4346556,
+        "link": "https://info64.org/v-torneo-europeo-de-primavera-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato de Cordoba de Ajedrez Activo 2026",
         "ciudad": "Cordoba",
         "fechaini": "18-04-2026",
@@ -1954,18 +1966,6 @@
         "lat": 41.7281253,
         "lon": 2.9189918,
         "link": "https://info64.org/xxi-open-de-primavera-gros-xake-udaberriko-irekia"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Europeo de Primavera 2026",
-        "ciudad": "Alzira",
-        "fechaini": "18-04-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.151212,
-        "lon": -0.4346556,
-        "link": "https://info64.org/v-torneo-europeo-de-primavera-2026"
     },
     {
         "origin": "chess-results",
@@ -2965,18 +2965,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Torneo de Ajedrez de Rueda de Jalón",
-        "ciudad": "Rueda de Jalón",
-        "fechaini": "01-05-2026",
-        "fechafin": "01-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6331026,
-        "lon": -1.2747344,
-        "link": "https://info64.org/v-torneo-de-ajedrez-de-rueda-de-jalon"
-    },
-    {
-        "origin": "info64",
         "nombre": "Magistral Maria Pita",
         "ciudad": "A Coruña",
         "fechaini": "01-05-2026",
@@ -2986,6 +2974,18 @@
         "lat": 43.3709703,
         "lon": -8.3959425,
         "link": "https://info64.org/magistral-maria-pita"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo de Ajedrez de Rueda de Jalón",
+        "ciudad": "Rueda de Jalón",
+        "fechaini": "01-05-2026",
+        "fechafin": "01-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6331026,
+        "lon": -1.2747344,
+        "link": "https://info64.org/v-torneo-de-ajedrez-de-rueda-de-jalon"
     },
     {
         "origin": "info64",
