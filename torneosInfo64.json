@@ -1,6 +1,138 @@
 [
     {
         "origin": "info64",
+        "nombre": "Campeonato de Cordoba de Ajedrez Activo 2026",
+        "ciudad": "Cordoba",
+        "fechaini": "18-04-2026",
+        "fechafin": "18-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.8845813,
+        "lon": -4.7760138,
+        "link": "https://info64.org/campeonato-de-cordoba-de-ajedrez-activo-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Social sub1800 Blanco y Negro 2026",
+        "ciudad": "Calle de la Cimera, 2. Madrid",
+        "fechaini": "12-04-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4466867,
+        "lon": -3.7144127,
+        "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura clasificatorio sub10",
+        "ciudad": "Extremadura",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1748426,
+        "lon": -6.1529891,
+        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub10"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura clasificatorio sub8",
+        "ciudad": "Extremadura",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1748426,
+        "lon": -6.1529891,
+        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub8"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXI Open de Primavera GROS XAKE Udaberriko Irekia",
+        "ciudad": "Club de Gros",
+        "fechaini": "18-04-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.7281253,
+        "lon": 2.9189918,
+        "link": "https://info64.org/xxi-open-de-primavera-gros-xake-udaberriko-irekia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV CIRCUITO PROMOCION SUB 12 MARBELLA",
+        "ciudad": "SAN PEDRO DE ALCANTARA",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0711225,
+        "lon": -6.6598014,
+        "link": "https://info64.org/iv-circuito-promocion-sub-12-marbella"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V OPEN CHESS MENORCA 2026",
+        "ciudad": "Ciutadella",
+        "fechaini": "07-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9920763,
+        "lon": 3.8978496,
+        "link": "https://info64.org/v-open-chess-menorca-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Open Internacional de Ajedrez de LOS GALLARDOS 2026",
+        "ciudad": "Los Gallardos",
+        "fechaini": "26-04-2026",
+        "fechafin": "26-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.1675863,
+        "lon": -1.9394052,
+        "link": "https://info64.org/iii-open-internacional-de-ajedrez-de-los-gallardos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Open Madrid Chess Academy 2026",
+        "ciudad": "Collado Villalba",
+        "fechaini": "11-04-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6432432,
+        "lon": -3.992353,
+        "link": "https://info64.org/iii-open-madrid-chess-academy-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Primavera de Ajedrez 2026 - Infantil",
+        "ciudad": "Miguelturra",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9648147,
+        "lon": -3.8898604,
+        "link": "https://info64.org/ii-torneo-primavera-de-ajedrez-2026-infantil"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV CIRCUITO PROMOCION SUB18  AJEDREZ METRO CLUB MARBELLA",
+        "ciudad": "SAN PEDRO DE ALCANTARA",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0711225,
+        "lon": -6.6598014,
+        "link": "https://info64.org/iv-circuito-promocion-ajedrez-metro-club-marbella"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato Insular de Ajedrez de Gran Canaria Veteranos 2026",
         "ciudad": "Gran Canaria",
         "fechaini": "08-04-2026",
@@ -10,6 +142,114 @@
         "lat": 27.9580004,
         "lon": -15.6062305,
         "link": "https://info64.org/campeonato-insular-de-ajedrez-de-gran-canaria-veteranos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Torneo Social Club de Ajedrez Torrelodones NF",
+        "ciudad": "Torrelodones, Madrid",
+        "fechaini": "06-11-2025",
+        "fechafin": "21-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5762809,
+        "lon": -3.928603,
+        "link": "https://info64.org/vi-torneo-social-club-de-ajedrez-torrelodones-nf"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato provincial escolar",
+        "ciudad": "Guadalajara",
+        "fechaini": "11-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7399963,
+        "lon": -2.50593,
+        "link": "https://info64.org/campeonato-provincial-escolar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Escolar Infantil Santiago 2026",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "11-04-2026",
+        "fechafin": "18-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8804219,
+        "lon": -8.5458608,
+        "link": "https://info64.org/escolar-infantil-santiago-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Escolar Benjamin Santiago 2026",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "11-04-2026",
+        "fechafin": "18-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8804219,
+        "lon": -8.5458608,
+        "link": "https://info64.org/escolar-benjamin-santiago-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Cto. Prov. Estándar Absoluto, femenino y veteranos Guadalajara 2026",
+        "ciudad": "Guadalajara",
+        "fechaini": "18-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7399963,
+        "lon": -2.50593,
+        "link": "https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Regional Institutos CLM 2026",
+        "ciudad": "Ossa de Montiel",
+        "fechaini": "12-04-2026",
+        "fechafin": "12-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9625266,
+        "lon": -2.7453748,
+        "link": "https://info64.org/team/cto-regional-institutos-clm-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Escolar Alevin Santiago 2026",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "11-04-2026",
+        "fechafin": "18-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8804219,
+        "lon": -8.5458608,
+        "link": "https://info64.org/escolar-alevin-santiago-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Blitz Xadrez Compostela",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8804219,
+        "lon": -8.5458608,
+        "link": "https://info64.org/iii-torneo-blitz-xadrez-compostela"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Prueba Circuito Escolar Ajedrizate CAT A",
+        "ciudad": "Los Alcazares",
+        "fechaini": "11-04-2026",
+        "fechafin": "11-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.7466009,
+        "lon": -0.8556533,
+        "link": "https://info64.org/iv-prueba-circuito-escolar-ajedrizate-cat-a"
     },
     {
         "origin": "info64",
@@ -70,18 +310,6 @@
         "lat": 38.9648147,
         "lon": -3.8898604,
         "link": "https://info64.org/ii-torneo-primavera-de-ajedrez-2026-absoluto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo Primavera de Ajedrez 2026 - Infantil",
-        "ciudad": "Miguelturra",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9648147,
-        "lon": -3.8898604,
-        "link": "https://info64.org/ii-torneo-primavera-de-ajedrez-2026-infantil"
     },
     {
         "origin": "info64",
@@ -229,18 +457,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Extremadura clasificatorio sub10",
-        "ciudad": "Extremadura",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1748426,
-        "lon": -6.1529891,
-        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub10"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato de Extremadura clasificatorio sub14",
         "ciudad": "Extremadura",
         "fechaini": "11-04-2026",
@@ -298,18 +514,6 @@
         "lat": 38.0931247,
         "lon": -3.6357207,
         "link": "https://info64.org/campeonato-de-andalucia-c-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Open Madrid Chess Academy 2026",
-        "ciudad": "Collado Villalba",
-        "fechaini": "11-04-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6432432,
-        "lon": -3.992353,
-        "link": "https://info64.org/iii-open-madrid-chess-academy-2026"
     },
     {
         "origin": "info64",
@@ -421,18 +625,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Torneo Social Club de Ajedrez Torrelodones NF",
-        "ciudad": "Torrelodones, Madrid",
-        "fechaini": "06-11-2025",
-        "fechafin": "21-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5762809,
-        "lon": -3.928603,
-        "link": "https://info64.org/vi-torneo-social-club-de-ajedrez-torrelodones-nf"
-    },
-    {
-        "origin": "info64",
         "nombre": "III T. Villa de Pantoja",
         "ciudad": "Pantoja",
         "fechaini": "12-04-2026",
@@ -493,18 +685,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Prueba Circuito Escolar Ajedrizate CAT A",
-        "ciudad": "Los Alcazares",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.7466009,
-        "lon": -0.8556533,
-        "link": "https://info64.org/iv-prueba-circuito-escolar-ajedrizate-cat-a"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Prueba Circuito Escolar Ajedrizate CAT B",
         "ciudad": "Los Alcazares",
         "fechaini": "11-04-2026",
@@ -529,30 +709,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Escolar Infantil Santiago 2026",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "11-04-2026",
-        "fechafin": "18-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8804219,
-        "lon": -8.5458608,
-        "link": "https://info64.org/escolar-infantil-santiago-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Social sub1800 Blanco y Negro 2026",
-        "ciudad": "Calle de la Cimera, 2. Madrid",
-        "fechaini": "12-04-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
-        "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Open de ajedrez “La Didáctica – Chamberí” Primavera 2026",
         "ciudad": "Madrid",
         "fechaini": "21-03-2026",
@@ -562,30 +718,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/open-de-ajedrez-la-didactica-chamberi-primavera-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Escolar Benjamin Santiago 2026",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "11-04-2026",
-        "fechafin": "18-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8804219,
-        "lon": -8.5458608,
-        "link": "https://info64.org/escolar-benjamin-santiago-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Escolar Alevin Santiago 2026",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "11-04-2026",
-        "fechafin": "18-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8804219,
-        "lon": -8.5458608,
-        "link": "https://info64.org/escolar-alevin-santiago-2026"
     },
     {
         "origin": "info64",
@@ -601,18 +733,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Torneo Blitz Xadrez Compostela",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8804219,
-        "lon": -8.5458608,
-        "link": "https://info64.org/iii-torneo-blitz-xadrez-compostela"
-    },
-    {
-        "origin": "info64",
         "nombre": "V OPEN CHESS MENORCA 2026 GRUPO B",
         "ciudad": "Ciutadella",
         "fechaini": "07-04-2026",
@@ -622,18 +742,6 @@
         "lat": 39.9920763,
         "lon": 3.8978496,
         "link": "https://info64.org/v-open-chess-menorca-2026-grupo-b"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V OPEN CHESS MENORCA 2026",
-        "ciudad": "Ciutadella",
-        "fechaini": "07-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9920763,
-        "lon": 3.8978496,
-        "link": "https://info64.org/v-open-chess-menorca-2026"
     },
     {
         "origin": "info64",
@@ -769,18 +877,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Open Internacional de Ajedrez de LOS GALLARDOS 2026",
-        "ciudad": "Los Gallardos",
-        "fechaini": "26-04-2026",
-        "fechafin": "26-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.1675863,
-        "lon": -1.9394052,
-        "link": "https://info64.org/iii-open-internacional-de-ajedrez-de-los-gallardos-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Torneo Europeo de Primavera 2026",
         "ciudad": "Alzira",
         "fechaini": "18-04-2026",
@@ -901,18 +997,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Regional Institutos CLM 2026",
-        "ciudad": "Ossa de Montiel",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9625266,
-        "lon": -2.7453748,
-        "link": "https://info64.org/team/cto-regional-institutos-clm-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "XIII IRT Sub-1800 Les coves de Paterna",
         "ciudad": "Paterna",
         "fechaini": "23-05-2026",
@@ -937,18 +1021,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXI Open de Primavera GROS XAKE Udaberriko Irekia",
-        "ciudad": "Club de Gros",
-        "fechaini": "18-04-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.7281253,
-        "lon": 2.9189918,
-        "link": "https://info64.org/xxi-open-de-primavera-gros-xake-udaberriko-irekia"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXXVI Open Internacional de GROS Nazioarteko Xake Irekia",
         "ciudad": "Club de Gros",
         "fechaini": "21-06-2026",
@@ -970,18 +1042,6 @@
         "lat": 37.8845813,
         "lon": -4.7760138,
         "link": "https://info64.org/ii-torneo-de-ajedrez-sub2400-primavera"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Cordoba de Ajedrez Activo 2026",
-        "ciudad": "Cordoba",
-        "fechaini": "18-04-2026",
-        "fechafin": "18-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8845813,
-        "lon": -4.7760138,
-        "link": "https://info64.org/campeonato-de-cordoba-de-ajedrez-activo-2026"
     },
     {
         "origin": "info64",
@@ -1033,26 +1093,14 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato provincial escolar",
-        "ciudad": "Guadalajara",
-        "fechaini": "11-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7399963,
-        "lon": -2.50593,
-        "link": "https://info64.org/campeonato-provincial-escolar"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Por Equipos de La Rioja - Primera",
         "ciudad": "La Rioja",
         "fechaini": "11-04-2026",
         "fechafin": "30-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.2814642,
-        "lon": -2.482805,
+        "lat": 42.3285528,
+        "lon": -2.4674917,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-primera"
     },
     {
@@ -1066,18 +1114,6 @@
         "lat": 43.5449422,
         "lon": -5.66275,
         "link": "https://info64.org/copa-escolar-de-ajedrez-la-penuca-2026-s14-s16"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto. Prov. Estándar Absoluto, femenino y veteranos Guadalajara 2026",
-        "ciudad": "Guadalajara",
-        "fechaini": "18-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7399963,
-        "lon": -2.50593,
-        "link": "https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026"
     },
     {
         "origin": "info64",
@@ -1453,18 +1489,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Extremadura clasificatorio sub8",
-        "ciudad": "Extremadura",
-        "fechaini": "11-04-2026",
-        "fechafin": "11-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1748426,
-        "lon": -6.1529891,
-        "link": "https://info64.org/campeonato-de-extremadura-clasificatorio-sub8"
-    },
-    {
-        "origin": "info64",
         "nombre": "XIV Torneo Internacional Cidade de Pontevedra Masters.",
         "ciudad": "Pontevedra",
         "fechaini": "24-07-2026",
@@ -1474,42 +1498,6 @@
         "lat": 42.428065,
         "lon": -8.6041447,
         "link": "https://info64.org/xiv-torneo-internacional-cidade-de-pontevedra-masters"
-    },
-    {
-        "origin": "info64",
-        "nombre": "ABSOLUTO LA DESPENSA",
-        "ciudad": "Plasencia",
-        "fechaini": "10-04-2026",
-        "fechafin": "10-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.029921,
-        "lon": -6.090168,
-        "link": "https://info64.org/absoluto-la-despensa"
-    },
-    {
-        "origin": "info64",
-        "nombre": "INFANTIL LA DESPENSA",
-        "ciudad": "Plasencia",
-        "fechaini": "10-04-2026",
-        "fechafin": "10-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.029921,
-        "lon": -6.090168,
-        "link": "https://info64.org/infantil-la-despensa"
-    },
-    {
-        "origin": "info64",
-        "nombre": "JUDEX Promocional CEIP JEROMIN 2026 PREBENJAMIN",
-        "ciudad": "CUACOS - EXTREMADURA",
-        "fechaini": "10-04-2026",
-        "fechafin": "10-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.1052487,
-        "lon": -5.7230387,
-        "link": "https://info64.org/judex-promocional-ceip-jeromin-2026-prebenjamin"
     },
     {
         "origin": "info64",
@@ -2395,8 +2383,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.8831074,
-        "lon": 2.2431519,
+        "lat": 41.883155,
+        "lon": 2.2430117,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
