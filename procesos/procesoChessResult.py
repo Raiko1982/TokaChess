@@ -105,7 +105,7 @@ def main():
                 nombre = cols[1].text.strip()
                 lugar_raw = cols[12].text.strip()
                 fecha_ini_raw = cols[5].text.strip()                 
-                if datetime.strptime(fecha_ini_raw, "%Y/%m/%d").date() < hoy: continue
+                if datetime.strptime(fecha_ini_raw, "%Y/%m/%d").date() <= hoy: continue
                 fecha_fin_raw = cols[6].text.strip()
                 organizador = cols[8].text.strip()
                 ritmo = cols[13].text.strip()
