@@ -1537,6 +1537,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Torneo Ajedrez escolar EBS la Nucia",
+        "ciudad": "Avinguda el Copet, 5, 03530 La Nucia, Alicante",
+        "fechaini": "18-04-2026",
+        "fechafin": "18-04-2026",
+        "organizador": "Colegio Elian's British School de la Nucia",
+        "ritmo": "5 minuts per jugador + 3 segons d’increment per jugada",
+        "lat": 38.5871835,
+        "lon": -0.1449471,
+        "link": "https://chess-results.com/tnr1391796.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "V Circuito Ajedrez CA Utebo San Lamberto Casa Inda",
         "ciudad": "Casa Indalecio, Plaza España, 13 -Garrapinillos-",
         "fechaini": "18-04-2026",
@@ -1738,101 +1750,5 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1385153.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Campeonato de Aragón Sub 8",
-        "ciudad": "Estadio Miralbueno El Olivar, Zaragoza",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "Federación Aragonesa de Ajedrez",
-        "ritmo": "25' + 5\"",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1387974.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "I Torneo Social Club de Ajedrez Conil",
-        "ciudad": "",
-        "fechaini": "12-04-2026",
-        "fechafin": "26-04-2026",
-        "organizador": "CLUB DE AJEDREZ COCNIL",
-        "ritmo": "15 minutos + 3 segundos",
-        "lat": 39.3260685,
-        "lon": -4.8379791,
-        "link": "https://chess-results.com/tnr1384182.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "III CAMPEONATO DE AJEDREZ ESCOLAR LA ERA DE LA REI",
-        "ciudad": "POLIDEPORTIVO MUNICIPAL EL PIJORRO - NAVALCARNERO",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "CLUB DE AJEDREZ LA ERA DE LA REINA",
-        "ritmo": "10 MINUTOS + 2 SEGUNDOS DE INCREMENTO",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1324609.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "IX Lliga Comarcal d’Escacs 2025-2026 (SUB 16) sede",
-        "ciudad": "Poliesportiu Municipal de Teulada, 03725 Teulada, Alicante",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "Ajuntament de Teula",
-        "ritmo": "5 minuts +3 segons d'increment per jugador.",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1220509.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "XII Torneo de primavera memorial Fernando Ballano",
-        "ciudad": "Agrupacion artistica aragonesa (C/ Lagasca nº23,Zaragoza, España)",
-        "fechaini": "12-04-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "Agrupacion Artistica aragonesa",
-        "ritmo": "60'+30''",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1373858.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "XVI Torneo Jaque al Rey. Rota",
-        "ciudad": "Rota (Cadiz)",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "Izquierda Unida Rota",
-        "ritmo": "8 min + 3 seg",
-        "lat": 36.6342504,
-        "lon": -6.3507847,
-        "link": "https://chess-results.com/tnr1382378.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "XXI Torneo de Ajedrez San Francisco de Asís 2026",
-        "ciudad": "Colegio San Francisco de Asís",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "",
-        "ritmo": "10´a finish",
-        "lat": 41.6269545,
-        "lon": -4.7257238,
-        "link": "https://chess-results.com/tnr1390784.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "XXV Torneo Jóvenes Promesas LUIS LORENTECategoría",
-        "ciudad": "Alfaro",
-        "fechaini": "12-04-2026",
-        "fechafin": "12-04-2026",
-        "organizador": "Club Ajedrez Alfaro",
-        "ritmo": "12 minutos + 3 segundos por jugada",
-        "lat": 42.1785741,
-        "lon": -1.7492454,
-        "link": "https://chess-results.com/tnr1373609.aspx?lan=2"
     }
 ]
