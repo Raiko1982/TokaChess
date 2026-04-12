@@ -73,7 +73,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Asturias por Equipos Division de Honor de Filiales 2026. Descenso",
+        "nombre": "Campeonato de Asturias por Equipos Segunda 2026",
         "ciudad": "Asturias",
         "fechaini": "14-02-2026",
         "fechafin": "25-04-2026",
@@ -81,11 +81,11 @@
         "ritmo": "-",
         "lat": 43.3133868,
         "lon": -5.94192,
-        "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-division-de-honor-de-filiales-2026-descenso"
+        "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-segunda-2026"
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Asturias por Equipos Primera de Filiales 2026. Descenso",
+        "nombre": "Campeonato de Asturias por Equipos Division de Honor 2026. Descenso",
         "ciudad": "Asturias",
         "fechaini": "14-02-2026",
         "fechafin": "25-04-2026",
@@ -93,7 +93,7 @@
         "ritmo": "-",
         "lat": 43.3133868,
         "lon": -5.94192,
-        "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-primera-de-filiales-2026-descenso"
+        "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-division-de-honor-2026-descenso"
     },
     {
         "origin": "info64",
@@ -121,6 +121,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Campeonato de Asturias por Equipos Division de Honor de Filiales 2026. Descenso",
+        "ciudad": "Asturias",
+        "fechaini": "14-02-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3133868,
+        "lon": -5.94192,
+        "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-division-de-honor-de-filiales-2026-descenso"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Asturias por Equipos Primera de Filiales 2026. Descenso",
+        "ciudad": "Asturias",
+        "fechaini": "14-02-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3133868,
+        "lon": -5.94192,
+        "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-primera-de-filiales-2026-descenso"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato de Asturias por Equipos Primera 2026. Descenso",
         "ciudad": "Asturias",
         "fechaini": "14-02-2026",
@@ -145,18 +169,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Asturias por Equipos Division de Honor 2026. Descenso",
-        "ciudad": "Asturias",
-        "fechaini": "14-02-2026",
-        "fechafin": "25-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3133868,
-        "lon": -5.94192,
-        "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-division-de-honor-2026-descenso"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato de Asturias por Equipos Division de Honor 2026. Titulo",
         "ciudad": "Asturias",
         "fechaini": "14-02-2026",
@@ -166,18 +178,6 @@
         "lat": 43.3133868,
         "lon": -5.94192,
         "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-division-de-honor-2026-titulo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Asturias por Equipos Segunda 2026",
-        "ciudad": "Asturias",
-        "fechaini": "14-02-2026",
-        "fechafin": "25-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3133868,
-        "lon": -5.94192,
-        "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-segunda-2026"
     },
     {
         "origin": "info64",
@@ -445,15 +445,39 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Individual Sub-18 de Madrid 2025-2026 - Final",
-        "ciudad": "Madrid",
+        "nombre": "Absoluto CTL Avila 2026",
+        "ciudad": "Avila",
         "fechaini": "11-04-2026",
-        "fechafin": "19-04-2026",
+        "fechafin": "18-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/campeonato-individual-sub-18-de-madrid-2025-2026-final"
+        "lat": 40.656478,
+        "lon": -4.7002172,
+        "link": "https://info64.org/absoluto-ctl-avila-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Liga por Equipos de Lanzarote 2026 (Primera)",
+        "ciudad": "Lanzarote",
+        "fechaini": "11-04-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 29.0397081,
+        "lon": -13.6362916,
+        "link": "https://info64.org/team/liga-por-equipos-de-lanzarote-2026-primera"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Liga por Equipos de Lanzarote 2026 (Segunda)",
+        "ciudad": "Lanzarote",
+        "fechaini": "11-04-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 29.0397081,
+        "lon": -13.6362916,
+        "link": "https://info64.org/team/liga-por-equipos-de-lanzarote-2026-segunda"
     },
     {
         "origin": "info64",
@@ -469,15 +493,63 @@
     },
     {
         "origin": "info64",
-        "nombre": "Absoluto CTL Avila 2026",
-        "ciudad": "Avila",
+        "nombre": "Campeonato Individual Sub-18 de Madrid 2025-2026 - Final",
+        "ciudad": "Madrid",
         "fechaini": "11-04-2026",
-        "fechafin": "18-04-2026",
+        "fechafin": "19-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.656478,
-        "lon": -4.7002172,
-        "link": "https://info64.org/absoluto-ctl-avila-2026"
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/campeonato-individual-sub-18-de-madrid-2025-2026-final"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Individual Sub-14 de Madrid 2025-2026 - Final",
+        "ciudad": "Madrid",
+        "fechaini": "11-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/campeonato-individual-sub-14-de-madrid-2025-2026-final"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Individual Sub-16 de Madrid 2025-2026 - Final",
+        "ciudad": "Madrid",
+        "fechaini": "11-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/campeonato-individual-sub-16-de-madrid-2025-2026-final"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Individual Sub-12 de Madrid 2025-2026 - Final",
+        "ciudad": "Madrid",
+        "fechaini": "11-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/campeonato-individual-sub-12-de-madrid-2025-2026-final"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Individual Sub-10 de Madrid 2025-2026 - Final",
+        "ciudad": "Madrid",
+        "fechaini": "11-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/campeonato-individual-sub-10-de-madrid-2025-2026-final"
     },
     {
         "origin": "info64",
@@ -514,54 +586,6 @@
         "lat": 42.2814642,
         "lon": -2.482805,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-primera"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Individual Sub-16 de Madrid 2025-2026 - Final",
-        "ciudad": "Madrid",
-        "fechaini": "11-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/campeonato-individual-sub-16-de-madrid-2025-2026-final"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Individual Sub-14 de Madrid 2025-2026 - Final",
-        "ciudad": "Madrid",
-        "fechaini": "11-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/campeonato-individual-sub-14-de-madrid-2025-2026-final"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Individual Sub-12 de Madrid 2025-2026 - Final",
-        "ciudad": "Madrid",
-        "fechaini": "11-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/campeonato-individual-sub-12-de-madrid-2025-2026-final"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Individual Sub-10 de Madrid 2025-2026 - Final",
-        "ciudad": "Madrid",
-        "fechaini": "11-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/campeonato-individual-sub-10-de-madrid-2025-2026-final"
     },
     {
         "origin": "info64",
@@ -613,27 +637,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "Liga por Equipos de Lanzarote 2026 (Segunda)",
-        "ciudad": "Lanzarote",
-        "fechaini": "11-04-2026",
-        "fechafin": "17-05-2026",
+        "nombre": "V Torneo Social sub1800 Blanco y Negro 2026",
+        "ciudad": "Calle de la Cimera, 2. Madrid",
+        "fechaini": "12-04-2026",
+        "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 29.0397081,
-        "lon": -13.6362916,
-        "link": "https://info64.org/team/liga-por-equipos-de-lanzarote-2026-segunda"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Liga por Equipos de Lanzarote 2026 (Primera)",
-        "ciudad": "Lanzarote",
-        "fechaini": "11-04-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 29.0397081,
-        "lon": -13.6362916,
-        "link": "https://info64.org/team/liga-por-equipos-de-lanzarote-2026-primera"
+        "lat": 40.4466867,
+        "lon": -3.7144127,
+        "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
         "origin": "info64",
@@ -658,18 +670,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/xvii-torneo-ajedrez-ciudad-los-angeles-memorial-francisco-codes"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Social sub1800 Blanco y Negro 2026",
-        "ciudad": "Calle de la Cimera, 2. Madrid",
-        "fechaini": "12-04-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
-        "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
         "origin": "chess-results",
@@ -829,6 +829,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "VIII Blitz Individual de Cordoba",
+        "ciudad": "Cordoba",
+        "fechaini": "18-04-2026",
+        "fechafin": "18-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.8845813,
+        "lon": -4.7760138,
+        "link": "https://info64.org/viii-blitz-individual-de-cordoba"
+    },
+    {
+        "origin": "info64",
         "nombre": "Cto de Alava de veteranos 2026",
         "ciudad": "Vitoria-Gasteiz",
         "fechaini": "18-04-2026",
@@ -874,18 +886,6 @@
         "lat": 40.7399963,
         "lon": -2.50593,
         "link": "https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VIII Blitz Individual de Cordoba",
-        "ciudad": "Cordoba",
-        "fechaini": "18-04-2026",
-        "fechafin": "18-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8845813,
-        "lon": -4.7760138,
-        "link": "https://info64.org/viii-blitz-individual-de-cordoba"
     },
     {
         "origin": "info64",
@@ -1129,6 +1129,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "CP Toledo Absoluto A 2026",
+        "ciudad": "Toledo",
+        "fechaini": "19-04-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Torneo de Ajedrez de Piedralaves (Avila)",
         "ciudad": "Pîedralaves",
         "fechaini": "19-04-2026",
@@ -1186,18 +1198,6 @@
         "lat": 42.1360615,
         "lon": -0.0298027,
         "link": "https://info64.org/vi-torneo-de-ajedrez-fundacion-ramon-rey-ardid"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CP Toledo Absoluto A 2026",
-        "ciudad": "Toledo",
-        "fechaini": "19-04-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
     },
     {
         "origin": "info64",
@@ -1858,6 +1858,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1383689.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Blitz Sauces",
+        "ciudad": "Cartagena",
+        "fechaini": "26-04-2026",
+        "fechafin": "26-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.6155018,
+        "lon": -0.987511,
+        "link": "https://info64.org/i-torneo-blitz-sauces"
     },
     {
         "origin": "info64",
@@ -2725,18 +2737,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I INTERNACIONAL SUB 2400 RINCON LLENO DE VIDA",
-        "ciudad": "Rincon de la Victoria",
-        "fechaini": "29-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7162109,
-        "lon": -4.2793767,
-        "link": "https://info64.org/open-sub-2400-rincon-lleno-de-vida"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Torneo Villa de Caudete Sub1800",
         "ciudad": "Caudete",
         "fechaini": "29-05-2026",
@@ -2746,6 +2746,18 @@
         "lat": 38.7063356,
         "lon": -0.9867523,
         "link": "https://info64.org/ii-torneo-villa-de-caudete-sub1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I INTERNACIONAL SUB 2400 RINCON LLENO DE VIDA",
+        "ciudad": "Rincon de la Victoria",
+        "fechaini": "29-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7162109,
+        "lon": -4.2793767,
+        "link": "https://info64.org/open-sub-2400-rincon-lleno-de-vida"
     },
     {
         "origin": "info64",
