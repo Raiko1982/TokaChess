@@ -1,18 +1,6 @@
 [
     {
         "origin": "info64",
-        "nombre": "Proba 11042926",
-        "ciudad": "Valencia",
-        "fechaini": "28-06-2025",
-        "fechafin": "05-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/proba-11042926"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Torneo Social Club de Ajedrez Torrelodones NF",
         "ciudad": "Torrelodones, Madrid",
         "fechaini": "06-11-2025",
@@ -445,54 +433,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Absoluto CTL Avila 2026",
-        "ciudad": "Avila",
-        "fechaini": "11-04-2026",
-        "fechafin": "18-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.656478,
-        "lon": -4.7002172,
-        "link": "https://info64.org/absoluto-ctl-avila-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Liga por Equipos de Lanzarote 2026 (Primera)",
-        "ciudad": "Lanzarote",
-        "fechaini": "11-04-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 29.0397081,
-        "lon": -13.6362916,
-        "link": "https://info64.org/team/liga-por-equipos-de-lanzarote-2026-primera"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Liga por Equipos de Lanzarote 2026 (Segunda)",
-        "ciudad": "Lanzarote",
-        "fechaini": "11-04-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 29.0397081,
-        "lon": -13.6362916,
-        "link": "https://info64.org/team/liga-por-equipos-de-lanzarote-2026-segunda"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Individual Sub-20 de Madrid 2025-2026 - Final",
-        "ciudad": "Madrid",
-        "fechaini": "11-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/campeonato-individual-sub-20-de-madrid-2025-2026-final"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Individual Sub-18 de Madrid 2025-2026 - Final",
         "ciudad": "Madrid",
         "fechaini": "11-04-2026",
@@ -502,18 +442,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/campeonato-individual-sub-18-de-madrid-2025-2026-final"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Individual Sub-14 de Madrid 2025-2026 - Final",
-        "ciudad": "Madrid",
-        "fechaini": "11-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/campeonato-individual-sub-14-de-madrid-2025-2026-final"
     },
     {
         "origin": "info64",
@@ -541,6 +469,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Campeonato Individual Sub-20 de Madrid 2025-2026 - Final",
+        "ciudad": "Madrid",
+        "fechaini": "11-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/campeonato-individual-sub-20-de-madrid-2025-2026-final"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Individual Sub-14 de Madrid 2025-2026 - Final",
+        "ciudad": "Madrid",
+        "fechaini": "11-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/campeonato-individual-sub-14-de-madrid-2025-2026-final"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato Individual Sub-10 de Madrid 2025-2026 - Final",
         "ciudad": "Madrid",
         "fechaini": "11-04-2026",
@@ -550,6 +502,30 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/campeonato-individual-sub-10-de-madrid-2025-2026-final"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Liga por Equipos de Lanzarote 2026 (Primera)",
+        "ciudad": "Lanzarote",
+        "fechaini": "11-04-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 29.0397081,
+        "lon": -13.6362916,
+        "link": "https://info64.org/team/liga-por-equipos-de-lanzarote-2026-primera"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Liga por Equipos de Lanzarote 2026 (Segunda)",
+        "ciudad": "Lanzarote",
+        "fechaini": "11-04-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 29.0397081,
+        "lon": -13.6362916,
+        "link": "https://info64.org/team/liga-por-equipos-de-lanzarote-2026-segunda"
     },
     {
         "origin": "info64",
@@ -571,8 +547,8 @@
         "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.2814642,
-        "lon": -2.482805,
+        "lat": 42.3285528,
+        "lon": -2.4674917,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-segunda"
     },
     {
@@ -643,8 +619,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
+        "lat": 40.4467782,
+        "lon": -3.714568,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
@@ -853,6 +829,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Cto. Prov. Estándar Absoluto, femenino y veteranos Guadalajara 2026",
+        "ciudad": "Guadalajara",
+        "fechaini": "18-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7399963,
+        "lon": -2.50593,
+        "link": "https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Cto de Alava de veteranos 2026",
+        "ciudad": "Vitria-Gasteiz",
+        "fechaini": "18-04-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/cto-de-alava-de-veteranos-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "V Torneo Europeo de Primavera 2026",
         "ciudad": "Alzira",
         "fechaini": "18-04-2026",
@@ -877,18 +877,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Cto de Alava de veteranos 2026",
-        "ciudad": "Vitoria-Gasteiz",
-        "fechaini": "18-04-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8465088,
-        "lon": -2.6724025,
-        "link": "https://info64.org/cto-de-alava-de-veteranos"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato de Cordoba de Ajedrez Activo 2026",
         "ciudad": "Cordoba",
         "fechaini": "18-04-2026",
@@ -910,18 +898,6 @@
         "lat": 41.7281253,
         "lon": 2.9189918,
         "link": "https://info64.org/xxi-open-de-primavera-gros-xake-udaberriko-irekia"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto. Prov. Estándar Absoluto, femenino y veteranos Guadalajara 2026",
-        "ciudad": "Guadalajara",
-        "fechaini": "18-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7399963,
-        "lon": -2.50593,
-        "link": "https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026"
     },
     {
         "origin": "info64",
@@ -1165,6 +1141,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. A (2019-2018-2017) GUARDAMAR",
+        "ciudad": "GUARDAMAR DEL SEGURA",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-a-2019-2018-2017-guardamar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. B (2016-2015-2014) GUARDAMAR",
+        "ciudad": "GUARDAMAR DEL SEGURA",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-b-2016-2015-2014-huardamar"
+    },
+    {
+        "origin": "info64",
         "nombre": "CP Toledo Absoluto A 2026",
         "ciudad": "Toledo",
         "fechaini": "19-04-2026",
@@ -1270,30 +1270,6 @@
         "lat": 38.0899985,
         "lon": -0.65381,
         "link": "https://info64.org/iv-circuito-provincial-promochess-categ-c-2013-2012-2011-guardamar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. B (2016-2015-2014) GUARDAMAR",
-        "ciudad": "GUARDAMAR DEL SEGURA",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-b-2016-2015-2014-huardamar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. A (2019-2018-2017) GUARDAMAR",
-        "ciudad": "GUARDAMAR DEL SEGURA",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-a-2019-2018-2017-guardamar"
     },
     {
         "origin": "info64",
@@ -1573,6 +1549,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Absoluto CTL 2026",
+        "ciudad": "Burgos",
+        "fechaini": "23-04-2026",
+        "fechafin": "26-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.343926,
+        "lon": -3.696977,
+        "link": "https://info64.org/absoluto-ctl-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Relampago Absoluto CTL 2026",
         "ciudad": "Burgos",
         "fechaini": "23-04-2026",
@@ -1666,6 +1654,30 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1390146.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXI Torneo de Ajedrez Infantil San Jorge 2026",
+        "ciudad": "Caceres",
+        "fechaini": "25-04-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4745175,
+        "lon": -6.3716761,
+        "link": "https://info64.org/xxi-torneo-de-ajedrez-infantil-san-jorge-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXI Torneo de Ajedrez San Jorge 2026",
+        "ciudad": "Caceres",
+        "fechaini": "25-04-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4745175,
+        "lon": -6.3716761,
+        "link": "https://info64.org/xxi-torneo-de-ajedrez-san-jorge-2026"
     },
     {
         "origin": "info64",
@@ -3661,6 +3673,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
+        "ciudad": "Zaragoza",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6521342,
+        "lon": -0.8809428,
+        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
+    },
+    {
+        "origin": "info64",
         "nombre": "TORNEO B - 5 Open Internacional Sub1800 Hotel Vertice Sevilla Bormujos",
         "ciudad": "Bormujos",
         "fechaini": "21-08-2026",
@@ -3682,18 +3706,6 @@
         "lat": 37.3715939,
         "lon": -6.07133,
         "link": "https://info64.org/torneo-a-8-open-internacional-sub2200-hotel-vertice-sevilla-bormujos"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
-        "ciudad": "Zaragoza",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6521342,
-        "lon": -0.8809428,
-        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
     },
     {
         "origin": "info64",
