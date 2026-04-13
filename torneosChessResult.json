@@ -1705,6 +1705,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Campionat de Mallorca Sub12 2026 474031",
+        "ciudad": "Marratxí",
+        "fechaini": "17-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "",
+        "ritmo": "Standard: 30 minutes for game with 30 seconds increment from move 1",
+        "lat": 39.6268438,
+        "lon": 2.7359332,
+        "link": "https://chess-results.com/tnr1392418.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Campionat de Mallorca Sub14 2026",
         "ciudad": "Marratxí",
         "fechaini": "17-04-2026",
@@ -1762,41 +1774,5 @@
         "lat": 39.6175879,
         "lon": 2.7147128,
         "link": "https://chess-results.com/tnr1385737.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Centro de convivencia para mayores Delicias",
-        "ciudad": "Centro de convivencia Delicias, Avenida Navarra 54, Zaragoza",
-        "fechaini": "13-04-2026",
-        "fechafin": "13-04-2026",
-        "organizador": "",
-        "ritmo": "10 min",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1387754.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Torneo Internacional de Ajedrez  Copa Seis Nacione",
-        "ciudad": "Chantada, Lugo, España",
-        "fechaini": "13-04-2026",
-        "fechafin": "20-04-2026",
-        "organizador": "Club de Ajedrez Chantada",
-        "ritmo": "90 minutos iniciales  + 30 segundos por jugada",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1365266.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Trofeo Rectora Ajedrez 2025-2026 Fase Final",
-        "ciudad": "Pabellón Polideportivo Universitario, C/ Pedro Cerbuna, 12 Zaragoza",
-        "fechaini": "13-04-2026",
-        "fechafin": "20-04-2026",
-        "organizador": "Universidad de Zaragoza",
-        "ritmo": "15’ + 3” de crono individual",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1385153.aspx?lan=2"
     }
 ]
