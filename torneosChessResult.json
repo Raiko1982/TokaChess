@@ -217,6 +217,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Torneo de Ajedrez Blitz Pub Fegatello",
+        "ciudad": "Mondariz Balneario",
+        "fechaini": "14-08-2026",
+        "fechafin": "14-08-2026",
+        "organizador": "Marcote Nunez, Jesus Javier",
+        "ritmo": "3 minutes + 2 seconds",
+        "lat": 42.2194134,
+        "lon": -8.4713577,
+        "link": "https://chess-results.com/tnr1393646.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "XII Abierto Internacional de Ajedrez Hotel CEMAR",
         "ciudad": "Mondariz Balneario",
         "fechaini": "09-08-2026",
@@ -1033,6 +1045,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "II Freestyle Campos",
+        "ciudad": "Casal Ca'n Pere Ignasi (Campos, 07630)",
+        "fechaini": "26-04-2026",
+        "fechafin": "26-04-2026",
+        "organizador": "Associació Freestyle Chess Balears",
+        "ritmo": "5' + 3\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1393617.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "II Torneo de Ajedrez Femenino Cantabria.Abierto a",
         "ciudad": "Centro Social la Rasilla. C/ San Jorge, nº2 . Los Corrales de Buelna (Cantabria)",
         "fechaini": "26-04-2026",
@@ -1684,7 +1708,7 @@
         "nombre": "Liga por Equipos de Lanzarote 2026 (Infantil Sub 8",
         "ciudad": "Sociedad Democracia y Centro Insular de Arrecife (Lanzarote)",
         "fechaini": "18-04-2026",
-        "fechafin": "17-05-2026",
+        "fechafin": "16-05-2026",
         "organizador": "Federación Canaria / Delegación de Ajedrez de Lanzarote",
         "ritmo": "30 minutos a Finish",
         "lat": 40.4167,
@@ -1786,6 +1810,30 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1364222.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XV Campeonato Regional por Equipos y Edades Sub-14",
+        "ciudad": "Torre Pacheco (Murcia)",
+        "fechaini": "18-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "FARM - Federación de Ajedrez de la Región de Murcia",
+        "ritmo": "Standard: 60 minutes with 30 seconds increment from move 1",
+        "lat": 37.8167971,
+        "lon": -0.8975348,
+        "link": "https://chess-results.com/tnr1393627.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XV Campeonato Regional por Equipos y Edades Sub-18",
+        "ciudad": "Torre Pacheco (Murcia)",
+        "fechaini": "18-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "FARM - Federación de Ajedrez de la Región de Murcia",
+        "ritmo": "Standard: 60 minutes with 30 seconds increment from move 1",
+        "lat": 37.8167971,
+        "lon": -0.8975348,
+        "link": "https://chess-results.com/tnr1393631.aspx?lan=2"
     },
     {
         "origin": "chess-results",
