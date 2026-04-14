@@ -37,18 +37,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Circuito online Palencia",
-        "ciudad": "Palencia",
-        "fechaini": "27-01-2026",
-        "fechafin": "14-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4096322,
-        "lon": -4.6161004,
-        "link": "https://info64.org/i-circuito-online-palencia"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo de Centro Jubilados de Tafalla",
         "ciudad": "Tafalla",
         "fechaini": "28-01-2026",
@@ -313,6 +301,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Cto Provincial Veteranos Castellon 50 2026",
+        "ciudad": "Castellon",
+        "fechaini": "27-03-2026",
+        "fechafin": "29-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.2518568,
+        "lon": -0.0615052,
+        "link": "https://info64.org/campeonato-provincial-veteranos-50-castellon-1"
+    },
+    {
+        "origin": "info64",
         "nombre": "Cto Provincial Veteranos  Alicante 50 2026",
         "ciudad": "Alcoy",
         "fechaini": "27-03-2026",
@@ -370,18 +370,6 @@
         "lat": 38.6982348,
         "lon": -0.4747619,
         "link": "https://info64.org/campeonato-provincial-veteranos-65-alicante-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto Provincial Veteranos Castellon 50 2026",
-        "ciudad": "Castellon",
-        "fechaini": "27-03-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.2518568,
-        "lon": -0.0615052,
-        "link": "https://info64.org/campeonato-provincial-veteranos-50-castellon-1"
     },
     {
         "origin": "info64",
@@ -619,8 +607,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
+        "lat": 40.4467782,
+        "lon": -3.714568,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
@@ -829,15 +817,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "VIII Blitz Individual de Cordoba",
-        "ciudad": "Cordoba",
+        "nombre": "Cto. Prov. Estándar Absoluto, femenino y veteranos Guadalajara 2026",
+        "ciudad": "Guadalajara",
         "fechaini": "18-04-2026",
-        "fechafin": "18-04-2026",
+        "fechafin": "19-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 37.8845813,
-        "lon": -4.7760138,
-        "link": "https://info64.org/viii-blitz-individual-de-cordoba"
+        "lat": 40.7399963,
+        "lon": -2.50593,
+        "link": "https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026"
     },
     {
         "origin": "info64",
@@ -850,6 +838,18 @@
         "lat": 38.888238,
         "lon": -3.7118218,
         "link": "https://info64.org/team/campeonato-provincial-por-equipos-sub12-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII Blitz Individual de Cordoba",
+        "ciudad": "Cordoba",
+        "fechaini": "18-04-2026",
+        "fechafin": "18-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.8845813,
+        "lon": -4.7760138,
+        "link": "https://info64.org/viii-blitz-individual-de-cordoba"
     },
     {
         "origin": "info64",
@@ -934,18 +934,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/cto-de-alava-de-veteranos-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto. Prov. Estándar Absoluto, femenino y veteranos Guadalajara 2026",
-        "ciudad": "Guadalajara",
-        "fechaini": "18-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7399963,
-        "lon": -2.50593,
-        "link": "https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026"
     },
     {
         "origin": "chess-results",
@@ -1249,15 +1237,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "CP Toledo Absoluto A 2026",
-        "ciudad": "Toledo",
+        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. A (2019-2018-2017) GUARDAMAR",
+        "ciudad": "GUARDAMAR DEL SEGURA",
         "fechaini": "19-04-2026",
-        "fechafin": "10-05-2026",
+        "fechafin": "19-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-a-2019-2018-2017-guardamar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VII OPEN INTERNACIONAL VII MEMORIAL JOSÉ MANUEL HERNÁNDEZ ORTIZ",
+        "ciudad": "GUARDAMAR DEL SEGURA",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/vii-open-internacional-vii-memorial-jose-manuel-hernandez-ortiz"
     },
     {
         "origin": "info64",
@@ -1273,15 +1273,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. A (2019-2018-2017) GUARDAMAR",
-        "ciudad": "GUARDAMAR DEL SEGURA",
+        "nombre": "CP Toledo Absoluto A 2026",
+        "ciudad": "Toledo",
         "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
+        "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-a-2019-2018-2017-guardamar"
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
     },
     {
         "origin": "info64",
@@ -1294,18 +1294,6 @@
         "lat": 38.0899985,
         "lon": -0.65381,
         "link": "https://info64.org/iv-circuito-provincial-promochess-categ-c-2013-2012-2011-guardamar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VII OPEN INTERNACIONAL VII MEMORIAL JOSÉ MANUEL HERNÁNDEZ ORTIZ",
-        "ciudad": "GUARDAMAR DEL SEGURA",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/vii-open-internacional-vii-memorial-jose-manuel-hernandez-ortiz"
     },
     {
         "origin": "info64",
@@ -1642,6 +1630,30 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1379116.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JUDEX Promocional CEIP CONQUISTADOR LOAYSA 2026  BENJAMIN",
+        "ciudad": "JARANDILLA - EXTREMADURA",
+        "fechaini": "20-04-2026",
+        "fechafin": "20-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.1282875,
+        "lon": -5.6587,
+        "link": "https://info64.org/judex-promocional-ceip-conquistador-loaysa-2026-benjamin"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JUDEX Promocional CEIP CONQUISTADOR LOAYSA 2026  ALEVIN",
+        "ciudad": "JARANDILLA - EXTREMADURA",
+        "fechaini": "20-04-2026",
+        "fechafin": "20-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.1282875,
+        "lon": -5.6587,
+        "link": "https://info64.org/judex-promocional-ceip-conquistador-loaysa-2026-alevin"
     },
     {
         "origin": "chess-results",
@@ -2293,18 +2305,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXXIV Open Internacional de Ajedrez Activo Ciudad de Mostoles",
-        "ciudad": "Mostoles",
-        "fechaini": "01-05-2026",
-        "fechafin": "01-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.3238525,
-        "lon": -3.8649214,
-        "link": "https://info64.org/xxxiv-open-internacional-de-ajedrez-activo-ciudad-de-mostoles"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Torneo de Ajedrez de Rueda de Jalón",
         "ciudad": "Rueda de Jalón",
         "fechaini": "01-05-2026",
@@ -2314,6 +2314,18 @@
         "lat": 41.6331026,
         "lon": -1.2747344,
         "link": "https://info64.org/v-torneo-de-ajedrez-de-rueda-de-jalon"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXIV Open Internacional de Ajedrez Activo Ciudad de Mostoles",
+        "ciudad": "Mostoles",
+        "fechaini": "01-05-2026",
+        "fechafin": "01-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.3238525,
+        "lon": -3.8649214,
+        "link": "https://info64.org/xxxiv-open-internacional-de-ajedrez-activo-ciudad-de-mostoles"
     },
     {
         "origin": "info64",
