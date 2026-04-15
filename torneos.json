@@ -241,18 +241,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Amigos del Ajedrez",
-        "ciudad": "Online",
-        "fechaini": "15-03-2026",
-        "fechafin": "20-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.883263,
-        "lon": 2.243206,
-        "link": "https://info64.org/iv-amigos-del-ajedrez"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Torneo Pueblo Nuevo de los domingos",
         "ciudad": "Calle Alava, 14. Madrid",
         "fechaini": "15-03-2026",
@@ -262,6 +250,18 @@
         "lat": 40.4201061,
         "lon": -3.5265901,
         "link": "https://info64.org/iv-torneo-pueblo-nuevo-de-los-domingos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Amigos del Ajedrez",
+        "ciudad": "Online",
+        "fechaini": "15-03-2026",
+        "fechafin": "20-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.883155,
+        "lon": 2.2430117,
+        "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
         "origin": "info64",
@@ -301,6 +301,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Cto Provincial Veteranos Valencia  +65 2026",
+        "ciudad": "Valencia",
+        "fechaini": "27-03-2026",
+        "fechafin": "29-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/cto-provincial-veteranos-valencia-65-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Cto Provincial Veteranos  Alicante 50 2026",
         "ciudad": "Alcoy",
         "fechaini": "27-03-2026",
@@ -322,18 +334,6 @@
         "lat": 38.6982348,
         "lon": -0.4747619,
         "link": "https://info64.org/campeonato-provincial-veteranos-65-alicante-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto Provincial Veteranos Valencia  +65 2026",
-        "ciudad": "Valencia",
-        "fechaini": "27-03-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/cto-provincial-veteranos-valencia-65-2026"
     },
     {
         "origin": "info64",
@@ -583,8 +583,8 @@
         "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-primera"
     },
     {
@@ -817,6 +817,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "Cto. Prov. Estándar Absoluto, femenino y veteranos Guadalajara 2026",
+        "ciudad": "Guadalajara",
+        "fechaini": "18-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7399963,
+        "lon": -2.50593,
+        "link": "https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Cto. Navarro Absoluto Individual 2026",
+        "ciudad": "Pamplona - Fuerte del Principe",
+        "fechaini": "18-04-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/cto-navarro-absoluto-individual-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Nazarov Aleksandr",
+        "ciudad": "Murcia",
+        "fechaini": "18-04-2026",
+        "fechafin": "26-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.9923795,
+        "lon": -1.1305431,
+        "link": "https://info64.org/team/nazarov-aleksandr"
+    },
+    {
+        "origin": "info64",
         "nombre": "VIII Blitz Individual de Cordoba",
         "ciudad": "Cordoba",
         "fechaini": "18-04-2026",
@@ -865,18 +901,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Cto. Navarro Absoluto Individual 2026",
-        "ciudad": "Pamplona - Fuerte del Principe",
-        "fechaini": "18-04-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/cto-navarro-absoluto-individual-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Por Equipos Sub12",
         "ciudad": "Almagro",
         "fechaini": "18-04-2026",
@@ -922,18 +946,6 @@
         "lat": 40.0661031,
         "lon": -2.1313528,
         "link": "https://info64.org/team/provincial-equipos-cuenca-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto. Prov. Estándar Absoluto, femenino y veteranos Guadalajara 2026",
-        "ciudad": "Guadalajara",
-        "fechaini": "18-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7399963,
-        "lon": -2.50593,
-        "link": "https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026"
     },
     {
         "origin": "info64",
@@ -1309,6 +1321,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "VI Torneo de Ajedrez Fundacion Ramon Rey Ardid",
+        "ciudad": "Huesca",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1360615,
+        "lon": -0.0298027,
+        "link": "https://info64.org/vi-torneo-de-ajedrez-fundacion-ramon-rey-ardid"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Infantil PRADEJON VERDE 2026",
+        "ciudad": "Pradejon",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3343295,
+        "lon": -2.0688783,
+        "link": "https://info64.org/iv-infantil-pradejon-verde-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Infantil PRADEJON AZUL 2026",
+        "ciudad": "Pradejon",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3343295,
+        "lon": -2.0688783,
+        "link": "https://info64.org/iv-infantil-pradejon-azul-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Torneo de Ajedrez de Piedralaves (Avila)",
         "ciudad": "Pîedralaves",
         "fechaini": "19-04-2026",
@@ -1414,42 +1462,6 @@
         "lat": 41.42082,
         "lon": -6.2717612,
         "link": "https://info64.org/i-torneo-de-ajedrez-los-pendones"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Torneo de Ajedrez Fundacion Ramon Rey Ardid",
-        "ciudad": "Huesca",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1360615,
-        "lon": -0.0298027,
-        "link": "https://info64.org/vi-torneo-de-ajedrez-fundacion-ramon-rey-ardid"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Infantil PRADEJON VERDE 2026",
-        "ciudad": "Pradejon",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.3343295,
-        "lon": -2.0688783,
-        "link": "https://info64.org/iv-infantil-pradejon-verde-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Infantil PRADEJON AZUL 2026",
-        "ciudad": "Pradejon",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.3343295,
-        "lon": -2.0688783,
-        "link": "https://info64.org/iv-infantil-pradejon-azul-2026"
     },
     {
         "origin": "info64",
@@ -2329,18 +2341,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Copa Andalucia de Selecciones Provinciales 2026",
-        "ciudad": "Roquetas de Mar",
-        "fechaini": "30-04-2026",
-        "fechafin": "30-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7630203,
-        "lon": -2.6115886,
-        "link": "https://info64.org/team/copa-andalucia-de-selecciones-provinciales-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Maria Pita Abierto",
         "ciudad": "A Coruña",
         "fechaini": "30-04-2026",
@@ -2350,6 +2350,18 @@
         "lat": 43.3709703,
         "lon": -8.3959425,
         "link": "https://info64.org/maria-pita-abierto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Copa Andalucia de Selecciones Provinciales 2026",
+        "ciudad": "Roquetas de Mar",
+        "fechaini": "30-04-2026",
+        "fechafin": "30-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7630203,
+        "lon": -2.6115886,
+        "link": "https://info64.org/team/copa-andalucia-de-selecciones-provinciales-2026"
     },
     {
         "origin": "info64",
@@ -2638,6 +2650,18 @@
         "lat": 43.3709703,
         "lon": -8.3959425,
         "link": "https://info64.org/maria-pita-rapido"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Blitz Fiestas de Mayo 2026 Club Ajedrez V Centenario",
+        "ciudad": "San Sebastian de los Reyes",
+        "fechaini": "03-05-2026",
+        "fechafin": "03-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5473698,
+        "lon": -3.6260586,
+        "link": "https://info64.org/ii-torneo-blitz-fiestas-de-mayo-2026-club-ajedrez-v-centenario"
     },
     {
         "origin": "chess-results",
@@ -3061,6 +3085,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV Torneo Ajedrez Villa de Noblejas",
+        "ciudad": "Noblejas",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9803187,
+        "lon": -3.4403876,
+        "link": "https://info64.org/iv-torneo-ajedrez-villa-de-noblejas"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV Open Tres Cantos Sub1800",
         "ciudad": "Tres Cantos",
         "fechaini": "23-05-2026",
@@ -3106,18 +3142,6 @@
         "lat": 39.5039227,
         "lon": -0.4421014,
         "link": "https://info64.org/xiii-irt-sub-1800-les-coves-de-paterna"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo Ajedrez Villa de Noblejas",
-        "ciudad": "Noblejas",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9803187,
-        "lon": -3.4403876,
-        "link": "https://info64.org/iv-torneo-ajedrez-villa-de-noblejas"
     },
     {
         "origin": "chess-results",
