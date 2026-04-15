@@ -1249,6 +1249,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Promociones Ascensos FACV 2026",
+        "ciudad": "Comunidad Valenciana",
+        "fechaini": "25-04-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "Federació d` Escacs de la Comunitat Valenciana",
+        "ritmo": "90 min + 30 s desde la jugada 1",
+        "lat": 39.6819591,
+        "lon": -0.7654406,
+        "link": "https://chess-results.com/tnr1393923.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "TORNEO DE AJEDREZ PRIMAVERA 2026 General",
         "ciudad": "BODEGAS SAN ISIDRO ( B S I ) - Avda. de Murcia, s/n, JUMILLA",
         "fechaini": "25-04-2026",
@@ -1282,6 +1294,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1383689.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Blitz Monteolivete - Abril 2026",
+        "ciudad": "Club Ajedrez Monteolivete - C/ Escultor José Capuz, 44 46006 Valencia",
+        "fechaini": "24-04-2026",
+        "fechafin": "24-04-2026",
+        "organizador": "Jaime Valmaña",
+        "ritmo": "5+3",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1394143.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1554,7 +1578,7 @@
         "fechaini": "19-04-2026",
         "fechafin": "19-04-2026",
         "organizador": "Aitor Prohens Lopez",
-        "ritmo": "7 minutos para la partida + 2 segundos de incremento",
+        "ritmo": "10 minutos para cada jugador",
         "lat": 38.9472966,
         "lon": 1.2289007,
         "link": "https://chess-results.com/tnr1383123.aspx?lan=2"
