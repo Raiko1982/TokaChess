@@ -648,66 +648,6 @@
         "link": "https://info64.org/xvii-torneo-ajedrez-ciudad-los-angeles-memorial-francisco-codes"
     },
     {
-        "origin": "chess-results",
-        "nombre": "Campeonato Interescolar Onubense por equipos 2026",
-        "ciudad": "IES Bitacoras",
-        "fechaini": "16-04-2026",
-        "fechafin": "16-04-2026",
-        "organizador": "Delegación Onubense de Ajedrez",
-        "ritmo": "8+3",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1393062.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Campeonato Interescolar Onubense por equipos 2026",
-        "ciudad": "IES Bitacoras",
-        "fechaini": "16-04-2026",
-        "fechafin": "16-04-2026",
-        "organizador": "Delegación Onubense de Ajedrez",
-        "ritmo": "8+3",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1393092.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "I BLITZ HABANERO",
-        "ciudad": "Kiosko Habanero. Avenida de Finlandia s/n. Sevilla",
-        "fechaini": "16-04-2026",
-        "fechafin": "16-04-2026",
-        "organizador": "",
-        "ritmo": "",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1384725.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "XVII Obert de Primavera La Lira 2026",
-        "ciudad": "Barcelona",
-        "fechaini": "16-04-2026",
-        "fechafin": "11-06-2026",
-        "organizador": "Club d'Escacs La Lira",
-        "ritmo": "90 min. plus 30 sec. per move",
-        "lat": 41.3825802,
-        "lon": 2.177073,
-        "link": "https://chess-results.com/tnr1361384.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "XXX Encuentro Segundaria- Santa Lucía 2026",
-        "ciudad": "",
-        "fechaini": "16-04-2026",
-        "fechafin": "16-04-2026",
-        "organizador": "Vicedirector@s",
-        "ritmo": "",
-        "lat": 39.3260685,
-        "lon": -4.8379791,
-        "link": "https://chess-results.com/tnr1394244.aspx?lan=2"
-    },
-    {
         "origin": "info64",
         "nombre": "II TORNEO AJEDREZ COLEGIO SAN FRANCISCO SUB 08",
         "ciudad": "Lorca",
@@ -2270,7 +2210,7 @@
     {
         "origin": "chess-results",
         "nombre": "1r INFANTIL de Ajedrez de Artesa 2026 - S14, 16 hs",
-        "ciudad": "https://1drv.ms/b/c/1b23be4c700d6d76/IQDkFOFn6QI8SJILMbBYdmF_AaDTcUIMMm2kiTsHKsO",
+        "ciudad": "https://maps.app.goo.gl/eydFSGwzzSafTjzF9",
         "fechaini": "26-04-2026",
         "fechafin": "26-04-2026",
         "organizador": "Asociación cultural de Artesa, Y club 300 Torres d'ONDA",
@@ -2282,7 +2222,7 @@
     {
         "origin": "chess-results",
         "nombre": "1r Open de Ajedrez Artesa 2026 - ABS, 16h, 26-ABR",
-        "ciudad": "https://1drv.ms/b/c/1b23be4c700d6d76/IQDkFOFn6QI8SJILMbBYdmF_AaDTcUIMMm2kiTsHKsO",
+        "ciudad": "https://maps.app.goo.gl/eydFSGwzzSafTjzF9",
         "fechaini": "26-04-2026",
         "fechafin": "26-04-2026",
         "organizador": "Asociación cultural de Artesa, Y club 300 Torres d'ONDA",
@@ -2294,13 +2234,13 @@
     {
         "origin": "chess-results",
         "nombre": "I Torneo por equipos San Prudencio-Marianistas (CV",
-        "ciudad": "Colegio Santa María - Marianistas",
+        "ciudad": "Colegio Santa María - Marianistas Vitoria Gasteiz",
         "fechaini": "26-04-2026",
         "fechafin": "26-04-2026",
         "organizador": "Marianistas Gasteiz",
         "ritmo": "3+2",
-        "lat": 41.6264269,
-        "lon": -0.8998346,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1352822.aspx?lan=2"
     },
     {
@@ -2806,6 +2746,18 @@
         "lat": 41.6079555,
         "lon": 2.2876008,
         "link": "https://chess-results.com/tnr1393701.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "I Torneig Open Internacional de Granollers - Grup",
+        "ciudad": "Granollers (Barcelona)",
+        "fechaini": "03-05-2026",
+        "fechafin": "03-05-2026",
+        "organizador": "",
+        "ritmo": "10 mins + 2 sec/move, from move 1",
+        "lat": 41.6079555,
+        "lon": 2.2876008,
+        "link": "https://chess-results.com/tnr1394304.aspx?lan=2"
     },
     {
         "origin": "chess-results",
