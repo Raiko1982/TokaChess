@@ -295,8 +295,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883263,
-        "lon": 2.243206,
+        "lat": 41.883148,
+        "lon": 2.2433061,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -667,8 +667,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
+        "lat": 40.4467782,
+        "lon": -3.714568,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
@@ -733,6 +733,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXI Open de Primavera GROS XAKE Udaberriko Irekia",
+        "ciudad": "Donostia",
+        "fechaini": "18-04-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3224219,
+        "lon": -1.9838889,
+        "link": "https://info64.org/xxi-open-de-primavera-gros-xake-udaberriko-irekia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Europeo de Primavera 2026",
+        "ciudad": "Alzira",
+        "fechaini": "18-04-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.151212,
+        "lon": -0.4346556,
+        "link": "https://info64.org/v-torneo-europeo-de-primavera-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "VIII Blitz Individual de Cordoba",
         "ciudad": "Cordoba",
         "fechaini": "18-04-2026",
@@ -754,18 +778,6 @@
         "lat": 40.7399963,
         "lon": -2.50593,
         "link": "https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Europeo de Primavera 2026",
-        "ciudad": "Alzira",
-        "fechaini": "18-04-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.151212,
-        "lon": -0.4346556,
-        "link": "https://info64.org/v-torneo-europeo-de-primavera-2026"
     },
     {
         "origin": "info64",
@@ -838,18 +850,6 @@
         "lat": 40.0661031,
         "lon": -2.1313528,
         "link": "https://info64.org/team/provincial-equipos-cuenca-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXI Open de Primavera GROS XAKE Udaberriko Irekia",
-        "ciudad": "Donostia",
-        "fechaini": "18-04-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3224219,
-        "lon": -1.9838889,
-        "link": "https://info64.org/xxi-open-de-primavera-gros-xake-udaberriko-irekia"
     },
     {
         "origin": "info64",
@@ -1297,6 +1297,90 @@
     },
     {
         "origin": "info64",
+        "nombre": "CP Toledo Absoluto A 2026",
+        "ciudad": "Toledo",
+        "fechaini": "19-04-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CP Toledo Absoluto B 2026",
+        "ciudad": "Toledo",
+        "fechaini": "19-04-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/cp-toledo-absoluto-b-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VII OPEN INTERNACIONAL VII MEMORIAL JOSÉ MANUEL HERNÁNDEZ ORTIZ",
+        "ciudad": "GUARDAMAR DEL SEGURA",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/vii-open-internacional-vii-memorial-jose-manuel-hernandez-ortiz"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Circuito Provincial PROMOCHESS Categ. C (2011-12-13) Y ABS. SIN ELO GUARDAMAR",
+        "ciudad": "GUARDAMAR DEL SEGURA",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-c-2013-2012-2011-guardamar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. B (2016-2015-2014) GUARDAMAR",
+        "ciudad": "GUARDAMAR DEL SEGURA",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-b-2016-2015-2014-huardamar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. A (2019-2018-2017) GUARDAMAR",
+        "ciudad": "GUARDAMAR DEL SEGURA",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-a-2019-2018-2017-guardamar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Torneo de Ajedrez Fundacion Ramon Rey Ardid",
+        "ciudad": "Huesca",
+        "fechaini": "19-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1360615,
+        "lon": -0.0298027,
+        "link": "https://info64.org/vi-torneo-de-ajedrez-fundacion-ramon-rey-ardid"
+    },
+    {
+        "origin": "info64",
         "nombre": "Fase Provincial Escolar Burgos 2026 S14",
         "ciudad": "Medina de Pomar",
         "fechaini": "19-04-2026",
@@ -1393,18 +1477,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Torneo de Ajedrez Fundacion Ramon Rey Ardid",
-        "ciudad": "Huesca",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1360615,
-        "lon": -0.0298027,
-        "link": "https://info64.org/vi-torneo-de-ajedrez-fundacion-ramon-rey-ardid"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo de ajedrez HERMANDAD DE SAN MARCOS DE ADRA 2026",
         "ciudad": "Adra",
         "fechaini": "19-04-2026",
@@ -1414,18 +1486,6 @@
         "lat": 36.748834,
         "lon": -3.0203617,
         "link": "https://info64.org/torneo-de-ajedrez-hermandad-de-san-marcos-de-adra-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. B (2016-2015-2014) GUARDAMAR",
-        "ciudad": "GUARDAMAR DEL SEGURA",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-b-2016-2015-2014-huardamar"
     },
     {
         "origin": "info64",
@@ -1441,30 +1501,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "CP Toledo Absoluto A 2026",
-        "ciudad": "Toledo",
-        "fechaini": "19-04-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CP Toledo Absoluto B 2026",
-        "ciudad": "Toledo",
-        "fechaini": "19-04-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/cp-toledo-absoluto-b-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonatos Autonómicos por Edades 2026- Sub 8",
         "ciudad": "Cullera",
         "fechaini": "19-04-2026",
@@ -1474,42 +1510,6 @@
         "lat": 39.1647217,
         "lon": -0.2542313,
         "link": "https://info64.org/campeonatos-autonomicos-por-edades-2026-sub-8"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. A (2019-2018-2017) GUARDAMAR",
-        "ciudad": "GUARDAMAR DEL SEGURA",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-a-2019-2018-2017-guardamar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VII OPEN INTERNACIONAL VII MEMORIAL JOSÉ MANUEL HERNÁNDEZ ORTIZ",
-        "ciudad": "GUARDAMAR DEL SEGURA",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/vii-open-internacional-vii-memorial-jose-manuel-hernandez-ortiz"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Circuito Provincial PROMOCHESS Categ. C (2011-12-13) Y ABS. SIN ELO GUARDAMAR",
-        "ciudad": "GUARDAMAR DEL SEGURA",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-c-2013-2012-2011-guardamar"
     },
     {
         "origin": "info64",
@@ -1969,7 +1969,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "Judex Promocional Zonal Caceres Benjamin",
+        "nombre": "Judex Promocional Zonal Caceres Infantil",
         "ciudad": "CÁCERES",
         "fechaini": "25-04-2026",
         "fechafin": "25-04-2026",
@@ -1977,7 +1977,7 @@
         "ritmo": "-",
         "lat": 39.4745175,
         "lon": -6.3716761,
-        "link": "https://info64.org/judex-promocional-zonal-caceres-benjamin"
+        "link": "https://info64.org/judex-promocional-zonal-caceres-infantil"
     },
     {
         "origin": "info64",
@@ -1993,7 +1993,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "Judex Promocional Zonal Caceres Infantil",
+        "nombre": "Judex Promocional Zonal Caceres Benjamin",
         "ciudad": "CÁCERES",
         "fechaini": "25-04-2026",
         "fechafin": "25-04-2026",
@@ -2001,7 +2001,7 @@
         "ritmo": "-",
         "lat": 39.4745175,
         "lon": -6.3716761,
-        "link": "https://info64.org/judex-promocional-zonal-caceres-infantil"
+        "link": "https://info64.org/judex-promocional-zonal-caceres-benjamin"
     },
     {
         "origin": "info64",
@@ -2557,6 +2557,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Maria Pita Abierto",
+        "ciudad": "A Coruña",
+        "fechaini": "30-04-2026",
+        "fechafin": "03-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3709703,
+        "lon": -8.3959425,
+        "link": "https://info64.org/maria-pita-abierto"
+    },
+    {
+        "origin": "info64",
         "nombre": "Autonómico Sub 2000 Comunidad Valenciana 2026",
         "ciudad": "València",
         "fechaini": "30-04-2026",
@@ -2590,18 +2602,6 @@
         "lat": 39.4697065,
         "lon": -0.3763353,
         "link": "https://info64.org/autonomico-sub-1700-comunidad-valenciana-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Maria Pita Abierto",
-        "ciudad": "A Coruña",
-        "fechaini": "30-04-2026",
-        "fechafin": "03-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3709703,
-        "lon": -8.3959425,
-        "link": "https://info64.org/maria-pita-abierto"
     },
     {
         "origin": "info64",
@@ -2917,18 +2917,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Torneo Blitz Fiestas de Mayo 2026 Club Ajedrez V Centenario",
-        "ciudad": "San Sebastian de los Reyes",
-        "fechaini": "03-05-2026",
-        "fechafin": "03-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5473698,
-        "lon": -3.6260586,
-        "link": "https://info64.org/ii-torneo-blitz-fiestas-de-mayo-2026-club-ajedrez-v-centenario"
-    },
-    {
-        "origin": "info64",
         "nombre": "Maria Pita Rapido",
         "ciudad": "A Coruña",
         "fechaini": "03-05-2026",
@@ -2938,6 +2926,18 @@
         "lat": 43.3709703,
         "lon": -8.3959425,
         "link": "https://info64.org/maria-pita-rapido"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Blitz Fiestas de Mayo 2026 Club Ajedrez V Centenario",
+        "ciudad": "San Sebastian de los Reyes",
+        "fechaini": "03-05-2026",
+        "fechafin": "03-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5473698,
+        "lon": -3.6260586,
+        "link": "https://info64.org/ii-torneo-blitz-fiestas-de-mayo-2026-club-ajedrez-v-centenario"
     },
     {
         "origin": "chess-results",
