@@ -95,9 +95,12 @@ def main():
             return
         hoy = datetime.now().date()
         filas = tabla.find_all('tr')[1:] # Saltamos cabecera
+        print(f"Se han encontrado {len(filas)} torneos en la tabla original.")
         torneos_limpios = []
+        numTorneo = 0
         for fila in filas:
             cols = fila.find_all('td')
+            numTorneo += 1
             if len(cols) >= 8:
                 # Mapeo de columnas en Chess-Results (ajustar si varían)
                 # Col 2: Nombre, Col 3: Ciudad/Org, Col 4: Fecha Ini, Col 5: Fecha Fin
@@ -105,7 +108,7 @@ def main():
                 nombre = cols[1].text.strip()
                 lugar_raw = cols[12].text.strip()
                 fecha_ini_raw = cols[5].text.strip()                 
-                if datetime.strptime(fecha_ini_raw, "%Y/%m/%d").date() <= hoy: continue
+                #if datetime.strptime(fecha_ini_raw, "%Y/%m/%d").date() <= hoy: continue
                 fecha_fin_raw = cols[6].text.strip()
                 organizador = cols[8].text.strip()
                 ritmo = cols[13].text.strip()
@@ -114,7 +117,7 @@ def main():
                 link = "https://chess-results.com/" + link_tag['href'] if link_tag else URL_BASE
 
                 # Geocodificación
-                print(f"Procesando: {nombre} en {lugar_raw}...")
+                print(f"Procesando {numTorneo}: {nombre} en {lugar_raw}...")
                 try:
                     location = geolocator.geocode(f"{lugar_raw}, Spain", timeout=10)
                     lat, lon = (location.latitude, location.longitude) if location else (40.4167, -3.7033)

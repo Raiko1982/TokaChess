@@ -32,10 +32,12 @@ def scrape_toka_chess():
             return
 
         filas = table.find_all('tr') # Cogemos los primeros 14 para no tardar mucho
+        print(f"Se han encontrado {len(filas)} torneos en la tabla original.")
+        numTorneo = 0
         torneos_limpios = []
-
         for fila in filas:
             cols = fila.find_all('td')
+            numTorneo += 1
             if len(cols) >= 2:
                 # 1. Extraer datos básicos
                 #id = cols[0].text.strip()
@@ -49,7 +51,7 @@ def scrape_toka_chess():
                 #print(f"Fechaini: {fechaini} Fechafin: {fechafin}")
                 #fecha_torneo_ini = datetime.strptime(fechaini, "%Y-%m-%d").date()
                 fecha_torneo_fin = datetime.strptime(fechafin, "%Y-%m-%d").date()
-                if fecha_torneo_fin <= hoy: continue
+                if fecha_torneo_fin < hoy: continue
                 # 2. Geocodificación (Obtener Lat/Lon)
                 try:
                     # Añadimos ", Spain" para ayudar al buscador a no irse a otro país
@@ -62,7 +64,7 @@ def scrape_toka_chess():
                 except:
                     lat, lon = 40.4167, -3.7033
 
-                print(f"Procesando: {nombre} en {lugar_raw} lat {lat} y lon {lon}")
+                print(f"Procesando {numTorneo}: {nombre} en {lugar_raw} lat {lat} y lon {lon}")
 
                 torneos_limpios.append({
                     "origin": "info64",
