@@ -265,6 +265,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Campeonato de Asturias por Equipos Primera 2026. Descenso",
+        "ciudad": "Asturias",
+        "fechaini": "14-02-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3133868,
+        "lon": -5.94192,
+        "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-primera-2026-descenso"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Asturias por Equipos Primera de Filiales 2026. Titulo",
+        "ciudad": "Asturias",
+        "fechaini": "14-02-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3133868,
+        "lon": -5.94192,
+        "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-primera-de-filiales-2026-titulo"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato de Asturias por Equipos Division de Honor de Filiales 2026. Titulo",
         "ciudad": "Asturias",
         "fechaini": "14-02-2026",
@@ -301,18 +325,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Asturias por Equipos Primera 2026. Descenso",
-        "ciudad": "Asturias",
-        "fechaini": "14-02-2026",
-        "fechafin": "25-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3133868,
-        "lon": -5.94192,
-        "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-primera-2026-descenso"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato de Asturias por Equipos Primera 2026. Titulo",
         "ciudad": "Asturias",
         "fechaini": "14-02-2026",
@@ -346,18 +358,6 @@
         "lat": 43.3133868,
         "lon": -5.94192,
         "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-division-de-honor-2026-descenso"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Asturias por Equipos Primera de Filiales 2026. Titulo",
-        "ciudad": "Asturias",
-        "fechaini": "14-02-2026",
-        "fechafin": "25-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3133868,
-        "lon": -5.94192,
-        "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-primera-de-filiales-2026-titulo"
     },
     {
         "origin": "info64",
@@ -925,75 +925,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Individual Sub-16 de Madrid 2025-2026 - Final",
-        "ciudad": "Madrid",
+        "nombre": "Campeonato por Equipos de La rioja - Segunda",
+        "ciudad": "La Rioja",
         "fechaini": "11-04-2026",
-        "fechafin": "19-04-2026",
+        "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/campeonato-individual-sub-16-de-madrid-2025-2026-final"
+        "lat": 42.2814642,
+        "lon": -2.482805,
+        "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-segunda"
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Individual Sub-20 de Madrid 2025-2026 - Final",
-        "ciudad": "Madrid",
+        "nombre": "Campeonato Por Equipos de La Rioja - Primera",
+        "ciudad": "La Rioja",
         "fechaini": "11-04-2026",
-        "fechafin": "19-04-2026",
+        "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/campeonato-individual-sub-20-de-madrid-2025-2026-final"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Individual Sub-18 de Madrid 2025-2026 - Final",
-        "ciudad": "Madrid",
-        "fechaini": "11-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/campeonato-individual-sub-18-de-madrid-2025-2026-final"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Individual Sub-14 de Madrid 2025-2026 - Final",
-        "ciudad": "Madrid",
-        "fechaini": "11-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/campeonato-individual-sub-14-de-madrid-2025-2026-final"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Individual Sub-12 de Madrid 2025-2026 - Final",
-        "ciudad": "Madrid",
-        "fechaini": "11-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/campeonato-individual-sub-12-de-madrid-2025-2026-final"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Individual Sub-10 de Madrid 2025-2026 - Final",
-        "ciudad": "Madrid",
-        "fechaini": "11-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/campeonato-individual-sub-10-de-madrid-2025-2026-final"
+        "lat": 42.2814642,
+        "lon": -2.482805,
+        "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-primera"
     },
     {
         "origin": "info64",
@@ -1018,30 +970,6 @@
         "lat": 29.0397081,
         "lon": -13.6362916,
         "link": "https://info64.org/team/liga-por-equipos-de-lanzarote-2026-infantil-sub-8-10"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato por Equipos de La rioja - Segunda",
-        "ciudad": "LA Rioja",
-        "fechaini": "11-04-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.2814642,
-        "lon": -2.482805,
-        "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-segunda"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Por Equipos de La Rioja - Primera",
-        "ciudad": "La Rioja",
-        "fechaini": "11-04-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.2814642,
-        "lon": -2.482805,
-        "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-primera"
     },
     {
         "origin": "info64",
@@ -1369,39 +1297,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Por Equipos Sub18",
-        "ciudad": "Almagro",
+        "nombre": "V Torneo Europeo de Primavera 2026",
+        "ciudad": "Alzira",
         "fechaini": "18-04-2026",
-        "fechafin": "19-04-2026",
+        "fechafin": "13-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.888238,
-        "lon": -3.7118218,
-        "link": "https://info64.org/team/campeonato-provincial-por-equipos-sub18-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Por Equipos Sub12",
-        "ciudad": "Almagro",
-        "fechaini": "18-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.888238,
-        "lon": -3.7118218,
-        "link": "https://info64.org/team/campeonato-provincial-por-equipos-sub12-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Por Equipos Sub14",
-        "ciudad": "Almagro",
-        "fechaini": "18-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.888238,
-        "lon": -3.7118218,
-        "link": "https://info64.org/team/campeonato-provincial-por-equipos-sub14-1"
+        "lat": 39.151212,
+        "lon": -0.4346556,
+        "link": "https://info64.org/v-torneo-europeo-de-primavera-2026"
     },
     {
         "origin": "info64",
@@ -1438,18 +1342,6 @@
         "lat": 43.3224219,
         "lon": -1.9838889,
         "link": "https://info64.org/xxi-open-de-primavera-gros-xake-udaberriko-irekia"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Europeo de Primavera 2026",
-        "ciudad": "Alzira",
-        "fechaini": "18-04-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.151212,
-        "lon": -0.4346556,
-        "link": "https://info64.org/v-torneo-europeo-de-primavera-2026"
     },
     {
         "origin": "info64",
@@ -1621,30 +1513,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Torneo de Ajedrez Fundacion Ramon Rey Ardid",
-        "ciudad": "Huesca",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1360615,
-        "lon": -0.0298027,
-        "link": "https://info64.org/vi-torneo-de-ajedrez-fundacion-ramon-rey-ardid"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CP Toledo Absoluto A 2026",
-        "ciudad": "Toledo",
-        "fechaini": "19-04-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "CP Toledo Absoluto B 2026",
         "ciudad": "Toledo",
         "fechaini": "19-04-2026",
@@ -1657,15 +1525,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Torneo de Ajedrez de Piedralaves (Avila)",
-        "ciudad": "Pîedralaves",
+        "nombre": "CP Toledo Absoluto A 2026",
+        "ciudad": "Toledo",
         "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
+        "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.3181182,
-        "lon": -4.6986188,
-        "link": "https://info64.org/iii-torneo-de-ajedrez-de-piedralaves-avila"
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
     },
     {
         "origin": "info64",
@@ -1993,6 +1861,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "I TORNEIG SOCIAL PRIMAVERA (B)",
+        "ciudad": "Carlet",
+        "fechaini": "20-04-2026",
+        "fechafin": "05-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2251696,
+        "lon": -0.5202051,
+        "link": "https://info64.org/i-torneig-social-primavera-b"
+    },
+    {
+        "origin": "info64",
         "nombre": "I TORNEIG SOCIAL PRIMAVERA (A2)",
         "ciudad": "Carlet",
         "fechaini": "20-04-2026",
@@ -2014,18 +1894,6 @@
         "lat": 39.2251696,
         "lon": -0.5202051,
         "link": "https://info64.org/i-torneig-social-primavera-a1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I TORNEIG SOCIAL PRIMAVERA (B)",
-        "ciudad": "Carlet",
-        "fechaini": "20-04-2026",
-        "fechafin": "05-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2251696,
-        "lon": -0.5202051,
-        "link": "https://info64.org/i-torneig-social-primavera-b"
     },
     {
         "origin": "info64",
@@ -2137,6 +2005,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II Torneo de Ajedrez Sub2400 Primavera",
+        "ciudad": "Cordoba",
+        "fechaini": "24-04-2026",
+        "fechafin": "26-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.8845813,
+        "lon": -4.7760138,
+        "link": "https://info64.org/ii-torneo-de-ajedrez-sub2400-primavera"
+    },
+    {
+        "origin": "info64",
         "nombre": "I LOQUILANDIA Escuela El Rey - Torneo VÁLIDO PARA ELO FADA",
         "ciudad": "Parque Loquilandia, Huércal",
         "fechaini": "24-04-2026",
@@ -2170,18 +2050,6 @@
         "lat": 40.2466579,
         "lon": -3.31377,
         "link": "https://info64.org/v-open-blitz-tielmes-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo de Ajedrez Sub2400 Primavera",
-        "ciudad": "Cordoba",
-        "fechaini": "24-04-2026",
-        "fechafin": "26-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8845813,
-        "lon": -4.7760138,
-        "link": "https://info64.org/ii-torneo-de-ajedrez-sub2400-primavera"
     },
     {
         "origin": "chess-results",
@@ -2218,6 +2086,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1390146.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II CAMPEONATO DE AJEDREZ DE ARTICA",
+        "ciudad": "Centro Civico Maria Dominguez",
+        "fechaini": "25-04-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8340445,
+        "lon": -1.6593411,
+        "link": "https://info64.org/ii-campeonato-de-ajedrez-de-artica"
     },
     {
         "origin": "info64",
@@ -2605,18 +2485,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Torneo Isabel de los Rios. Memorial Olayo Racionero Altozano",
-        "ciudad": "Aldea de los Rios-Guarroman",
-        "fechaini": "26-04-2026",
-        "fechafin": "26-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-torneo-isabel-de-los-rios-memorial-olayo-racionero-altozano"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Open Internacional de Ajedrez de LOS GALLARDOS 2026",
         "ciudad": "Los Gallardos",
         "fechaini": "26-04-2026",
@@ -2626,6 +2494,18 @@
         "lat": 37.1675863,
         "lon": -1.9394052,
         "link": "https://info64.org/iii-open-internacional-de-ajedrez-de-los-gallardos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo Isabel de los Rios. Memorial Olayo Racionero Altozano",
+        "ciudad": "Aldea de los Rios-Guarroman",
+        "fechaini": "26-04-2026",
+        "fechafin": "26-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iv-torneo-isabel-de-los-rios-memorial-olayo-racionero-altozano"
     },
     {
         "origin": "info64",
@@ -3883,8 +3763,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7996126,
-        "lon": -2.6056033,
+        "lat": 36.7892783,
+        "lon": -2.6166011,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-65"
     },
     {
@@ -3895,9 +3775,21 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7996126,
-        "lon": -2.6056033,
+        "lat": 36.7892783,
+        "lon": -2.6166011,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-50"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Open Internacional Rapidas Dama Roja",
+        "ciudad": "Valencia",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/open-internacional-rapidas-dama-roja"
     },
     {
         "origin": "info64",
@@ -3946,18 +3838,6 @@
         "lat": 39.9803187,
         "lon": -3.4403876,
         "link": "https://info64.org/iv-torneo-ajedrez-villa-de-noblejas"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Open Internacional Rapidas Dama Roja",
-        "ciudad": "Valencia",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/open-internacional-rapidas-dama-roja"
     },
     {
         "origin": "chess-results",
@@ -4357,18 +4237,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXX Aniversario ASSSA Enric Valor SUB 2400",
-        "ciudad": "ALICANTE",
-        "fechaini": "12-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/xxx-aniversario-enric-valor-sub-2400"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXX Aniversario ASSSA Enric Valor SUB 1800",
         "ciudad": "ALICANTE",
         "fechaini": "12-06-2026",
@@ -4378,6 +4246,18 @@
         "lat": 38.3436365,
         "lon": -0.4881708,
         "link": "https://info64.org/xxx-aniversario-enric-valor-sub-1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXX Aniversario ASSSA Enric Valor SUB 2400",
+        "ciudad": "ALICANTE",
+        "fechaini": "12-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/xxx-aniversario-enric-valor-sub-2400"
     },
     {
         "origin": "info64",
