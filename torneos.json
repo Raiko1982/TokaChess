@@ -1561,15 +1561,27 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Campionat de Mallorca Sub12 2026 474031",
-        "ciudad": "Marratxí",
+        "nombre": "Campionat de Mallorca Sub12 2026",
+        "ciudad": "Marratxí, Illes Balears.",
         "fechaini": "18-04-2026",
         "fechafin": "19-04-2026",
-        "organizador": "",
+        "organizador": "Associació El Tauler",
         "ritmo": "Standard: 30 minutes for game with 30 seconds increment from move 1",
         "lat": 39.6268438,
         "lon": 2.7359332,
         "link": "https://chess-results.com/tnr1392418.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Cto de Aragón Absoluto Femenino",
+        "ciudad": "",
+        "fechaini": "18-04-2026",
+        "fechafin": "19-04-2026",
+        "organizador": "Federación Aragonesa de Ajedrez",
+        "ritmo": "60 min + 30 seg/jug",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1392863.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2058,7 +2070,7 @@
         "fechaini": "19-04-2026",
         "fechafin": "19-04-2026",
         "organizador": "Amurrio Xake Kluba",
-        "ritmo": "7 mins",
+        "ritmo": "5+5 mins",
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1385063.aspx?lan=2"
@@ -5542,6 +5554,18 @@
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1335005.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "41º. Open Sestao Basque Country - Sub 2000",
+        "ciudad": "",
+        "fechaini": "08-09-2026",
+        "fechafin": "13-09-2026",
+        "organizador": "Sestao Xake Taldea",
+        "ritmo": "90min+30 sg/mov",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1397639.aspx?lan=2"
     },
     {
         "origin": "info64",
