@@ -829,6 +829,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "X Torneo Colegio León Felipe",
+        "ciudad": "Colegio León Felipe",
+        "fechaini": "05-04-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "",
+        "ritmo": "",
+        "lat": 38.3347493,
+        "lon": -1.9858318,
+        "link": "https://chess-results.com/tnr1398215.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "I TORNEO DE AJEDREZ PEÑA CULTURAL RECR. DE MONTALB",
         "ciudad": "PEÑA CULTURAL RECREATIVA (MONTALBÁN)",
         "fechaini": "06-04-2026",
@@ -1105,7 +1117,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Torneo Internacional de Ajedrez  Copa Seis Nacione",
+        "nombre": "Torneo Internacional de Ajedrez Copa Seis Naciones",
         "ciudad": "",
         "fechaini": "13-04-2026",
         "fechafin": "20-04-2026",
@@ -2916,6 +2928,18 @@
         "link": "https://chess-results.com/tnr1375668.aspx?lan=2"
     },
     {
+        "origin": "chess-results",
+        "nombre": "V Open FIDE Rápido Torre de Guzmán",
+        "ciudad": "Conil de la Frontera (Cádiz) - Salon Cultural Santa Catalina",
+        "fechaini": "09-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "Club de Ajedrez Conil",
+        "ritmo": "40+10",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1398125.aspx?lan=2"
+    },
+    {
         "origin": "info64",
         "nombre": "Provincial Absoluto, Femenino y Veteranos Ciudad Real 2026",
         "ciudad": "Ciudad Real",
@@ -2976,18 +3000,6 @@
         "link": "https://info64.org/iii-supra-50-fide-hotel-oasis-atalaya"
     },
     {
-        "origin": "chess-results",
-        "nombre": "III Supra 50 FIDE Hotel Oasis Atalaya",
-        "ciudad": "Hotel Oasis Atalaya, Conil de la Frontera",
-        "fechaini": "11-05-2026",
-        "fechafin": "15-05-2026",
-        "organizador": "clubdeajedrezconil@gmail.com",
-        "ritmo": "90+30",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1398125.aspx?lan=2"
-    },
-    {
         "origin": "info64",
         "nombre": "III Open Tardeo Hotel Oasis Atalaya",
         "ciudad": "Conil de la Frontera",
@@ -3002,7 +3014,7 @@
     {
         "origin": "chess-results",
         "nombre": "III Open Tardeo Hotel Oasis Atalaya",
-        "ciudad": "Hotel Oasis Atalaya, Conil de la Frontera",
+        "ciudad": "Hotel Oasis Atalaya, Conil de la Frontera, Cadiz",
         "fechaini": "12-05-2026",
         "fechafin": "14-05-2026",
         "organizador": "clubdeajedrezconil@gmail.com",
@@ -3110,7 +3122,7 @@
     {
         "origin": "chess-results",
         "nombre": "III Open Hotel Oasis Atalaya",
-        "ciudad": "Hotel Oasis Atalaya, Conil de la Frontera",
+        "ciudad": "Hotel Oasis Atalaya, Conil de la Frontera, Cadiz",
         "fechaini": "16-05-2026",
         "fechafin": "16-05-2026",
         "organizador": "clubdeajedrezconil@gmail.com",
