@@ -583,8 +583,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883148,
-        "lon": 2.2433061,
+        "lat": 41.883155,
+        "lon": 2.2430117,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -889,6 +889,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Liga por Equipos de Lanzarote 2026 (Segunda)",
+        "ciudad": "Lanzarote",
+        "fechaini": "11-04-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 29.0397081,
+        "lon": -13.6362916,
+        "link": "https://info64.org/team/liga-por-equipos-de-lanzarote-2026-segunda"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Liga por Equipos de Lanzarote 2026 (Primera)",
+        "ciudad": "Lanzarote",
+        "fechaini": "11-04-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 29.0397081,
+        "lon": -13.6362916,
+        "link": "https://info64.org/team/liga-por-equipos-de-lanzarote-2026-primera"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato por Equipos de La rioja - Segunda",
         "ciudad": "La Rioja",
         "fechaini": "11-04-2026",
@@ -934,30 +958,6 @@
         "lat": 29.0397081,
         "lon": -13.6362916,
         "link": "https://info64.org/team/liga-por-equipos-de-lanzarote-2026-infantil-sub-8-10"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Liga por Equipos de Lanzarote 2026 (Primera)",
-        "ciudad": "Lanzarote",
-        "fechaini": "11-04-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 29.0397081,
-        "lon": -13.6362916,
-        "link": "https://info64.org/team/liga-por-equipos-de-lanzarote-2026-primera"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Liga por Equipos de Lanzarote 2026 (Segunda)",
-        "ciudad": "Lanzarote",
-        "fechaini": "11-04-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 29.0397081,
-        "lon": -13.6362916,
-        "link": "https://info64.org/team/liga-por-equipos-de-lanzarote-2026-segunda"
     },
     {
         "origin": "chess-results",
@@ -1063,8 +1063,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
+        "lat": 40.4467782,
+        "lon": -3.714568,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
@@ -1141,18 +1141,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Torneo Europeo de Primavera 2026",
-        "ciudad": "Alzira",
-        "fechaini": "18-04-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.151212,
-        "lon": -0.4346556,
-        "link": "https://info64.org/v-torneo-europeo-de-primavera-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Cto. Navarro Absoluto Individual 2026",
         "ciudad": "Pamplona - Fuerte del Principe",
         "fechaini": "18-04-2026",
@@ -1162,6 +1150,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/cto-navarro-absoluto-individual-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Europeo de Primavera 2026",
+        "ciudad": "Alzira",
+        "fechaini": "18-04-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.151212,
+        "lon": -0.4346556,
+        "link": "https://info64.org/v-torneo-europeo-de-primavera-2026"
     },
     {
         "origin": "info64",
@@ -1189,18 +1189,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Daniel Gutierrez Lupion - Examen AN Vega",
-        "ciudad": "Ciudad Real",
-        "fechaini": "18-04-2026",
-        "fechafin": "26-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9597348,
-        "lon": -3.8828744,
-        "link": "https://info64.org/daniel-gutierrez-lupion-examen-an-vega"
-    },
-    {
-        "origin": "info64",
         "nombre": "Antonio J Macias Aguilar",
         "ciudad": "Ciudad Real",
         "fechaini": "18-04-2026",
@@ -1210,18 +1198,6 @@
         "lat": 38.9597348,
         "lon": -3.8828744,
         "link": "https://info64.org/antonio-j-macias-aguilar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Nazarov Aleksandr",
-        "ciudad": "Murcia",
-        "fechaini": "18-04-2026",
-        "fechafin": "26-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.9347521,
-        "lon": -1.1131029,
-        "link": "https://info64.org/team/nazarov-aleksandr"
     },
     {
         "origin": "chess-results",
@@ -1258,30 +1234,6 @@
         "lat": 39.8558913,
         "lon": -4.024265,
         "link": "https://info64.org/cp-toledo-absoluto-a-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo de Ajedrez de Piedralaves (Avila)",
-        "ciudad": "Pîedralaves",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.3181182,
-        "lon": -4.6986188,
-        "link": "https://info64.org/iii-torneo-de-ajedrez-de-iedralaves-avila"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo APAC Prebenjamin",
-        "ciudad": "Paredes de Nava",
-        "fechaini": "19-04-2026",
-        "fechafin": "19-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1528695,
-        "lon": -4.6922384,
-        "link": "https://info64.org/iii-torneo-apac-prebenjamin"
     },
     {
         "origin": "info64",
@@ -1438,6 +1390,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1387743.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Primavera 26",
+        "ciudad": "Divina Pastora",
+        "fechaini": "24-04-2026",
+        "fechafin": "12-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3728179,
+        "lon": -0.5023158,
+        "link": "https://info64.org/primavera-26"
     },
     {
         "origin": "info64",
@@ -1969,6 +1933,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Cto. Provincial Guadalajara de Ajedrez Escolar 2026 / Cifuentes",
+        "ciudad": "Cifuentes",
+        "fechaini": "26-04-2026",
+        "fechafin": "26-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7854583,
+        "lon": -2.6221233,
+        "link": "https://info64.org/cto-provincial-guadalajara-de-ajedrez-escolar-2026-cifuentes"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Open Internacional de Ajedrez de LOS GALLARDOS 2026",
         "ciudad": "Los Gallardos",
         "fechaini": "26-04-2026",
@@ -2026,18 +2002,6 @@
         "lat": 37.6155018,
         "lon": -0.987511,
         "link": "https://info64.org/i-torneo-blitz-sauces"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto. Provincial Guadalajara de Ajedrez Escolar 2026 / Cifuentes",
-        "ciudad": "Cifuentes",
-        "fechaini": "26-04-2026",
-        "fechafin": "26-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7854583,
-        "lon": -2.6221233,
-        "link": "https://info64.org/cto-provincial-guadalajara-de-ajedrez-escolar-2026-cifuentes"
     },
     {
         "origin": "info64",
@@ -3247,8 +3211,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7892783,
-        "lon": -2.6166011,
+        "lat": 36.799264,
+        "lon": -2.6059105,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-65"
     },
     {
@@ -3259,8 +3223,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7892783,
-        "lon": -2.6166011,
+        "lat": 36.799264,
+        "lon": -2.6059105,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-50"
     },
     {
@@ -3421,18 +3385,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXXVIII Abierto Internacional CIUDAD de DOS HERMANAS 2026",
-        "ciudad": "Dos Hermanas",
-        "fechaini": "30-05-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.283689,
-        "lon": -5.9226718,
-        "link": "https://info64.org/xxxviii-abierto-internacional-ciudad-de-dos-hermanas-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Individual IV memorial Gonzalo Fernandez",
         "ciudad": "Tres Cantos",
         "fechaini": "30-05-2026",
@@ -3442,6 +3394,18 @@
         "lat": 40.6012354,
         "lon": -3.7038475,
         "link": "https://info64.org/torneo-individual-iv-memorial-gonzalo-fernandez"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXVIII Abierto Internacional CIUDAD de DOS HERMANAS 2026",
+        "ciudad": "Dos Hermanas",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.283689,
+        "lon": -5.9226718,
+        "link": "https://info64.org/xxxviii-abierto-internacional-ciudad-de-dos-hermanas-2026"
     },
     {
         "origin": "info64",
@@ -3541,18 +3505,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VIII Torneo Relampago Internacional Dama Negra",
-        "ciudad": "Alicante",
-        "fechaini": "31-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/viii-torneo-relampago-internacional-dama-negra"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Familiar IV memorial Gonzalo",
         "ciudad": "Tres Cantos",
         "fechaini": "31-05-2026",
@@ -3562,6 +3514,18 @@
         "lat": 40.6012354,
         "lon": -3.7038475,
         "link": "https://info64.org/torneo-familiar-iv-memorial-gonzalo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII Torneo Relampago Internacional Dama Negra",
+        "ciudad": "Alicante",
+        "fechaini": "31-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/viii-torneo-relampago-internacional-dama-negra"
     },
     {
         "origin": "info64",
@@ -3649,6 +3613,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "V Open Blitz Tres Cantos",
+        "ciudad": "Tres Cantos",
+        "fechaini": "06-06-2026",
+        "fechafin": "06-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6012354,
+        "lon": -3.7038475,
+        "link": "https://info64.org/v-open-blitz-tres-cantos"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato Femenino de Euskadi",
         "ciudad": "Maeztu",
         "fechaini": "06-06-2026",
@@ -3670,18 +3646,6 @@
         "lat": 42.7385119,
         "lon": -2.4473036,
         "link": "https://info64.org/campeonato-femenino-de-euskadi-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Open Blitz Tres Cantos",
-        "ciudad": "Tres Cantos",
-        "fechaini": "06-06-2026",
-        "fechafin": "06-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6012354,
-        "lon": -3.7038475,
-        "link": "https://info64.org/v-open-blitz-tres-cantos"
     },
     {
         "origin": "info64",
