@@ -1,6 +1,90 @@
 [
     {
         "origin": "info64",
+        "nombre": "Relampago Absoluto CTL 2026",
+        "ciudad": "Burgos",
+        "fechaini": "23-04-2026",
+        "fechafin": "23-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.343926,
+        "lon": -3.696977,
+        "link": "https://info64.org/relampago-absoluto-ctl-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Open Madrid Chess Academy 2026",
+        "ciudad": "Collado Villalba",
+        "fechaini": "11-04-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6432432,
+        "lon": -3.992353,
+        "link": "https://info64.org/iii-open-madrid-chess-academy-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Insular de Ajedrez de Gran Canaria Veteranos 2026",
+        "ciudad": "Gran Canaria",
+        "fechaini": "08-04-2026",
+        "fechafin": "22-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 27.9580004,
+        "lon": -15.6062305,
+        "link": "https://info64.org/campeonato-insular-de-ajedrez-de-gran-canaria-veteranos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "RAPID FIDE - Ibiza Travel 2026",
+        "ciudad": "Sant Antoni de Portmany",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9830568,
+        "lon": 1.3009485,
+        "link": "https://info64.org/rapid-fide-ibiza-travel-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "BLITZ FIDE - Ibiza Travel 2026",
+        "ciudad": "Sant Antoni de Portmany",
+        "fechaini": "02-10-2026",
+        "fechafin": "02-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9830568,
+        "lon": 1.3009485,
+        "link": "https://info64.org/blitz-fide-ibiza-travel-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Festival Internacional de Ajedrez Lanzarote 2026",
+        "ciudad": "Lanzarote",
+        "fechaini": "29-07-2026",
+        "fechafin": "06-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 29.0397081,
+        "lon": -13.6362916,
+        "link": "https://info64.org/vi-festival-internacional-de-ajedrez-lanzarote-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CP Toledo Absoluto A 2026",
+        "ciudad": "Toledo",
+        "fechaini": "19-04-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo Rapidas Akeru",
         "ciudad": "Vicalvaro",
         "fechaini": "09-05-2026",
@@ -22,18 +106,6 @@
         "lat": 37.8845813,
         "lon": -4.7760138,
         "link": "https://info64.org/ii-torneo-de-ajedrez-sub2400-primavera"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Relampago Absoluto CTL 2026",
-        "ciudad": "Burgos",
-        "fechaini": "23-04-2026",
-        "fechafin": "23-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.343926,
-        "lon": -3.696977,
-        "link": "https://info64.org/relampago-absoluto-ctl-2026"
     },
     {
         "origin": "info64",
@@ -166,18 +238,6 @@
         "lat": 40.3238525,
         "lon": -3.8649214,
         "link": "https://info64.org/xxxiv-open-internacional-de-ajedrez-activo-ciudad-de-mostoles"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CP Toledo Absoluto A 2026",
-        "ciudad": "Toledo",
-        "fechaini": "19-04-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/cp-toledo-absoluto-a-2026"
     },
     {
         "origin": "info64",
@@ -478,30 +538,6 @@
         "lat": 43.3709703,
         "lon": -8.3959425,
         "link": "https://info64.org/maria-pita-abierto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "RAPID FIDE - Ibiza Travel 2026",
-        "ciudad": "San Antonio de Portmani",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/rapid-fide-ibiza-travel-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "BLITZ FIDE - Ibiza Travel 2026",
-        "ciudad": "San Antonio de Portmani",
-        "fechaini": "02-10-2026",
-        "fechafin": "02-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/blitz-fide-ibiza-travel-2026"
     },
     {
         "origin": "info64",
@@ -1039,8 +1075,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.799264,
-        "lon": -2.6059105,
+        "lat": 36.7996126,
+        "lon": -2.6056033,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-65"
     },
     {
@@ -1051,8 +1087,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.799264,
-        "lon": -2.6059105,
+        "lat": 36.7996126,
+        "lon": -2.6056033,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-50"
     },
     {
@@ -1099,8 +1135,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4467782,
-        "lon": -3.714568,
+        "lat": 40.4466867,
+        "lon": -3.7144127,
         "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
@@ -1441,18 +1477,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Open Madrid Chess Academy 2026",
-        "ciudad": "Collado Villalba",
-        "fechaini": "11-04-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6432432,
-        "lon": -3.992353,
-        "link": "https://info64.org/iii-open-madrid-chess-academy-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXI Open de Primavera GROS XAKE Udaberriko Irekia",
         "ciudad": "Donostia",
         "fechaini": "18-04-2026",
@@ -1606,18 +1630,6 @@
         "lat": 38.6982348,
         "lon": -0.4747619,
         "link": "https://info64.org/campeonato-provincial-veteranos-65-alicante-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Insular de Ajedrez de Gran Canaria Veteranos 2026",
-        "ciudad": "Gran Canaria",
-        "fechaini": "08-04-2026",
-        "fechafin": "22-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 27.9580004,
-        "lon": -15.6062305,
-        "link": "https://info64.org/campeonato-insular-de-ajedrez-de-gran-canaria-veteranos-2026"
     },
     {
         "origin": "info64",
@@ -1858,18 +1870,6 @@
         "lat": 40.2466579,
         "lon": -3.31377,
         "link": "https://info64.org/v-open-blitz-tielmes-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Festival Internacional de Ajedrez Lanzarote 2026",
-        "ciudad": "Lanzarote",
-        "fechaini": "29-07-2026",
-        "fechafin": "06-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 29.0397081,
-        "lon": -13.6362916,
-        "link": "https://info64.org/vi-festival-internacional-de-ajedrez-lanzarote-2026"
     },
     {
         "origin": "info64",
@@ -2185,18 +2185,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "JUDEX Promocional CEIP CONQUISTADOR LOAYSA 2026  BENJAMIN",
-        "ciudad": "JARANDILLA - EXTREMADURA",
-        "fechaini": "20-04-2026",
-        "fechafin": "20-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.1282875,
-        "lon": -5.6587,
-        "link": "https://info64.org/judex-promocional-ceip-conquistador-loaysa-2026-benjamin"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo de Centro Jubilados de Tafalla",
         "ciudad": "Tafalla",
         "fechaini": "28-01-2026",
@@ -2257,26 +2245,14 @@
     },
     {
         "origin": "info64",
-        "nombre": "JUDEX Promocional CEIP CONQUISTADOR LOAYSA 2026  ALEVIN",
-        "ciudad": "JARANDILLA - EXTREMADURA",
-        "fechaini": "20-04-2026",
-        "fechafin": "20-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.1282875,
-        "lon": -5.6587,
-        "link": "https://info64.org/judex-promocional-ceip-conquistador-loaysa-2026-alevin"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Amigos del Ajedrez",
         "ciudad": "Online",
         "fechaini": "15-03-2026",
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883155,
-        "lon": 2.2430117,
+        "lat": 41.883148,
+        "lon": 2.2433061,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
