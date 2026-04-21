@@ -61,8 +61,20 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Trofeo Sant Antoni de Portmany - Amateur",
+        "ciudad": "Sant Antoni de Portmany(Ibiza)",
+        "fechaini": "04-10-2026",
+        "fechafin": "04-10-2026",
+        "organizador": "Nicolo Napoli",
+        "ritmo": "10 minutes + 5 seconds per move",
+        "lat": 38.9830568,
+        "lon": 1.3009485,
+        "link": "https://chess-results.com/tnr1398535.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "RAPID FIDE - Ibiza Travel 2026",
-        "ciudad": "Sant Antoni de Portmany (Ibiza)",
+        "ciudad": "Sant Antoni de Portmany(Ibiza)",
         "fechaini": "03-10-2026",
         "fechafin": "03-10-2026",
         "organizador": "Nicolo Napoli",
@@ -74,13 +86,13 @@
     {
         "origin": "chess-results",
         "nombre": "BLITZ FIDE - Ibiza Travel 2026",
-        "ciudad": "San Antonio de Portmani (Ibiza)",
+        "ciudad": "Sant Antoni de Portmany(Ibiza)",
         "fechaini": "02-10-2026",
         "fechafin": "02-10-2026",
         "organizador": "Nicolo Napoli",
         "ritmo": "3 minutes + 2 seconds per move",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.9830568,
+        "lon": 1.3009485,
         "link": "https://chess-results.com/tnr1385074.aspx?lan=2"
     },
     {
@@ -745,6 +757,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "I OPEN D'ESCACS FANZARA 2026",
+        "ciudad": "Parador de Fanzara",
+        "fechaini": "16-05-2026",
+        "fechafin": "16-05-2026",
+        "organizador": "Escuela Ajedrez Castellón",
+        "ritmo": "5' + 3\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1398560.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "II Escolar Sub12 CA Monteolivete 2026",
         "ciudad": "Club Ajedrez Monteolivete - C/ Escultor José Capuz, 44 46006 Valencia",
         "fechaini": "16-05-2026",
@@ -958,6 +982,18 @@
         "lat": 37.3907553,
         "lon": -3.5186916,
         "link": "https://chess-results.com/tnr1393305.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "I OPEN D'ESCACS VILANOVA D'ALCOLEA 2026",
+        "ciudad": "",
+        "fechaini": "03-05-2026",
+        "fechafin": "03-05-2026",
+        "organizador": "Escuela Ajedrez Castellón",
+        "ritmo": "5' + 3\"",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1398550.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1585,6 +1621,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Campionat de Balears Femeni Absolut i Sub18 2026",
+        "ciudad": "Ca Picafort",
+        "fechaini": "24-04-2026",
+        "fechafin": "26-04-2026",
+        "organizador": "Federació Balear d'Escacs",
+        "ritmo": "90 min + 30 seg por jugada",
+        "lat": 39.76802,
+        "lon": 3.1493162,
+        "link": "https://chess-results.com/tnr1398492.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "III Open San Prudencio Sub 1800",
         "ciudad": "Vitoria - Gasteiz, calle El Torno 2",
         "fechaini": "24-04-2026",
@@ -1657,18 +1705,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Campeones Rio Sena",
-        "ciudad": "",
-        "fechaini": "20-04-2026",
-        "fechafin": "20-04-2026",
-        "organizador": "",
-        "ritmo": "",
-        "lat": 39.3260685,
-        "lon": -4.8379791,
-        "link": "https://chess-results.com/tnr1398422.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "Liga por Equipos de Lanzarote 2026 (Infantil Sub 8",
         "ciudad": "Sociedad Democracia y Centro Insular de Arrecife (Lanzarote)",
         "fechaini": "18-04-2026",
@@ -1690,42 +1726,6 @@
         "lat": 41.3825802,
         "lon": 2.177073,
         "link": "https://chess-results.com/tnr1361384.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Torneo Internacional de Ajedrez  Copa Seis Nacione",
-        "ciudad": "Chantada, Lugo, España",
-        "fechaini": "13-04-2026",
-        "fechafin": "20-04-2026",
-        "organizador": "Club de Ajedrez Chantada",
-        "ritmo": "90 minutos iniciales  + 30 segundos por jugada",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1365266.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Torneo Internacional de Ajedrez Copa Seis Naciones",
-        "ciudad": "",
-        "fechaini": "13-04-2026",
-        "fechafin": "20-04-2026",
-        "organizador": "Club de Ajedrez Chantada",
-        "ritmo": "90 min + 30 seg por jugada",
-        "lat": 39.3260685,
-        "lon": -4.8379791,
-        "link": "https://chess-results.com/tnr1392739.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Trofeo Rectora Ajedrez 2025-2026 Fase Final",
-        "ciudad": "Pabellón Polideportivo Universitario, C/ Pedro Cerbuna, 12 Zaragoza",
-        "fechaini": "13-04-2026",
-        "fechafin": "20-04-2026",
-        "organizador": "Universidad de Zaragoza",
-        "ritmo": "15’ + 3” de crono individual",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1385153.aspx?lan=2"
     },
     {
         "origin": "chess-results",
