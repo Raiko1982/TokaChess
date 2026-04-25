@@ -685,6 +685,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "XI Open Ajedrez Mármol Olula del Río 2026",
+        "ciudad": "Polideportivo Municipal, Av.Vereda de Olula, Olula del RÍo, Almería",
+        "fechaini": "06-06-2026",
+        "fechafin": "06-06-2026",
+        "organizador": "Excmo.Ayuntamiento Olula del Río",
+        "ritmo": "10+5",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1402088.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "25th IPCA World Individual Standard Chess Champion",
         "ciudad": "Guardamar",
         "fechaini": "02-06-2026",
@@ -1453,6 +1465,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "TORNEO DE AJEDREZ PAREJAS MIXTAS 2026",
+        "ciudad": "Centro Deportivo Helios, Calle José Atares 1 de Zaragoza",
+        "fechaini": "03-05-2026",
+        "fechafin": "03-05-2026",
+        "organizador": "Federación Aragonesa de Ajedrez",
+        "ritmo": "3 min + 2 sg",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1402237.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "FESTIVAL ESCOLAR AJEDREZ - ROBIN-CHESS 2025CATEGOR",
         "ciudad": "SANTANDER (CANTABRIA)",
         "fechaini": "02-05-2026",
@@ -1693,7 +1717,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "V BLITZ ÁGAPE",
+        "nombre": "V BLITZ AGAPE - Quinta etapa Circuito Urbano",
         "ciudad": "C. el Alquián, 9, 41020 Sevilla",
         "fechaini": "29-04-2026",
         "fechafin": "29-04-2026",
@@ -1891,8 +1915,8 @@
         "fechafin": "26-04-2026",
         "organizador": "Club Ajedrez Alfaro",
         "ritmo": "12 minutos + 3 segundos por jugada",
-        "lat": 42.2293469,
-        "lon": -1.8880858,
+        "lat": 42.2208092,
+        "lon": -1.9073052,
         "link": "https://chess-results.com/tnr1387793.aspx?lan=2"
     },
     {
@@ -2094,7 +2118,7 @@
         "fechaini": "25-04-2026",
         "fechafin": "25-04-2026",
         "organizador": "EOI Alicante",
-        "ritmo": "10 minutos por jugador",
+        "ritmo": "10 minutos + 3 segundos por cada movimiento",
         "lat": 38.2748204,
         "lon": -0.6909528,
         "link": "https://chess-results.com/tnr1379855.aspx?lan=2"
@@ -2158,6 +2182,18 @@
         "lat": 36.8591822,
         "lon": -5.6434544,
         "link": "https://chess-results.com/tnr1385064.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "LARUNBATAK 25042026",
+        "ciudad": "DONOSTIA",
+        "fechaini": "25-04-2026",
+        "fechafin": "25-04-2026",
+        "organizador": "GROS XAKE TALDEA",
+        "ritmo": "",
+        "lat": 43.3224219,
+        "lon": -1.9838889,
+        "link": "https://chess-results.com/tnr1402125.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2282,13 +2318,13 @@
     {
         "origin": "chess-results",
         "nombre": "Campionat de Balears Femeni Absolut i Sub18 2026",
-        "ciudad": "Ca Picafort",
+        "ciudad": "Can Picafort (Baleares)",
         "fechaini": "24-04-2026",
         "fechafin": "26-04-2026",
         "organizador": "Federació Balear d'Escacs",
         "ritmo": "90 min + 30 seg por jugada",
-        "lat": 39.76802,
-        "lon": 3.1493162,
+        "lat": 39.772218,
+        "lon": 3.0391475,
         "link": "https://chess-results.com/tnr1398492.aspx?lan=2"
     },
     {
@@ -2839,8 +2875,8 @@
         "fechafin": "21-05-2026",
         "organizador": "Martintxo XK",
         "ritmo": "5+7",
-        "lat": 42.8505845,
-        "lon": -2.66145,
+        "lat": 42.8465088,
+        "lon": -2.6724025,
         "link": "https://chess-results.com/tnr1251377.aspx?lan=2"
     },
     {
@@ -2887,8 +2923,8 @@
         "fechafin": "11-06-2026",
         "organizador": "Marianistas XK",
         "ritmo": "10+5",
-        "lat": 42.8505845,
-        "lon": -2.66145,
+        "lat": 42.8465088,
+        "lon": -2.6724025,
         "link": "https://chess-results.com/tnr1250289.aspx?lan=2"
     }
 ]
