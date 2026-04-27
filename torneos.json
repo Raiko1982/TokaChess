@@ -391,8 +391,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883148,
-        "lon": 2.2433061,
+        "lat": 41.8831074,
+        "lon": 2.2431519,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -901,18 +901,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXI Open de Primavera GROS XAKE Udaberriko Irekia",
-        "ciudad": "Donostia",
-        "fechaini": "18-04-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3224219,
-        "lon": -1.9838889,
-        "link": "https://info64.org/xxi-open-de-primavera-gros-xake-udaberriko-irekia"
-    },
-    {
-        "origin": "info64",
         "nombre": "Cto. Navarro Absoluto Individual 2026",
         "ciudad": "Pamplona - Fuerte del Principe",
         "fechaini": "18-04-2026",
@@ -922,18 +910,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/cto-navarro-absoluto-individual-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto de Alava de veteranos 2026",
-        "ciudad": "Vitria-Gasteiz",
-        "fechaini": "18-04-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/cto-de-alava-de-veteranos-2026"
     },
     {
         "origin": "info64",
@@ -949,15 +925,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "Antonio J Macias Aguilar",
-        "ciudad": "Ciudad Real",
+        "nombre": "XXI Open de Primavera GROS XAKE Udaberriko Irekia",
+        "ciudad": "Donostia",
         "fechaini": "18-04-2026",
-        "fechafin": "26-04-2026",
+        "fechafin": "13-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.9597348,
-        "lon": -3.8828744,
-        "link": "https://info64.org/antonio-j-macias-aguilar"
+        "lat": 43.3224219,
+        "lon": -1.9838889,
+        "link": "https://info64.org/xxi-open-de-primavera-gros-xake-udaberriko-irekia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Cto de Alava de veteranos 2026",
+        "ciudad": "Vitria-Gasteiz",
+        "fechaini": "18-04-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/cto-de-alava-de-veteranos-2026"
     },
     {
         "origin": "chess-results",
@@ -1152,42 +1140,6 @@
         "link": "https://chess-results.com/tnr1370036.aspx?lan=2"
     },
     {
-        "origin": "info64",
-        "nombre": "Escolas Maios Academica As Burgas",
-        "ciudad": "Ourense",
-        "fechaini": "26-04-2026",
-        "fechafin": "26-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/escolas-maios-academica-as-burgas"
-    },
-    {
-        "origin": "info64",
-        "nombre": "OPEN PAREJAS V TIELMES",
-        "ciudad": "Tielmes",
-        "fechaini": "26-04-2026",
-        "fechafin": "26-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.2466579,
-        "lon": -3.31377,
-        "link": "https://info64.org/open-parejas-v-tielmes"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VII Open Ajedrez Rapido 10+5 Alpedrete (1000 EUROS EN PREMIOS)",
-        "ciudad": "Alpedrete",
-        "fechaini": "26-04-2026",
-        "fechafin": "26-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6599262,
-        "lon": -4.0251362,
-        "link": "https://info64.org/vii-open-ajedrez-rapido-105-alpedrete-1000-euros-en-premios"
-    },
-    {
         "origin": "chess-results",
         "nombre": "Lliga Escoles d'Escacs de Palma Sub12",
         "ciudad": "",
@@ -1222,6 +1174,18 @@
         "lat": 40.4309231,
         "lon": -3.6808848,
         "link": "https://info64.org/blitz-banco-mediolanum"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Liga de Primavera 2026 Gambito de Guada",
+        "ciudad": "Guadalajara",
+        "fechaini": "27-04-2026",
+        "fechafin": "30-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7399963,
+        "lon": -2.50593,
+        "link": "https://info64.org/liga-de-primavera-2026-gambito-de-guada"
     },
     {
         "origin": "chess-results",
@@ -1267,8 +1231,8 @@
         "fechafin": "29-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 37.6711989,
-        "lon": -1.6988592,
+        "lat": 37.6951954,
+        "lon": -1.772291,
         "link": "https://info64.org/i-torneo-ajedrez-colegio-alfonso-x-el-sabio-sub-18"
     },
     {
@@ -1279,8 +1243,8 @@
         "fechafin": "29-04-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 37.6711989,
-        "lon": -1.6988592,
+        "lat": 37.6951954,
+        "lon": -1.772291,
         "link": "https://info64.org/i-torneo-ajedrez-colegio-alfonso-x-el-sabio-sub-08"
     },
     {
@@ -1465,18 +1429,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "FIESTAS TXANTREA 2026",
-        "ciudad": "Club Ajedrez Orvina",
-        "fechaini": "01-05-2026",
-        "fechafin": "01-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fiestas-txantrea-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Torneo de Ajedrez de Rueda de Jalón",
         "ciudad": "Rueda de Jalón",
         "fechaini": "01-05-2026",
@@ -1486,6 +1438,18 @@
         "lat": 41.6331026,
         "lon": -1.2747344,
         "link": "https://info64.org/v-torneo-de-ajedrez-de-rueda-de-jalon"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIESTAS TXANTREA 2026",
+        "ciudad": "Club Ajedrez Orvina",
+        "fechaini": "01-05-2026",
+        "fechafin": "01-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fiestas-txantrea-2026"
     },
     {
         "origin": "info64",
@@ -1507,8 +1471,8 @@
         "fechafin": "01-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.1741836,
-        "lon": -8.5050427,
+        "lat": 42.1886579,
+        "lon": -8.5054515,
         "link": "https://info64.org/team/liga-galicia-4adivision-por-equipos-pontevedra"
     },
     {
@@ -1711,8 +1675,8 @@
         "fechafin": "02-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.6521342,
-        "lon": -0.8809428,
+        "lat": 41.6915847,
+        "lon": -0.9101268,
         "link": "https://info64.org/iii-memorial-eduardo-carruez"
     },
     {
@@ -1993,6 +1957,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "20th World Deaf Team Clasical Chess Championship -Women (477031)",
+        "ciudad": "Roquetas de Mar",
+        "fechaini": "07-05-2026",
+        "fechafin": "11-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7630203,
+        "lon": -2.6115886,
+        "link": "https://info64.org/team/1st-world-deaf-team-rapid-chess-championship-women-477019"
+    },
+    {
+        "origin": "info64",
         "nombre": "14th ICCD Open Individual Chess Tournament (477026)",
         "ciudad": "Roquetas de Mar",
         "fechaini": "07-05-2026",
@@ -2014,18 +1990,6 @@
         "lat": 36.7630203,
         "lon": -2.6115886,
         "link": "https://info64.org/team/form-registro-torneos-2022_20th-iccd-worlddeafteamclassicalchess-men"
-    },
-    {
-        "origin": "info64",
-        "nombre": "1st World Deaf Team Clasical Chess Championship -Women (477031)",
-        "ciudad": "Roquetas de Mar",
-        "fechaini": "07-05-2026",
-        "fechafin": "11-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7630203,
-        "lon": -2.6115886,
-        "link": "https://info64.org/team/1st-world-deaf-team-rapid-chess-championship-women-477019"
     },
     {
         "origin": "info64",
@@ -2149,6 +2113,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Torneo SUB14 Ajedrez Cabaña del Retiro Mayo 2026",
+        "ciudad": "Cabaña Parque del Retiro",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/torneo-sub14-ajedrez-cabana-del-retiro-mayo-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "V Campeonato de Andalucia Rapido Sub-14",
         "ciudad": "Baena",
         "fechaini": "09-05-2026",
@@ -2230,18 +2206,6 @@
         "lat": 36.277054,
         "lon": -6.0881874,
         "link": "https://info64.org/i-sub-1600-fada-torre-de-guzman"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo SUB14 Ajedrez Cabaña del Retiro Mayo 2026",
-        "ciudad": "Cabaña Parque del Retiro",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/torneo-sub14-ajedrez-cabana-del-retiro-mayo-2026"
     },
     {
         "origin": "info64",
@@ -2455,8 +2419,8 @@
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.6521342,
-        "lon": -0.8809428,
+        "lat": 41.6915847,
+        "lon": -0.9101268,
         "link": "https://info64.org/torneo-relampago-el-greco-mayo-2026"
     },
     {
@@ -2581,6 +2545,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "2nd ICCD World Individual Rapid Chess Championship - Women (477021)",
+        "ciudad": "Roquetas de Mar",
+        "fechaini": "12-05-2026",
+        "fechafin": "12-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7630203,
+        "lon": -2.6115886,
+        "link": "https://info64.org/14t2nd-iccd-world-individual-rapid-chess-championship-women-477021"
+    },
+    {
+        "origin": "info64",
+        "nombre": "2nd ICCD World Individual Rapid Chess Championship - Men (477020)",
+        "ciudad": "Roquetas de Mar",
+        "fechaini": "12-05-2026",
+        "fechafin": "12-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7630203,
+        "lon": -2.6115886,
+        "link": "https://info64.org/14t2nd-iccd-world-individual-rapid-chess-championship-men-477020"
+    },
+    {
+        "origin": "info64",
         "nombre": "1st World Deaf Team Rapid Chess Championship - Women (477019)",
         "ciudad": "Roquetas de Mar",
         "fechaini": "12-05-2026",
@@ -2626,6 +2614,30 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1398137.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "8th ICCD World Individual Blitz Chess Championship - Men (477022)",
+        "ciudad": "Roquetas de Mar",
+        "fechaini": "13-05-2026",
+        "fechafin": "13-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7630203,
+        "lon": -2.6115886,
+        "link": "https://info64.org/8th-iccd-world-individual-blitz-chess-championship-men-477022"
+    },
+    {
+        "origin": "info64",
+        "nombre": "8th ICCD World Individual Blitz Chess Championship - Women (477023)",
+        "ciudad": "Roquetas de Mar",
+        "fechaini": "13-05-2026",
+        "fechafin": "13-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7630203,
+        "lon": -2.6115886,
+        "link": "https://info64.org/8th-iccd-world-individual-blitz-chess-championship-women-477023"
     },
     {
         "origin": "info64",
@@ -2683,8 +2695,8 @@
         "fechafin": "16-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7647913,
-        "lon": -4.4422005,
+        "lat": 36.7213028,
+        "lon": -4.4216366,
         "link": "https://info64.org/ix-torneo-escolar-plaza-mayor-sub-10"
     },
     {
@@ -2695,8 +2707,8 @@
         "fechafin": "16-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7647913,
-        "lon": -4.4422005,
+        "lat": 36.7213028,
+        "lon": -4.4216366,
         "link": "https://info64.org/ix-torneo-escolar-plaza-mayor-sub-16"
     },
     {
@@ -2845,6 +2857,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Torneo Letras Galegas",
+        "ciudad": "a Pobra de Trives",
+        "fechaini": "17-05-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3289003,
+        "lon": -7.2738432,
+        "link": "https://info64.org/torneo-letras-galegas"
+    },
+    {
+        "origin": "info64",
         "nombre": "Juegos Escolares Municipales- Jornada 5. CATEGORIA PREBENJAMIN (1º y 2º)",
         "ciudad": "ALICANTE",
         "fechaini": "17-05-2026",
@@ -2983,8 +3007,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.786875,
-        "lon": -2.6199057,
+        "lat": 36.799264,
+        "lon": -2.6059105,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-65"
     },
     {
@@ -2995,8 +3019,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.786875,
-        "lon": -2.6199057,
+        "lat": 36.799264,
+        "lon": -2.6059105,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-50"
     },
     {
@@ -3055,8 +3079,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.5039227,
-        "lon": -0.4421014,
+        "lat": 39.5259423,
+        "lon": -0.4733018,
         "link": "https://info64.org/xiii-irt-sub-1800-les-coves-de-paterna"
     },
     {
@@ -3769,6 +3793,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "V TORNEO INTERNACIONAL CIUDAD DE SILLA",
+        "ciudad": "SILLA",
+        "fechaini": "12-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.3632045,
+        "lon": -0.4112618,
+        "link": "https://info64.org/v-torneo-internacional-ciudad-de-silla"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXX Aniversario ASSSA Enric Valor SUB 1800",
         "ciudad": "ALICANTE",
         "fechaini": "12-06-2026",
@@ -3790,18 +3826,6 @@
         "lat": 38.3436365,
         "lon": -0.4881708,
         "link": "https://info64.org/xxx-aniversario-enric-valor-sub-2400"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V TORNEO INTERNACIONAL CIUDAD DE SILLA",
-        "ciudad": "SILLA",
-        "fechaini": "12-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.3632045,
-        "lon": -0.4112618,
-        "link": "https://info64.org/v-torneo-internacional-ciudad-de-silla"
     },
     {
         "origin": "info64",
@@ -3865,18 +3889,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXX Aniversario ASSSA Enric Valor OPEN INTERNACIONAL BLITZ",
-        "ciudad": "ALICANTE",
-        "fechaini": "14-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/xxx-aniversario-enric-valor-open-internacional-blitz"
-    },
-    {
-        "origin": "info64",
         "nombre": "VIII Blitz Internacional Ciudad De Silla",
         "ciudad": "SILLA",
         "fechaini": "14-06-2026",
@@ -3886,6 +3898,18 @@
         "lat": 39.3632045,
         "lon": -0.4112618,
         "link": "https://info64.org/viii-blitz-internacional-ciudad-de-silla"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXX Aniversario ASSSA Enric Valor OPEN INTERNACIONAL BLITZ",
+        "ciudad": "ALICANTE",
+        "fechaini": "14-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/xxx-aniversario-enric-valor-open-internacional-blitz"
     },
     {
         "origin": "info64",
@@ -4279,8 +4303,8 @@
         "fechafin": "18-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.3892333,
-        "lon": -6.0696299,
+        "lat": 43.2980596,
+        "lon": -6.1471901,
         "link": "https://info64.org/v-open-de-grado-fiesta-santiago-y-santa-ana"
     },
     {
@@ -4447,8 +4471,8 @@
         "fechafin": "02-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.8505845,
-        "lon": -2.66145,
+        "lat": 42.8465088,
+        "lon": -2.6724025,
         "link": "https://info64.org/ii-open-internacional-ciudad-de-vitoria-gasteiz"
     },
     {
@@ -4771,8 +4795,8 @@
         "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.6521342,
-        "lon": -0.8809428,
+        "lat": 41.6915847,
+        "lon": -0.9101268,
         "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
     },
     {
