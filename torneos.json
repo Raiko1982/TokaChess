@@ -379,8 +379,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883263,
-        "lon": 2.243206,
+        "lat": 41.8831074,
+        "lon": 2.2431519,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -889,18 +889,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Torneo Europeo de Primavera 2026",
-        "ciudad": "Alzira",
-        "fechaini": "18-04-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.151212,
-        "lon": -0.4346556,
-        "link": "https://info64.org/v-torneo-europeo-de-primavera-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Cto. Navarro Absoluto Individual 2026",
         "ciudad": "Pamplona - Fuerte del Principe",
         "fechaini": "18-04-2026",
@@ -910,6 +898,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/cto-navarro-absoluto-individual-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Europeo de Primavera 2026",
+        "ciudad": "Alzira",
+        "fechaini": "18-04-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.151212,
+        "lon": -0.4346556,
+        "link": "https://info64.org/v-torneo-europeo-de-primavera-2026"
     },
     {
         "origin": "info64",
@@ -1165,18 +1165,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I TORNEO AJEDREZ COLEGIO ALFONSO X EL SABIO SUB 08",
-        "ciudad": "Lorca",
-        "fechaini": "29-04-2026",
-        "fechafin": "29-04-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6951954,
-        "lon": -1.772291,
-        "link": "https://info64.org/i-torneo-ajedrez-colegio-alfonso-x-el-sabio-sub-08"
-    },
-    {
-        "origin": "info64",
         "nombre": "I TORNEO AJEDREZ COLEGIO ALFONSO X EL SABIO SUB 18",
         "ciudad": "Lorca",
         "fechaini": "29-04-2026",
@@ -1186,6 +1174,18 @@
         "lat": 37.6951954,
         "lon": -1.772291,
         "link": "https://info64.org/i-torneo-ajedrez-colegio-alfonso-x-el-sabio-sub-18"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I TORNEO AJEDREZ COLEGIO ALFONSO X EL SABIO SUB 08",
+        "ciudad": "Lorca",
+        "fechaini": "29-04-2026",
+        "fechafin": "29-04-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.6951954,
+        "lon": -1.772291,
+        "link": "https://info64.org/i-torneo-ajedrez-colegio-alfonso-x-el-sabio-sub-08"
     },
     {
         "origin": "chess-results",
@@ -2209,6 +2209,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XI TORNEO AJEDREZ SAN ISIDRO LA FELIPA",
+        "ciudad": "LA FELIPA",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.0405325,
+        "lon": -1.7027629,
+        "link": "https://info64.org/xi-torneo-ajedrez-san-isidro-la-felipa"
+    },
+    {
+        "origin": "info64",
         "nombre": "V Campeonato de Andalucia Rapido Sub8",
         "ciudad": "Baena",
         "fechaini": "09-05-2026",
@@ -2266,18 +2278,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/torneo-sub14-ajedrez-cabana-del-retiro-mayo-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XI TORNEO AJEDREZ SAN ISIDRO LA FELIPA",
-        "ciudad": "LA FELIPA",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.0405325,
-        "lon": -1.7027629,
-        "link": "https://info64.org/xi-torneo-ajedrez-san-isidro-la-felipa"
     },
     {
         "origin": "info64",
@@ -3013,6 +3013,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV Open Internacional de Ajedrez San Vicente Ferrer",
+        "ciudad": "Valencia",
+        "fechaini": "17-05-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/iv-open-internacional-de-ajedrez-san-vicente-ferrer"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo Letras Galegas",
         "ciudad": "a Pobra de Trives",
         "fechaini": "17-05-2026",
@@ -3193,15 +3205,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "MUNICIPAL SUB-12",
-        "ciudad": "Algete",
+        "nombre": "XIII IRT Sub-1800 Les coves de Paterna",
+        "ciudad": "Paterna",
         "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
+        "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.5961297,
-        "lon": -3.4974479,
-        "link": "https://info64.org/municipal-sub-12"
+        "lat": 39.5039227,
+        "lon": -0.4421014,
+        "link": "https://info64.org/xiii-irt-sub-1800-les-coves-de-paterna"
     },
     {
         "origin": "info64",
@@ -3214,6 +3226,18 @@
         "lat": 40.6012354,
         "lon": -3.7038475,
         "link": "https://info64.org/iv-open-tres-cantos-sub1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "MUNICIPAL SUB-12",
+        "ciudad": "Algete",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5961297,
+        "lon": -3.4974479,
+        "link": "https://info64.org/municipal-sub-12"
     },
     {
         "origin": "info64",
@@ -3238,18 +3262,6 @@
         "lat": 39.4697065,
         "lon": -0.3763353,
         "link": "https://info64.org/open-internacional-rapidas-dama-roja"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIII IRT Sub-1800 Les coves de Paterna",
-        "ciudad": "Paterna",
-        "fechaini": "23-05-2026",
-        "fechafin": "24-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5039227,
-        "lon": -0.4421014,
-        "link": "https://info64.org/xiii-irt-sub-1800-les-coves-de-paterna"
     },
     {
         "origin": "info64",
@@ -3529,18 +3541,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo Individual IV memorial Gonzalo Fernandez",
-        "ciudad": "Tres Cantos",
-        "fechaini": "30-05-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6012354,
-        "lon": -3.7038475,
-        "link": "https://info64.org/torneo-individual-iv-memorial-gonzalo-fernandez"
-    },
-    {
-        "origin": "info64",
         "nombre": "III TORNEO AJEDREZ BLANC I NEGRE ANIMACIO",
         "ciudad": "Valencia",
         "fechaini": "30-05-2026",
@@ -3550,6 +3550,18 @@
         "lat": 39.4697065,
         "lon": -0.3763353,
         "link": "https://info64.org/iii-torneo-ajedrez-blanc-i-negre-animacio"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Individual IV memorial Gonzalo Fernandez",
+        "ciudad": "Tres Cantos",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6012354,
+        "lon": -3.7038475,
+        "link": "https://info64.org/torneo-individual-iv-memorial-gonzalo-fernandez"
     },
     {
         "origin": "info64",
@@ -4639,8 +4651,8 @@
         "fechafin": "18-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.3892333,
-        "lon": -6.0696299,
+        "lat": 43.2980596,
+        "lon": -6.1471901,
         "link": "https://info64.org/v-open-de-grado-fiesta-santiago-y-santa-ana"
     },
     {
@@ -4807,8 +4819,8 @@
         "fechafin": "02-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.8505845,
-        "lon": -2.66145,
+        "lat": 42.8465088,
+        "lon": -2.6724025,
         "link": "https://info64.org/ii-open-internacional-ciudad-de-vitoria-gasteiz"
     },
     {
