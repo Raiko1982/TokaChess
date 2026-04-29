@@ -7,8 +7,8 @@
         "fechafin": "11-06-2026",
         "organizador": "Marianistas XK",
         "ritmo": "10+5",
-        "lat": 42.8465088,
-        "lon": -2.6724025,
+        "lat": 42.8505845,
+        "lon": -2.66145,
         "link": "https://chess-results.com/tnr1250289.aspx?lan=2"
     },
     {
@@ -55,8 +55,8 @@
         "fechafin": "21-05-2026",
         "organizador": "Martintxo XK",
         "ritmo": "5+7",
-        "lat": 42.8465088,
-        "lon": -2.6724025,
+        "lat": 42.8505845,
+        "lon": -2.66145,
         "link": "https://chess-results.com/tnr1251377.aspx?lan=2"
     },
     {
@@ -775,8 +775,8 @@
         "fechafin": "30-05-2026",
         "organizador": "Federación Aragonesa de Ajedrez",
         "ritmo": "90 min. + 30 seg.",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
+        "lat": 41.6521342,
+        "lon": -0.8809428,
         "link": "https://chess-results.com/tnr1373032.aspx?lan=2"
     },
     {
@@ -799,8 +799,8 @@
         "fechafin": "30-05-2026",
         "organizador": "",
         "ritmo": "90 min. + 30 seg.",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
+        "lat": 41.6521342,
+        "lon": -0.8809428,
         "link": "https://chess-results.com/tnr1384406.aspx?lan=2"
     },
     {
@@ -811,8 +811,8 @@
         "fechafin": "30-05-2026",
         "organizador": "Federación Aragonesa de Ajedrez",
         "ritmo": "90 m. + 30 seg.",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
+        "lat": 41.6521342,
+        "lon": -0.8809428,
         "link": "https://chess-results.com/tnr1378271.aspx?lan=2"
     },
     {
@@ -2479,8 +2479,8 @@
         "fechafin": "09-05-2026",
         "organizador": "Federación de Ajedrez de la Comunidad Valenciana",
         "ritmo": "20 minutos + 5 segundos/jugada",
-        "lat": 38.4735781,
-        "lon": -0.7942905,
+        "lat": 38.4727635,
+        "lon": -0.7927066,
         "link": "https://chess-results.com/tnr1404178.aspx?lan=2"
     },
     {
@@ -2491,8 +2491,8 @@
         "fechafin": "09-05-2026",
         "organizador": "Federación de Ajedrez de la Comunidad Valenciana",
         "ritmo": "20 minutos + 5 segundos/jugada",
-        "lat": 38.4735781,
-        "lon": -0.7942905,
+        "lat": 38.4727635,
+        "lon": -0.7927066,
         "link": "https://chess-results.com/tnr1404177.aspx?lan=2"
     },
     {
@@ -4021,7 +4021,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "XI Open Ajedrez Mármol Olula del Río 2026",
+        "nombre": "XI Open Ajedrez Olula del Río 2026",
         "ciudad": "Polideportivo Municipal, Av.Vereda de Olula, Olula del RÍo, Almería",
         "fechaini": "07-06-2026",
         "fechafin": "07-06-2026",
@@ -5602,6 +5602,54 @@
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1356330.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo",
+        "ciudad": "Hotel Bali - Benidorm (Alicante - SPAIN)",
+        "fechaini": "28-11-2026",
+        "fechafin": "05-12-2026",
+        "organizador": "Club Deportivo Tossal de la Cala",
+        "ritmo": "Standard: 90 minutes with 30 second increment from move 1",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1404735.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XVII Torneo Blitz Nocturno Gran Hotel Bali 2026-Gr",
+        "ciudad": "Hotel Bali - Benidorm (Alicante - SPAIN)",
+        "fechaini": "02-12-2026",
+        "fechafin": "03-12-2026",
+        "organizador": "Barona Boj, Luis (22239030)",
+        "ritmo": "3 minutes with 2 second increment from move 1",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1404736.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XVII Torneo Blitz Nocturno Gran Hotel Bali 2026-Gr",
+        "ciudad": "Hotel Bali - Benidorm (Alicante - SPAIN)",
+        "fechaini": "02-12-2026",
+        "fechafin": "03-12-2026",
+        "organizador": "Barona Boj, Luis (22239030)",
+        "ritmo": "3 minutes with 2 second increment from move 1",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1404737.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "I Copa Internacional por Equipos Gran Hotel Bali 2",
+        "ciudad": "Hotel Bali - Benidorm (Alicante - SPAIN)",
+        "fechaini": "05-12-2026",
+        "fechafin": "08-12-2026",
+        "organizador": "Barona Boj, Luis (22239030)",
+        "ritmo": "60 minutos + 30 segundos por movimiento",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1404738.aspx?lan=2"
     },
     {
         "origin": "info64",
