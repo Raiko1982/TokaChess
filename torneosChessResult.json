@@ -1345,6 +1345,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "CENTRO DE MAOYRES LA JOTA",
+        "ciudad": "Calle de Maria Virto 20, zaragoza",
+        "fechaini": "21-05-2026",
+        "fechafin": "21-05-2026",
+        "organizador": "FADA",
+        "ritmo": "10min",
+        "lat": 41.662703,
+        "lon": -0.8575,
+        "link": "https://chess-results.com/tnr1406067.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "III BLITZ LA VESPA - Sexta Etapa Circuito Urbano",
         "ciudad": "Kiosko La Vespa. Paseo de Europa, 1. Sevilla",
         "fechaini": "20-05-2026",
@@ -1757,7 +1769,7 @@
         "ciudad": "Pabellón Muncipal de Deportes; Avenida Constitución, 95; 46815 La Llosa de Ranes",
         "fechaini": "09-05-2026",
         "fechafin": "09-05-2026",
-        "organizador": "FACV/ M.I. Ajuntament de La Llosa de Ranes/ CE Els Voltors",
+        "organizador": "Federación de Ajedrez de la Comunidad Valenciana",
         "ritmo": "20 minutos + 5 segundos de incremento por jugada",
         "lat": 40.4167,
         "lon": -3.7033,
@@ -1769,11 +1781,47 @@
         "ciudad": "Pabellón Municipal de Deportes, Avda Constitución, 95, 46815 La Llosa de Ranes",
         "fechaini": "09-05-2026",
         "fechafin": "09-05-2026",
-        "organizador": "FACV- MI Ajuntament de La Llosa de Ranes - CE Els Voltors",
+        "organizador": "Federación de Ajedrez de la Comunidad Valenciana",
         "ritmo": "20 minutos + 5 segundos de incremento por jugada",
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1405541.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Copa Federación 2026 - Sede Meliana - Autonómica",
+        "ciudad": "Meliana: Carrer Calvari, 73, 46133 Meliana, Valencia.",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "Federación de Ajedrez de la Comunidad Valenciana",
+        "ritmo": "20 min + 5 s",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1406161.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Copa Federación 2026 - Sede Meliana - Division de",
+        "ciudad": "Meliana: Carrer Calvari, 73, 46133 Meliana, Valencia.",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "Federación de Ajedrez de la Comunidad Valenciana",
+        "ritmo": "20 min + 5 s",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1406160.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Copa Federación 2026 - Sede Meliana - Provincial",
+        "ciudad": "Meliana: Carrer Calvari, 73, 46133 Meliana, Valencia.",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "Federación de Ajedrez de la Comunidad Valenciana",
+        "ritmo": "20 min + 5 s",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1406162.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1822,6 +1870,66 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1399004.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XLIII Torneo de Ajedrez La Salle Montemolin",
+        "ciudad": "Colegio La Salle Montemolín",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "",
+        "ritmo": "5 min+ 3 seg/jug",
+        "lat": 41.6371473,
+        "lon": -0.8708646,
+        "link": "https://chess-results.com/tnr1406163.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XLIII Torneo de Ajedrez La Salle Montemolin Alevin",
+        "ciudad": "Colegio La Salle Montemolín",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "",
+        "ritmo": "5 min+ 3 seg/jug",
+        "lat": 41.6371473,
+        "lon": -0.8708646,
+        "link": "https://chess-results.com/tnr1406129.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XLIII Torneo de Ajedrez La Salle Montemolin Benjam",
+        "ciudad": "Colegio La Salle Montemolín",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "",
+        "ritmo": "5 min+ 3 seg/jug",
+        "lat": 41.6371473,
+        "lon": -0.8708646,
+        "link": "https://chess-results.com/tnr1406165.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XLIII Torneo de Ajedrez La Salle Montemolin Cadete",
+        "ciudad": "Colegio La Salle Montemolín",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "",
+        "ritmo": "5 min+ 3 seg/jug",
+        "lat": 41.6371473,
+        "lon": -0.8708646,
+        "link": "https://chess-results.com/tnr1406166.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XLIII Torneo de Ajedrez La Salle Montemolin Inicia",
+        "ciudad": "Colegio La Salle Montemolín",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "",
+        "ritmo": "5 min+ 3 seg/jug",
+        "lat": 41.6371473,
+        "lon": -0.8708646,
+        "link": "https://chess-results.com/tnr1406164.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1993,6 +2101,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "XLI TORNEO SAN PRUDENCIOVitoria 3 de Mayo de 2026",
+        "ciudad": "Vitoria",
+        "fechaini": "03-05-2026",
+        "fechafin": "03-05-2026",
+        "organizador": "Federacion Alavesa de Ajedrez",
+        "ritmo": "3 min. + 2 seg.",
+        "lat": 42.8505845,
+        "lon": -2.66145,
+        "link": "https://chess-results.com/tnr1406096.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "FESTIVAL ESCOLAR AJEDREZ - ROBIN-CHESS 2026AFICION",
         "ciudad": "SANTANDER (CANTABRIA)",
         "fechaini": "02-05-2026",
@@ -2101,6 +2221,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Torneo de Ajedrez Primavera Cabranes",
+        "ciudad": "El Gato Negro",
+        "fechaini": "02-05-2026",
+        "fechafin": "02-05-2026",
+        "organizador": "Jesus",
+        "ritmo": "7'+3",
+        "lat": 40.4529159,
+        "lon": -3.7028809,
+        "link": "https://chess-results.com/tnr1406077.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "XII Coín Chess 3 X 3",
         "ciudad": "Coín - Centro Comercial La Trocha",
         "fechaini": "02-05-2026",
@@ -2134,6 +2266,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1403855.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "IV BLITZ CHESS AMICS 2026",
+        "ciudad": "IBIZA: HOTEL IBIZA PLAYA, PASEO DE FIGUERETES",
+        "fechaini": "01-05-2026",
+        "fechafin": "01-05-2026",
+        "organizador": "",
+        "ritmo": "3 M + 2 SEG",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1335403.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2266,18 +2410,6 @@
         "lat": 38.9743901,
         "lon": 1.4197463,
         "link": "https://chess-results.com/tnr1336172.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "XVI INTERNACIONAL CIUDAD DE EIVISSA: IRT U1800",
-        "ciudad": "Eivissa",
-        "fechaini": "30-04-2026",
-        "fechafin": "03-05-2026",
-        "organizador": "CLUB AJEDREZ IBIZA 64",
-        "ritmo": "60 m + 30 seg",
-        "lat": 38.9743901,
-        "lon": 1.4197463,
-        "link": "https://chess-results.com/tnr1335403.aspx?lan=2"
     },
     {
         "origin": "chess-results",
