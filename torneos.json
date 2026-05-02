@@ -1561,6 +1561,30 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Rápidas de Mayo -Club de Ajedrez Ateneo-ELX",
+        "ciudad": "Elche",
+        "fechaini": "02-05-2026",
+        "fechafin": "02-05-2026",
+        "organizador": "Club de Ajedrez Ateneo-ELX",
+        "ritmo": "10+3",
+        "lat": 38.2653307,
+        "lon": -0.6988391,
+        "link": "https://chess-results.com/tnr1407348.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo de Ajedrez Primavera Cabranes",
+        "ciudad": "El Gato Negro",
+        "fechaini": "02-05-2026",
+        "fechafin": "02-05-2026",
+        "organizador": "Jesus",
+        "ritmo": "7'+3",
+        "lat": 40.4529159,
+        "lon": -3.7028809,
+        "link": "https://chess-results.com/tnr1407292.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Torneo de Ajedrez Primavera Cabranes",
         "ciudad": "El Gato Negro",
         "fechaini": "02-05-2026",
@@ -1570,6 +1594,18 @@
         "lat": 40.4529159,
         "lon": -3.7028809,
         "link": "https://chess-results.com/tnr1406077.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo de Ajedrez Primavera Cabranes INFANTIL",
+        "ciudad": "El Gato Negro",
+        "fechaini": "02-05-2026",
+        "fechafin": "02-05-2026",
+        "organizador": "Ruben Entrialgo",
+        "ritmo": "7'+3",
+        "lat": 40.4529159,
+        "lon": -3.7028809,
+        "link": "https://chess-results.com/tnr1407200.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1738,6 +1774,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1402237.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "TORNEO POR EQUIPOS PREMIO CLUB NAÚTICO S'ARENAL",
+        "ciudad": "Club Náutico Arenal de Llucmajor",
+        "fechaini": "03-05-2026",
+        "fechafin": "03-05-2026",
+        "organizador": "Associació d'Escaquistes de Balears",
+        "ritmo": "5+3 fischer",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1407199.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -4921,7 +4969,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "XLV TORNEO OPEN INTERNACIONAL \"VILLA DE BENASQUE\"",
+        "nombre": "XLV OPEN INTERNACIONAL \"VILLA DE BENASQUE\"",
         "ciudad": "Benasque",
         "fechaini": "05-07-2026",
         "fechafin": "14-07-2026",
