@@ -1285,27 +1285,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato De Extremadura Juvenil 2026",
-        "ciudad": "Zarza de Granadilla",
-        "fechaini": "01-05-2026",
-        "fechafin": "03-05-2027",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.2369055,
-        "lon": -6.0471736,
-        "link": "https://info64.org/campeonato-de-extremadura-juvenil-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Magistral Maria Pita",
-        "ciudad": "A Coruña",
+        "nombre": "Campeonato de Andalucía Sub08 2026",
+        "ciudad": "Roquetas de Mar",
         "fechaini": "01-05-2026",
         "fechafin": "03-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.3466447,
-        "lon": -8.4127029,
-        "link": "https://info64.org/magistral-maria-pita"
+        "lat": 36.7630203,
+        "lon": -2.6115886,
+        "link": "https://info64.org/campeonato-de-andalucia-sub08-2026"
     },
     {
         "origin": "info64",
@@ -1357,15 +1345,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Andalucía Sub08 2026",
-        "ciudad": "Roquetas de Mar",
+        "nombre": "Campeonato De Extremadura Juvenil 2026",
+        "ciudad": "Zarza de Granadilla",
+        "fechaini": "01-05-2026",
+        "fechafin": "03-05-2027",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.2369055,
+        "lon": -6.0471736,
+        "link": "https://info64.org/campeonato-de-extremadura-juvenil-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Magistral Maria Pita",
+        "ciudad": "A Coruña",
         "fechaini": "01-05-2026",
         "fechafin": "03-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7630203,
-        "lon": -2.6115886,
-        "link": "https://info64.org/campeonato-de-andalucia-sub08-2026"
+        "lat": 43.3466447,
+        "lon": -8.4127029,
+        "link": "https://info64.org/magistral-maria-pita"
     },
     {
         "origin": "chess-results",
@@ -1390,6 +1390,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1403855.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Memorial Eduardo Carruez",
+        "ciudad": "Zaragoza",
+        "fechaini": "02-05-2026",
+        "fechafin": "02-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://info64.org/iii-memorial-eduardo-carruez"
     },
     {
         "origin": "info64",
@@ -1426,18 +1438,6 @@
         "lat": 39.1585549,
         "lon": -3.0214851,
         "link": "https://info64.org/ca-tomelloso-trofeo-de-primavera-torneo-a"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Memorial Eduardo Carruez",
-        "ciudad": "Zaragoza",
-        "fechaini": "02-05-2026",
-        "fechafin": "02-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
-        "link": "https://info64.org/iii-memorial-eduardo-carruez"
     },
     {
         "origin": "info64",
@@ -2299,7 +2299,7 @@
         "fechafin": "09-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.9597348,
+        "lat": 38.9597347,
         "lon": -3.8828744,
         "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-sub-12"
     },
@@ -2311,7 +2311,7 @@
         "fechafin": "09-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.9597348,
+        "lat": 38.9597347,
         "lon": -3.8828744,
         "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-sub-18"
     },
@@ -2323,7 +2323,7 @@
         "fechafin": "09-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.9597348,
+        "lat": 38.9597347,
         "lon": -3.8828744,
         "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-absoluto"
     },
@@ -2599,7 +2599,7 @@
         "fechafin": "17-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.9597348,
+        "lat": 38.9597347,
         "lon": -3.8828744,
         "link": "https://info64.org/provincial-absoluto-femenino-y-veteranos-ciudad-real-2026"
     },
@@ -3355,8 +3355,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7830982,
-        "lon": -2.6272363,
+        "lat": 36.786875,
+        "lon": -2.6199057,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-65"
     },
     {
@@ -3367,8 +3367,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7830982,
-        "lon": -2.6272363,
+        "lat": 36.786875,
+        "lon": -2.6199057,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-50"
     },
     {
