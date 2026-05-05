@@ -367,8 +367,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.8831074,
-        "lon": 2.2431519,
+        "lat": 41.883148,
+        "lon": 2.2433061,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -445,6 +445,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Cto Provincial Veteranos Castellon 50 2026",
+        "ciudad": "Castellon",
+        "fechaini": "27-03-2026",
+        "fechafin": "29-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.2518568,
+        "lon": -0.0615052,
+        "link": "https://info64.org/campeonato-provincial-veteranos-50-castellon-1"
+    },
+    {
+        "origin": "info64",
         "nombre": "Cto Provincial Veteranos Castellon 65 2026",
         "ciudad": "Castellon",
         "fechaini": "27-03-2026",
@@ -478,18 +490,6 @@
         "lat": 39.4697065,
         "lon": -0.3763353,
         "link": "https://info64.org/cto-provincial-veteranos-valencia-65-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto Provincial Veteranos Castellon 50 2026",
-        "ciudad": "Castellon",
-        "fechaini": "27-03-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.2518568,
-        "lon": -0.0615052,
-        "link": "https://info64.org/campeonato-provincial-veteranos-50-castellon-1"
     },
     {
         "origin": "info64",
@@ -1357,6 +1357,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Campeonato Social Escaque19 2026",
+        "ciudad": "Gijon",
+        "fechaini": "08-05-2026",
+        "fechafin": "22-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/campeonato-social-escaque19-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Juegos Deportivos Zonal Caudal-Nalon 2026",
         "ciudad": "Mieres",
         "fechaini": "08-05-2026",
@@ -1414,18 +1426,6 @@
         "lat": 38.4253489,
         "lon": -6.4193627,
         "link": "https://info64.org/judex-promocional-zafra-infantil-cadete"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Social Escaque19 2026",
-        "ciudad": "Gijon",
-        "fechaini": "08-05-2026",
-        "fechafin": "22-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/campeonato-social-escaque19-2026"
     },
     {
         "origin": "info64",
@@ -1573,6 +1573,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "V Open Fide Rápido Torre de Guzmán",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "09-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/v-open-fide-rapido-torre-de-guzman"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Sub 1600 FADA Torre de Guzmán",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "09-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/i-sub-1600-fada-torre-de-guzman"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de ajedrez la Gloria",
+        "ciudad": "Jaen",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.7728858,
+        "lon": -3.7883289,
+        "link": "https://info64.org/torneo-de-ajedrez-la-gloria-1"
+    },
+    {
+        "origin": "info64",
         "nombre": "V Campeonato de Andalucia Rapido Sub12",
         "ciudad": "Baena",
         "fechaini": "09-05-2026",
@@ -1657,18 +1693,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Sub 1600 FADA Torre de Guzmán",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "09-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/i-sub-1600-fada-torre-de-guzman"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Rapidas Akeru",
         "ciudad": "Vicalvaro",
         "fechaini": "09-05-2026",
@@ -1726,18 +1750,6 @@
         "lat": 37.6173035,
         "lon": -4.324371,
         "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub-18"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Open Fide Rápido Torre de Guzmán",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "09-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/v-open-fide-rapido-torre-de-guzman"
     },
     {
         "origin": "info64",
@@ -2149,6 +2161,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "TORNEO INFANTIL SANTA QUITERIA 2026",
+        "ciudad": "ALPEDRETE",
+        "fechaini": "10-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6599262,
+        "lon": -4.0251362,
+        "link": "https://info64.org/torneo-infantil-santa-quiteria-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Open Promochess",
         "ciudad": "Alicante",
         "fechaini": "10-05-2026",
@@ -2485,6 +2509,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Autonomico Individual Relampago 2026",
+        "ciudad": "Valencia",
+        "fechaini": "16-05-2026",
+        "fechafin": "16-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/autonomico-individual-relampago-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo de Ajedrez Ferias de San Isidro 2026",
         "ciudad": "Alcalá de Henares",
         "fechaini": "16-05-2026",
@@ -2542,18 +2578,6 @@
         "lat": 36.277054,
         "lon": -6.0881874,
         "link": "https://info64.org/iii-open-hotel-oasis-atalaya"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Autonomico Individual Relampago 2026",
-        "ciudad": "Valencia",
-        "fechaini": "16-05-2026",
-        "fechafin": "16-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/autonomico-individual-relampago-2026"
     },
     {
         "origin": "info64",
@@ -3019,8 +3043,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7892783,
-        "lon": -2.6166011,
+        "lat": 36.786875,
+        "lon": -2.6199057,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-65"
     },
     {
@@ -3031,8 +3055,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7892783,
-        "lon": -2.6166011,
+        "lat": 36.786875,
+        "lon": -2.6199057,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-50"
     },
     {
