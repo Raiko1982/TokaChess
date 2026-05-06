@@ -169,7 +169,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "41º. Open Sestao Basque Country - 34º Magistral In",
+        "nombre": "41º. Open Ezkerraldea Basque Country - 34º Magistr",
         "ciudad": "",
         "fechaini": "08-09-2026",
         "fechafin": "13-09-2026",
@@ -181,7 +181,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "41º. Open Sestao Basque Country - Sub 2000",
+        "nombre": "41º. Open Ezkerraldea Basque Country - Sub 2000",
         "ciudad": "",
         "fechaini": "08-09-2026",
         "fechafin": "13-09-2026",
@@ -859,8 +859,8 @@
         "fechafin": "07-06-2026",
         "organizador": "Club Escacs Alaquàs",
         "ritmo": "7 min + 3 seg.",
-        "lat": 39.4582138,
-        "lon": -0.4573853,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1407711.aspx?lan=2"
     },
     {
@@ -871,8 +871,8 @@
         "fechafin": "07-06-2026",
         "organizador": "Club Escacs Alaquàs",
         "ritmo": "7 min + 3 seg.",
-        "lat": 39.4582138,
-        "lon": -0.4573853,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1407713.aspx?lan=2"
     },
     {
@@ -1597,6 +1597,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "LIII Torneo Internacional San Martín de Loinaz",
+        "ciudad": "Beasain",
+        "fechaini": "17-05-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "Sociedad Ajedrecista Alfil",
+        "ritmo": "3'+2\"",
+        "lat": 43.0473269,
+        "lon": -2.2032868,
+        "link": "https://chess-results.com/tnr1409034.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Sagrada Familia Elda - Categoría A",
         "ciudad": "Colegio Sagrada Familia de Elda, Av. del Mediterraneo, s/n, 03600 Elda, Alicante",
         "fechaini": "17-05-2026",
@@ -1825,7 +1837,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "V Torneo de aragon de ajedrez inclusivo10:00-14:00",
+        "nombre": "V Torneo de aragon de ajedrez inclusivo",
         "ciudad": "Parque Jesús Laborda (Monzón)",
         "fechaini": "16-05-2026",
         "fechafin": "16-05-2026",
@@ -1966,6 +1978,30 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1393107.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo de ajedrez Marianistas Sub 10",
+        "ciudad": "Colegio Santa María del Pilar (Marianistas), Paseo Reyes de Aragón 5 (Zaragoza)",
+        "fechaini": "10-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "",
+        "ritmo": "7'+3''",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1409061.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo de ajedrez Marianistas Sub 8",
+        "ciudad": "Colegio Santa María del Pilar (Marianistas), Paseo Reyes de Aragón 5 (Zaragoza)",
+        "fechaini": "10-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "",
+        "ritmo": "7'+3''",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1409040.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2434,18 +2470,6 @@
         "lat": 37.387743,
         "lon": -5.9214704,
         "link": "https://chess-results.com/tnr1395836.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "III Torneo de Ajedrez por Parejas Fortuna",
-        "ciudad": "Fortuna",
-        "fechaini": "05-05-2026",
-        "fechafin": "05-05-2026",
-        "organizador": "Alberto Muñoz Navarro",
-        "ritmo": "7 min +3 seg",
-        "lat": 38.1800547,
-        "lon": -1.1259457,
-        "link": "https://chess-results.com/tnr1408929.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2962,18 +2986,6 @@
         "lat": 38.6443252,
         "lon": 0.046012,
         "link": "https://chess-results.com/tnr1327195.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Ikasbidea Open 2025",
-        "ciudad": "Ikasbidea Ikastola IPI",
-        "fechaini": "20-11-2025",
-        "fechafin": "05-05-2026",
-        "organizador": "Koldo Fernández de Retana",
-        "ritmo": "3+2",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1366245.aspx?lan=2"
     },
     {
         "origin": "chess-results",
