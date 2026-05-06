@@ -1309,6 +1309,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Supercopa Mayo 2026",
+        "ciudad": "Alcalá de Guadaira",
+        "fechaini": "06-05-2026",
+        "fechafin": "06-05-2026",
+        "organizador": "PAO",
+        "ritmo": "4' + 2\"",
+        "lat": 37.3397709,
+        "lon": -5.8408396,
+        "link": "https://chess-results.com/tnr1409559.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "V BLITZ AGAPE - Quinta etapa Circuito Urbano",
         "ciudad": "C. el Alquián, 9, 41020 Sevilla",
         "fechaini": "06-05-2026",
@@ -2170,6 +2182,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1406162.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "CTL Provincial Absoluto Ajedrez Rapido Salamanca 2",
+        "ciudad": "Centro Gallego (Calle Arriba, 6)",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "",
+        "ritmo": "10 minutos + 3 segundos",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1409561.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -4794,7 +4818,7 @@
         "fechaini": "14-06-2026",
         "fechafin": "14-06-2026",
         "organizador": "CA Vicar",
-        "ritmo": "8+3",
+        "ritmo": "10+2",
         "lat": 36.80997,
         "lon": -2.6316653,
         "link": "https://chess-results.com/tnr1409217.aspx?lan=2"
@@ -6166,6 +6190,30 @@
         "lat": 39.5021057,
         "lon": 2.5332835,
         "link": "https://chess-results.com/tnr1332965.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "I Blitz Lanzaloe-OneChess 2026",
+        "ciudad": "Sociedad Democracia, Avda. Rafael González, 19. Arrecife (Lanzarote)",
+        "fechaini": "23-10-2026",
+        "fechafin": "23-10-2026",
+        "organizador": "Lanzaloe OneChess / Federación Canaria de Ajedrez",
+        "ritmo": "3 min + 2 seg por movimiento",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1409583.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "II Torneo Activo Lanzaloe-OneChess 2026 (Campeonat",
+        "ciudad": "Sociedad Democracia, Avda. Rafael González, 19. Arrecife (Lanzarote)",
+        "fechaini": "24-10-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "Lanzaloe OneChess / Federación Canaria de Ajedrez",
+        "ritmo": "10 min + 5 seg por movimiento",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1409584.aspx?lan=2"
     },
     {
         "origin": "info64",
