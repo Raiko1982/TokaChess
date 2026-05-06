@@ -427,8 +427,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883148,
-        "lon": 2.2433061,
+        "lat": 41.8831074,
+        "lon": 2.2431519,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -739,8 +739,8 @@
         "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-segunda"
     },
     {
@@ -763,8 +763,8 @@
         "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-primera"
     },
     {
@@ -1447,7 +1447,7 @@
         "fechafin": "08-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.2349957,
+        "lat": 43.2349958,
         "lon": -5.769932,
         "link": "https://info64.org/juegos-deportivos-zonal-caudal-nalon-2026"
     },
@@ -1621,6 +1621,102 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Copa Atlantica",
+        "ciudad": "A Coruña",
+        "fechaini": "09-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3466447,
+        "lon": -8.4127029,
+        "link": "https://info64.org/team/i-copa-atlantica"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Copa Atlantica rapido",
+        "ciudad": "A Coruña",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3466447,
+        "lon": -8.4127029,
+        "link": "https://info64.org/i-copa-atlantica-rapido"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXVI TORNEO DE PRIMAVERA DE AJEDREZ 2026 - Sub-18",
+        "ciudad": "Ciudad Real",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9597347,
+        "lon": -3.8828744,
+        "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-sub-18"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXVI TORNEO DE PRIMAVERA DE AJEDREZ 2026 - Sub-12",
+        "ciudad": "Ciudad Real",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9597347,
+        "lon": -3.8828744,
+        "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-sub-12"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXVI TORNEO DE PRIMAVERA DE AJEDREZ 2026 - Absoluto",
+        "ciudad": "Ciudad Real",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9597347,
+        "lon": -3.8828744,
+        "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-absoluto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Open Fide Rápido Torre de Guzmán",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "09-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/v-open-fide-rapido-torre-de-guzman"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Sub 1600 FADA Torre de Guzmán",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "09-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/i-sub-1600-fada-torre-de-guzman"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XI TORNEO AJEDREZ SAN ISIDRO LA FELIPA",
+        "ciudad": "LA FELIPA",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.0405325,
+        "lon": -1.7027629,
+        "link": "https://info64.org/xi-torneo-ajedrez-san-isidro-la-felipa"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato de Ajedrez Sub-16 por Equipos de Madrid 2025-2026 - Grupo B",
         "ciudad": "Madrid",
         "fechaini": "09-05-2026",
@@ -1681,18 +1777,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XI TORNEO AJEDREZ SAN ISIDRO LA FELIPA",
-        "ciudad": "LA FELIPA",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.0405325,
-        "lon": -1.7027629,
-        "link": "https://info64.org/xi-torneo-ajedrez-san-isidro-la-felipa"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo SUB14 Ajedrez Cabaña del Retiro Mayo 2026",
         "ciudad": "Cabaña Parque del Retiro",
         "fechaini": "09-05-2026",
@@ -1726,18 +1810,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/team/campeonato-de-ajedrez-sub-16-por-equipos-de-madrid-2025-2026-grupo-a"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Copa Atlantica rapido",
-        "ciudad": "A Coruña",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3466447,
-        "lon": -8.4127029,
-        "link": "https://info64.org/i-copa-atlantica-rapido"
     },
     {
         "origin": "info64",
@@ -1798,30 +1870,6 @@
         "lat": 37.6173035,
         "lon": -4.324371,
         "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub-16"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Open Fide Rápido Torre de Guzmán",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "09-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/v-open-fide-rapido-torre-de-guzman"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Sub 1600 FADA Torre de Guzmán",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "09-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/i-sub-1600-fada-torre-de-guzman"
     },
     {
         "origin": "info64",
@@ -1942,42 +1990,6 @@
         "lat": 37.8059567,
         "lon": -0.8345537,
         "link": "https://info64.org/v-campeonato-regional-individual-tramos-elo-sub-2300-murcia-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXXVI TORNEO DE PRIMAVERA DE AJEDREZ 2026 - Sub-12",
-        "ciudad": "Ciudad Real",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9597348,
-        "lon": -3.8828744,
-        "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-sub-12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXXVI TORNEO DE PRIMAVERA DE AJEDREZ 2026 - Sub-18",
-        "ciudad": "Ciudad Real",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9597348,
-        "lon": -3.8828744,
-        "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-sub-18"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXXVI TORNEO DE PRIMAVERA DE AJEDREZ 2026 - Absoluto",
-        "ciudad": "Ciudad Real",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9597348,
-        "lon": -3.8828744,
-        "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-absoluto"
     },
     {
         "origin": "chess-results",
@@ -2257,6 +2269,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Provincial Absoluto, Femenino y Veteranos Ciudad Real 2026",
+        "ciudad": "Ciudad Real",
+        "fechaini": "10-05-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9597347,
+        "lon": -3.8828744,
+        "link": "https://info64.org/provincial-absoluto-femenino-y-veteranos-ciudad-real-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "TORNEO INFANTIL SANTA QUITERIA 2026",
         "ciudad": "ALPEDRETE",
         "fechaini": "10-05-2026",
@@ -2326,18 +2350,6 @@
         "lat": 43.4492855,
         "lon": -8.2336922,
         "link": "https://info64.org/x-torneio-de-mugardos"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Provincial Absoluto, Femenino y Veteranos Ciudad Real 2026",
-        "ciudad": "Ciudad Real",
-        "fechaini": "10-05-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9597348,
-        "lon": -3.8828744,
-        "link": "https://info64.org/provincial-absoluto-femenino-y-veteranos-ciudad-real-2026"
     },
     {
         "origin": "info64",
@@ -2629,6 +2641,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Autonomico Individual Relampago 2026",
+        "ciudad": "Valencia",
+        "fechaini": "16-05-2026",
+        "fechafin": "16-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/autonomico-individual-relampago-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo de Ajedrez Ferias de San Isidro 2026 Sub14",
         "ciudad": "Alcalá de Henares",
         "fechaini": "16-05-2026",
@@ -2686,18 +2710,6 @@
         "lat": 36.277054,
         "lon": -6.0881874,
         "link": "https://info64.org/iii-open-hotel-oasis-atalaya"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Autonomico Individual Relampago 2026",
-        "ciudad": "Valencia",
-        "fechaini": "16-05-2026",
-        "fechafin": "16-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/autonomico-individual-relampago-2026"
     },
     {
         "origin": "info64",
@@ -3265,18 +3277,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Open Tres Cantos Sub1800",
-        "ciudad": "Tres Cantos",
-        "fechaini": "23-05-2026",
-        "fechafin": "24-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6012354,
-        "lon": -3.7038475,
-        "link": "https://info64.org/iv-open-tres-cantos-sub1800"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Torneo Panda Games",
         "ciudad": "X-Madrid",
         "fechaini": "23-05-2026",
@@ -3286,6 +3286,18 @@
         "lat": 40.3397228,
         "lon": -3.8476799,
         "link": "https://info64.org/ii-torneo-panda-games"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Open Tres Cantos Sub1800",
+        "ciudad": "Tres Cantos",
+        "fechaini": "23-05-2026",
+        "fechafin": "24-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6012354,
+        "lon": -3.7038475,
+        "link": "https://info64.org/iv-open-tres-cantos-sub1800"
     },
     {
         "origin": "info64",
@@ -4351,8 +4363,8 @@
         "fechafin": "21-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 37.3539621,
-        "lon": -5.9409435,
+        "lat": 37.3538937,
+        "lon": -5.9411621,
         "link": "https://info64.org/campeonato-de-sevilla-individual-b-2026-sub2000-fide"
     },
     {
@@ -4873,18 +4885,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IX Torneo Piscinero de Ajedrez Ciudad de Utrera",
-        "ciudad": "UTRERA",
-        "fechaini": "27-06-2026",
-        "fechafin": "27-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.1824646,
-        "lon": -5.7817506,
-        "link": "https://info64.org/ix-torneo-piscinero-de-ajedrez-ciudad-de-utrera"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Lince Andujar Chess Festival 2026",
         "ciudad": "Andujar",
         "fechaini": "27-06-2026",
@@ -4894,6 +4894,18 @@
         "lat": 38.0392362,
         "lon": -4.0505603,
         "link": "https://info64.org/ii-lince-andujar-chess-festival-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IX Torneo Piscinero de Ajedrez Ciudad de Utrera",
+        "ciudad": "UTRERA",
+        "fechaini": "27-06-2026",
+        "fechafin": "27-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.1824646,
+        "lon": -5.7817506,
+        "link": "https://info64.org/ix-torneo-piscinero-de-ajedrez-ciudad-de-utrera"
     },
     {
         "origin": "info64",
