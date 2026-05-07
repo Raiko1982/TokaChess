@@ -1285,6 +1285,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "14th ICCD Open Individual Chess Tournament (477026)",
+        "ciudad": "Roquetas de Mar",
+        "fechaini": "07-05-2026",
+        "fechafin": "11-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7630203,
+        "lon": -2.6115886,
+        "link": "https://info64.org/14th-iccd-open-individual-chess-tournament-477026"
+    },
+    {
+        "origin": "info64",
         "nombre": "20th ICCD World Deaf Team Classical Chess- Junior (477027)",
         "ciudad": "Roquetas de Mar",
         "fechaini": "07-05-2026",
@@ -1306,18 +1318,6 @@
         "lat": 36.7630203,
         "lon": -2.6115886,
         "link": "https://info64.org/team/form-registro-torneos-2022_20th-iccd-worlddeafteamclassicalchess-men"
-    },
-    {
-        "origin": "info64",
-        "nombre": "14th ICCD Open Individual Chess Tournament (477026)",
-        "ciudad": "Roquetas de Mar",
-        "fechaini": "07-05-2026",
-        "fechafin": "11-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7630203,
-        "lon": -2.6115886,
-        "link": "https://info64.org/14th-iccd-open-individual-chess-tournament-477026"
     },
     {
         "origin": "info64",
@@ -1357,6 +1357,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Open Social Tres Cantos Rapidas 2026",
+        "ciudad": "Tres Cantos",
+        "fechaini": "08-05-2026",
+        "fechafin": "15-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6012354,
+        "lon": -3.7038475,
+        "link": "https://info64.org/open-social-tres-cantos-rapidas-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Social Escaque19 2026",
+        "ciudad": "Gijon",
+        "fechaini": "08-05-2026",
+        "fechafin": "22-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/campeonato-social-escaque19-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "JUDEX Promocional Zafra Infantil-Cadete",
         "ciudad": "Zafra",
         "fechaini": "08-05-2026",
@@ -1375,7 +1399,7 @@
         "fechafin": "08-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.2349958,
+        "lat": 43.2349957,
         "lon": -5.769932,
         "link": "https://info64.org/juegos-deportivos-zonal-caudal-nalon-2026"
     },
@@ -1414,30 +1438,6 @@
         "lat": 38.4253489,
         "lon": -6.4193627,
         "link": "https://info64.org/judex-promocional-zafra-pre-benj-benjamin"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Open Social Tres Cantos Rapidas 2026",
-        "ciudad": "Tres Cantos",
-        "fechaini": "08-05-2026",
-        "fechafin": "15-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6012354,
-        "lon": -3.7038475,
-        "link": "https://info64.org/open-social-tres-cantos-rapidas-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Social Escaque19 2026",
-        "ciudad": "Gijon",
-        "fechaini": "08-05-2026",
-        "fechafin": "22-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/campeonato-social-escaque19-2026"
     },
     {
         "origin": "chess-results",
@@ -1582,6 +1582,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1408546.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Copa Atlantica rapido",
+        "ciudad": "A Coruña",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3466447,
+        "lon": -8.4127029,
+        "link": "https://info64.org/i-copa-atlantica-rapido"
     },
     {
         "origin": "info64",
@@ -1885,25 +1897,13 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Copa Atlantica rapido",
-        "ciudad": "A Coruña",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3466447,
-        "lon": -8.4127029,
-        "link": "https://info64.org/i-copa-atlantica-rapido"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXXVI TORNEO DE PRIMAVERA DE AJEDREZ 2026 - Sub-18",
         "ciudad": "Ciudad Real",
         "fechaini": "09-05-2026",
         "fechafin": "09-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.9597347,
+        "lat": 38.9597348,
         "lon": -3.8828744,
         "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-sub-18"
     },
@@ -1915,7 +1915,7 @@
         "fechafin": "09-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.9597347,
+        "lat": 38.9597348,
         "lon": -3.8828744,
         "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-sub-12"
     },
@@ -1927,7 +1927,7 @@
         "fechafin": "09-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.9597347,
+        "lat": 38.9597348,
         "lon": -3.8828744,
         "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-absoluto"
     },
@@ -2467,7 +2467,7 @@
         "fechafin": "17-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.9597347,
+        "lat": 38.9597348,
         "lon": -3.8828744,
         "link": "https://info64.org/provincial-absoluto-femenino-y-veteranos-ciudad-real-2026"
     },
@@ -3355,8 +3355,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.786875,
-        "lon": -2.6199057,
+        "lat": 36.7830982,
+        "lon": -2.6272363,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-65"
     },
     {
@@ -3367,8 +3367,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.786875,
-        "lon": -2.6199057,
+        "lat": 36.7830982,
+        "lon": -2.6272363,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-50"
     },
     {
@@ -3433,18 +3433,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II IRT Sub-1800 Cullera Torre del Marenyet",
-        "ciudad": "Cullera",
-        "fechaini": "23-05-2026",
-        "fechafin": "24-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1647217,
-        "lon": -0.2542313,
-        "link": "https://info64.org/ii-irt-sub-1800-cullera-torre-del-marenyet"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Torneo Panda Games",
         "ciudad": "X-Madrid",
         "fechaini": "23-05-2026",
@@ -3454,6 +3442,30 @@
         "lat": 40.3397228,
         "lon": -3.8476799,
         "link": "https://info64.org/ii-torneo-panda-games"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Open Tres Cantos Sub1800",
+        "ciudad": "Tres Cantos",
+        "fechaini": "23-05-2026",
+        "fechafin": "24-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6012354,
+        "lon": -3.7038475,
+        "link": "https://info64.org/iv-open-tres-cantos-sub1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II IRT Sub-1800 Cullera Torre del Marenyet",
+        "ciudad": "Cullera",
+        "fechaini": "23-05-2026",
+        "fechafin": "24-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1647217,
+        "lon": -0.2542313,
+        "link": "https://info64.org/ii-irt-sub-1800-cullera-torre-del-marenyet"
     },
     {
         "origin": "info64",
@@ -3478,18 +3490,6 @@
         "lat": 37.5635045,
         "lon": -1.8076233,
         "link": "https://info64.org/i-open-ciudad-de-puerto-lumbreras-categoria-general"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Open Tres Cantos Sub1800",
-        "ciudad": "Tres Cantos",
-        "fechaini": "23-05-2026",
-        "fechafin": "24-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6012354,
-        "lon": -3.7038475,
-        "link": "https://info64.org/iv-open-tres-cantos-sub1800"
     },
     {
         "origin": "info64",
@@ -3901,6 +3901,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "MUNICIPAL SUB-14",
+        "ciudad": "Algete",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5961297,
+        "lon": -3.4974479,
+        "link": "https://info64.org/municipal-sub-14"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III TORNEO AJEDREZ BLANC I NEGRE ANIMACIO",
+        "ciudad": "Valencia",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/iii-torneo-ajedrez-blanc-i-negre-animacio"
+    },
+    {
+        "origin": "info64",
         "nombre": "XI T. Olias del Rey Promocion",
         "ciudad": "Olias del Rey",
         "fechaini": "30-05-2026",
@@ -3982,30 +4006,6 @@
         "lat": 40.4018377,
         "lon": -3.5950537,
         "link": "https://info64.org/i-torneo-blitz-akeru-vicalvaro"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III TORNEO AJEDREZ BLANC I NEGRE ANIMACIO",
-        "ciudad": "Valencia",
-        "fechaini": "30-05-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/iii-torneo-ajedrez-blanc-i-negre-animacio"
-    },
-    {
-        "origin": "info64",
-        "nombre": "MUNICIPAL SUB-14",
-        "ciudad": "Algete",
-        "fechaini": "30-05-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5961297,
-        "lon": -3.4974479,
-        "link": "https://info64.org/municipal-sub-14"
     },
     {
         "origin": "info64",
@@ -4162,6 +4162,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1399103.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "C. CTM Clubes Rapido",
+        "ciudad": "Cabañas de la Sagra",
+        "fechaini": "31-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.005774,
+        "lon": -3.9479133,
+        "link": "https://info64.org/team/c-ctm-clubes-rapido"
     },
     {
         "origin": "info64",
@@ -4519,8 +4531,8 @@
         "fechafin": "21-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 37.3538937,
-        "lon": -5.9411621,
+        "lat": 37.3539621,
+        "lon": -5.9409435,
         "link": "https://info64.org/campeonato-de-sevilla-individual-b-2026-sub2000-fide"
     },
     {
@@ -4957,6 +4969,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XVI Open Ciudad de Tres Cantos A",
+        "ciudad": "Tres cantos",
+        "fechaini": "21-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6012354,
+        "lon": -3.7038475,
+        "link": "https://info64.org/xvi-open-ciudad-de-tres-cantos-a"
+    },
+    {
+        "origin": "info64",
         "nombre": "XIX Internacional Ayuntamiento de Utebo",
         "ciudad": "Utebo",
         "fechaini": "21-06-2026",
@@ -4978,18 +5002,6 @@
         "lat": 41.7281253,
         "lon": 2.9189918,
         "link": "https://info64.org/xxxvi-open-internacional-de-gros-nazioarteko-xake-irekia"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XVI Open Ciudad de Tres Cantos A",
-        "ciudad": "Tres cantos",
-        "fechaini": "21-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6012354,
-        "lon": -3.7038475,
-        "link": "https://info64.org/xvi-open-ciudad-de-tres-cantos-a"
     },
     {
         "origin": "info64",
