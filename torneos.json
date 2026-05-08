@@ -1171,8 +1171,8 @@
         "fechafin": "04-06-2026",
         "organizador": "Club de Ajedrez Thader Chess",
         "ritmo": "30' + 30\", 10' + 2\", 3' + 2\"",
-        "lat": 38.0166291,
-        "lon": -1.1622696,
+        "lat": 38.0163591,
+        "lon": -1.1620992,
         "link": "https://chess-results.com/tnr1400955.aspx?lan=2"
     },
     {
@@ -1478,13 +1478,13 @@
     {
         "origin": "chess-results",
         "nombre": "Campionat de Balears Sub12 2026",
-        "ciudad": "",
+        "ciudad": "Can Picafort, Mallorca, Illes Balears",
         "fechaini": "08-05-2026",
         "fechafin": "10-05-2026",
-        "organizador": "",
-        "ritmo": "60+30",
-        "lat": 39.3260685,
-        "lon": -4.8379791,
+        "organizador": "Federació Balear d'Escacs",
+        "ritmo": "Standard: 60 minutes with 30 seconds increment from move 1",
+        "lat": 39.7677844,
+        "lon": 3.1521126,
         "link": "https://chess-results.com/tnr1401100.aspx?lan=2"
     },
     {
@@ -1505,8 +1505,8 @@
         "ciudad": "Mallorca",
         "fechaini": "08-05-2026",
         "fechafin": "10-05-2026",
-        "organizador": "",
-        "ritmo": "60+30",
+        "organizador": "Federació Balear d'Escacs",
+        "ritmo": "Standard: 60 minutes with 30 seconds increment from move 1",
         "lat": 39.613432,
         "lon": 2.8829185,
         "link": "https://chess-results.com/tnr1401090.aspx?lan=2"
@@ -1517,8 +1517,8 @@
         "ciudad": "Mallorca",
         "fechaini": "08-05-2026",
         "fechafin": "10-05-2026",
-        "organizador": "",
-        "ritmo": "60+30",
+        "organizador": "Federació Balear d'Escacs",
+        "ritmo": "Standard: 60 minutes with 30 seconds increment from move 1",
         "lat": 39.613432,
         "lon": 2.8829185,
         "link": "https://chess-results.com/tnr1401076.aspx?lan=2"
@@ -1546,6 +1546,18 @@
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1410143.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "II Torneo de Rápidas Mayo 2026 La Zubia",
+        "ciudad": "La Zubia",
+        "fechaini": "08-05-2026",
+        "fechafin": "08-05-2026",
+        "organizador": "C. A. Villa de La Zubia",
+        "ritmo": "5'+2''",
+        "lat": 37.1206862,
+        "lon": -3.5850833,
+        "link": "https://chess-results.com/tnr1411072.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1582,6 +1594,18 @@
         "lat": 40.4728425,
         "lon": -3.8723542,
         "link": "https://chess-results.com/tnr1410818.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Meetup 08052026",
+        "ciudad": "Madrid",
+        "fechaini": "08-05-2026",
+        "fechafin": "08-05-2026",
+        "organizador": "",
+        "ritmo": "Blitz: 5min +2sec increment per move starting from move 1",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://chess-results.com/tnr1411137.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2545,7 +2569,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Cto de Alava Rapidas Individual 2026",
+        "nombre": "CAMPEONATO DE ALAVA DE RAPIDAS INDIVIDUAL 2026",
         "ciudad": "Vitoria - Gasteiz, Frontones Mendizorroza Beti Jai",
         "fechaini": "10-05-2026",
         "fechafin": "10-05-2026",
@@ -3325,7 +3349,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Cto. Rapidas Alava por equipos 2026",
+        "nombre": "Cto Alava Rapidas por Equipos 2026",
         "ciudad": "",
         "fechaini": "17-05-2026",
         "fechafin": "17-05-2026",
@@ -3466,6 +3490,30 @@
         "lat": 41.6456131,
         "lon": -0.7920823,
         "link": "https://chess-results.com/tnr1406424.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XIX CAMPEONATO DE AJEDREZ FIESTAS DE SAN PASQUAL 2",
+        "ciudad": "Espai Jove de Vila-real. Av. Francia 25, Vila-real (Frente estación de tren)",
+        "fechaini": "17-05-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "CLUB D'ESCACS VILA-REAL",
+        "ritmo": "7'+2\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1411053.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XIX CAMPEONATO DE AJEDREZ FIESTAS DE SAN PASQUAL 2",
+        "ciudad": "Espai Jove de Vila-real. Av. Francia 25, Vila-real (Frente estación de tren)",
+        "fechaini": "17-05-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "CLUB D'ESCACS VILA-REAL",
+        "ritmo": "7'+2\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1411052.aspx?lan=2"
     },
     {
         "origin": "info64",
@@ -4843,8 +4891,8 @@
         "fechafin": "07-06-2026",
         "organizador": "Club Escacs Alaquàs",
         "ritmo": "7 min + 3 seg.",
-        "lat": 39.4582138,
-        "lon": -0.4573853,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1407711.aspx?lan=2"
     },
     {
@@ -4855,8 +4903,8 @@
         "fechafin": "07-06-2026",
         "organizador": "Club Escacs Alaquàs",
         "ritmo": "7 min + 3 seg.",
-        "lat": 39.4582138,
-        "lon": -0.4573853,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1407713.aspx?lan=2"
     },
     {
@@ -6469,6 +6517,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "XVII Memorial Santiago Tejero",
+        "ciudad": "Agrupacion artistica aragonesa (C/ Lagasca nº23,Zaragoza, España)",
+        "fechaini": "13-09-2026",
+        "fechafin": "13-09-2026",
+        "organizador": "",
+        "ritmo": "12'+3''",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1411031.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "VI Torneo Blitz Nocturno Dragones-Playitas 2026-IV",
         "ciudad": "Playitas Resort, Tuineje (Fuerteventura)",
         "fechaini": "25-09-2026",
@@ -6718,6 +6778,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1404735.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXIII Open Internacional Gran Hotel Bali 2026",
+        "ciudad": "Gran Hotel Bali (Benidorm), Salón Terraza de Cristal, floor/planta +1",
+        "fechaini": "28-11-2026",
+        "fechafin": "05-12-2026",
+        "organizador": "Club Deportivo Tossal de la Cala",
+        "ritmo": "Standard: 90 minutes with 30 second increment from move 1",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1411135.aspx?lan=2"
     },
     {
         "origin": "chess-results",
