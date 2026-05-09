@@ -427,8 +427,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883155,
-        "lon": 2.2430117,
+        "lat": 41.8831074,
+        "lon": 2.2431519,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -727,8 +727,8 @@
         "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-segunda"
     },
     {
@@ -751,8 +751,8 @@
         "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-primera"
     },
     {
@@ -937,6 +937,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Cto de Alava de veteranos 2026",
+        "ciudad": "Vitoria-Gasteiz",
+        "fechaini": "18-04-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8505845,
+        "lon": -2.66145,
+        "link": "https://info64.org/cto-de-alava-de-veteranos-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "V Torneo Europeo de Primavera 2026",
         "ciudad": "Alzira",
         "fechaini": "18-04-2026",
@@ -970,18 +982,6 @@
         "lat": 43.3224219,
         "lon": -1.9838889,
         "link": "https://info64.org/xxi-open-de-primavera-gros-xake-udaberriko-irekia"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto de Alava de veteranos 2026",
-        "ciudad": "Vitria-Gasteiz",
-        "fechaini": "18-04-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/cto-de-alava-de-veteranos-2026"
     },
     {
         "origin": "chess-results",
@@ -1201,18 +1201,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "C.A. Tomelloso - Trofeo de Primavera - Torneo A",
-        "ciudad": "Tomelloso",
-        "fechaini": "02-05-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1585549,
-        "lon": -3.0214851,
-        "link": "https://info64.org/ca-tomelloso-trofeo-de-primavera-torneo-a"
-    },
-    {
-        "origin": "info64",
         "nombre": "C.A. Tomelloso - Trofeo de Primavera - Torneo B",
         "ciudad": "Tomelloso",
         "fechaini": "02-05-2026",
@@ -1222,6 +1210,18 @@
         "lat": 39.1585549,
         "lon": -3.0214851,
         "link": "https://info64.org/ca-tomelloso-trofeo-de-primavera-torneo-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "C.A. Tomelloso - Trofeo de Primavera - Torneo A",
+        "ciudad": "Tomelloso",
+        "fechaini": "02-05-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1585549,
+        "lon": -3.0214851,
+        "link": "https://info64.org/ca-tomelloso-trofeo-de-primavera-torneo-a"
     },
     {
         "origin": "info64",
@@ -1297,18 +1297,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "20th ICCD World Deaf Team Classical Chess- Junior (477027)",
-        "ciudad": "Roquetas de Mar",
-        "fechaini": "07-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7630203,
-        "lon": -2.6115886,
-        "link": "https://info64.org/team/20th-iccd-world-deaf-team-classical-chess-junior-boys-477027"
-    },
-    {
-        "origin": "info64",
         "nombre": "20th ICCD World Deaf Team Classical Chess - Men (477029)",
         "ciudad": "Roquetas de Mar",
         "fechaini": "07-05-2026",
@@ -1318,6 +1306,18 @@
         "lat": 36.7630203,
         "lon": -2.6115886,
         "link": "https://info64.org/team/form-registro-torneos-2022_20th-iccd-worlddeafteamclassicalchess-men"
+    },
+    {
+        "origin": "info64",
+        "nombre": "14th ICCD Open Individual Chess Tournament (477026)",
+        "ciudad": "Roquetas de Mar",
+        "fechaini": "07-05-2026",
+        "fechafin": "11-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7630203,
+        "lon": -2.6115886,
+        "link": "https://info64.org/14th-iccd-open-individual-chess-tournament-477026"
     },
     {
         "origin": "info64",
@@ -1333,15 +1333,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "14th ICCD Open Individual Chess Tournament (477026)",
+        "nombre": "20th ICCD World Deaf Team Classical Chess- Junior (477027)",
         "ciudad": "Roquetas de Mar",
         "fechaini": "07-05-2026",
-        "fechafin": "11-05-2026",
+        "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
         "lat": 36.7630203,
         "lon": -2.6115886,
-        "link": "https://info64.org/14th-iccd-open-individual-chess-tournament-477026"
+        "link": "https://info64.org/team/20th-iccd-world-deaf-team-classical-chess-junior-boys-477027"
     },
     {
         "origin": "info64",
@@ -1501,258 +1501,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Extremadura Final por Edades Sub12 Masculina 2026",
-        "ciudad": "Zafra",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4253489,
-        "lon": -6.4193627,
-        "link": "https://info64.org/campeonato-de-extremadura-final-por-edades-sub12-masculina-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Campeonato de Andalucia Rapido Sub8",
-        "ciudad": "Baena",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6173035,
-        "lon": -4.324371,
-        "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub8"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Campeonato de Andalucia Rapido Sub12",
-        "ciudad": "Baena",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6173035,
-        "lon": -4.324371,
-        "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Campeonato de Andalucia Rapido Sub10",
-        "ciudad": "Baena",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6173035,
-        "lon": -4.324371,
-        "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub10"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Campeonato de Andalucia Rapido Sub-18",
-        "ciudad": "Baena",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6173035,
-        "lon": -4.324371,
-        "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub-18"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Extremadura Final por Edades Sub10 Femenina 2026",
-        "ciudad": "Zafra",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4253489,
-        "lon": -6.4193627,
-        "link": "https://info64.org/campeonato-de-extremadura-final-por-edades-sub10-femenina-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Extremadura Final por Edades Sub8 2026",
-        "ciudad": "Zafra",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4253489,
-        "lon": -6.4193627,
-        "link": "https://info64.org/campeonato-de-extremadura-final-por-edades-sub8-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Campeonato de Andalucia Rapido Sub-16",
-        "ciudad": "Baena",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6173035,
-        "lon": -4.324371,
-        "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub-16"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Campeonato de Andalucia Rapido Sub-14",
-        "ciudad": "Baena",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6173035,
-        "lon": -4.324371,
-        "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub-14"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Rapidas Akeru",
-        "ciudad": "Vicalvaro",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4018377,
-        "lon": -3.5950537,
-        "link": "https://info64.org/torneo-rapidas-akeru-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo de ajedrez la Gloria",
-        "ciudad": "Jaen",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.7728858,
-        "lon": -3.7883289,
-        "link": "https://info64.org/torneo-de-ajedrez-la-gloria-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Sub 1600 FADA Torre de Guzmán",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "09-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/i-sub-1600-fada-torre-de-guzman"
-    },
-    {
-        "origin": "info64",
-        "nombre": "MUNICIPAL SUB-8",
-        "ciudad": "Algete",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5961297,
-        "lon": -3.4974479,
-        "link": "https://info64.org/municipal-sub-8"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto ajedrez rápido por equipos Guadalajara 2026",
-        "ciudad": "Cabanillas del Campo",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6294786,
-        "lon": -3.2433558,
-        "link": "https://info64.org/team/cto-ajedrez-rapido-por-equipos-guadalajara-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Open Fide Rápido Torre de Guzmán",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "09-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/v-open-fide-rapido-torre-de-guzman"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo SUB14 Ajedrez Cabaña del Retiro Mayo 2026",
-        "ciudad": "Cabaña Parque del Retiro",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/torneo-sub14-ajedrez-cabana-del-retiro-mayo-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XVIII CAMPEONATO DE ANDALUCIA DE AJEDREZ FADEC",
-        "ciudad": "SEVILLA",
-        "fechaini": "09-05-2026",
-        "fechafin": "11-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3886303,
-        "lon": -5.9953403,
-        "link": "https://info64.org/xviii-campeonato-de-andalucia-de-ajedrez-fadec"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Campeonato Regional Individual Tramos Elo Sub-1700 Murcia 2026",
-        "ciudad": "San Javier - Murcia",
-        "fechaini": "09-05-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8059567,
-        "lon": -0.8345537,
-        "link": "https://info64.org/v-campeonato-regional-individual-tramos-elo-sub-1700-murcia-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Campeonato Regional Individual Tramos Elo Sub-2000 Murcia 2026",
-        "ciudad": "San Javier - Murcia",
-        "fechaini": "09-05-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8059567,
-        "lon": -0.8345537,
-        "link": "https://info64.org/v-campeonato-regional-individual-tramos-elo-sub-2000-murcia-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Campeonato Regional Individual Tramos Elo Sub-2300 Murcia 2026",
-        "ciudad": "San Javier - Murcia",
-        "fechaini": "09-05-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8059567,
-        "lon": -0.8345537,
-        "link": "https://info64.org/v-campeonato-regional-individual-tramos-elo-sub-2300-murcia-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Copa Atlantica rapido",
-        "ciudad": "A Coruña",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3466447,
-        "lon": -8.4127029,
-        "link": "https://info64.org/i-copa-atlantica-rapido"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Infantil QUEL VERDE 2026",
         "ciudad": "Quel",
         "fechaini": "09-05-2026",
@@ -1789,6 +1537,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "V Campeonato de Andalucia Rapido Sub-14",
+        "ciudad": "Baena",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.6173035,
+        "lon": -4.324371,
+        "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub-14"
+    },
+    {
+        "origin": "info64",
         "nombre": "XI TORNEO AJEDREZ SAN ISIDRO LA FELIPA",
         "ciudad": "LA FELIPA",
         "fechaini": "09-05-2026",
@@ -1801,111 +1561,63 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Ajedrez Sub-16 por Equipos de Madrid 2025-2026 - Grupo B",
-        "ciudad": "Madrid",
+        "nombre": "MUNICIPAL SUB-8",
+        "ciudad": "Algete",
         "fechaini": "09-05-2026",
         "fechafin": "09-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/team/campeonato-de-ajedrez-sub-16-por-equipos-de-madrid-2025-2026-grupo-b"
+        "lat": 40.5961297,
+        "lon": -3.4974479,
+        "link": "https://info64.org/municipal-sub-8"
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Ajedrez Sub-16 por Equipos de Madrid 2025-2026 - Grupo A",
-        "ciudad": "Madrid",
+        "nombre": "V Campeonato Regional Individual Tramos Elo Sub-2000 Murcia 2026",
+        "ciudad": "San Javier - Murcia",
         "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
+        "fechafin": "17-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/team/campeonato-de-ajedrez-sub-16-por-equipos-de-madrid-2025-2026-grupo-a"
+        "lat": 37.8059567,
+        "lon": -0.8345537,
+        "link": "https://info64.org/v-campeonato-regional-individual-tramos-elo-sub-2000-murcia-2026"
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Extremadura Final por Edades Sub18 Femenina 2026",
-        "ciudad": "Zafra / Extremadura",
+        "nombre": "I Copa Atlantica",
+        "ciudad": "A Coruña",
         "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
+        "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.4253489,
-        "lon": -6.4193627,
-        "link": "https://info64.org/final-extremadura-por-edades-2026-sub18-femenino"
+        "lat": 43.3466447,
+        "lon": -8.4127029,
+        "link": "https://info64.org/team/i-copa-atlantica"
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Extremadura Final por Edades Sub18 Masculino 2026",
-        "ciudad": "Zafra / Extremadura",
+        "nombre": "V Campeonato Regional Individual Tramos Elo Sub-1700 Murcia 2026",
+        "ciudad": "San Javier - Murcia",
         "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
+        "fechafin": "17-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.4253489,
-        "lon": -6.4193627,
-        "link": "https://info64.org/final-extremadura-por-edades-2026-sub18-masculino"
+        "lat": 37.8059567,
+        "lon": -0.8345537,
+        "link": "https://info64.org/v-campeonato-regional-individual-tramos-elo-sub-1700-murcia-2026"
     },
     {
         "origin": "info64",
-        "nombre": "XXXVI TORNEO DE PRIMAVERA DE AJEDREZ 2026 - Absoluto",
-        "ciudad": "Ciudad Real",
+        "nombre": "V Campeonato Regional Individual Tramos Elo Sub-2300 Murcia 2026",
+        "ciudad": "San Javier - Murcia",
         "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
+        "fechafin": "17-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.9597347,
-        "lon": -3.8828744,
-        "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-absoluto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Extremadura Final por Edades Sub12 Femenina 2026",
-        "ciudad": "Zafra",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4253489,
-        "lon": -6.4193627,
-        "link": "https://info64.org/campeonato-de-extremadura-final-por-edades-sub12-femenina-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXXVI TORNEO DE PRIMAVERA DE AJEDREZ 2026 - Sub-12",
-        "ciudad": "Ciudad Real",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9597347,
-        "lon": -3.8828744,
-        "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-sub-12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXXVI TORNEO DE PRIMAVERA DE AJEDREZ 2026 - Sub-18",
-        "ciudad": "Ciudad Real",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9597347,
-        "lon": -3.8828744,
-        "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-sub-18"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Extremadura Final por Edades Sub10 Masculino 2026",
-        "ciudad": "Zafra",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4253489,
-        "lon": -6.4193627,
-        "link": "https://info64.org/campeonato-de-extremadura-final-por-edades-sub10-masculino-2026"
+        "lat": 37.8059567,
+        "lon": -0.8345537,
+        "link": "https://info64.org/v-campeonato-regional-individual-tramos-elo-sub-2300-murcia-2026"
     },
     {
         "origin": "info64",
@@ -1918,6 +1630,18 @@
         "lat": 38.4253489,
         "lon": -6.4193627,
         "link": "https://info64.org/final-extremadura-por-edades-2026-sub14-femenino"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Copa Atlantica rapido",
+        "ciudad": "A Coruña",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3466447,
+        "lon": -8.4127029,
+        "link": "https://info64.org/i-copa-atlantica-rapido"
     },
     {
         "origin": "info64",
@@ -1957,15 +1681,231 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Copa Atlantica",
-        "ciudad": "A Coruña",
+        "nombre": "Campeonato de Extremadura Final por Edades Sub12 Masculina 2026",
+        "ciudad": "Zafra",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4253489,
+        "lon": -6.4193627,
+        "link": "https://info64.org/campeonato-de-extremadura-final-por-edades-sub12-masculina-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura Final por Edades Sub12 Femenina 2026",
+        "ciudad": "Zafra",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4253489,
+        "lon": -6.4193627,
+        "link": "https://info64.org/campeonato-de-extremadura-final-por-edades-sub12-femenina-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura Final por Edades Sub18 Masculino 2026",
+        "ciudad": "Zafra / Extremadura",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4253489,
+        "lon": -6.4193627,
+        "link": "https://info64.org/final-extremadura-por-edades-2026-sub18-masculino"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Campeonato de Andalucia Rapido Sub-16",
+        "ciudad": "Baena",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.6173035,
+        "lon": -4.324371,
+        "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub-16"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura Final por Edades Sub10 Masculino 2026",
+        "ciudad": "Zafra",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4253489,
+        "lon": -6.4193627,
+        "link": "https://info64.org/campeonato-de-extremadura-final-por-edades-sub10-masculino-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Campeonato de Andalucia Rapido Sub-18",
+        "ciudad": "Baena",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.6173035,
+        "lon": -4.324371,
+        "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub-18"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Campeonato de Andalucia Rapido Sub10",
+        "ciudad": "Baena",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.6173035,
+        "lon": -4.324371,
+        "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub10"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Open Fide Rápido Torre de Guzmán",
+        "ciudad": "Conil de la Frontera",
         "fechaini": "09-05-2026",
         "fechafin": "10-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.3466447,
-        "lon": -8.4127029,
-        "link": "https://info64.org/team/i-copa-atlantica"
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/v-open-fide-rapido-torre-de-guzman"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Campeonato de Andalucia Rapido Sub12",
+        "ciudad": "Baena",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.6173035,
+        "lon": -4.324371,
+        "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub12"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Sub 1600 FADA Torre de Guzmán",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "09-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/i-sub-1600-fada-torre-de-guzman"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XVIII CAMPEONATO DE ANDALUCIA DE AJEDREZ FADEC",
+        "ciudad": "SEVILLA",
+        "fechaini": "09-05-2026",
+        "fechafin": "11-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3886303,
+        "lon": -5.9953403,
+        "link": "https://info64.org/xviii-campeonato-de-andalucia-de-ajedrez-fadec"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Campeonato de Andalucia Rapido Sub8",
+        "ciudad": "Baena",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.6173035,
+        "lon": -4.324371,
+        "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub8"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura Final por Edades Sub8 2026",
+        "ciudad": "Zafra",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4253489,
+        "lon": -6.4193627,
+        "link": "https://info64.org/campeonato-de-extremadura-final-por-edades-sub8-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura Final por Edades Sub10 Femenina 2026",
+        "ciudad": "Zafra",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4253489,
+        "lon": -6.4193627,
+        "link": "https://info64.org/campeonato-de-extremadura-final-por-edades-sub10-femenina-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura Final por Edades Sub18 Femenina 2026",
+        "ciudad": "Zafra / Extremadura",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4253489,
+        "lon": -6.4193627,
+        "link": "https://info64.org/final-extremadura-por-edades-2026-sub18-femenino"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo SUB14 Ajedrez Cabaña del Retiro Mayo 2026",
+        "ciudad": "Cabaña Parque del Retiro",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/torneo-sub14-ajedrez-cabana-del-retiro-mayo-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Ajedrez Sub-16 por Equipos de Madrid 2025-2026 - Grupo B",
+        "ciudad": "Madrid",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/team/campeonato-de-ajedrez-sub-16-por-equipos-de-madrid-2025-2026-grupo-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Ajedrez Sub-16 por Equipos de Madrid 2025-2026 - Grupo A",
+        "ciudad": "Madrid",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/team/campeonato-de-ajedrez-sub-16-por-equipos-de-madrid-2025-2026-grupo-a"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXVI TORNEO DE PRIMAVERA DE AJEDREZ 2026 - Absoluto",
+        "ciudad": "Ciudad Real",
+        "fechaini": "09-05-2026",
+        "fechafin": "09-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9597347,
+        "lon": -3.8828744,
+        "link": "https://info64.org/xxxvi-torneo-de-primavera-de-ajedrez-2026-absoluto"
     },
     {
         "origin": "info64",
@@ -2329,6 +2269,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "JDN Sub-8 por Equipos 2026",
+        "ciudad": "Estadio Larrabide",
+        "fechaini": "10-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8084955,
+        "lon": -1.6404755,
+        "link": "https://info64.org/team/jdn-sub-8-por-equipos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Torneio de Mugardos",
+        "ciudad": "Mugardos",
+        "fechaini": "10-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4492855,
+        "lon": -8.2336922,
+        "link": "https://info64.org/x-torneio-de-mugardos"
+    },
+    {
+        "origin": "info64",
         "nombre": "Provincial Absoluto, Femenino y Veteranos Ciudad Real 2026",
         "ciudad": "Ciudad Real",
         "fechaini": "10-05-2026",
@@ -2401,18 +2365,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Torneio de Mugardos",
-        "ciudad": "Mugardos",
-        "fechaini": "10-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4492855,
-        "lon": -8.2336922,
-        "link": "https://info64.org/x-torneio-de-mugardos"
-    },
-    {
-        "origin": "info64",
         "nombre": "JDN Sub-10 por Equipos 2026",
         "ciudad": "Estadio Larrabide",
         "fechaini": "10-05-2026",
@@ -2446,18 +2398,6 @@
         "lat": 41.6915847,
         "lon": -0.9101268,
         "link": "https://info64.org/torneo-relampago-el-greco-mayo-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "JDN Sub-8 por Equipos 2026",
-        "ciudad": "Estadio Larrabide",
-        "fechaini": "10-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8084955,
-        "lon": -1.6404755,
-        "link": "https://info64.org/team/jdn-sub-8-por-equipos-2026"
     },
     {
         "origin": "chess-results",
@@ -2653,18 +2593,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Open Tardeo Hotel Oasis Atalaya",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "12-05-2026",
-        "fechafin": "14-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/iii-open-tardeo-hotel-oasis-atalaya"
-    },
-    {
-        "origin": "info64",
         "nombre": "2nd ICCD World Individual Rapid Chess Championship - Men (477020)",
         "ciudad": "Roquetas de Mar",
         "fechaini": "12-05-2026",
@@ -2677,7 +2605,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "2nd ICCD World Individual Rapid Chess Championship - Women (477021)",
+        "nombre": "1st World Deaf Team Rapid Chess Championship - Women (477019)",
         "ciudad": "Roquetas de Mar",
         "fechaini": "12-05-2026",
         "fechafin": "12-05-2026",
@@ -2685,7 +2613,7 @@
         "ritmo": "-",
         "lat": 36.7630203,
         "lon": -2.6115886,
-        "link": "https://info64.org/14t2nd-iccd-world-individual-rapid-chess-championship-women-477021"
+        "link": "https://info64.org/team/1st-world-deaf-team-rapid-chess-championship-women-477019-1"
     },
     {
         "origin": "info64",
@@ -2701,7 +2629,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "1st World Deaf Team Rapid Chess Championship - Women (477019)",
+        "nombre": "2nd ICCD World Individual Rapid Chess Championship - Women (477021)",
         "ciudad": "Roquetas de Mar",
         "fechaini": "12-05-2026",
         "fechafin": "12-05-2026",
@@ -2709,7 +2637,19 @@
         "ritmo": "-",
         "lat": 36.7630203,
         "lon": -2.6115886,
-        "link": "https://info64.org/team/1st-world-deaf-team-rapid-chess-championship-women-477019-1"
+        "link": "https://info64.org/14t2nd-iccd-world-individual-rapid-chess-championship-women-477021"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Open Tardeo Hotel Oasis Atalaya",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "12-05-2026",
+        "fechafin": "14-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/iii-open-tardeo-hotel-oasis-atalaya"
     },
     {
         "origin": "chess-results",
@@ -2749,7 +2689,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "8th ICCD World Individual Blitz Chess Championship - Men (477022)",
+        "nombre": "1st World Deaf Team Blitz Chess Championship - Women (477017)",
         "ciudad": "Roquetas de Mar",
         "fechaini": "13-05-2026",
         "fechafin": "13-05-2026",
@@ -2757,7 +2697,7 @@
         "ritmo": "-",
         "lat": 36.7630203,
         "lon": -2.6115886,
-        "link": "https://info64.org/8th-iccd-world-individual-blitz-chess-championship-men-477022"
+        "link": "https://info64.org/team/1st-world-deaf-team-blitz-chess-championship-women-477017"
     },
     {
         "origin": "info64",
@@ -2773,7 +2713,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "1st World Deaf Team Blitz Chess Championship - Women (477017)",
+        "nombre": "8th ICCD World Individual Blitz Chess Championship - Men (477022)",
         "ciudad": "Roquetas de Mar",
         "fechaini": "13-05-2026",
         "fechafin": "13-05-2026",
@@ -2781,7 +2721,7 @@
         "ritmo": "-",
         "lat": 36.7630203,
         "lon": -2.6115886,
-        "link": "https://info64.org/team/1st-world-deaf-team-blitz-chess-championship-women-477017"
+        "link": "https://info64.org/8th-iccd-world-individual-blitz-chess-championship-men-477022"
     },
     {
         "origin": "chess-results",
@@ -3157,18 +3097,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo Letras Galegas",
-        "ciudad": "a Pobra de Trives",
-        "fechaini": "17-05-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.3289003,
-        "lon": -7.2738432,
-        "link": "https://info64.org/torneo-letras-galegas"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Torneo de Ajedrez SAN ISIDRO (III Circuito Diputación de Badajoz)",
         "ciudad": "Casas de Don Pedro",
         "fechaini": "17-05-2026",
@@ -3178,6 +3106,18 @@
         "lat": 39.1050329,
         "lon": -5.3287379,
         "link": "https://info64.org/vi-torneo-de-ajedrez-san-isidro"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Letras Galegas",
+        "ciudad": "a Pobra de Trives",
+        "fechaini": "17-05-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3289003,
+        "lon": -7.2738432,
+        "link": "https://info64.org/torneo-letras-galegas"
     },
     {
         "origin": "info64",
@@ -3949,6 +3889,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II Torneo Villa de Caudete Sub1800",
+        "ciudad": "Caudete",
+        "fechaini": "29-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7063356,
+        "lon": -0.9867523,
+        "link": "https://info64.org/ii-torneo-villa-de-caudete-sub1800"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI IRT Internacional Ajedrez en Alicante 2026",
         "ciudad": "Alicante",
         "fechaini": "29-05-2026",
@@ -3970,18 +3922,6 @@
         "lat": 36.7162109,
         "lon": -4.2793767,
         "link": "https://info64.org/open-sub-2400-rincon-lleno-de-vida"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo Villa de Caudete Sub1800",
-        "ciudad": "Caudete",
-        "fechaini": "29-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7063356,
-        "lon": -0.9867523,
-        "link": "https://info64.org/ii-torneo-villa-de-caudete-sub1800"
     },
     {
         "origin": "chess-results",
@@ -4093,6 +4033,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "MUNICIPAL SUB-14",
+        "ciudad": "Algete",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5961297,
+        "lon": -3.4974479,
+        "link": "https://info64.org/municipal-sub-14"
+    },
+    {
+        "origin": "info64",
         "nombre": "III TORNEO AJEDREZ BLANC I NEGRE ANIMACIO",
         "ciudad": "Valencia",
         "fechaini": "30-05-2026",
@@ -4186,18 +4138,6 @@
         "lat": 39.9447357,
         "lon": -3.9872516,
         "link": "https://info64.org/xi-t-olias-del-rey-promocion"
-    },
-    {
-        "origin": "info64",
-        "nombre": "MUNICIPAL SUB-14",
-        "ciudad": "Algete",
-        "fechaini": "30-05-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5961297,
-        "lon": -3.4974479,
-        "link": "https://info64.org/municipal-sub-14"
     },
     {
         "origin": "info64",
@@ -5269,18 +5209,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XVI Open Ciudad de Tres Cantos A",
-        "ciudad": "Tres cantos",
-        "fechaini": "21-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6012354,
-        "lon": -3.7038475,
-        "link": "https://info64.org/xvi-open-ciudad-de-tres-cantos-a"
-    },
-    {
-        "origin": "info64",
         "nombre": "XIX Internacional Ayuntamiento de Utebo",
         "ciudad": "Utebo",
         "fechaini": "21-06-2026",
@@ -5290,6 +5218,18 @@
         "lat": 41.7140829,
         "lon": -0.9943593,
         "link": "https://info64.org/xix-internacional-ayuntamiento-de-utebo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XVI Open Ciudad de Tres Cantos A",
+        "ciudad": "Tres cantos",
+        "fechaini": "21-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6012354,
+        "lon": -3.7038475,
+        "link": "https://info64.org/xvi-open-ciudad-de-tres-cantos-a"
     },
     {
         "origin": "info64",
@@ -6205,18 +6145,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
-        "ciudad": "Zaragoza",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
-        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
-    },
-    {
-        "origin": "info64",
         "nombre": "TORNEO B - 5 Open Internacional Sub1800 Hotel Vertice Sevilla Bormujos",
         "ciudad": "Bormujos",
         "fechaini": "21-08-2026",
@@ -6238,6 +6166,18 @@
         "lat": 37.3715939,
         "lon": -6.07133,
         "link": "https://info64.org/torneo-a-8-open-internacional-sub2200-hotel-vertice-sevilla-bormujos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
+        "ciudad": "Zaragoza",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
     },
     {
         "origin": "info64",
