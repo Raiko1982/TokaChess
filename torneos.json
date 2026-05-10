@@ -409,18 +409,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Torneo Pueblo Nuevo de los domingos",
-        "ciudad": "Calle Alava, 14. Madrid",
-        "fechaini": "15-03-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4201061,
-        "lon": -3.5265901,
-        "link": "https://info64.org/iv-torneo-pueblo-nuevo-de-los-domingos"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Amigos del Ajedrez",
         "ciudad": "Online",
         "fechaini": "15-03-2026",
@@ -430,6 +418,18 @@
         "lat": 41.8831074,
         "lon": 2.2431519,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo Pueblo Nuevo de los domingos",
+        "ciudad": "Calle Alava, 14. Madrid",
+        "fechaini": "15-03-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4201061,
+        "lon": -3.5265901,
+        "link": "https://info64.org/iv-torneo-pueblo-nuevo-de-los-domingos"
     },
     {
         "origin": "info64",
@@ -505,6 +505,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Cto Provincial Veteranos Castellon 65 2026",
+        "ciudad": "Castellon",
+        "fechaini": "27-03-2026",
+        "fechafin": "29-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.2518568,
+        "lon": -0.0615052,
+        "link": "https://info64.org/campeonato-provincial-veteranos-65-castellon-1"
+    },
+    {
+        "origin": "info64",
         "nombre": "Cto Provincial Veteranos Valencia  +65 2026",
         "ciudad": "Valencia",
         "fechaini": "27-03-2026",
@@ -526,18 +538,6 @@
         "lat": 39.4697065,
         "lon": -0.3763353,
         "link": "https://info64.org/cto-provincial-veteranos-valencia-50-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto Provincial Veteranos Castellon 65 2026",
-        "ciudad": "Castellon",
-        "fechaini": "27-03-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.2518568,
-        "lon": -0.0615052,
-        "link": "https://info64.org/campeonato-provincial-veteranos-65-castellon-1"
     },
     {
         "origin": "info64",
@@ -1525,18 +1525,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Extremadura Final por Edades Sub18 Masculino 2026",
-        "ciudad": "Zafra / Extremadura",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4253489,
-        "lon": -6.4193627,
-        "link": "https://info64.org/final-extremadura-por-edades-2026-sub18-masculino"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Campeonato Regional Individual Tramos Elo Sub-1700 Murcia 2026",
         "ciudad": "San Javier - Murcia",
         "fechaini": "09-05-2026",
@@ -1561,18 +1549,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Campeonato de Andalucia Rapido Sub-18",
-        "ciudad": "Baena",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6173035,
-        "lon": -4.324371,
-        "link": "https://info64.org/v-campeonato-de-andalucia-rapido-sub-18"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Copa Atlantica",
         "ciudad": "A Coruña",
         "fechaini": "09-05-2026",
@@ -1594,54 +1570,6 @@
         "lat": 37.8059567,
         "lon": -0.8345537,
         "link": "https://info64.org/v-campeonato-regional-individual-tramos-elo-sub-2300-murcia-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo SUB14 Ajedrez Cabaña del Retiro Mayo 2026",
-        "ciudad": "Cabaña Parque del Retiro",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/torneo-sub14-ajedrez-cabana-del-retiro-mayo-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Ajedrez Sub-16 por Equipos de Madrid 2025-2026 - Grupo B",
-        "ciudad": "Madrid",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/team/campeonato-de-ajedrez-sub-16-por-equipos-de-madrid-2025-2026-grupo-b"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Ajedrez Sub-16 por Equipos de Madrid 2025-2026 - Grupo A",
-        "ciudad": "Madrid",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/team/campeonato-de-ajedrez-sub-16-por-equipos-de-madrid-2025-2026-grupo-a"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo OPEN Ajedrez Cabaña del Retiro Mayo 2026",
-        "ciudad": "Cabaña Parque del Retiro",
-        "fechaini": "09-05-2026",
-        "fechafin": "09-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/torneo-open-ajedrez-cabana-del-retiro-mayo-2026"
     },
     {
         "origin": "chess-results",
@@ -1693,6 +1621,54 @@
     },
     {
         "origin": "info64",
+        "nombre": "X Torneio de Mugardos",
+        "ciudad": "Mugardos",
+        "fechaini": "10-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4492855,
+        "lon": -8.2336922,
+        "link": "https://info64.org/x-torneio-de-mugardos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Circuito Provincial PROMOCHESS Categ. C (2011-12-13) Y ABS. SIN ELO ALICANTE",
+        "ciudad": "ALICANTE",
+        "fechaini": "10-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-c-2011-12-13-y-abs-sin-elo-alicante"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. B (2016-2015-2014) ALICANTE",
+        "ciudad": "ALICANTE",
+        "fechaini": "10-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-b-2016-2015-2014-alicante"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. A (2019-2018-2017) ALICANTE",
+        "ciudad": "ALICANTE",
+        "fechaini": "10-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-a-2019-2018-2017-alicante"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Open Promochess",
         "ciudad": "Alicante",
         "fechaini": "10-05-2026",
@@ -1714,18 +1690,6 @@
         "lat": 41.6915847,
         "lon": -0.9101268,
         "link": "https://info64.org/torneo-relampago-el-greco-mayo-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Torneio de Mugardos",
-        "ciudad": "Mugardos",
-        "fechaini": "10-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4492855,
-        "lon": -8.2336922,
-        "link": "https://info64.org/x-torneio-de-mugardos"
     },
     {
         "origin": "info64",
@@ -1786,42 +1750,6 @@
         "lat": 38.9597347,
         "lon": -3.8828744,
         "link": "https://info64.org/provincial-absoluto-femenino-y-veteranos-ciudad-real-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Circuito Provincial PROMOCHESS Categ. C (2011-12-13) Y ABS. SIN ELO ALICANTE",
-        "ciudad": "ALICANTE",
-        "fechaini": "10-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-c-2011-12-13-y-abs-sin-elo-alicante"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. B (2016-2015-2014) ALICANTE",
-        "ciudad": "ALICANTE",
-        "fechaini": "10-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-b-2016-2015-2014-alicante"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. A (2019-2018-2017) ALICANTE",
-        "ciudad": "ALICANTE",
-        "fechaini": "10-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-a-2019-2018-2017-alicante"
     },
     {
         "origin": "info64",
@@ -2254,6 +2182,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1405459.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "42 JUEGOS DEPORTIVOS MUNICIPALES MÁLAGA 2026",
+        "ciudad": "Málaga",
+        "fechaini": "16-05-2026",
+        "fechafin": "16-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7647913,
+        "lon": -4.4422005,
+        "link": "https://info64.org/42-juegos-deportivos-municipales-malaga-2026"
     },
     {
         "origin": "info64",
@@ -2899,8 +2839,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.786875,
-        "lon": -2.6199057,
+        "lat": 36.7892783,
+        "lon": -2.6166011,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-50"
     },
     {
@@ -2911,8 +2851,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.786875,
-        "lon": -2.6199057,
+        "lat": 36.7892783,
+        "lon": -2.6166011,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-65"
     },
     {
@@ -4018,6 +3958,18 @@
         "lat": 36.7532521,
         "lon": -3.520917,
         "link": "https://chess-results.com/tnr1381239.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Insular Femenino de Gran Canaria 2026",
+        "ciudad": "Puerto Rico. Mogan",
+        "fechaini": "05-06-2026",
+        "fechafin": "07-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 27.7865973,
+        "lon": -15.7117774,
+        "link": "https://info64.org/campeonato-insular-femenino-de-gran-canaria-2026"
     },
     {
         "origin": "info64",
@@ -5203,7 +5155,7 @@
         "fechafin": "26-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.7888887,
+        "lat": 42.7888886,
         "lon": -0.5287344,
         "link": "https://info64.org/i-festival-de-ajedrez-en-candanchu"
     },
