@@ -415,8 +415,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.8831074,
-        "lon": 2.2431519,
+        "lat": 41.8831551,
+        "lon": 2.2430117,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -865,18 +865,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Torneo Social sub1800 Blanco y Negro 2026",
-        "ciudad": "Calle de la Cimera, 2. Madrid",
-        "fechaini": "12-04-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4466867,
-        "lon": -3.7144127,
-        "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Open de Ajedrez 'Laura Aguado'",
         "ciudad": "Pozuelo de Alarcón",
         "fechaini": "12-04-2026",
@@ -886,6 +874,18 @@
         "lat": 40.4346528,
         "lon": -3.814834,
         "link": "https://info64.org/iii-open-de-ajedrez-laura-aguado-boto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Social sub1800 Blanco y Negro 2026",
+        "ciudad": "Calle de la Cimera, 2. Madrid",
+        "fechaini": "12-04-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4466867,
+        "lon": -3.7144127,
+        "link": "https://info64.org/v-torneo-social-sub1800-blanco-y-negro-2026"
     },
     {
         "origin": "info64",
@@ -1297,18 +1297,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "20th ICCD World Deaf Team Classical Chess - Men (477029)",
-        "ciudad": "Roquetas de Mar",
-        "fechaini": "07-05-2026",
-        "fechafin": "11-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7630203,
-        "lon": -2.6115886,
-        "link": "https://info64.org/team/form-registro-torneos-2022_20th-iccd-worlddeafteamclassicalchess-men"
-    },
-    {
-        "origin": "info64",
         "nombre": "14th ICCD Open Individual Chess Tournament (477026)",
         "ciudad": "Roquetas de Mar",
         "fechaini": "07-05-2026",
@@ -1330,6 +1318,18 @@
         "lat": 36.7630203,
         "lon": -2.6115886,
         "link": "https://info64.org/team/1st-world-deaf-team-rapid-chess-championship-women-477019"
+    },
+    {
+        "origin": "info64",
+        "nombre": "20th ICCD World Deaf Team Classical Chess - Men (477029)",
+        "ciudad": "Roquetas de Mar",
+        "fechaini": "07-05-2026",
+        "fechafin": "11-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7630203,
+        "lon": -2.6115886,
+        "link": "https://info64.org/team/form-registro-torneos-2022_20th-iccd-worlddeafteamclassicalchess-men"
     },
     {
         "origin": "info64",
@@ -1489,54 +1489,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XVIII CAMPEONATO DE ANDALUCIA DE AJEDREZ FADEC",
-        "ciudad": "SEVILLA",
-        "fechaini": "09-05-2026",
-        "fechafin": "11-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3886303,
-        "lon": -5.9953403,
-        "link": "https://info64.org/xviii-campeonato-de-andalucia-de-ajedrez-fadec"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Open Fide Rápido Torre de Guzmán",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "09-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/v-open-fide-rapido-torre-de-guzman"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Sub 1600 FADA Torre de Guzmán",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "09-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/i-sub-1600-fada-torre-de-guzman"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Campeonato Regional Individual Tramos Elo Sub-1700 Murcia 2026",
-        "ciudad": "San Javier - Murcia",
-        "fechaini": "09-05-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8059567,
-        "lon": -0.8345537,
-        "link": "https://info64.org/v-campeonato-regional-individual-tramos-elo-sub-1700-murcia-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Campeonato Regional Individual Tramos Elo Sub-2000 Murcia 2026",
         "ciudad": "San Javier - Murcia",
         "fechaini": "09-05-2026",
@@ -1558,6 +1510,54 @@
         "lat": 43.3466447,
         "lon": -8.4127029,
         "link": "https://info64.org/team/i-copa-atlantica"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Campeonato Regional Individual Tramos Elo Sub-1700 Murcia 2026",
+        "ciudad": "San Javier - Murcia",
+        "fechaini": "09-05-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.8059567,
+        "lon": -0.8345537,
+        "link": "https://info64.org/v-campeonato-regional-individual-tramos-elo-sub-1700-murcia-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Sub 1600 FADA Torre de Guzmán",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "09-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/i-sub-1600-fada-torre-de-guzman"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XVIII CAMPEONATO DE ANDALUCIA DE AJEDREZ FADEC",
+        "ciudad": "SEVILLA",
+        "fechaini": "09-05-2026",
+        "fechafin": "11-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3886303,
+        "lon": -5.9953403,
+        "link": "https://info64.org/xviii-campeonato-de-andalucia-de-ajedrez-fadec"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Open Fide Rápido Torre de Guzmán",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "09-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/v-open-fide-rapido-torre-de-guzman"
     },
     {
         "origin": "info64",
@@ -1621,19 +1621,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Torneio de Mugardos",
-        "ciudad": "Mugardos",
-        "fechaini": "10-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4492855,
-        "lon": -8.2336922,
-        "link": "https://info64.org/x-torneio-de-mugardos"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Circuito Provincial PROMOCHESS Categ. C (2011-12-13) Y ABS. SIN ELO ALICANTE",
+        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. A (2019-2018-2017) ALICANTE",
         "ciudad": "ALICANTE",
         "fechaini": "10-05-2026",
         "fechafin": "10-05-2026",
@@ -1641,7 +1629,31 @@
         "ritmo": "-",
         "lat": 38.3436365,
         "lon": -0.4881708,
-        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-c-2011-12-13-y-abs-sin-elo-alicante"
+        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-a-2019-2018-2017-alicante"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Cto provincial ajedrez blitz por equipos Guadalajara 2026",
+        "ciudad": "Cabanillas del Campo",
+        "fechaini": "10-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6294786,
+        "lon": -3.2433558,
+        "link": "https://info64.org/team/cto-provincial-de-ajedrez-blitz-guadalajara-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "JDN Sub-8 por Equipos 2026",
+        "ciudad": "Estadio Larrabide",
+        "fechaini": "10-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8084955,
+        "lon": -1.6404755,
+        "link": "https://info64.org/team/jdn-sub-8-por-equipos-2026"
     },
     {
         "origin": "info64",
@@ -1657,7 +1669,19 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV  Circuito Provincial PROMOCHESS Categ. A (2019-2018-2017) ALICANTE",
+        "nombre": "JDN Sub-10 por Equipos 2026",
+        "ciudad": "Estadio Larrabide",
+        "fechaini": "10-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8084955,
+        "lon": -1.6404755,
+        "link": "https://info64.org/team/jdn-sub-10-por-equipos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Circuito Provincial PROMOCHESS Categ. C (2011-12-13) Y ABS. SIN ELO ALICANTE",
         "ciudad": "ALICANTE",
         "fechaini": "10-05-2026",
         "fechafin": "10-05-2026",
@@ -1665,7 +1689,7 @@
         "ritmo": "-",
         "lat": 38.3436365,
         "lon": -0.4881708,
-        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-a-2019-2018-2017-alicante"
+        "link": "https://info64.org/iv-circuito-provincial-promochess-categ-c-2011-12-13-y-abs-sin-elo-alicante"
     },
     {
         "origin": "info64",
@@ -1678,6 +1702,30 @@
         "lat": 38.3436365,
         "lon": -0.4881708,
         "link": "https://info64.org/i-open-promochess"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Provincial Absoluto, Femenino y Veteranos Ciudad Real 2026",
+        "ciudad": "Ciudad Real",
+        "fechaini": "10-05-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9597347,
+        "lon": -3.8828744,
+        "link": "https://info64.org/provincial-absoluto-femenino-y-veteranos-ciudad-real-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Torneio de Mugardos",
+        "ciudad": "Mugardos",
+        "fechaini": "10-05-2026",
+        "fechafin": "10-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4492855,
+        "lon": -8.2336922,
+        "link": "https://info64.org/x-torneio-de-mugardos"
     },
     {
         "origin": "info64",
@@ -1714,54 +1762,6 @@
         "lat": 43.5060089,
         "lon": -6.4314696,
         "link": "https://info64.org/jde-zonal-individual-oscos-eo-navia-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto provincial ajedrez blitz por equipos Guadalajara 2026",
-        "ciudad": "Cabanillas del Campo",
-        "fechaini": "10-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6294786,
-        "lon": -3.2433558,
-        "link": "https://info64.org/team/cto-provincial-de-ajedrez-blitz-guadalajara-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "JDN Sub-8 por Equipos 2026",
-        "ciudad": "Estadio Larrabide",
-        "fechaini": "10-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8084955,
-        "lon": -1.6404755,
-        "link": "https://info64.org/team/jdn-sub-8-por-equipos-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Provincial Absoluto, Femenino y Veteranos Ciudad Real 2026",
-        "ciudad": "Ciudad Real",
-        "fechaini": "10-05-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9597347,
-        "lon": -3.8828744,
-        "link": "https://info64.org/provincial-absoluto-femenino-y-veteranos-ciudad-real-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "JDN Sub-10 por Equipos 2026",
-        "ciudad": "Estadio Larrabide",
-        "fechaini": "10-05-2026",
-        "fechafin": "10-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8084955,
-        "lon": -1.6404755,
-        "link": "https://info64.org/team/jdn-sub-10-por-equipos-2026"
     },
     {
         "origin": "chess-results",
@@ -2017,6 +2017,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "III Open Tardeo Hotel Oasis Atalaya",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "12-05-2026",
+        "fechafin": "14-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/iii-open-tardeo-hotel-oasis-atalaya"
+    },
+    {
+        "origin": "info64",
         "nombre": "2nd ICCD World Individual Rapid Chess Championship - Men (477020)",
         "ciudad": "Roquetas de Mar",
         "fechaini": "12-05-2026",
@@ -2062,18 +2074,6 @@
         "lat": 36.7630203,
         "lon": -2.6115886,
         "link": "https://info64.org/14t2nd-iccd-world-individual-rapid-chess-championship-women-477021"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Open Tardeo Hotel Oasis Atalaya",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "12-05-2026",
-        "fechafin": "14-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/iii-open-tardeo-hotel-oasis-atalaya"
     },
     {
         "origin": "chess-results",
@@ -2863,8 +2863,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7892783,
-        "lon": -2.6166011,
+        "lat": 36.7830982,
+        "lon": -2.6272363,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-50"
     },
     {
@@ -2875,8 +2875,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7892783,
-        "lon": -2.6166011,
+        "lat": 36.7830982,
+        "lon": -2.6272363,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-65"
     },
     {
@@ -5317,18 +5317,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XIII Torneo Verano Alicante",
-        "ciudad": "Alicante",
-        "fechaini": "27-07-2026",
-        "fechafin": "02-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/xiii-torneo-verano-alicante"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Open Internacional Ciudad de Vitoria - Gasteiz",
         "ciudad": "Vitoria-Gasteiz",
         "fechaini": "27-07-2026",
@@ -5338,6 +5326,18 @@
         "lat": 42.8505845,
         "lon": -2.66145,
         "link": "https://info64.org/ii-open-internacional-ciudad-de-vitoria-gasteiz"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XIII Torneo Verano Alicante",
+        "ciudad": "Alicante",
+        "fechaini": "27-07-2026",
+        "fechafin": "02-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/xiii-torneo-verano-alicante"
     },
     {
         "origin": "chess-results",
@@ -5857,18 +5857,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "41º. Open Ezkerraldea Basque Country - 34º Magistral Internacional de Euskadi",
-        "ciudad": "Sestao",
-        "fechaini": "08-09-2026",
-        "fechafin": "13-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.309341,
-        "lon": -3.0074501,
-        "link": "https://info64.org/41o-open-sestao-basque-country-34o-magistral-internacional-de-euskadi"
-    },
-    {
-        "origin": "info64",
         "nombre": "41º. Open Sestao Basque Country - Sub2000",
         "ciudad": "Sestao",
         "fechaini": "08-09-2026",
@@ -5878,6 +5866,18 @@
         "lat": 43.309341,
         "lon": -3.0074501,
         "link": "https://info64.org/41o-open-sestao-basque-country-sub2000"
+    },
+    {
+        "origin": "info64",
+        "nombre": "41º. Open Ezkerraldea Basque Country - 34º Magistral Internacional de Euskadi",
+        "ciudad": "Sestao",
+        "fechaini": "08-09-2026",
+        "fechafin": "13-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.309341,
+        "lon": -3.0074501,
+        "link": "https://info64.org/41o-open-sestao-basque-country-34o-magistral-internacional-de-euskadi"
     },
     {
         "origin": "chess-results",
