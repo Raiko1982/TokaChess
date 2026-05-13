@@ -427,8 +427,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.8831074,
-        "lon": 2.2431519,
+        "lat": 41.883263,
+        "lon": 2.243206,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -913,18 +913,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Torneo Europeo de Primavera 2026",
-        "ciudad": "Alzira",
-        "fechaini": "18-04-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.151212,
-        "lon": -0.4346556,
-        "link": "https://info64.org/v-torneo-europeo-de-primavera-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Cto. Navarro Absoluto Individual 2026",
         "ciudad": "Pamplona - Fuerte del Principe",
         "fechaini": "18-04-2026",
@@ -934,6 +922,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/cto-navarro-absoluto-individual-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Europeo de Primavera 2026",
+        "ciudad": "Alzira",
+        "fechaini": "18-04-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.151212,
+        "lon": -0.4346556,
+        "link": "https://info64.org/v-torneo-europeo-de-primavera-2026"
     },
     {
         "origin": "info64",
@@ -1765,6 +1765,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Torneo de Ajedrez Ferias de San Isidro 2026 Sub14",
+        "ciudad": "Alcalá de Henares",
+        "fechaini": "16-05-2026",
+        "fechafin": "16-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.481954,
+        "lon": -3.363981,
+        "link": "https://info64.org/torneo-de-ajedrez-ferias-de-san-isidro-2026-sub14"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de Ajedrez Ferias de San Isidro 2026",
+        "ciudad": "Alcalá de Henares",
+        "fechaini": "16-05-2026",
+        "fechafin": "16-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.481954,
+        "lon": -3.363981,
+        "link": "https://info64.org/torneo-de-ajedrez-ferias-de-san-isidro-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "TORNEO SOCIAL SANTA QUITERIA 2026",
         "ciudad": "ALPEDRETE",
         "fechaini": "16-05-2026",
@@ -1834,30 +1858,6 @@
         "lat": 36.7647913,
         "lon": -4.4422005,
         "link": "https://info64.org/42-juegos-deportivos-municipales-malaga-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo de Ajedrez Ferias de San Isidro 2026",
-        "ciudad": "Alcalá de Henares",
-        "fechaini": "16-05-2026",
-        "fechafin": "16-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.481954,
-        "lon": -3.363981,
-        "link": "https://info64.org/torneo-de-ajedrez-ferias-de-san-isidro-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo de Ajedrez Ferias de San Isidro 2026 Sub14",
-        "ciudad": "Alcalá de Henares",
-        "fechaini": "16-05-2026",
-        "fechafin": "16-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.481954,
-        "lon": -3.363981,
-        "link": "https://info64.org/torneo-de-ajedrez-ferias-de-san-isidro-2026-sub14"
     },
     {
         "origin": "info64",
@@ -2161,6 +2161,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "Juegos Deportivos Ajedrez Individual Zonal Aviles Grado SUB 08 2026",
+        "ciudad": "Aviles",
+        "fechaini": "17-05-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5554436,
+        "lon": -5.9222466,
+        "link": "https://info64.org/juegos-deportivos-ajedrez-individual-zonal-aviles-grado-sub-08-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Juegos Deportivos Ajedrez Individual Zonal Aviles Grado SUB 14 2026",
+        "ciudad": "Aviles",
+        "fechaini": "17-05-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5554436,
+        "lon": -5.9222466,
+        "link": "https://info64.org/juegos-deportivos-ajedrez-individual-zonal-aviles-grado-sub-14-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Open Internacional de Ajedrez San Vicente Ferrer",
+        "ciudad": "Valencia",
+        "fechaini": "17-05-2026",
+        "fechafin": "17-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/iv-open-internacional-de-ajedrez-san-vicente-ferrer"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Torneo de Ajedrez SAN ISIDRO (III Circuito Diputación de Badajoz)",
         "ciudad": "Casas de Don Pedro",
         "fechaini": "17-05-2026",
@@ -2182,18 +2218,6 @@
         "lat": 40.5683808,
         "lon": -3.2627134,
         "link": "https://info64.org/san-isidro-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Open Internacional de Ajedrez San Vicente Ferrer",
-        "ciudad": "Valencia",
-        "fechaini": "17-05-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/iv-open-internacional-de-ajedrez-san-vicente-ferrer"
     },
     {
         "origin": "info64",
@@ -2254,30 +2278,6 @@
         "lat": 38.3436365,
         "lon": -0.4881708,
         "link": "https://info64.org/juegos-escolares-municipales-jornada-5-categoria-inf-y-cadete-eso-y-bach"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Juegos Deportivos Ajedrez Individual Zonal Aviles Grado SUB 14 2026",
-        "ciudad": "Aviles",
-        "fechaini": "17-05-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
-        "link": "https://info64.org/juegos-deportivos-ajedrez-individual-zonal-aviles-grado-sub-14-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Juegos Deportivos Ajedrez Individual Zonal Aviles Grado SUB 08 2026",
-        "ciudad": "Aviles",
-        "fechaini": "17-05-2026",
-        "fechafin": "17-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
-        "link": "https://info64.org/juegos-deportivos-ajedrez-individual-zonal-aviles-grado-sub-08-2026"
     },
     {
         "origin": "chess-results",
@@ -2653,6 +2653,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Clasificados Final Juegos Deportivos Ajedrez Individual Zona Aviles Grado 2026",
+        "ciudad": "Pravia",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4820904,
+        "lon": -6.1491535,
+        "link": "https://info64.org/clasificados-final-juegos-deportivos-ajedrez-individual-zona-aviles-grado-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "I OPEN CIUDAD DE PUERTO LUMBRERAS CATEGORIA INFANTIL (SUB 12)",
         "ciudad": "Puerto Lumbreras",
         "fechaini": "23-05-2026",
@@ -2806,18 +2818,6 @@
         "lat": 37.8017289,
         "lon": -5.107031,
         "link": "https://info64.org/v-torneo-de-ajedrez-de-posadas"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Clasificados Final Juegos Deportivos Ajedrez Individual Zona Aviles Grado 2026",
-        "ciudad": "Pravia",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4820904,
-        "lon": -6.1491535,
-        "link": "https://info64.org/clasificados-final-juegos-deportivos-ajedrez-individual-zona-aviles-grado-2026"
     },
     {
         "origin": "chess-results",
@@ -4345,18 +4345,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Torneo de Ajedrez BATALYAWS",
-        "ciudad": "Basajoz - Exremadura",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/ii-torneo-de-ajedrez-batalyaws"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Xadrez Amodiño",
         "ciudad": "Culleredo",
         "fechaini": "13-06-2026",
@@ -4366,6 +4354,18 @@
         "lat": 43.2778751,
         "lon": -8.4112161,
         "link": "https://info64.org/iii-xadrez-amodino"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo de Ajedrez BATALYAWS",
+        "ciudad": "Basajoz - Exremadura",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/ii-torneo-de-ajedrez-batalyaws"
     },
     {
         "origin": "info64",
@@ -4681,6 +4681,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XIX Internacional Ayuntamiento de Utebo",
+        "ciudad": "Utebo",
+        "fechaini": "21-06-2026",
+        "fechafin": "21-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.7140829,
+        "lon": -0.9943593,
+        "link": "https://info64.org/xix-internacional-ayuntamiento-de-utebo"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXXVI Open Internacional de GROS Nazioarteko Xake Irekia",
         "ciudad": "Club de Gros",
         "fechaini": "21-06-2026",
@@ -4702,18 +4714,6 @@
         "lat": 42.1879926,
         "lon": -8.6262198,
         "link": "https://info64.org/iii-torneo-festa-da-rosa-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIX Internacional Ayuntamiento de Utebo",
-        "ciudad": "Utebo",
-        "fechaini": "21-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.7140829,
-        "lon": -0.9943593,
-        "link": "https://info64.org/xix-internacional-ayuntamiento-de-utebo"
     },
     {
         "origin": "info64",
@@ -5701,6 +5701,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
+        "ciudad": "Zaragoza",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
+    },
+    {
+        "origin": "info64",
         "nombre": "TORNEO B - 5 Open Internacional Sub1800 Hotel Vertice Sevilla Bormujos",
         "ciudad": "Bormujos",
         "fechaini": "21-08-2026",
@@ -5722,18 +5734,6 @@
         "lat": 37.3715939,
         "lon": -6.07133,
         "link": "https://info64.org/torneo-a-8-open-internacional-sub2200-hotel-vertice-sevilla-bormujos"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
-        "ciudad": "Zaragoza",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
-        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
     },
     {
         "origin": "info64",
