@@ -283,8 +283,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883263,
-        "lon": 2.243206,
+        "lat": 41.8831074,
+        "lon": 2.2431519,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -547,8 +547,8 @@
         "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-segunda"
     },
     {
@@ -559,8 +559,8 @@
         "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-primera"
     },
     {
@@ -1153,38 +1153,14 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Torneo Semana de la Juventud Collado Villalba Abierto",
-        "ciudad": "myTown",
-        "fechaini": "20-05-2026",
-        "fechafin": "20-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iii-torneo-semana-de-la-juventud-collado-villalba-abierto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Semana de la Juventud Collado Villalba Jovenes",
-        "ciudad": "myTown",
-        "fechaini": "20-05-2026",
-        "fechafin": "20-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iii-torneo-semana-de-la-juventud-collado-villalba-jovenes"
-    },
-    {
-        "origin": "info64",
         "nombre": "CAMPEONATOS DE ANDALUCÍA VETERANOS SUPRA-65",
         "ciudad": "Roquetas del Mar",
         "fechaini": "21-05-2026",
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7830982,
-        "lon": -2.6272363,
+        "lat": 36.786875,
+        "lon": -2.6199057,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-65"
     },
     {
@@ -1195,8 +1171,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7830982,
-        "lon": -2.6272363,
+        "lat": 36.786875,
+        "lon": -2.6199057,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-50"
     },
     {
@@ -1342,6 +1318,18 @@
         "lat": 40.9481192,
         "lon": -4.1172101,
         "link": "https://chess-results.com/tnr1408247.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo Ajedrez Villa de Noblejas",
+        "ciudad": "Noblejas",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9803187,
+        "lon": -3.4403876,
+        "link": "https://info64.org/iv-torneo-ajedrez-villa-de-noblejas"
     },
     {
         "origin": "info64",
@@ -1534,18 +1522,6 @@
         "lat": 38.9540269,
         "lon": -5.8619466,
         "link": "https://info64.org/final-judex-promocional-alevin-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo Ajedrez Villa de Noblejas",
-        "ciudad": "Noblejas",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9803187,
-        "lon": -3.4403876,
-        "link": "https://info64.org/iv-torneo-ajedrez-villa-de-noblejas"
     },
     {
         "origin": "info64",
@@ -2125,18 +2101,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Internacional Sub 2400 Rincon Lleno de Vida 2026 (462882)",
-        "ciudad": "Rincon de la Victoria",
-        "fechaini": "29-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7162109,
-        "lon": -4.2793767,
-        "link": "https://info64.org/open-sub-2400-rincon-lleno-de-vida"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI IRT Internacional Ajedrez en Alicante 2026",
         "ciudad": "Alicante",
         "fechaini": "29-05-2026",
@@ -2146,6 +2110,18 @@
         "lat": 38.3436365,
         "lon": -0.4881708,
         "link": "https://info64.org/vi-irt-internacional-ajedrez-en-alicante-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Internacional Sub 2400 Rincon Lleno de Vida 2026 (462882)",
+        "ciudad": "Rincon de la Victoria",
+        "fechaini": "29-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7162109,
+        "lon": -4.2793767,
+        "link": "https://info64.org/open-sub-2400-rincon-lleno-de-vida"
     },
     {
         "origin": "info64",
@@ -2269,6 +2245,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "III TORNEO AJEDREZ BLANC I NEGRE ANIMACIO",
+        "ciudad": "Valencia",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/iii-torneo-ajedrez-blanc-i-negre-animacio"
+    },
+    {
+        "origin": "info64",
         "nombre": "XI T. Olias del Rey",
         "ciudad": "Olias del Rey",
         "fechaini": "30-05-2026",
@@ -2374,18 +2362,6 @@
         "lat": 42.1939629,
         "lon": -7.537124,
         "link": "https://info64.org/iii-copa-ourense-escolar-sub-12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III TORNEO AJEDREZ BLANC I NEGRE ANIMACIO",
-        "ciudad": "Valencia",
-        "fechaini": "30-05-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/iii-torneo-ajedrez-blanc-i-negre-animacio"
     },
     {
         "origin": "info64",
@@ -2689,6 +2665,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "VIII Torneo Relampago Internacional Dama Negra",
+        "ciudad": "Alicante",
+        "fechaini": "31-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/viii-torneo-relampago-internacional-dama-negra"
+    },
+    {
+        "origin": "info64",
         "nombre": "17º Torneo de Ajedrez Ferias de Bejar",
         "ciudad": "Bejar",
         "fechaini": "31-05-2026",
@@ -2734,18 +2722,6 @@
         "lat": 41.6915847,
         "lon": -0.9101268,
         "link": "https://info64.org/v-torneo-centro-soriano-de-zaragoza"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VIII Torneo Relampago Internacional Dama Negra",
-        "ciudad": "Alicante",
-        "fechaini": "31-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/viii-torneo-relampago-internacional-dama-negra"
     },
     {
         "origin": "info64",
