@@ -132,18 +132,6 @@
         "link": "https://chess-results.com/tnr1408791.aspx?lan=2"
     },
     {
-        "origin": "info64",
-        "nombre": "VI Torneo Social Club de Ajedrez Torrelodones",
-        "ciudad": "Torrelodones, Madrid",
-        "fechaini": "06-11-2025",
-        "fechafin": "21-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5762809,
-        "lon": -3.928603,
-        "link": "https://info64.org/vi-torneo-social-club-de-ajedrez-torrelodones"
-    },
-    {
         "origin": "chess-results",
         "nombre": "XXI Abierto Infantil Ribera del EbroCategoría B",
         "ciudad": "Cintruénigo, Calahorra, Cervera del Río Alhama, Alfaro, Corella, Arnedo",
@@ -283,8 +271,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883148,
-        "lon": 2.2433061,
+        "lat": 41.8831074,
+        "lon": 2.2431519,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -1225,6 +1213,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Campeonato Insular de Ajedrez de Gran Canaria Juvenil Femenino 2026",
+        "ciudad": "Pto. Rico",
+        "fechaini": "22-05-2026",
+        "fechafin": "24-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 27.7865973,
+        "lon": -15.7117774,
+        "link": "https://info64.org/campeonato-insular-de-ajedrez-de-gran-canaria-juvenil-femenino-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato Insular de Ajedrez de Gran Canaria Juvenil Masculino 2026",
         "ciudad": "Pto. Rico",
         "fechaini": "22-05-2026",
@@ -1246,18 +1246,6 @@
         "lat": 28.1288694,
         "lon": -15.4349015,
         "link": "https://info64.org/torneo-fin-de-curso-25-26-ulpgc"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Insular de Ajedrez de Gran Canaria Juvenil Femenino 2026",
-        "ciudad": "Pto. Rico",
-        "fechaini": "22-05-2026",
-        "fechafin": "24-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 27.7865973,
-        "lon": -15.7117774,
-        "link": "https://info64.org/campeonato-insular-de-ajedrez-de-gran-canaria-juvenil-femenino-2026"
     },
     {
         "origin": "chess-results",
@@ -1342,6 +1330,54 @@
         "lat": 40.9481192,
         "lon": -4.1172101,
         "link": "https://chess-results.com/tnr1408247.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XIII IRT Sub-1800 Les coves de Paterna",
+        "ciudad": "Paterna",
+        "fechaini": "23-05-2026",
+        "fechafin": "24-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.5259423,
+        "lon": -0.4733018,
+        "link": "https://info64.org/xiii-irt-sub-1800-les-coves-de-paterna"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo de Ajedrez de Posadas",
+        "ciudad": "Posadas",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.8017289,
+        "lon": -5.107031,
+        "link": "https://info64.org/v-torneo-de-ajedrez-de-posadas"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Individual Absoluto de Madrid 2025-2026 - Final",
+        "ciudad": "Madrid",
+        "fechaini": "23-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/campeonato-individual-absoluto-de-madrid-2025-2026-final"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Torneo infantil Escuela Municipal de Ajedrez",
+        "ciudad": "Soria",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6012505,
+        "lon": -2.721938,
+        "link": "https://info64.org/xii-torneo-infantil-escuela-municipal-de-ajedrez"
     },
     {
         "origin": "info64",
@@ -1462,54 +1498,6 @@
         "lat": 39.9803187,
         "lon": -3.4403876,
         "link": "https://info64.org/iv-torneo-ajedrez-villa-de-noblejas"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIII IRT Sub-1800 Les coves de Paterna",
-        "ciudad": "Paterna",
-        "fechaini": "23-05-2026",
-        "fechafin": "24-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5259423,
-        "lon": -0.4733018,
-        "link": "https://info64.org/xiii-irt-sub-1800-les-coves-de-paterna"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Individual Absoluto de Madrid 2025-2026 - Final",
-        "ciudad": "Madrid",
-        "fechaini": "23-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/campeonato-individual-absoluto-de-madrid-2025-2026-final"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo de Ajedrez de Posadas",
-        "ciudad": "Posadas",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8017289,
-        "lon": -5.107031,
-        "link": "https://info64.org/v-torneo-de-ajedrez-de-posadas"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Torneo infantil Escuela Municipal de Ajedrez",
-        "ciudad": "Soria",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6012505,
-        "lon": -2.721938,
-        "link": "https://info64.org/xii-torneo-infantil-escuela-municipal-de-ajedrez"
     },
     {
         "origin": "info64",
@@ -1909,15 +1897,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo de Primavera Ajedrez Tomelloso - Absoluto",
-        "ciudad": "Casino de Tomelloso",
+        "nombre": "Cto Deporte Escolar Madrid Final Benjamin",
+        "ciudad": "Aranjuez, Madrid",
         "fechaini": "24-05-2026",
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.1584246,
-        "lon": -3.0209913,
-        "link": "https://info64.org/i-torneo-de-primavera-ajedrez-tomelloso-absoluto"
+        "lat": 40.0322289,
+        "lon": -3.6040097,
+        "link": "https://info64.org/cto-deporte-escolar-madrid-final-benjamin"
     },
     {
         "origin": "info64",
@@ -1933,6 +1921,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Torneo de Primavera Ajedrez Tomelloso - Absoluto",
+        "ciudad": "Casino de Tomelloso",
+        "fechaini": "24-05-2026",
+        "fechafin": "24-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1584246,
+        "lon": -3.0209913,
+        "link": "https://info64.org/i-torneo-de-primavera-ajedrez-tomelloso-absoluto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Cto Deporte Escolar Madrid Final Alevin",
+        "ciudad": "Aranjuez, Madrid",
+        "fechaini": "24-05-2026",
+        "fechafin": "24-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0322289,
+        "lon": -3.6040097,
+        "link": "https://info64.org/cto-deporte-escolar-madrid-final-alevin"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Cto Deporte Escolar Madrid Final Infantil",
+        "ciudad": "Aranjuez, Madrid",
+        "fechaini": "24-05-2026",
+        "fechafin": "24-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0322289,
+        "lon": -3.6040097,
+        "link": "https://info64.org/cto-deporte-escolar-madrid-final-infantil"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Torneo Ajedrez Blitz Fortuna",
         "ciudad": "Fotuna",
         "fechaini": "24-05-2026",
@@ -1942,6 +1966,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/iii-torneo-ajedrez-blitz-fortuna"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Cto Deporte Escolar Madrid Final Cadete",
+        "ciudad": "Aranjuez, Madrid",
+        "fechaini": "24-05-2026",
+        "fechafin": "24-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0322289,
+        "lon": -3.6040097,
+        "link": "https://info64.org/cto-deporte-escolar-madrid-final-cadete"
     },
     {
         "origin": "info64",
@@ -2290,6 +2326,30 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1376589.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FERIA DEL LIBRO 2026-SUB-16",
+        "ciudad": "Navalmoral de la Mata",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8928306,
+        "lon": -5.5401199,
+        "link": "https://info64.org/feria-del-libro-2026-sub-16"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FERIA DEL LIBRO 2026-ABSOLUTO",
+        "ciudad": "Navalmoral de la Mata",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8928306,
+        "lon": -5.5401199,
+        "link": "https://info64.org/feria-del-libro-2026-absoluto"
     },
     {
         "origin": "info64",
@@ -2725,6 +2785,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "17º Torneo de Ajedrez Ferias de Bejar",
+        "ciudad": "Bejar",
+        "fechaini": "31-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.3865812,
+        "lon": -5.7649619,
+        "link": "https://info64.org/17o-torneo-de-ajedrez-ferias-de-bejar"
+    },
+    {
+        "origin": "info64",
         "nombre": "V Torneo Centro Soriano de Zaragoza",
         "ciudad": "Zaragoza",
         "fechaini": "31-05-2026",
@@ -2758,18 +2830,6 @@
         "lat": 38.3436365,
         "lon": -0.4881708,
         "link": "https://info64.org/viii-torneo-relampago-internacional-dama-negra"
-    },
-    {
-        "origin": "info64",
-        "nombre": "17º Torneo de Ajedrez Ferias de Bejar",
-        "ciudad": "Bejar",
-        "fechaini": "31-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.3865812,
-        "lon": -5.7649619,
-        "link": "https://info64.org/17o-torneo-de-ajedrez-ferias-de-bejar"
     },
     {
         "origin": "info64",
@@ -4681,18 +4741,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II IRT Sub-1800 Castell de Cullera",
-        "ciudad": "Cullera",
-        "fechaini": "27-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1647217,
-        "lon": -0.2542313,
-        "link": "https://info64.org/ii-irt-sub-1800-castell-de-cullera"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Lince Andujar Chess Festival 2026",
         "ciudad": "Andujar",
         "fechaini": "27-06-2026",
@@ -4702,6 +4750,18 @@
         "lat": 38.0392362,
         "lon": -4.0505603,
         "link": "https://info64.org/ii-lince-andujar-chess-festival-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II IRT Sub-1800 Castell de Cullera",
+        "ciudad": "Cullera",
+        "fechaini": "27-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1647217,
+        "lon": -0.2542313,
+        "link": "https://info64.org/ii-irt-sub-1800-castell-de-cullera"
     },
     {
         "origin": "info64",
