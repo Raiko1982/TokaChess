@@ -613,18 +613,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Open de Ajedrez 'Laura Aguado'",
-        "ciudad": "Pozuelo de Alarcón",
-        "fechaini": "12-04-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4346528,
-        "lon": -3.814834,
-        "link": "https://info64.org/iii-open-de-ajedrez-laura-aguado-boto"
-    },
-    {
-        "origin": "info64",
         "nombre": "XVII Torneo Ajedrez Ciudad los Angeles - Memorial Francisco Codes",
         "ciudad": "Madrid",
         "fechaini": "12-04-2026",
@@ -634,6 +622,18 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/xvii-torneo-ajedrez-ciudad-los-angeles-memorial-francisco-codes"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Open de Ajedrez 'Laura Aguado'",
+        "ciudad": "Pozuelo de Alarcón",
+        "fechaini": "12-04-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4346528,
+        "lon": -3.814834,
+        "link": "https://info64.org/iii-open-de-ajedrez-laura-aguado-boto"
     },
     {
         "origin": "chess-results",
@@ -1087,8 +1087,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7870294,
-        "lon": -2.6199668,
+        "lat": 36.7854239,
+        "lon": -2.6218654,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-50"
     },
     {
@@ -1099,8 +1099,8 @@
         "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7870294,
-        "lon": -2.6199668,
+        "lat": 36.7854239,
+        "lon": -2.6218654,
         "link": "https://info64.org/campeonatos-de-andalucia-veteranos-supra-65"
     },
     {
@@ -1165,15 +1165,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "Final Juegos Deportivos Ajedrez Individual SUB 16 2026",
-        "ciudad": "IES Pravia",
+        "nombre": "IV Open Tres Cantos Sub1800",
+        "ciudad": "Tres Cantos",
         "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
+        "fechafin": "24-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.487897,
-        "lon": -6.1128424,
-        "link": "https://info64.org/final-juegos-deportivos-ajedrez-individual-sub-16-2026"
+        "lat": 40.6012354,
+        "lon": -3.7038475,
+        "link": "https://info64.org/iv-open-tres-cantos-sub1800"
     },
     {
         "origin": "info64",
@@ -1198,6 +1198,234 @@
         "lat": 43.487897,
         "lon": -6.1128424,
         "link": "https://info64.org/final-juegos-deportivos-ajedrez-individual-sub-12-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XIII IRT Sub-1800 Les coves de Paterna",
+        "ciudad": "Paterna",
+        "fechaini": "23-05-2026",
+        "fechafin": "24-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.5259423,
+        "lon": -0.4733018,
+        "link": "https://info64.org/xiii-irt-sub-1800-les-coves-de-paterna"
+    },
+    {
+        "origin": "info64",
+        "nombre": "5º Torneo ADS 2026 Guadarrama Alevin",
+        "ciudad": "Guadarrama",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6724354,
+        "lon": -4.0890384,
+        "link": "https://info64.org/5o-torneo-ads-2026-guadarrama-alevin"
+    },
+    {
+        "origin": "info64",
+        "nombre": "5º Torneo ADS 2026 Guadarrama Benjamin",
+        "ciudad": "Guadarrama",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6724354,
+        "lon": -4.0890384,
+        "link": "https://info64.org/5o-torneo-ads-2026-guadarrama-benjamin"
+    },
+    {
+        "origin": "info64",
+        "nombre": "5º Torneo ADS 2026 Guadarrama Minibenjamin",
+        "ciudad": "Guadarrama",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6724354,
+        "lon": -4.0890384,
+        "link": "https://info64.org/5o-torneo-ads-2026-guadarrama-minibenjamin"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Open Internacional Rapidas Dama Roja",
+        "ciudad": "Valencia",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/open-internacional-rapidas-dama-roja"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Torneo infantil Escuela Municipal de Ajedrez",
+        "ciudad": "Soria",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6012505,
+        "lon": -2.721938,
+        "link": "https://info64.org/xii-torneo-infantil-escuela-municipal-de-ajedrez"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I OPEN CIUDAD DE PUERTO LUMBRERAS CATEGORIA GENERAL",
+        "ciudad": "Puerto Lumbreras",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.5635045,
+        "lon": -1.8076233,
+        "link": "https://info64.org/i-open-ciudad-de-puerto-lumbreras-categoria-general"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo Ajedrez Villa de Noblejas",
+        "ciudad": "Noblejas",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9803187,
+        "lon": -3.4403876,
+        "link": "https://info64.org/iv-torneo-ajedrez-villa-de-noblejas"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I OPEN CIUDAD DE PUERTO LUMBRERAS CATEGORIA INFANTIL (SUB 12)",
+        "ciudad": "Puerto Lumbreras",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.5635045,
+        "lon": -1.8076233,
+        "link": "https://info64.org/i-open-ciudad-de-puerto-lumbreras-categoria-infantil"
+    },
+    {
+        "origin": "info64",
+        "nombre": "5º Torneo ADS 2026 Guadarrama Infantil y Cadete",
+        "ciudad": "Guadarrama",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6724354,
+        "lon": -4.0890384,
+        "link": "https://info64.org/5o-torneo-ads-2026-guadarrama-infantil-y-cadete"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campionato Provincial Benjamin Xogade Zona Coruña 2026",
+        "ciudad": "Padron",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.7597656,
+        "lon": -8.6236363,
+        "link": "https://info64.org/team/campionato-provincial-benjamin-xogade-zona-coruna-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campionato Provincial Alevin Xogade Zona Coruña 2026",
+        "ciudad": "Padron",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.7597656,
+        "lon": -8.6236363,
+        "link": "https://info64.org/team/campionato-provincial-alevin-xogade-zona-coruna-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Final JUDEX Promocional INFANTIL 2026",
+        "ciudad": "DON BENITO",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9540269,
+        "lon": -5.8619466,
+        "link": "https://info64.org/final-judex-promocional-infantil-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Final JUDEX Promocional CADETE 2026",
+        "ciudad": "DON BENITO",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9540269,
+        "lon": -5.8619466,
+        "link": "https://info64.org/final-judex-promocional-cadete-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Final JUDEX Promocional ALEVIN 2026",
+        "ciudad": "DON BENITO",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9540269,
+        "lon": -5.8619466,
+        "link": "https://info64.org/final-judex-promocional-alevin-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Final JUDEX Promocional PRE-BENJAMIN 2026",
+        "ciudad": "DON BENITO",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9540269,
+        "lon": -5.8619466,
+        "link": "https://info64.org/final-judex-promocional-pre-benjamin-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "MUNICIPAL SUB-12",
+        "ciudad": "Algete",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5961297,
+        "lon": -3.4974479,
+        "link": "https://info64.org/municipal-sub-12"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Final JUDEX Promocional BENJAMIN 2026",
+        "ciudad": "DON BENITO",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9540269,
+        "lon": -5.8619466,
+        "link": "https://info64.org/final-judex-promocional-benjamin-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Final Juegos Deportivos Ajedrez Individual SUB 16 2026",
+        "ciudad": "IES Pravia",
+        "fechaini": "23-05-2026",
+        "fechafin": "23-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.487897,
+        "lon": -6.1128424,
+        "link": "https://info64.org/final-juegos-deportivos-ajedrez-individual-sub-16-2026"
     },
     {
         "origin": "info64",
@@ -1237,18 +1465,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I OPEN CIUDAD DE PUERTO LUMBRERAS CATEGORIA INFANTIL (SUB 12)",
-        "ciudad": "Puerto Lumbreras",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.5635045,
-        "lon": -1.8076233,
-        "link": "https://info64.org/i-open-ciudad-de-puerto-lumbreras-categoria-infantil"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Copa Diputacion de Almeria (481442)",
         "ciudad": "Roquetas de Mar",
         "fechaini": "23-05-2026",
@@ -1258,42 +1474,6 @@
         "lat": 36.7630203,
         "lon": -2.6115886,
         "link": "https://info64.org/vi-copa-diputacion-almeria"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIII IRT Sub-1800 Les coves de Paterna",
-        "ciudad": "Paterna",
-        "fechaini": "23-05-2026",
-        "fechafin": "24-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5259423,
-        "lon": -0.4733018,
-        "link": "https://info64.org/xiii-irt-sub-1800-les-coves-de-paterna"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Open Tres Cantos Sub1800",
-        "ciudad": "Tres Cantos",
-        "fechaini": "23-05-2026",
-        "fechafin": "24-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6012354,
-        "lon": -3.7038475,
-        "link": "https://info64.org/iv-open-tres-cantos-sub1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo Ajedrez Villa de Noblejas",
-        "ciudad": "Noblejas",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9803187,
-        "lon": -3.4403876,
-        "link": "https://info64.org/iv-torneo-ajedrez-villa-de-noblejas"
     },
     {
         "origin": "info64",
@@ -1309,42 +1489,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Open Internacional Rapidas Dama Roja",
-        "ciudad": "Valencia",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/open-internacional-rapidas-dama-roja"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Torneo infantil Escuela Municipal de Ajedrez",
-        "ciudad": "Soria",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6012505,
-        "lon": -2.721938,
-        "link": "https://info64.org/xii-torneo-infantil-escuela-municipal-de-ajedrez"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Final JUDEX Promocional BENJAMIN 2026",
-        "ciudad": "DON BENITO",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9540269,
-        "lon": -5.8619466,
-        "link": "https://info64.org/final-judex-promocional-benjamin-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "II IRT Sub-1800 Cullera Torre del Marenyet",
         "ciudad": "Cullera",
         "fechaini": "23-05-2026",
@@ -1354,54 +1498,6 @@
         "lat": 39.1647217,
         "lon": -0.2542313,
         "link": "https://info64.org/ii-irt-sub-1800-cullera-torre-del-marenyet"
-    },
-    {
-        "origin": "info64",
-        "nombre": "MUNICIPAL SUB-12",
-        "ciudad": "Algete",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5961297,
-        "lon": -3.4974479,
-        "link": "https://info64.org/municipal-sub-12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I OPEN CIUDAD DE PUERTO LUMBRERAS CATEGORIA GENERAL",
-        "ciudad": "Puerto Lumbreras",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.5635045,
-        "lon": -1.8076233,
-        "link": "https://info64.org/i-open-ciudad-de-puerto-lumbreras-categoria-general"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Final JUDEX Promocional ALEVIN 2026",
-        "ciudad": "DON BENITO",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9540269,
-        "lon": -5.8619466,
-        "link": "https://info64.org/final-judex-promocional-alevin-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Final JUDEX Promocional INFANTIL 2026",
-        "ciudad": "DON BENITO",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9540269,
-        "lon": -5.8619466,
-        "link": "https://info64.org/final-judex-promocional-infantil-2026"
     },
     {
         "origin": "info64",
@@ -1429,42 +1525,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Final JUDEX Promocional PRE-BENJAMIN 2026",
-        "ciudad": "DON BENITO",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9540269,
-        "lon": -5.8619466,
-        "link": "https://info64.org/final-judex-promocional-pre-benjamin-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Final JUDEX Promocional CADETE 2026",
-        "ciudad": "DON BENITO",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9540269,
-        "lon": -5.8619466,
-        "link": "https://info64.org/final-judex-promocional-cadete-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campionato Provincial Alevin Xogade Zona Coruña 2026",
-        "ciudad": "Padron",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7597656,
-        "lon": -8.6236363,
-        "link": "https://info64.org/team/campionato-provincial-alevin-xogade-zona-coruna-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campionato Provincial Infantil Xogade Zona Coruña 2026",
         "ciudad": "Padron",
         "fechaini": "23-05-2026",
@@ -1474,18 +1534,6 @@
         "lat": 42.7597656,
         "lon": -8.6236363,
         "link": "https://info64.org/team/campionato-provincial-infantil-xogade-zona-coruna-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campionato Provincial Benjamin Xogade Zona Coruña 2026",
-        "ciudad": "Padron",
-        "fechaini": "23-05-2026",
-        "fechafin": "23-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7597656,
-        "lon": -8.6236363,
-        "link": "https://info64.org/team/campionato-provincial-benjamin-xogade-zona-coruna-2026"
     },
     {
         "origin": "info64",
@@ -1813,6 +1861,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "XV Campionato Galego de Rapidas 2026",
+        "ciudad": "Padron",
+        "fechaini": "24-05-2026",
+        "fechafin": "24-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.7597656,
+        "lon": -8.6236363,
+        "link": "https://info64.org/xv-campionato-galego-de-rapidas-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Ajedrez Blitz Fortuna",
+        "ciudad": "Fotuna",
+        "fechaini": "24-05-2026",
+        "fechafin": "24-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iii-torneo-ajedrez-blitz-fortuna"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Torneo de Primavera Ajedrez Tomelloso - Absoluto",
         "ciudad": "Casino de Tomelloso",
         "fechaini": "24-05-2026",
@@ -1858,30 +1930,6 @@
         "lat": 39.1584246,
         "lon": -3.0209913,
         "link": "https://info64.org/i-torneo-de-primavera-ajedrez-tomelloso-infantil"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Ajedrez Blitz Fortuna",
-        "ciudad": "Fotuna",
-        "fechaini": "24-05-2026",
-        "fechafin": "24-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iii-torneo-ajedrez-blitz-fortuna"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XV Campionato Galego de Rapidas 2026",
-        "ciudad": "Padron",
-        "fechaini": "24-05-2026",
-        "fechafin": "24-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7597656,
-        "lon": -8.6236363,
-        "link": "https://info64.org/xv-campionato-galego-de-rapidas-2026"
     },
     {
         "origin": "info64",
@@ -2389,6 +2437,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Circuito de rápidas Guadalajara 2026 Abs/ Heras de Ayuso",
+        "ciudad": "Heras de Ayuso",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7905921,
+        "lon": -3.0997997,
+        "link": "https://info64.org/circuito-de-rapidas-guadalajara-2026-heras-de-ayuso"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Copa Ourense escolar sub 12",
         "ciudad": "Ourense",
         "fechaini": "30-05-2026",
@@ -2566,18 +2626,6 @@
         "lat": 40.7905921,
         "lon": -3.0997997,
         "link": "https://info64.org/circuito-de-rapidas-guadalajara-2026-heras-de-ayuso-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Circuito de rápidas Guadalajara 2026 Abs/ Heras de Ayuso",
-        "ciudad": "Heras de Ayuso",
-        "fechaini": "30-05-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7905921,
-        "lon": -3.0997997,
-        "link": "https://info64.org/circuito-de-rapidas-guadalajara-2026-heras-de-ayuso"
     },
     {
         "origin": "info64",
@@ -5947,8 +5995,8 @@
         "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4800615,
-        "lon": -3.7393998,
+        "lat": 40.4799017,
+        "lon": -3.7397206,
         "link": "https://info64.org/x-torneo-fiestas-de-fresnedillas-2026-ajedrez-y-paella"
     },
     {
