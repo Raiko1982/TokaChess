@@ -463,8 +463,8 @@
         "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.2814642,
-        "lon": -2.482805,
+        "lat": 42.3285528,
+        "lon": -2.4674917,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-segunda"
     },
     {
@@ -475,8 +475,8 @@
         "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.2814642,
-        "lon": -2.482805,
+        "lat": 42.3285528,
+        "lon": -2.4674917,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-primera"
     },
     {
@@ -1117,30 +1117,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Simultánea GM David Antón (2657 ELO)",
-        "ciudad": "Dos Hermanas",
-        "fechaini": "29-05-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.283689,
-        "lon": -5.9226718,
-        "link": "https://info64.org/simultanea-gm-david-anton"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI IRT Internacional Ajedrez en Alicante 2026",
-        "ciudad": "Alicante",
-        "fechaini": "29-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/vi-irt-internacional-ajedrez-en-alicante-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Internacional Sub 2400 Rincon Lleno de Vida 2026 (462882)",
         "ciudad": "Rincon de la Victoria",
         "fechaini": "29-05-2026",
@@ -1162,6 +1138,30 @@
         "lat": 38.7063356,
         "lon": -0.9867523,
         "link": "https://info64.org/ii-torneo-villa-de-caudete-sub1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Simultánea GM David Antón (2657 ELO)",
+        "ciudad": "Dos Hermanas",
+        "fechaini": "29-05-2026",
+        "fechafin": "29-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.283689,
+        "lon": -5.9226718,
+        "link": "https://info64.org/simultanea-gm-david-anton"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI IRT Internacional Ajedrez en Alicante 2026",
+        "ciudad": "Alicante",
+        "fechaini": "29-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/vi-irt-internacional-ajedrez-en-alicante-2026"
     },
     {
         "origin": "chess-results",
@@ -1285,6 +1285,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "MUNICIPAL SUB-14",
+        "ciudad": "Algete",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5961297,
+        "lon": -3.4974479,
+        "link": "https://info64.org/municipal-sub-14"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Circuito de rápidas Guadalajara 2026 Abs/ Heras de Ayuso",
+        "ciudad": "Heras de Ayuso",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7905921,
+        "lon": -3.0997997,
+        "link": "https://info64.org/circuito-de-rapidas-guadalajara-2026-heras-de-ayuso"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXXVIII Abierto Internacional CIUDAD de DOS HERMANAS 2026",
         "ciudad": "Dos Hermanas",
         "fechaini": "30-05-2026",
@@ -1318,18 +1342,6 @@
         "lat": 40.7905921,
         "lon": -3.0997997,
         "link": "https://info64.org/circuito-de-rapidas-guadalajara-2026-heras-de-ayuso-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Circuito de rápidas Guadalajara 2026 Abs/ Heras de Ayuso",
-        "ciudad": "Heras de Ayuso",
-        "fechaini": "30-05-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7905921,
-        "lon": -3.0997997,
-        "link": "https://info64.org/circuito-de-rapidas-guadalajara-2026-heras-de-ayuso"
     },
     {
         "origin": "info64",
@@ -1570,18 +1582,6 @@
         "lat": 42.1939629,
         "lon": -7.537124,
         "link": "https://info64.org/ii-copa-ourense-adultos-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "MUNICIPAL SUB-14",
-        "ciudad": "Algete",
-        "fechaini": "30-05-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5961297,
-        "lon": -3.4974479,
-        "link": "https://info64.org/municipal-sub-14"
     },
     {
         "origin": "info64",
@@ -3049,18 +3049,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Sevilla Individual Sub16 Rapido 2026",
-        "ciudad": "CC Alcores",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3545477,
-        "lon": -5.8573389,
-        "link": "https://info64.org/campeonato-de-sevilla-individual-sub16-rapido-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "II IRT SUB-1800 Ciudad de Silla",
         "ciudad": "SILLA",
         "fechaini": "13-06-2026",
@@ -3070,6 +3058,18 @@
         "lat": 39.3632045,
         "lon": -0.4112618,
         "link": "https://info64.org/ii-irt-sub-1800-ciudad-de-silla"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Sevilla Individual Sub16 Rapido 2026",
+        "ciudad": "CC Alcores",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3545477,
+        "lon": -5.8573389,
+        "link": "https://info64.org/campeonato-de-sevilla-individual-sub16-rapido-2026"
     },
     {
         "origin": "info64",
@@ -3889,18 +3889,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Llinars International Chess Open Grup B",
-        "ciudad": "Llinars del Valles",
-        "fechaini": "25-06-2026",
-        "fechafin": "03-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6400252,
-        "lon": 2.3978389,
-        "link": "https://info64.org/vi-llinars-international-chess-open-grup-b"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Llinars International Chess Open Grup A",
         "ciudad": "Llinars del Valles",
         "fechaini": "25-06-2026",
@@ -3910,6 +3898,18 @@
         "lat": 41.6400252,
         "lon": 2.3978389,
         "link": "https://info64.org/vi-llinars-international-chess-open-grup-a"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Llinars International Chess Open Grup B",
+        "ciudad": "Llinars del Valles",
+        "fechaini": "25-06-2026",
+        "fechafin": "03-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6400252,
+        "lon": 2.3978389,
+        "link": "https://info64.org/vi-llinars-international-chess-open-grup-b"
     },
     {
         "origin": "chess-results",
@@ -5023,8 +5023,8 @@
         "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4800615,
-        "lon": -3.7393998,
+        "lat": 40.4799017,
+        "lon": -3.7397206,
         "link": "https://info64.org/x-torneo-fiestas-de-fresnedillas-2026-ajedrez-y-paella"
     },
     {
