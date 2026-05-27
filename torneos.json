@@ -259,8 +259,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.8831551,
-        "lon": 2.2430117,
+        "lat": 41.883148,
+        "lon": 2.2433061,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -451,8 +451,8 @@
         "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.2814642,
-        "lon": -2.482805,
+        "lat": 42.3285528,
+        "lon": -2.4674917,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-segunda"
     },
     {
@@ -475,8 +475,8 @@
         "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.2814642,
-        "lon": -2.482805,
+        "lat": 42.3285528,
+        "lon": -2.4674917,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-primera"
     },
     {
@@ -601,18 +601,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Torneo Europeo de Primavera 2026",
-        "ciudad": "Alzira",
-        "fechaini": "18-04-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.151212,
-        "lon": -0.4346556,
-        "link": "https://info64.org/v-torneo-europeo-de-primavera-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Cto. Navarro Absoluto Individual 2026",
         "ciudad": "Pamplona - Fuerte del Principe",
         "fechaini": "18-04-2026",
@@ -622,6 +610,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/cto-navarro-absoluto-individual-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Europeo de Primavera 2026",
+        "ciudad": "Alzira",
+        "fechaini": "18-04-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.151212,
+        "lon": -0.4346556,
+        "link": "https://info64.org/v-torneo-europeo-de-primavera-2026"
     },
     {
         "origin": "info64",
@@ -1345,6 +1345,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "III Infantil SAN ADRIAN AZUL 2026",
+        "ciudad": "San Adrian",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3327818,
+        "lon": -1.9336689,
+        "link": "https://info64.org/iii-infantil-san-adrian-azul-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Infantil SAN ADRIAN VERDE 2026",
+        "ciudad": "San Adrian",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3327818,
+        "lon": -1.9336689,
+        "link": "https://info64.org/iii-infantil-san-adrian-verde-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXXVIII Abierto Internacional CIUDAD de DOS HERMANAS 2026",
         "ciudad": "Dos Hermanas",
         "fechaini": "30-05-2026",
@@ -1618,30 +1642,6 @@
         "lat": 42.3535304,
         "lon": -5.7490409,
         "link": "https://info64.org/iii-torneo-de-clausura-escuelas-deportivas-santa-maria-del-paramo-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Infantil SAN ADRIAN AZUL 2026",
-        "ciudad": "San Adrian",
-        "fechaini": "30-05-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.3327818,
-        "lon": -1.9336689,
-        "link": "https://info64.org/iii-infantil-san-adrian-azul-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Infantil SAN ADRIAN VERDE 2026",
-        "ciudad": "San Adrian",
-        "fechaini": "30-05-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.3327818,
-        "lon": -1.9336689,
-        "link": "https://info64.org/iii-infantil-san-adrian-verde-2026"
     },
     {
         "origin": "info64",
@@ -1921,6 +1921,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "C. CTM Clubes Rapido",
+        "ciudad": "Cabañas de la Sagra",
+        "fechaini": "31-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.005774,
+        "lon": -3.9479133,
+        "link": "https://info64.org/team/c-ctm-clubes-rapido"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV  Circuito Provincial PROMOCHESS Categ. C (2013-2012-2011) ELCHE",
         "ciudad": "ELCHE /ALICANTE)",
         "fechaini": "31-05-2026",
@@ -1966,18 +1978,6 @@
         "lat": 38.2653307,
         "lon": -0.6988391,
         "link": "https://info64.org/iv-circuito-provincial-promochess-categ-d-absoluta-elche"
-    },
-    {
-        "origin": "info64",
-        "nombre": "C. CTM Clubes Rapido",
-        "ciudad": "Cabañas de la Sagra",
-        "fechaini": "31-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.005774,
-        "lon": -3.9479133,
-        "link": "https://info64.org/team/c-ctm-clubes-rapido"
     },
     {
         "origin": "info64",
@@ -2929,6 +2929,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II Torneig Infantil l'Alcúdia de Crespins",
+        "ciudad": "l'Alcúdia de Crespins",
+        "fechaini": "07-06-2026",
+        "fechafin": "07-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9710757,
+        "lon": -0.5890951,
+        "link": "https://info64.org/iv-torneig-descacs-a-lalcudia-de-crespins"
+    },
+    {
+        "origin": "info64",
         "nombre": "VIII Torneo de Ajedrez Infantil Primavera 2026 Yecla",
         "ciudad": "Yecla",
         "fechaini": "07-06-2026",
@@ -2950,18 +2962,6 @@
         "lat": 38.6135956,
         "lon": -1.1157882,
         "link": "https://info64.org/viii-torneo-de-ajedrez-primavera-2026-yecla"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneig Infantil l'Alcúdia de Crespins",
-        "ciudad": "l'Alcúdia de Crespins",
-        "fechaini": "07-06-2026",
-        "fechafin": "07-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9710757,
-        "lon": -0.5890951,
-        "link": "https://info64.org/iv-torneig-descacs-a-lalcudia-de-crespins"
     },
     {
         "origin": "info64",
@@ -3346,6 +3346,18 @@
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1424961.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Ajedrez Villa de Siruela",
+        "ciudad": "Siruela",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.97789,
+        "lon": -5.0502807,
+        "link": "https://info64.org/ii-torneo-ajedrez-villa-de-siruela"
     },
     {
         "origin": "info64",
