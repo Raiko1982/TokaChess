@@ -1021,7 +1021,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Campeonato Individual Absoluto de Cantabria 2026",
+        "nombre": "Campeonato Regional Absoluto Cantabria 2026",
         "ciudad": "Pabellón Polideportivo de Puente Arce",
         "fechaini": "23-05-2026",
         "fechafin": "14-06-2026",
@@ -1069,18 +1069,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "2026 MAJADALIMPIADAS 5º Y 6º",
-        "ciudad": "Centro Deportivo Huerta Vieja de Majadahonda",
-        "fechaini": "27-05-2026",
-        "fechafin": "27-05-2026",
-        "organizador": "Ayto Majdahonda colabora CDE de Majdahonda El Molinillo",
-        "ritmo": "10 minutos finish",
-        "lat": 40.4816623,
-        "lon": -3.8749544,
-        "link": "https://chess-results.com/tnr1425236.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "III Social Cerrado de Ajedrez Clasico Costa Fenici",
         "ciudad": "",
         "fechaini": "27-05-2026",
@@ -1090,90 +1078,6 @@
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1421287.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "IX OLIMPIADA ESCOLAR DE AJEDREZ DE ÉCIJA-SUB16",
-        "ciudad": "CEIP BLAS INFANTE",
-        "fechaini": "27-05-2026",
-        "fechafin": "27-05-2026",
-        "organizador": "PEÑA ECIJANA DE AJEDREZ",
-        "ritmo": "8'+3''",
-        "lat": 37.4113915,
-        "lon": -5.9781059,
-        "link": "https://chess-results.com/tnr1423730.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "MUNICIPALES ALEVIN 2026",
-        "ciudad": "PAI",
-        "fechaini": "27-05-2026",
-        "fechafin": "27-05-2026",
-        "organizador": "",
-        "ritmo": "5+3",
-        "lat": 42.8575693,
-        "lon": -8.5490426,
-        "link": "https://chess-results.com/tnr1425321.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "PRIMER TORNEO CIRCUITO DE VERANO NERJA MAYO 26",
-        "ciudad": "Nerja",
-        "fechaini": "27-05-2026",
-        "fechafin": "27-05-2026",
-        "organizador": "Club de ajedrez balcón de Europa",
-        "ritmo": "8+3",
-        "lat": 36.7468565,
-        "lon": -3.8790164,
-        "link": "https://chess-results.com/tnr1425574.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Torneo Ajedrez Club Gata_Mayo 2026",
-        "ciudad": "Poliesportiu Municipal de Teulada, 03725 Teulada, Alicante",
-        "fechaini": "27-05-2026",
-        "fechafin": "27-05-2026",
-        "organizador": "",
-        "ritmo": "5 minuts +3 segons d'increment per jugador.",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1425543.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "TORNEO FINAL ESCUELA 25-26",
-        "ciudad": "Heladería La Ártica",
-        "fechaini": "27-05-2026",
-        "fechafin": "27-05-2026",
-        "organizador": "Club Ajedrez Fuentes de Andalucía",
-        "ritmo": "8+3",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1425514.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "VIII TORNEO DE AJEDREZ INTERCENTROS 2026",
-        "ciudad": "Pabellón Enrique Marquez",
-        "fechaini": "27-05-2026",
-        "fechafin": "27-05-2026",
-        "organizador": "",
-        "ritmo": "5+3",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1425579.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Xanadú Mayo",
-        "ciudad": "Arroyomolinos",
-        "fechaini": "27-05-2026",
-        "fechafin": "27-05-2026",
-        "organizador": "",
-        "ritmo": "Rapid: 5min +3sec increment per move starting from move 1",
-        "lat": 39.1855991,
-        "lon": -6.1630632,
-        "link": "https://chess-results.com/tnr1423774.aspx?lan=2"
     },
     {
         "origin": "info64",
@@ -1387,8 +1291,8 @@
         "fechafin": "29-05-2026",
         "organizador": "Federacion Aragonesa de Ajedrez",
         "ritmo": "5 min + 3 seg/jug",
-        "lat": 41.6437313,
-        "lon": -0.8997504,
+        "lat": 41.6363962,
+        "lon": -0.9058903,
         "link": "https://chess-results.com/tnr1421233.aspx?lan=2"
     },
     {
@@ -3298,6 +3202,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1415933.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "V Circuito Blitz - II Feria De Oportunidades Los R",
+        "ciudad": "Plaza San Agustín - Los Realejos",
+        "fechaini": "07-06-2026",
+        "fechafin": "07-06-2026",
+        "organizador": "Federación De ajedrez De Tenerife",
+        "ritmo": "3min + 2seg",
+        "lat": 28.388277,
+        "lon": -16.5858886,
+        "link": "https://chess-results.com/tnr1425650.aspx?lan=2"
     },
     {
         "origin": "chess-results",
