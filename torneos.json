@@ -1633,6 +1633,30 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Copa de Mallorca Absoluto 2026 - Fase Previa",
+        "ciudad": "Sala Palmanova, Calvià, Illes Balears",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "Federació Balear d'Escacs",
+        "ritmo": "Rapid: 10 minutes with 5 seconds from first move.",
+        "lat": 39.5153968,
+        "lon": 2.5342703,
+        "link": "https://chess-results.com/tnr1426780.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Copa de Mallorca Escolar 2026 - Fase Previa",
+        "ciudad": "Sala Palmanova, Calvià, Illes Balears",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "Federació Balear d'Escacs",
+        "ritmo": "Rapid: 10 minutes with 5 seconds from first move.",
+        "lat": 39.5153968,
+        "lon": 2.5342703,
+        "link": "https://chess-results.com/tnr1426770.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "CORTE INGLÉS DE ELCHE - Categoría A",
         "ciudad": "Avda. Alcalde Ramón Pastor, 2, 03293, 03204 Elx, Alicante",
         "fechaini": "30-05-2026",
@@ -1790,7 +1814,7 @@
     {
         "origin": "chess-results",
         "nombre": "IX Lliga Comarcal per Equips d’Escacs 2026 (SUB 16",
-        "ciudad": "Riurau d’Arnauda, Carrer Federico García Lorca, 13, 03730, Xàbia",
+        "ciudad": "Plaça del Portal del Clot, S/N, 03730, Xàbia",
         "fechaini": "30-05-2026",
         "fechafin": "30-05-2026",
         "organizador": "Club d'escacs Xàbia",
@@ -1810,6 +1834,18 @@
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1395665.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo Femenino Gambito-Benimaclet",
+        "ciudad": "Valencia, Polideportivo de Benimaclet",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "Gambito Benimaclet",
+        "ritmo": "5min + 3seg",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1426711.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2186,7 +2222,7 @@
     {
         "origin": "chess-results",
         "nombre": "V Memorial José María Campos Fernández 2026",
-        "ciudad": "Riurau d’Arnauda, Carrer Federico García Lorca, 13, 03730 Xàbia, Alicante",
+        "ciudad": "Plaça del Portal del Clot, S/N, 03730 Xàbia, Alicante",
         "fechaini": "31-05-2026",
         "fechafin": "31-05-2026",
         "organizador": "Club Ajedrez Jávea / Club d’Escacs Xàbia",
@@ -4153,7 +4189,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "I Open Ajedrez Francisco Montero",
+        "nombre": "I Open Ajedrez Bodega Montero",
         "ciudad": "Fábrica Ron Montero, Camino de la Vía s/n 18613, Motril, Granada",
         "fechaini": "20-06-2026",
         "fechafin": "20-06-2026",
@@ -4752,6 +4788,18 @@
         "link": "https://info64.org/torneo-blitz-vi-pozuelo-chess-festival"
     },
     {
+        "origin": "chess-results",
+        "nombre": "XXIII Open Internacional de La AntillaXI Memorial",
+        "ciudad": "La Antilla (Huelva)",
+        "fechaini": "10-07-2026",
+        "fechafin": "10-07-2026",
+        "organizador": "",
+        "ritmo": "8'+3\"",
+        "lat": 37.2075848,
+        "lon": -7.2116537,
+        "link": "https://chess-results.com/tnr1426644.aspx?lan=2"
+    },
+    {
         "origin": "info64",
         "nombre": "III Internacional de Xadrez APECR 2026",
         "ciudad": "Sanxenxo",
@@ -4774,6 +4822,18 @@
         "lat": 38.1923641,
         "lon": -0.5555464,
         "link": "https://info64.org/iii-torneig-descacs-destiu-villa-de-santa-pola-blitz-sub-2000"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "III Torneo de Ajedrez Villablanca Tierra de Danzas",
+        "ciudad": "Villablanca (Huelva)",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "Escuela de Ajedrez Bambuchess",
+        "ritmo": "8'+3\"",
+        "lat": 37.3028005,
+        "lon": -7.3423138,
+        "link": "https://chess-results.com/tnr1426643.aspx?lan=2"
     },
     {
         "origin": "info64",
