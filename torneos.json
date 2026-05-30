@@ -180,18 +180,6 @@
         "link": "https://chess-results.com/tnr1260928.aspx?lan=2"
     },
     {
-        "origin": "info64",
-        "nombre": "Torneo CEIP Ciudad de Zaragoza - Grupo A",
-        "ciudad": "Madrid",
-        "fechaini": "02-02-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/torneo-ceip-ciudad-de-zaragoza-grupo-a"
-    },
-    {
         "origin": "chess-results",
         "nombre": "San Jose Martes",
         "ciudad": "Valladolid",
@@ -247,8 +235,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883263,
-        "lon": 2.243206,
+        "lat": 41.8831074,
+        "lon": 2.2431519,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -379,8 +367,8 @@
         "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.2814642,
-        "lon": -2.482805,
+        "lat": 42.3285528,
+        "lon": -2.4674917,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-primera"
     },
     {
@@ -391,8 +379,8 @@
         "fechafin": "31-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.2814642,
-        "lon": -2.482805,
+        "lat": 42.3285528,
+        "lon": -2.4674917,
         "link": "https://info64.org/team/campeonato-por-equipos-de-la-rioja-segunda"
     },
     {
@@ -610,30 +598,6 @@
         "lat": 43.2815684,
         "lon": -1.9474769,
         "link": "https://chess-results.com/tnr1399062.aspx?lan=2"
-    },
-    {
-        "origin": "info64",
-        "nombre": "TORNEO PRIMAVERA ENRIC VALOR 2026 (AVANZADO)",
-        "ciudad": "ALICANTE",
-        "fechaini": "24-04-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/torneo-primavera-enric-valor-2026-avanzado"
-    },
-    {
-        "origin": "info64",
-        "nombre": "TORNEO PRIMAVERA ENRIC VALOR 2026 (BASE)",
-        "ciudad": "ALICANTE",
-        "fechaini": "24-04-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/torneo-primavera-enric-valor-2026-base"
     },
     {
         "origin": "info64",
@@ -925,18 +889,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI IRT Internacional Ajedrez en Alicante 2026",
-        "ciudad": "Alicante",
-        "fechaini": "29-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/vi-irt-internacional-ajedrez-en-alicante-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Internacional Sub 2400 Rincon Lleno de Vida 2026 (462882)",
         "ciudad": "Rincon de la Victoria",
         "fechaini": "29-05-2026",
@@ -949,6 +901,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "VI IRT Internacional Ajedrez en Alicante 2026",
+        "ciudad": "Alicante",
+        "fechaini": "29-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/vi-irt-internacional-ajedrez-en-alicante-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "II Torneo Villa de Caudete Sub1800",
         "ciudad": "Caudete",
         "fechaini": "29-05-2026",
@@ -958,30 +922,6 @@
         "lat": 38.7063356,
         "lon": -0.9867523,
         "link": "https://info64.org/ii-torneo-villa-de-caudete-sub1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Simultánea GM David Antón (2657 ELO)",
-        "ciudad": "Dos Hermanas",
-        "fechaini": "29-05-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.283689,
-        "lon": -5.9226718,
-        "link": "https://info64.org/simultanea-gm-david-anton"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIV Torneo de los Viernes de Mikel Gurea 2025-2026",
-        "ciudad": "Burlada",
-        "fechaini": "29-05-2026",
-        "fechafin": "29-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8230299,
-        "lon": -1.614076,
-        "link": "https://info64.org/xxiv-torneo-de-los-viernes-de-mikel-gurea-2025-2026"
     },
     {
         "origin": "chess-results",
@@ -1045,15 +985,39 @@
     },
     {
         "origin": "info64",
-        "nombre": "XI T. Olias del Rey",
-        "ciudad": "Olias del Rey",
+        "nombre": "III Torneo de Clausura Escuelas Deportivas Santa Maria del Paramo 2026",
+        "ciudad": "Santa Maria del Paramo",
         "fechaini": "30-05-2026",
         "fechafin": "30-05-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.9447357,
-        "lon": -3.9872516,
-        "link": "https://info64.org/xi-t-olias-del-rey"
+        "lat": 42.3535304,
+        "lon": -5.7490409,
+        "link": "https://info64.org/iii-torneo-de-clausura-escuelas-deportivas-santa-maria-del-paramo-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "3ª Prueba InterGSD",
+        "ciudad": "GSD Las Rozas",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5026836,
+        "lon": -3.8818179,
+        "link": "https://info64.org/3a-prueba-intergsd"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo de Cabanas",
+        "ciudad": "Cabanas",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4336595,
+        "lon": -8.1353893,
+        "link": "https://info64.org/iii-torneo-de-cabanas"
     },
     {
         "origin": "info64",
@@ -1066,6 +1030,42 @@
         "lat": 39.9447357,
         "lon": -3.9872516,
         "link": "https://info64.org/xi-t-olias-del-rey-promocion"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneig IRT Sub1800 FAST Carlet",
+        "ciudad": "Carlet",
+        "fechaini": "30-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2251696,
+        "lon": -0.5202051,
+        "link": "https://info64.org/ii-torneig-irt-sub1800-fast-carlet"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Copa Ourense Adultos 2026",
+        "ciudad": "Ourense",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1939629,
+        "lon": -7.537124,
+        "link": "https://info64.org/ii-copa-ourense-adultos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XI T. Olias del Rey",
+        "ciudad": "Olias del Rey",
+        "fechaini": "30-05-2026",
+        "fechafin": "30-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9447357,
+        "lon": -3.9872516,
+        "link": "https://info64.org/xi-t-olias-del-rey"
     },
     {
         "origin": "info64",
@@ -1126,18 +1126,6 @@
         "lat": 40.6012354,
         "lon": -3.7038475,
         "link": "https://info64.org/torneo-individual-iv-memorial-gonzalo-fernandez"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneig IRT Sub1800 FAST Carlet",
-        "ciudad": "Carlet",
-        "fechaini": "30-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2251696,
-        "lon": -0.5202051,
-        "link": "https://info64.org/ii-torneig-irt-sub1800-fast-carlet"
     },
     {
         "origin": "info64",
@@ -1309,30 +1297,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Copa Ourense Adultos 2026",
-        "ciudad": "Ourense",
-        "fechaini": "30-05-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/ii-copa-ourense-adultos-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo de Cabanas",
-        "ciudad": "Cabanas",
-        "fechaini": "30-05-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4336595,
-        "lon": -8.1353893,
-        "link": "https://info64.org/iii-torneo-de-cabanas"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Copa Ourense escolar sub 12",
         "ciudad": "Ourense",
         "fechaini": "30-05-2026",
@@ -1378,18 +1342,6 @@
         "lat": 37.6951954,
         "lon": -1.772291,
         "link": "https://info64.org/xxxii-campeonato-regional-de-ajedrez-rapido-vi-de-parejas-mixtas"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo de Clausura Escuelas Deportivas Santa Maria del Paramo 2026",
-        "ciudad": "Santa Maria del Paramo",
-        "fechaini": "30-05-2026",
-        "fechafin": "30-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.3535304,
-        "lon": -5.7490409,
-        "link": "https://info64.org/iii-torneo-de-clausura-escuelas-deportivas-santa-maria-del-paramo-2026"
     },
     {
         "origin": "info64",
@@ -1681,6 +1633,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Open de Ajedrez de Falces",
+        "ciudad": "Falces",
+        "fechaini": "31-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3877644,
+        "lon": -1.7938282,
+        "link": "https://info64.org/i-open-de-ajedrez-de-falces"
+    },
+    {
+        "origin": "info64",
+        "nombre": "17º Torneo de Ajedrez Ferias de Bejar",
+        "ciudad": "Bejar",
+        "fechaini": "31-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.3865812,
+        "lon": -5.7649619,
+        "link": "https://info64.org/17o-torneo-de-ajedrez-ferias-de-bejar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de Xadrez Dorna 2026. (1º) 31-5-2026",
+        "ciudad": "Illa de Arousa",
+        "fechaini": "31-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.550039,
+        "lon": -8.8671561,
+        "link": "https://info64.org/torneo-de-xadrez-dorna-2025-4o-praza-do-concello-festa-do-deporte"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV Torneo Infantil Centro Soriano de Zaragoza",
         "ciudad": "Zaragoza",
         "fechaini": "31-05-2026",
@@ -1726,18 +1714,6 @@
         "lat": 38.3436365,
         "lon": -0.4881708,
         "link": "https://info64.org/viii-torneo-relampago-internacional-dama-negra"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo de Xadrez Dorna 2026. (1º) 31-5-2026",
-        "ciudad": "Illa de Arousa",
-        "fechaini": "31-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.550039,
-        "lon": -8.8671561,
-        "link": "https://info64.org/torneo-de-xadrez-dorna-2025-4o-praza-do-concello-festa-do-deporte"
     },
     {
         "origin": "info64",
@@ -1834,30 +1810,6 @@
         "lat": 38.2653307,
         "lon": -0.6988391,
         "link": "https://info64.org/iv-circuito-provincial-promochess-categ-b-2016-2015-2014-elche"
-    },
-    {
-        "origin": "info64",
-        "nombre": "17º Torneo de Ajedrez Ferias de Bejar",
-        "ciudad": "Bejar",
-        "fechaini": "31-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.3865812,
-        "lon": -5.7649619,
-        "link": "https://info64.org/17o-torneo-de-ajedrez-ferias-de-bejar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Open de Ajedrez de Falces",
-        "ciudad": "Falces",
-        "fechaini": "31-05-2026",
-        "fechafin": "31-05-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.3877644,
-        "lon": -1.7938282,
-        "link": "https://info64.org/i-open-de-ajedrez-de-falces"
     },
     {
         "origin": "info64",
