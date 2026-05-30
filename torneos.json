@@ -691,8 +691,8 @@
         "fechafin": "04-06-2026",
         "organizador": "Club de Ajedrez Thader Chess",
         "ritmo": "30' + 30\", 10' + 2\", 3' + 2\"",
-        "lat": 38.0163591,
-        "lon": -1.1620992,
+        "lat": 38.0166291,
+        "lon": -1.1622696,
         "link": "https://chess-results.com/tnr1400955.aspx?lan=2"
     },
     {
@@ -970,6 +970,18 @@
         "lat": 43.3239952,
         "lon": -1.9200587,
         "link": "https://chess-results.com/tnr1384885.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "TORNEO SOCIAL FINAL DE TEMPORADA EL PRAT LLIRIA GA",
+        "ciudad": "Polideportivo Benimaclet (c/daniel balaciart s/n)",
+        "fechaini": "29-05-2026",
+        "fechafin": "12-06-2026",
+        "organizador": "Club Escacs Benimaclet",
+        "ritmo": "15mins. + 5 seg.",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1427431.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2221,6 +2233,30 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "25th IPCA World Individual Blitz Chess Championshi",
+        "ciudad": "Guardamar",
+        "fechaini": "05-06-2026",
+        "fechafin": "05-06-2026",
+        "organizador": "FIDE, IPCA + FEDA",
+        "ritmo": "5 minutes for game with 3 seconds increment from move 1",
+        "lat": 40.1166331,
+        "lon": -0.2682126,
+        "link": "https://chess-results.com/tnr1427463.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "25th IPCA World Individual Blitz Chess Championshi",
+        "ciudad": "Guardamar",
+        "fechaini": "05-06-2026",
+        "fechafin": "05-06-2026",
+        "organizador": "FIDE, IPCA + FEDA",
+        "ritmo": "5 minutes per game plus bonus 3 seconds per each move",
+        "lat": 40.1166331,
+        "lon": -0.2682126,
+        "link": "https://chess-results.com/tnr1427464.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Campeonato Insular Femenino de Gran Canaria 2026",
         "ciudad": "Hotel Servatur Terrazamar y Sun Suite. Avenida Las Palmeras, 5 35130 Puerto Rico",
         "fechaini": "05-06-2026",
@@ -3103,9 +3139,33 @@
         "fechafin": "07-06-2026",
         "organizador": "Club Escacs Alaquàs",
         "ritmo": "7 min + 3 seg.",
-        "lat": 39.4582138,
-        "lon": -0.4573853,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1407711.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "25th IPCA World Individual Rapid Chess Championshi",
+        "ciudad": "Guardamar",
+        "fechaini": "08-06-2026",
+        "fechafin": "09-06-2026",
+        "organizador": "FIDE, IPCA + FEDA",
+        "ritmo": "15 minutes for game with 10 seconds increment from move 1",
+        "lat": 40.1166331,
+        "lon": -0.2682126,
+        "link": "https://chess-results.com/tnr1427460.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "25th IPCA World Individual Rapid Chess Championshi",
+        "ciudad": "Guardamar",
+        "fechaini": "08-06-2026",
+        "fechafin": "09-06-2026",
+        "organizador": "FIDE, IPCA + FEDA",
+        "ritmo": "15 minutes per game plus bonus 10 seconds per each move",
+        "lat": 40.1166331,
+        "lon": -0.2682126,
+        "link": "https://chess-results.com/tnr1427461.aspx?lan=2"
     },
     {
         "origin": "info64",
