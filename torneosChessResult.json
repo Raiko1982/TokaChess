@@ -469,6 +469,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "COLONIAS DE VERANO 2026",
+        "ciudad": "Zaragoza",
+        "fechaini": "14-08-2026",
+        "fechafin": "14-08-2026",
+        "organizador": "Palacio de Pioneros",
+        "ritmo": "15+3",
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://chess-results.com/tnr1428328.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Torneo de Ajedrez Blitz Pub Fegatello",
         "ciudad": "Mondariz Balneario",
         "fechaini": "14-08-2026",
@@ -742,18 +754,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1410650.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "VI Open Internacional Vila del Vendrell - Memorial",
-        "ciudad": "El Vendrell",
-        "fechaini": "12-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "Mas Mestres, Jordi 32037163",
-        "ritmo": "15'+5\"",
-        "lat": 41.2199677,
-        "lon": 1.5348566,
-        "link": "https://chess-results.com/tnr1337270.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1639,9 +1639,21 @@
         "fechafin": "07-06-2026",
         "organizador": "Club Escacs Alaquàs",
         "ritmo": "7 min + 3 seg.",
+        "lat": 39.4582138,
+        "lon": -0.4573853,
+        "link": "https://chess-results.com/tnr1407711.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXXVII TORNEO AJEDREZ VILLA DE ALMONTE 2026",
+        "ciudad": "Casino de la Paz de Almonte",
+        "fechaini": "07-06-2026",
+        "fechafin": "07-06-2026",
+        "organizador": "EXCMO. AYTO. ALMONTE",
+        "ritmo": "8 min + 3 seg",
         "lat": 40.4167,
         "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1407711.aspx?lan=2"
+        "link": "https://chess-results.com/tnr1428395.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2263,8 +2275,8 @@
         "fechafin": "31-05-2026",
         "organizador": "FACV, Club Ajedrez Alaquas",
         "ritmo": "7 minutos + 3 segundos/ jugada",
-        "lat": 39.4568214,
-        "lon": -0.4564609,
+        "lat": 39.4578764,
+        "lon": -0.4564969,
         "link": "https://chess-results.com/tnr1420900.aspx?lan=2"
     },
     {
