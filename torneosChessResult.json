@@ -301,6 +301,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "II Torneo de Verano en Fresnedillas",
+        "ciudad": "Casa de la CUltura, fresnedillas de la Oliva",
+        "fechaini": "01-09-2026",
+        "fechafin": "18-09-2026",
+        "organizador": "Club Ajedrez de Fresnedillas",
+        "ritmo": "60'+30'' from 1st",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1428662.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "III Torneig Social Penya Alfil 2026",
         "ciudad": "",
         "fechaini": "01-09-2026",
@@ -1639,8 +1651,8 @@
         "fechafin": "07-06-2026",
         "organizador": "Club Escacs Alaquàs",
         "ritmo": "7 min + 3 seg.",
-        "lat": 39.4582138,
-        "lon": -0.4573853,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1407711.aspx?lan=2"
     },
     {
@@ -2275,8 +2287,8 @@
         "fechafin": "31-05-2026",
         "organizador": "FACV, Club Ajedrez Alaquas",
         "ritmo": "7 minutos + 3 segundos/ jugada",
-        "lat": 39.4578764,
-        "lon": -0.4564969,
+        "lat": 39.4568214,
+        "lon": -0.4564609,
         "link": "https://chess-results.com/tnr1420900.aspx?lan=2"
     },
     {
@@ -2371,8 +2383,8 @@
         "fechafin": "31-05-2026",
         "organizador": "Club Ajedrez Jávea / Club d’Escacs Xàbia",
         "ritmo": "5 minutos por jugador más 3 seg. de incremento por jugada.",
-        "lat": 38.7891991,
-        "lon": 0.1683179,
+        "lat": 38.7886371,
+        "lon": 0.1653001,
         "link": "https://chess-results.com/tnr1327063.aspx?lan=2"
     },
     {
@@ -2446,6 +2458,30 @@
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1421864.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "ESKOLARTEKO JOKUAK ALEBINAKTrintxerpe 2026 Maiatza",
+        "ciudad": "",
+        "fechaini": "30-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "Euskal Xake Federakuntzak",
+        "ritmo": "12 m. + 5 s.",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1428595.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "ESKOLARTEKO JOKUAK INFANTILAKTrintxerpe 2026 Maiat",
+        "ciudad": "Ytintxerpe",
+        "fechaini": "30-05-2026",
+        "fechafin": "31-05-2026",
+        "organizador": "Euskal Xake Federakuntza",
+        "ritmo": "12 m. + 5 s.",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1428593.aspx?lan=2"
     },
     {
         "origin": "chess-results",
