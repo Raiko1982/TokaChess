@@ -1,6 +1,90 @@
 [
     {
         "origin": "info64",
+        "nombre": "IV Open Internacional Rapid Capablanca Torrevieja",
+        "ciudad": "Guardamar del Segura",
+        "fechaini": "06-06-2026",
+        "fechafin": "06-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/iv-open-internacional-rapid-capablanca-torrevieja"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Blitz Internacional Torrevieja",
+        "ciudad": "Guardamar",
+        "fechaini": "07-06-2026",
+        "fechafin": "07-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.1166331,
+        "lon": -0.2682126,
+        "link": "https://info64.org/iii-blitz-internacional-torrevieja"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Campeonato Juvenil Activo Cordoba",
+        "ciudad": "Cordoba",
+        "fechaini": "06-06-2026",
+        "fechafin": "06-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.8845813,
+        "lon": -4.7760138,
+        "link": "https://info64.org/x-campeonato-juvenil-activo-cordoba"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Los Viernes del Rico Endgame",
+        "ciudad": "CMI Del Llano, Gijón",
+        "fechaini": "19-06-2026",
+        "fechafin": "19-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/los-viernes-del-rico-endgame-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Los Viernes del Rico Middlegame",
+        "ciudad": "CMI Del Llano, Gijón",
+        "fechaini": "12-06-2026",
+        "fechafin": "12-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/los-viernes-del-rico-middlegame-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Los Viernes del Rico Opening",
+        "ciudad": "CMI Del Llano, Gijón",
+        "fechaini": "05-06-2026",
+        "fechafin": "05-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/los-viernes-del-rico-opening-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "A Valenza 2016",
+        "ciudad": "Ourense",
+        "fechaini": "06-06-2026",
+        "fechafin": "06-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1939629,
+        "lon": -7.537124,
+        "link": "https://info64.org/a-valenza-2016"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo de Ajedrez Blitz Pub Fegatello",
         "ciudad": "Mondariz Balneario",
         "fechaini": "14-08-2026",
@@ -226,18 +310,6 @@
         "lat": 38.0392362,
         "lon": -4.0505603,
         "link": "https://info64.org/ii-lince-andujar-chess-festival-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Campeonato Juvenil Activo Cordoba",
-        "ciudad": "Cordoba",
-        "fechaini": "06-06-2026",
-        "fechafin": "06-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8845813,
-        "lon": -4.7760138,
-        "link": "https://info64.org/x-campeonato-juvenil-activo-cordoba"
     },
     {
         "origin": "info64",
@@ -670,42 +742,6 @@
         "lat": 41.6915847,
         "lon": -0.9101268,
         "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Los Viernes del Rico Endgame",
-        "ciudad": "CMI Del Llano, Gijón",
-        "fechaini": "19-06-2026",
-        "fechafin": "19-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/los-viernes-del-rico-endgame-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Los Viernes del Rico Middlegame",
-        "ciudad": "CMI Del Llano, Gijón",
-        "fechaini": "12-06-2026",
-        "fechafin": "12-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/los-viernes-del-rico-middlegame-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Los Viernes del Rico Opening",
-        "ciudad": "CMI Del Llano, Gijón",
-        "fechaini": "05-06-2026",
-        "fechafin": "05-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/los-viernes-del-rico-opening-1"
     },
     {
         "origin": "info64",
@@ -1429,18 +1465,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Open Internacional Rapid Capablanca Torrevieja",
-        "ciudad": "Guardamar del Segura",
-        "fechaini": "06-06-2026",
-        "fechafin": "06-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/iv-open-internacional-rapid-capablanca-torrevieja"
-    },
-    {
-        "origin": "info64",
         "nombre": "III IRT Sub 2300 Utiel",
         "ciudad": "Utiel",
         "fechaini": "26-06-2026",
@@ -1849,18 +1873,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Blitz Internacional Torrevieja",
-        "ciudad": "Guardamar",
-        "fechaini": "07-06-2026",
-        "fechafin": "07-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.1166331,
-        "lon": -0.2682126,
-        "link": "https://info64.org/iii-blitz-internacional-torrevieja"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Open Intenacional Sub2400 Valverde de Jucar",
         "ciudad": "Valverde de Jucar",
         "fechaini": "24-07-2026",
@@ -2083,8 +2095,8 @@
         "fechafin": "20-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.8831551,
-        "lon": 2.2430117,
+        "lat": 41.8831074,
+        "lon": 2.2431519,
         "link": "https://info64.org/iv-amigos-del-ajedrez"
     },
     {
@@ -2110,18 +2122,6 @@
         "lat": 43.4456557,
         "lon": -5.0835484,
         "link": "https://info64.org/open-de-ribadesella-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "A Valenza 2016",
-        "ciudad": "Ourense",
-        "fechaini": "06-06-2026",
-        "fechafin": "06-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/a-valenza-2016"
     },
     {
         "origin": "info64",
