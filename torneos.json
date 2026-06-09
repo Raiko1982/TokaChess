@@ -625,6 +625,54 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "3 y 4 primaria",
+        "ciudad": "San Cristobal De La Laguna",
+        "fechaini": "09-06-2026",
+        "fechafin": "09-06-2026",
+        "organizador": "",
+        "ritmo": "Blitz: 5min +2sec increment per move starting from move 1",
+        "lat": 28.4857715,
+        "lon": -16.3159422,
+        "link": "https://chess-results.com/tnr1434583.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "5 y 6 primaria",
+        "ciudad": "San Cristobal De La Laguna",
+        "fechaini": "09-06-2026",
+        "fechafin": "09-06-2026",
+        "organizador": "",
+        "ritmo": "Blitz: 5min +2sec increment per move starting from move 1",
+        "lat": 28.4857715,
+        "lon": -16.3159422,
+        "link": "https://chess-results.com/tnr1434600.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneig Taller Centre Estiu 2026",
+        "ciudad": "",
+        "fechaini": "09-06-2026",
+        "fechafin": "09-06-2026",
+        "organizador": "",
+        "ritmo": "",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1434586.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo Interescolar Peña Ajedrecística Oromana 202",
+        "ciudad": "Peña Ajedrecística Oromana",
+        "fechaini": "09-06-2026",
+        "fechafin": "09-06-2026",
+        "organizador": "Peña Ajedrecística Oromana",
+        "ritmo": "5 minutos + 3 segundos de incremento por jugada",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1434640.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "VIII TORNEO DE VERANO PEÑA ECIJANA DE AJEDREZ",
         "ciudad": "CEIP BLAS INFANTE",
         "fechaini": "09-06-2026",
@@ -2866,6 +2914,18 @@
         "lat": 36.5297438,
         "lon": -6.2928976,
         "link": "https://chess-results.com/tnr1404348.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "ROUND ROBIN 16 EXCALIBUR",
+        "ciudad": "Restaurante EXCALIBUR.  Av/ Salvador Allende, 15. ZARAGOZA (ESPAÑA)",
+        "fechaini": "27-06-2026",
+        "fechafin": "27-06-2026",
+        "organizador": "",
+        "ritmo": "3´+2´´",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1434557.aspx?lan=2"
     },
     {
         "origin": "info64",
@@ -5150,13 +5210,13 @@
     {
         "origin": "chess-results",
         "nombre": "VII Open Internacional de Ajedrez Dama Negra",
-        "ciudad": "Real Liceo Casino de Alicante. Paseo de la Explanada de España Nº16",
+        "ciudad": "C. Vicente Savall Pascual, 16, 03690 Sant Vicent del Raspeig, Alicante",
         "fechaini": "26-12-2026",
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.3889426,
+        "lon": -0.5176876,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     }
 ]
