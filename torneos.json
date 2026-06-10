@@ -625,18 +625,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Torneig escolar ciutat de Burriana",
-        "ciudad": "Burriana",
-        "fechaini": "11-06-2026",
-        "fechafin": "11-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8876912,
-        "lon": -0.0846321,
-        "link": "https://info64.org/i-torneig-escolar-ciutat-de-burriana-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "XII Torneo de Ajedrez De la A a la Z",
         "ciudad": "Albacete",
         "fechaini": "11-06-2026",
@@ -646,6 +634,18 @@
         "lat": 38.9950921,
         "lon": -1.8559154,
         "link": "https://info64.org/xii-torneo-de-ajedrez-de-la-a-a-la-z"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneig escolar ciutat de Burriana",
+        "ciudad": "Burriana",
+        "fechaini": "11-06-2026",
+        "fechafin": "11-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8876912,
+        "lon": -0.0846321,
+        "link": "https://info64.org/i-torneig-escolar-ciutat-de-burriana-1"
     },
     {
         "origin": "chess-results",
@@ -805,6 +805,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "Torneo Social Club Figueroa 2026",
+        "ciudad": "Club Figueroa",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.891198,
+        "lon": -4.8034997,
+        "link": "https://info64.org/torneo-social-club-figueroa-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Ajedrez Rapido FIESTAS MORATALAZ",
+        "ciudad": "Madrid",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/torneo-ajedrez-rapido-fiestas-moratalaz"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo de Ajedrez Mirador de la Atalaya",
+        "ciudad": "Mirador de la Atalaya",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 28.0228969,
+        "lon": -15.6473035,
+        "link": "https://info64.org/v-torneo-de-ajedrez-mirador-de-la-atalaya"
+    },
+    {
+        "origin": "info64",
         "nombre": "II IRT SUB-1800 Ciudad de Silla",
         "ciudad": "SILLA",
         "fechaini": "13-06-2026",
@@ -826,18 +862,6 @@
         "lat": 38.97789,
         "lon": -5.0502807,
         "link": "https://info64.org/ii-torneo-ajedrez-villa-de-siruela"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Social Club Figueroa 2026",
-        "ciudad": "Club Figueroa",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.891198,
-        "lon": -4.8034997,
-        "link": "https://info64.org/torneo-social-club-figueroa-2026"
     },
     {
         "origin": "info64",
@@ -886,18 +910,6 @@
         "lat": 37.3545477,
         "lon": -5.8573389,
         "link": "https://info64.org/campeonato-de-sevilla-individual-sub16-rapido-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo de Ajedrez Mirador de la Atalaya",
-        "ciudad": "Mirador de la Atalaya",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 28.0228969,
-        "lon": -15.6473035,
-        "link": "https://info64.org/v-torneo-de-ajedrez-mirador-de-la-atalaya"
     },
     {
         "origin": "info64",
@@ -1381,27 +1393,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "VIII Blitz Internacional Ciudad De Silla",
-        "ciudad": "SILLA",
+        "nombre": "II Torneo de Ajedrez BATALYAWS",
+        "ciudad": "Badajoz - Extremadura",
         "fechaini": "14-06-2026",
         "fechafin": "14-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.3632045,
-        "lon": -0.4112618,
-        "link": "https://info64.org/viii-blitz-internacional-ciudad-de-silla"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo de Ajedrez CIRCULO DE BELLAS ARTES - Junio 2026",
-        "ciudad": "Madrid",
-        "fechaini": "14-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/torneo-de-ajedrez-circulo-de-bellas-artes-junio-2026"
+        "lat": 38.619642,
+        "lon": -7.121303,
+        "link": "https://info64.org/ii-torneo-de-ajedrez-batalyaws"
     },
     {
         "origin": "info64",
@@ -1414,6 +1414,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/vi-torneo-ajedrez-por-parejas-escaque19"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo de Ajedrez San Antonio",
+        "ciudad": "Muros de Nalon",
+        "fechaini": "14-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5430864,
+        "lon": -6.111009,
+        "link": "https://info64.org/iii-torneo-de-ajedrez-san-antonio"
     },
     {
         "origin": "info64",
@@ -1438,6 +1450,30 @@
         "lat": 42.1886579,
         "lon": -8.5054515,
         "link": "https://info64.org/x-torneo-xadrez-e-natureza-absoluto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII Blitz Internacional Ciudad De Silla",
+        "ciudad": "SILLA",
+        "fechaini": "14-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.3632045,
+        "lon": -0.4112618,
+        "link": "https://info64.org/viii-blitz-internacional-ciudad-de-silla"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de Ajedrez CIRCULO DE BELLAS ARTES - Junio 2026",
+        "ciudad": "Madrid",
+        "fechaini": "14-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/torneo-de-ajedrez-circulo-de-bellas-artes-junio-2026"
     },
     {
         "origin": "info64",
@@ -1474,18 +1510,6 @@
         "lat": 39.3576494,
         "lon": -0.6031,
         "link": "https://info64.org/xvii-torneig-juvenil-montserrat-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo de Ajedrez San Antonio",
-        "ciudad": "Muros de Nalon",
-        "fechaini": "14-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5430864,
-        "lon": -6.111009,
-        "link": "https://info64.org/iii-torneo-de-ajedrez-san-antonio"
     },
     {
         "origin": "info64",
@@ -1546,18 +1570,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/i-torneo-rapidas-akeru-vicalvaro"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo de Ajedrez BATALYAWS",
-        "ciudad": "Badajoz - Extremadura",
-        "fechaini": "14-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.619642,
-        "lon": -7.121303,
-        "link": "https://info64.org/ii-torneo-de-ajedrez-batalyaws"
     },
     {
         "origin": "chess-results",
@@ -2065,6 +2077,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XI. Lesakako Nazioarteko Aktibo Irekia. XI Open Internacional Activo de Lesaka",
+        "ciudad": "Lesaka",
+        "fechaini": "20-06-2026",
+        "fechafin": "20-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2471212,
+        "lon": -1.7043191,
+        "link": "https://info64.org/xi-lesakako-nazioarteko-aktibo-irekia-xi-open-internacional-activo-de-lesaka"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Open Internacional Rapido RioJaque - Santo Domingo de la Calzada",
         "ciudad": "Santo Domingo de la Calzada",
         "fechaini": "20-06-2026",
@@ -2158,18 +2182,6 @@
         "lat": 40.2447466,
         "lon": 0.2755863,
         "link": "https://info64.org/vi-open-internacional-relampago-de-costa-azahar-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XI. Lesakako Nazioarteko Aktibo Irekia. XI Open Internacional Activo de Lesaka",
-        "ciudad": "Lesaka",
-        "fechaini": "20-06-2026",
-        "fechafin": "20-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.2471212,
-        "lon": -1.7043191,
-        "link": "https://info64.org/xi-lesakako-nazioarteko-aktibo-irekia-xi-open-internacional-activo-de-lesaka"
     },
     {
         "origin": "info64",
@@ -2425,6 +2437,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "XIX Internacional Ayuntamiento de Utebo",
+        "ciudad": "Utebo",
+        "fechaini": "21-06-2026",
+        "fechafin": "21-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.7140829,
+        "lon": -0.9943593,
+        "link": "https://info64.org/xix-internacional-ayuntamiento-de-utebo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXVI Open Internacional de GROS Nazioarteko Xake Irekia",
+        "ciudad": "Club de Gros",
+        "fechaini": "21-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.7281253,
+        "lon": 2.9189918,
+        "link": "https://info64.org/xxxvi-open-internacional-de-gros-nazioarteko-xake-irekia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XI Torneo de Ajedrez De La Luna al Fuego",
+        "ciudad": "Zafra",
+        "fechaini": "21-06-2026",
+        "fechafin": "21-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4253489,
+        "lon": -6.4193627,
+        "link": "https://info64.org/xi-torneo-de-ajedrez-de-la-luna-al-fuego"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Torneig Infantil Memorial P. Garcia Garrigues - Sant Joanet",
         "ciudad": "Sant Joanet",
         "fechaini": "21-06-2026",
@@ -2461,18 +2509,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XIX Internacional Ayuntamiento de Utebo",
-        "ciudad": "Utebo",
-        "fechaini": "21-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.7140829,
-        "lon": -0.9943593,
-        "link": "https://info64.org/xix-internacional-ayuntamiento-de-utebo"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Open Gambito de Cabra",
         "ciudad": "Hostería de Torazo",
         "fechaini": "21-06-2026",
@@ -2482,30 +2518,6 @@
         "lat": 43.3943681,
         "lon": -5.4032151,
         "link": "https://info64.org/v-open-gambito-de-cabra"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXXVI Open Internacional de GROS Nazioarteko Xake Irekia",
-        "ciudad": "Club de Gros",
-        "fechaini": "21-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.7281253,
-        "lon": 2.9189918,
-        "link": "https://info64.org/xxxvi-open-internacional-de-gros-nazioarteko-xake-irekia"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XI Torneo de Ajedrez De La Luna al Fuego",
-        "ciudad": "Zafra",
-        "fechaini": "21-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4253489,
-        "lon": -6.4193627,
-        "link": "https://info64.org/xi-torneo-de-ajedrez-de-la-luna-al-fuego"
     },
     {
         "origin": "info64",
@@ -2737,18 +2749,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Lince Andujar Chess Festival 2026",
-        "ciudad": "Andujar",
-        "fechaini": "27-06-2026",
-        "fechafin": "03-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0392362,
-        "lon": -4.0505603,
-        "link": "https://info64.org/ii-lince-andujar-chess-festival-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "II IRT Sub-1800 Castell de Cullera",
         "ciudad": "Cullera",
         "fechaini": "27-06-2026",
@@ -2758,6 +2758,18 @@
         "lat": 39.1647217,
         "lon": -0.2542313,
         "link": "https://info64.org/ii-irt-sub-1800-castell-de-cullera"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II IRT Sub1800 Escola Escacs Castelló",
+        "ciudad": "Castelló de la Plana",
+        "fechaini": "27-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9860347,
+        "lon": -0.0377354,
+        "link": "https://info64.org/ii-irt-sub1800-escola-escacs-castello"
     },
     {
         "origin": "info64",
@@ -2782,6 +2794,18 @@
         "lat": 39.8558913,
         "lon": -4.024265,
         "link": "https://info64.org/ii-torneo-ajedrez-rapido-toledum"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Lince Andujar Chess Festival 2026",
+        "ciudad": "Andujar",
+        "fechaini": "27-06-2026",
+        "fechafin": "03-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0392362,
+        "lon": -4.0505603,
+        "link": "https://info64.org/ii-lince-andujar-chess-festival-2026"
     },
     {
         "origin": "info64",
@@ -3241,18 +3265,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Open de Ribadesella 2026",
-        "ciudad": "Ribadesella",
-        "fechaini": "05-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4456557,
-        "lon": -5.0835484,
-        "link": "https://info64.org/open-de-ribadesella-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "XLV TORNEO OPEN INTERNACIONAL VILLA DE BENASQUE",
         "ciudad": "Benasque",
         "fechaini": "05-07-2026",
@@ -3262,6 +3274,18 @@
         "lat": 42.6052663,
         "lon": 0.5237318,
         "link": "https://info64.org/xlv-torneo-open-internacional-villa-de-benasque"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Open de Ribadesella 2026",
+        "ciudad": "Ribadesella",
+        "fechaini": "05-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4456557,
+        "lon": -5.0835484,
+        "link": "https://info64.org/open-de-ribadesella-2026"
     },
     {
         "origin": "info64",
