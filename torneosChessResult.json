@@ -7,8 +7,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3915493,
-        "lon": -0.5208521,
+        "lat": 38.3889426,
+        "lon": -0.5176876,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     },
     {
@@ -1165,18 +1165,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "X Open Internacional RGCC 2026 - II Memorial Marco",
-        "ciudad": "Hotel 1907 Villa de Gijón",
-        "fechaini": "22-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "Grupo Cultura Covadonga",
-        "ritmo": "90'+30''(Fischer)",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1434801.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "I Torneo Rosa Luxemburgo 2026",
         "ciudad": "Rosa Luxemburgo",
         "fechaini": "21-06-2026",
@@ -1354,6 +1342,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1425009.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XL Open Ajedrez San Juan",
+        "ciudad": "Centru Cultural Mieres",
+        "fechaini": "20-06-2026",
+        "fechafin": "20-06-2026",
+        "organizador": "Grupo de Ajedrez Mieres del Camino",
+        "ritmo": "10'+3''(Fischer)",
+        "lat": 43.2511582,
+        "lon": -5.7729289,
+        "link": "https://chess-results.com/tnr1434801.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2119,8 +2119,8 @@
         "fechafin": "13-06-2026",
         "organizador": "Club Ajedrez Enroque Corto Sahaldou de Puente Genil",
         "ritmo": "8 min + 3 seg por jugada",
-        "lat": 37.3863254,
-        "lon": -4.7804288,
+        "lat": 37.3868366,
+        "lon": -4.7798175,
         "link": "https://chess-results.com/tnr1431861.aspx?lan=2"
     },
     {
@@ -2218,42 +2218,6 @@
         "lat": 28.6491337,
         "lon": -17.7581005,
         "link": "https://chess-results.com/tnr1424728.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "II Torneo de Parejas Myrtea",
-        "ciudad": "Centro Comercia Myrtea",
-        "fechaini": "11-06-2026",
-        "fechafin": "11-06-2026",
-        "organizador": "Club de Ajedrez Thader Chess",
-        "ritmo": "8' + 3\"",
-        "lat": 38.0178075,
-        "lon": -1.1640306,
-        "link": "https://chess-results.com/tnr1435906.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Tancat Consell de Mallorca Sub10 2026",
-        "ciudad": "Palma de Mallorca",
-        "fechaini": "11-06-2026",
-        "fechafin": "11-06-2026",
-        "organizador": "",
-        "ritmo": "10+5",
-        "lat": 39.5695818,
-        "lon": 2.6500745,
-        "link": "https://chess-results.com/tnr1435798.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Tancat Consell de Mallorca Sub12 2026 (484266)",
-        "ciudad": "Palma de Mallorca",
-        "fechaini": "11-06-2026",
-        "fechafin": "11-06-2026",
-        "organizador": "",
-        "ritmo": "Sandard: 60 minutes with 30 seconds increment from move 1",
-        "lat": 39.5695818,
-        "lon": 2.6500745,
-        "link": "https://chess-results.com/tnr1435796.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2509,18 +2473,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "XVII Obert de Primavera La Lira 2026",
-        "ciudad": "Barcelona",
-        "fechaini": "16-04-2026",
-        "fechafin": "11-06-2026",
-        "organizador": "Club d'Escacs La Lira",
-        "ritmo": "90 min. plus 30 sec. per move",
-        "lat": 41.3825802,
-        "lon": 2.177073,
-        "link": "https://chess-results.com/tnr1361384.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "Campionat Social Santa Coloma de Queralt 2026",
         "ciudad": "Santa Coloma de Queralt",
         "fechaini": "10-04-2026",
@@ -2674,17 +2626,5 @@
         "lat": 41.6200024,
         "lon": -4.7259906,
         "link": "https://chess-results.com/tnr1408789.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Marianistas txikis XAKE-Liga 2025/26",
-        "ciudad": "Vitoria Gasteiz",
-        "fechaini": "18-09-2025",
-        "fechafin": "11-06-2026",
-        "organizador": "Marianistas XK",
-        "ritmo": "10+5",
-        "lat": 42.8505845,
-        "lon": -2.66145,
-        "link": "https://chess-results.com/tnr1250289.aspx?lan=2"
     }
 ]
