@@ -1,6 +1,150 @@
 [
     {
         "origin": "info64",
+        "nombre": "II Torneo Ajedrez Villa de Siruela",
+        "ciudad": "Siruela",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.97789,
+        "lon": -5.0502807,
+        "link": "https://info64.org/ii-torneo-ajedrez-villa-de-siruela"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo de Ajedrez ANDEL 2026",
+        "ciudad": "Alcorcon",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.3492998,
+        "lon": -3.8284295,
+        "link": "https://info64.org/iii-torneo-de-ajedrez-andel-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II IRT SUB-1800 Ciudad de Silla",
+        "ciudad": "SILLA",
+        "fechaini": "13-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.3632045,
+        "lon": -0.4112618,
+        "link": "https://info64.org/ii-irt-sub-1800-ciudad-de-silla"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Prueba Circuito Escolar Ajedrizate CAT B",
+        "ciudad": "Cartagena",
+        "fechaini": "14-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.6155018,
+        "lon": -0.987511,
+        "link": "https://info64.org/vi-prueba-circuito-escolar-ajedrizate-cat-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Festival de Promoción Zugzwang Vva. Infantes - Sub1800 Fase 1",
+        "ciudad": "Vva. de los Infantes",
+        "fechaini": "13-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iv-festival-de-promocion-zugzwang-vva-infantes-sub1800-fase-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Memorial Bharath Karunanithi",
+        "ciudad": "San Sebastian de los Reyes",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5473698,
+        "lon": -3.6260586,
+        "link": "https://info64.org/ii-memorial-bharath-karunanithi"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Xadrez Amodiño",
+        "ciudad": "Culleredo",
+        "fechaini": "13-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2778751,
+        "lon": -8.4112161,
+        "link": "https://info64.org/iii-xadrez-amodino"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXX Aniversario ASSSA Enric Valor SUB 2400",
+        "ciudad": "ALICANTE",
+        "fechaini": "12-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/xxx-aniversario-enric-valor-sub-2400"
+    },
+    {
+        "origin": "info64",
+        "nombre": "41 Ciudad de Ferrol 2026",
+        "ciudad": "Ferrol",
+        "fechaini": "04-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5113053,
+        "lon": -8.2624767,
+        "link": "https://info64.org/41-ciudad-de-ferrol-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo de Madrid de Scrabble “La Didáctica”",
+        "ciudad": "Madrid",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/i-torneo-de-madrid-de-scrabble-la-didactica"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Sevilla Individual Sub16 Rapido 2026",
+        "ciudad": "CC Alcores",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3545477,
+        "lon": -5.8573389,
+        "link": "https://info64.org/campeonato-de-sevilla-individual-sub16-rapido-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IX COBEÑA (CATEGORÍA SUB12)",
+        "ciudad": "Cobeña",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5674016,
+        "lon": -3.5113794,
+        "link": "https://info64.org/ix-cobena-categoria-sub12"
+    },
+    {
+        "origin": "info64",
         "nombre": "IX COBEÑA (CATEGORÍA ABSOLUTA)",
         "ciudad": "Cobeña",
         "fechaini": "13-06-2026",
@@ -13,15 +157,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "IX COBEÑA (CATEGORÍA SUB8)",
-        "ciudad": "Cobeña",
+        "nombre": "Torneo Fin de Curso Escuela E19 25-26",
+        "ciudad": "Gijon",
         "fechaini": "13-06-2026",
         "fechafin": "13-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.5674016,
-        "lon": -3.5113794,
-        "link": "https://info64.org/ix-cobena-categoria-sub8"
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/torneo-fin-de-curso-escuela-e19-25-26"
     },
     {
         "origin": "info64",
@@ -37,7 +181,31 @@
     },
     {
         "origin": "info64",
-        "nombre": "IX COBEÑA (CATEGORÍA SUB12)",
+        "nombre": "XXX Aniversario ASSSA Enric Valor SUB 1800",
+        "ciudad": "ALICANTE",
+        "fechaini": "12-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/xxx-aniversario-enric-valor-sub-1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo de primavera Jaque Mate Boadilla C.C. Las Lomas",
+        "ciudad": "Boadilla del Monte",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4053485,
+        "lon": -3.8764663,
+        "link": "https://info64.org/i-torneo-de-primavera-jaque-mate-boadilla-cc-las-lomas"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IX COBEÑA (CATEGORÍA SUB8)",
         "ciudad": "Cobeña",
         "fechaini": "13-06-2026",
         "fechafin": "13-06-2026",
@@ -45,7 +213,295 @@
         "ritmo": "-",
         "lat": 40.5674016,
         "lon": -3.5113794,
-        "link": "https://info64.org/ix-cobena-categoria-sub12"
+        "link": "https://info64.org/ix-cobena-categoria-sub8"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Rapid de Estiu 2026",
+        "ciudad": "Montserrat",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.3576494,
+        "lon": -0.6031,
+        "link": "https://info64.org/rapid-de-estiu"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I TORNEO BIGASTRO, ABSOLUTO",
+        "ciudad": "Bigastro, Alicante",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0628171,
+        "lon": -0.8996755,
+        "link": "https://info64.org/i-torneo-bigastro-absoluto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "4ª Prueba InterGSD - Copa de Maestros",
+        "ciudad": "GSD Buitrago",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.9900025,
+        "lon": -3.6395232,
+        "link": "https://info64.org/4a-prueba-intergsd-copa-de-maestros"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo de Ajedrez Mirador de la Atalaya",
+        "ciudad": "Mirador de la Atalaya",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 28.0228969,
+        "lon": -15.6473035,
+        "link": "https://info64.org/v-torneo-de-ajedrez-mirador-de-la-atalaya"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I TORNEO BIGASTRO, INFANTIL (SUB12)",
+        "ciudad": "Bigastro, Alicante",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0628171,
+        "lon": -0.8996755,
+        "link": "https://info64.org/i-torneo-bigastro-infantil-sub12"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Open de Madrid de Xiangqi “La Didáctica”",
+        "ciudad": "Madrid",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/i-open-de-madrid-de-xiangqi-la-didactica"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo de Ajedrez Blitz 5+3 “La Didáctica”",
+        "ciudad": "Madrid",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/i-torneo-de-ajedrez-blitz-53-la-didactica"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI TORNEO AJEDREZ POR PAREJAS ESCAQUE19",
+        "ciudad": "TOTEM CAFE GIJON",
+        "fechaini": "14-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/vi-torneo-ajedrez-por-parejas-escaque19"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneig Infantil Memorial P. Garcia Garrigues - Sant Joanet",
+        "ciudad": "Sant Joanet",
+        "fechaini": "21-06-2026",
+        "fechafin": "21-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.071992,
+        "lon": -0.4869889,
+        "link": "https://info64.org/iii-torneig-infantil-memorial-p-garcia-garrigues-sant-joanet"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Blitz Club Doble Dama",
+        "ciudad": "Sant Joanet",
+        "fechaini": "23-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.071992,
+        "lon": -0.4869889,
+        "link": "https://info64.org/ii-blitz-club-doble-dama"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II IRT Sub-2200 Club Doble Dama",
+        "ciudad": "Sant Joanet",
+        "fechaini": "20-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.071992,
+        "lon": -0.4869889,
+        "link": "https://info64.org/ii-irt-sub-2200-club-doble-dama"
+    },
+    {
+        "origin": "info64",
+        "nombre": "4ª Prueba InterGSD",
+        "ciudad": "GSD Buitrago",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.9900025,
+        "lon": -3.6395232,
+        "link": "https://info64.org/4a-prueba-intergsd"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Open de Madrid de Blitz de Go “La Didáctica”",
+        "ciudad": "Madrid",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/i-open-de-madrid-de-blitz-de-go-la-didactica"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXX Aniversario ASSSA Enric Valor OPEN INTERNACIONAL BLITZ",
+        "ciudad": "ALICANTE",
+        "fechaini": "14-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/xxx-aniversario-enric-valor-open-internacional-blitz"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Festival de Promoción Zugzwang Vva. Infantes - Padres, madres y/o allegados",
+        "ciudad": "Vva. de los Infantes",
+        "fechaini": "13-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iv-festival-de-promocion-zugzwang-vva-infantes-padres-madres-yo-allegados"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VII Open Internacional Valencia Cuna Grupo B",
+        "ciudad": "Valencia",
+        "fechaini": "04-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/vii-open-internacional-valencia-cuna-grupo-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VII Open Internacional Valencia Cuna del Ajedrez - Grupo A",
+        "ciudad": "Valencia",
+        "fechaini": "04-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/vii-open-internacional-valencia-cuna-del-ajedrez-grupo-a"
+    },
+    {
+        "origin": "info64",
+        "nombre": "30 ABIERTO DE AJEDREZ CIUDAD DE ANTEQUERA -XXXII Circ Prov Ajedrez Dip de Malaga",
+        "ciudad": "Antequera",
+        "fechaini": "14-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.0183652,
+        "lon": -4.5596649,
+        "link": "https://info64.org/27-abierto-de-ajedrez-ciudad-de-antequera-xxxii-circ-prov-ajedrez-dip-de-malaga"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de Ajedrez CIRCULO DE BELLAS ARTES - Junio 2026",
+        "ciudad": "Madrid",
+        "fechaini": "14-06-2026",
+        "fechafin": "14-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/torneo-de-ajedrez-circulo-de-bellas-artes-junio-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB1800",
+        "ciudad": "Valdepeñas",
+        "fechaini": "17-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB2400",
+        "ciudad": "Valdepeñas",
+        "fechaini": "17-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub2400"
+    },
+    {
+        "origin": "info64",
+        "nombre": "San Antonio Infantil 2026",
+        "ciudad": "Palencia",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4096322,
+        "lon": -4.6161004,
+        "link": "https://info64.org/san-antonio-infantil-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "San Antonio Absoluto 2026",
+        "ciudad": "Palencia",
+        "fechaini": "13-06-2026",
+        "fechafin": "13-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4096322,
+        "lon": -4.6161004,
+        "link": "https://info64.org/san-antonio-absoluto-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Open de Ribadesella 2026",
+        "ciudad": "Ribadesella",
+        "fechaini": "05-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4456557,
+        "lon": -5.0835484,
+        "link": "https://info64.org/open-de-ribadesella-2026"
     },
     {
         "origin": "info64",
@@ -85,18 +541,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Memorial Bharath Karunanithi",
-        "ciudad": "San Sebastian de los Reyes",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5473698,
-        "lon": -3.6260586,
-        "link": "https://info64.org/ii-memorial-bharath-karunanithi"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Festival de Promoción Zugzwang Vva. Infantes - Gamberro por parejas",
         "ciudad": "Vva. de los Infantes",
         "fechaini": "13-06-2026",
@@ -121,18 +565,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Festival de Promoción Zugzwang Vva. Infantes - Sub1800 Fase 1",
-        "ciudad": "Vva. de los Infantes",
-        "fechaini": "13-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-festival-de-promocion-zugzwang-vva-infantes-sub1800-fase-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Torneo Festa da Rosa 2026",
         "ciudad": "Mos",
         "fechaini": "21-06-2026",
@@ -142,30 +574,6 @@
         "lat": 42.1879926,
         "lon": -8.6262198,
         "link": "https://info64.org/iii-torneo-festa-da-rosa-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Xadrez Amodiño",
-        "ciudad": "Culleredo",
-        "fechaini": "13-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.2778751,
-        "lon": -8.4112161,
-        "link": "https://info64.org/iii-xadrez-amodino"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo de Ajedrez Blitz 5+3 “La Didáctica”",
-        "ciudad": "Madrid",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/i-torneo-de-ajedrez-blitz-53-la-didactica"
     },
     {
         "origin": "info64",
@@ -202,42 +610,6 @@
         "lat": 42.6052663,
         "lon": 0.5237318,
         "link": "https://info64.org/xlv-torneo-open-internacional-villa-de-benasque"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo de primavera Jaque Mate Boadilla C.C. Las Lomas",
-        "ciudad": "Boadilla del Monte",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4053485,
-        "lon": -3.8764663,
-        "link": "https://info64.org/i-torneo-de-primavera-jaque-mate-boadilla-cc-las-lomas"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Fin de Curso Escuela E19 25-26",
-        "ciudad": "Gijon",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/torneo-fin-de-curso-escuela-e19-25-26"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Rapid de Estiu 2026",
-        "ciudad": "Montserrat",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.3576494,
-        "lon": -0.6031,
-        "link": "https://info64.org/rapid-de-estiu"
     },
     {
         "origin": "info64",
@@ -325,30 +697,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXX Aniversario ASSSA Enric Valor SUB 2400",
-        "ciudad": "ALICANTE",
-        "fechaini": "12-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/xxx-aniversario-enric-valor-sub-2400"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXX Aniversario ASSSA Enric Valor SUB 1800",
-        "ciudad": "ALICANTE",
-        "fechaini": "12-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/xxx-aniversario-enric-valor-sub-1800"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Lince Andujar Chess Festival 2026",
         "ciudad": "Andujar",
         "fechaini": "27-06-2026",
@@ -358,18 +706,6 @@
         "lat": 38.0392362,
         "lon": -4.0505603,
         "link": "https://info64.org/ii-lince-andujar-chess-festival-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II IRT SUB-1800 Ciudad de Silla",
-        "ciudad": "SILLA",
-        "fechaini": "13-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.3632045,
-        "lon": -0.4112618,
-        "link": "https://info64.org/ii-irt-sub-1800-ciudad-de-silla"
     },
     {
         "origin": "info64",
@@ -418,30 +754,6 @@
         "lat": 43.5166887,
         "lon": -5.6754116,
         "link": "https://info64.org/x-open-internacional-rgcc-2026-ii-memorial-marco-marino"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo de Ajedrez Mirador de la Atalaya",
-        "ciudad": "Mirador de la Atalaya",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 28.0228969,
-        "lon": -15.6473035,
-        "link": "https://info64.org/v-torneo-de-ajedrez-mirador-de-la-atalaya"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo de Ajedrez ANDEL 2026",
-        "ciudad": "Alcorcon",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.3492998,
-        "lon": -3.8284295,
-        "link": "https://info64.org/iii-torneo-de-ajedrez-andel-2026"
     },
     {
         "origin": "info64",
@@ -538,18 +850,6 @@
         "lat": 39.3576494,
         "lon": -0.6031,
         "link": "https://info64.org/xvii-torneig-juvenil-montserrat-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo de Ajedrez CIRCULO DE BELLAS ARTES - Junio 2026",
-        "ciudad": "Madrid",
-        "fechaini": "14-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/torneo-de-ajedrez-circulo-de-bellas-artes-junio-2026"
     },
     {
         "origin": "info64",
@@ -673,18 +973,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Torneo Ajedrez Villa de Siruela",
-        "ciudad": "Siruela",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.97789,
-        "lon": -5.0502807,
-        "link": "https://info64.org/ii-torneo-ajedrez-villa-de-siruela"
-    },
-    {
-        "origin": "info64",
         "nombre": "XL Open Ajedrez San Juan",
         "ciudad": "Mieres Centru Cultural",
         "fechaini": "20-06-2026",
@@ -742,18 +1030,6 @@
         "lat": 36.8836087,
         "lon": -2.4398613,
         "link": "https://info64.org/fiestas-de-la-fuensanta-huercal-de-almeria-2026-escuela-de-ajedrez-el-rey"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneig Infantil Memorial P. Garcia Garrigues - Sant Joanet",
-        "ciudad": "Sant Joanet",
-        "fechaini": "21-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.071992,
-        "lon": -0.4869889,
-        "link": "https://info64.org/iii-torneig-infantil-memorial-p-garcia-garrigues-sant-joanet"
     },
     {
         "origin": "info64",
@@ -889,30 +1165,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "San Antonio Absoluto 2026",
-        "ciudad": "Palencia",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4096322,
-        "lon": -4.6161004,
-        "link": "https://info64.org/san-antonio-absoluto-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "San Antonio Infantil 2026",
-        "ciudad": "Palencia",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4096322,
-        "lon": -4.6161004,
-        "link": "https://info64.org/san-antonio-infantil-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato de Sevilla Individual B 2026 - Sub2000 FIDE",
         "ciudad": "SEVILLA, Dos Hermanas",
         "fechaini": "07-06-2026",
@@ -958,30 +1210,6 @@
         "lat": 36.8405841,
         "lon": -5.3905374,
         "link": "https://info64.org/v-abierto-de-ajedrez-clasico-sub-2200-villa-de-zahara-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Sevilla Individual Sub16 Rapido 2026",
-        "ciudad": "CC Alcores",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3545477,
-        "lon": -5.8573389,
-        "link": "https://info64.org/campeonato-de-sevilla-individual-sub16-rapido-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Open de Madrid de Blitz de Go “La Didáctica”",
-        "ciudad": "Madrid",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/i-open-de-madrid-de-blitz-de-go-la-didactica"
     },
     {
         "origin": "info64",
@@ -1045,18 +1273,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB2400",
-        "ciudad": "Valdepeñas",
-        "fechaini": "17-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7594573,
-        "lon": -3.3847392,
-        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub2400"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Festival de Promoción Zugzwang Vva. Infantes - Sub2200",
         "ciudad": "Vva. de los Infantes",
         "fechaini": "13-06-2026",
@@ -1066,30 +1282,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/iv-festival-de-promocion-zugzwang-vva-infantes-sub2200"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Festival de Promoción Zugzwang Vva. Infantes - Padres, madres y/o allegados",
-        "ciudad": "Vva. de los Infantes",
-        "fechaini": "13-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-festival-de-promocion-zugzwang-vva-infantes-padres-madres-yo-allegados"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Prueba Circuito Escolar Ajedrizate CAT B",
-        "ciudad": "Cartagena",
-        "fechaini": "14-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6155018,
-        "lon": -0.987511,
-        "link": "https://info64.org/vi-prueba-circuito-escolar-ajedrizate-cat-b"
     },
     {
         "origin": "info64",
@@ -1165,18 +1357,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo de Madrid de Scrabble “La Didáctica”",
-        "ciudad": "Madrid",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/i-torneo-de-madrid-de-scrabble-la-didactica"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Memorial Enrique Rojas Mengual - Ajedrez Tajamar 2026 (480290)",
         "ciudad": "Madrid",
         "fechaini": "20-06-2026",
@@ -1225,18 +1405,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB1800",
-        "ciudad": "Valdepeñas",
-        "fechaini": "17-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7594573,
-        "lon": -3.3847392,
-        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub1800"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Escolar Carballlo sub12",
         "ciudad": "Carballo - A Coruña",
         "fechaini": "20-06-2026",
@@ -1282,18 +1450,6 @@
         "lat": 39.3576494,
         "lon": -0.6031,
         "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXX Aniversario ASSSA Enric Valor OPEN INTERNACIONAL BLITZ",
-        "ciudad": "ALICANTE",
-        "fechaini": "14-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/xxx-aniversario-enric-valor-open-internacional-blitz"
     },
     {
         "origin": "info64",
@@ -1453,18 +1609,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I TORNEO BIGASTRO, INFANTIL (SUB12)",
-        "ciudad": "Bigastro, Alicante",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0628171,
-        "lon": -0.8996755,
-        "link": "https://info64.org/i-torneo-bigastro-infantil-sub12"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Prueba Circuito Escolar Ajedrizate CAT C",
         "ciudad": "Cartagena",
         "fechaini": "14-06-2026",
@@ -1597,18 +1741,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Open de Madrid de Xiangqi “La Didáctica”",
-        "ciudad": "Madrid",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/i-open-de-madrid-de-xiangqi-la-didactica"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open de Madrid de Shogi “La Didáctica”",
         "ciudad": "Madrid",
         "fechaini": "13-06-2026",
@@ -1642,30 +1774,6 @@
         "lat": 37.4384292,
         "lon": -4.1980422,
         "link": "https://info64.org/iii-torneo-de-ajedrez-ciudad-de-priego"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Open de Ribadesella 2026",
-        "ciudad": "Ribadesella",
-        "fechaini": "05-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4456557,
-        "lon": -5.0835484,
-        "link": "https://info64.org/open-de-ribadesella-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI TORNEO AJEDREZ POR PAREJAS ESCAQUE19",
-        "ciudad": "TOTEM CAFE GIJON",
-        "fechaini": "14-06-2026",
-        "fechafin": "14-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/vi-torneo-ajedrez-por-parejas-escaque19"
     },
     {
         "origin": "info64",
@@ -1873,18 +1981,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VII Open Internacional Valencia Cuna del Ajedrez - Grupo A",
-        "ciudad": "Valencia",
-        "fechaini": "04-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/vii-open-internacional-valencia-cuna-del-ajedrez-grupo-a"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Memorial Juan Jose Diaz Moya",
         "ciudad": "Cabra del Santo Cristo - Jaen",
         "fechaini": "20-06-2026",
@@ -1894,18 +1990,6 @@
         "lat": 37.7036217,
         "lon": -3.2867065,
         "link": "https://info64.org/i-memorial-juan-jose-diaz-moya"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VII Open Internacional Valencia Cuna Grupo B",
-        "ciudad": "Valencia",
-        "fechaini": "04-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/vii-open-internacional-valencia-cuna-grupo-b"
     },
     {
         "origin": "info64",
@@ -2185,18 +2269,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "41 Ciudad de Ferrol 2026",
-        "ciudad": "Ferrol",
-        "fechaini": "04-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5113053,
-        "lon": -8.2624767,
-        "link": "https://info64.org/41-ciudad-de-ferrol-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Blitz Akeru Sub-14",
         "ciudad": "Vicalvaro",
         "fechaini": "21-06-2026",
@@ -2398,18 +2470,6 @@
         "lat": 38.7815044,
         "lon": 0.1509366,
         "link": "https://info64.org/v-magistral-internacional-ciudad-de-sant-joan-de-alacant"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I TORNEO BIGASTRO, ABSOLUTO",
-        "ciudad": "Bigastro, Alicante",
-        "fechaini": "13-06-2026",
-        "fechafin": "13-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0628171,
-        "lon": -0.8996755,
-        "link": "https://info64.org/i-torneo-bigastro-absoluto"
     },
     {
         "origin": "info64",
