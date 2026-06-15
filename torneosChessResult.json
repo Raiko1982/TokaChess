@@ -685,7 +685,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "V Abierto de Ajedrez \"PEDRERA\" (Sevilla) - Sábado",
+        "nombre": "V Abierto de Ajedrez \"PEDRERA\" (Sevilla) - Domingo",
         "ciudad": "Caseta Municipal Pedrera, 41566 Pedrera - Sevilla",
         "fechaini": "26-07-2026",
         "fechafin": "26-07-2026",
@@ -1217,7 +1217,7 @@
         "ciudad": "Villanueva del Ariscal",
         "fechaini": "21-06-2026",
         "fechafin": "21-06-2026",
-        "organizador": "Jesús Muñoz Alonso",
+        "organizador": "Mario Balbuena Fuentes",
         "ritmo": "10'+5\"",
         "lat": 37.3966241,
         "lon": -6.1444552,
@@ -1561,7 +1561,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Prueba 10",
+        "nombre": "Prueba",
         "ciudad": "Mi casa",
         "fechaini": "15-06-2026",
         "fechafin": "15-06-2026",
@@ -1570,6 +1570,18 @@
         "lat": 41.3993608,
         "lon": 2.1535771,
         "link": "https://chess-results.com/tnr1438712.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Prueba 11",
+        "ciudad": "Mi casa",
+        "fechaini": "15-06-2026",
+        "fechafin": "15-06-2026",
+        "organizador": "Jose",
+        "ritmo": "10'+5",
+        "lat": 41.3993608,
+        "lon": 2.1535771,
+        "link": "https://chess-results.com/tnr1438729.aspx?lan=2"
     },
     {
         "origin": "chess-results",
