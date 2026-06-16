@@ -1,6 +1,90 @@
 [
     {
         "origin": "info64",
+        "nombre": "IV Torneo de ajedrez inclusivo La Serranía Ajedrosaurus",
+        "ciudad": "Alpuente, Av San Blas 51",
+        "fechaini": "31-07-2026",
+        "fechafin": "31-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-inclusivo-la-serrania-ajedrosaurus"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE POZUELO (480287)",
+        "ciudad": "POZUELO DE ALARCON",
+        "fechaini": "03-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4346528,
+        "lon": -3.814834,
+        "link": "https://info64.org/iii-open-internacional-de-ajedrez-ciudad-de-pozuelo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Blitz VI Pozuelo Chess Festival (ID: 480289)",
+        "ciudad": "POZUELO DE ALARCON",
+        "fechaini": "08-07-2026",
+        "fechafin": "08-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4346528,
+        "lon": -3.814834,
+        "link": "https://info64.org/torneo-blitz-vi-pozuelo-chess-festival"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo de Ajedrez Sub-1800 Molina de Segura",
+        "ciudad": "Molina de Segura",
+        "fechaini": "20-06-2026",
+        "fechafin": "21-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0572339,
+        "lon": -1.2095298,
+        "link": "https://info64.org/i-torneo-de-ajedrez-sub-1800-molina-de-segura"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XIX OPEN INTERNACIONAL POBLE DE MONTSERRAT 2026",
+        "ciudad": "Montserrat",
+        "fechaini": "24-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.3576494,
+        "lon": -0.6031,
+        "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IX OPEN DE AJEDREZ CANFRANC IRT SUB 2200",
+        "ciudad": "Canfranc",
+        "fechaini": "26-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.7533689,
+        "lon": -0.4796771,
+        "link": "https://info64.org/ix-open-de-ajedrez-canfranc-irt-sub-2200"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Memorial Augusto Menvielle Laccourreye",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "fechaini": "19-06-2026",
+        "fechafin": "19-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 28.1288694,
+        "lon": -15.4349015,
+        "link": "https://info64.org/i-memorial-augusto-menvielle-laccourreye"
+    },
+    {
+        "origin": "info64",
         "nombre": "XI Torneo de Ajedrez De La Luna al Fuego",
         "ciudad": "Zafra",
         "fechaini": "21-06-2026",
@@ -13,27 +97,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "II IRT SUB1800 VILA DE ALMUSSAFES",
-        "ciudad": "Almussafes",
-        "fechaini": "20-06-2026",
-        "fechafin": "21-06-2026",
+        "nombre": "II TORNEO SOLIDARIO DE AJEDREZ BURJASSOT",
+        "ciudad": "BURJASSOT",
+        "fechaini": "17-07-2026",
+        "fechafin": "17-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.2924334,
-        "lon": -0.4138577,
-        "link": "https://info64.org/ii-irt-sub1800-vila-de-almussafes"
+        "lat": 39.5090599,
+        "lon": -0.4108581,
+        "link": "https://info64.org/ii-torneo-solidario-de-ajedrez-burjassot"
     },
     {
         "origin": "info64",
-        "nombre": "Cto Autonomico Veteranos Valencia 65 2026",
-        "ciudad": "Valencia",
-        "fechaini": "18-06-2026",
-        "fechafin": "21-06-2026",
+        "nombre": "VII Open Internacional de Ajedrez Sub 2200 FIDE Costa de la Luz 2026",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "25-09-2026",
+        "fechafin": "27-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/cto-autonomico-veteranos-valencia-65-2026"
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub-2200-fide-costa-de-la-luz"
     },
     {
         "origin": "info64",
@@ -46,6 +130,18 @@
         "lat": 36.8405841,
         "lon": -5.3905374,
         "link": "https://info64.org/v-abierto-de-ajedrez-clasico-sub-2200-villa-de-zahara-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II IRT SUB1800 VILA DE ALMUSSAFES",
+        "ciudad": "Almussafes",
+        "fechaini": "20-06-2026",
+        "fechafin": "21-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2924334,
+        "lon": -0.4138577,
+        "link": "https://info64.org/ii-irt-sub1800-vila-de-almussafes"
     },
     {
         "origin": "info64",
@@ -337,18 +433,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo de Ajedrez Sub-1800 Molina de Segura",
-        "ciudad": "Molina de Segura",
-        "fechaini": "20-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0572339,
-        "lon": -1.2095298,
-        "link": "https://info64.org/i-torneo-de-ajedrez-sub-1800-molina-de-segura"
-    },
-    {
-        "origin": "info64",
         "nombre": "XVII TORNEO AJEDREZ CEIP VIRGEN DE LAS HUERTAS SUB 8 2026",
         "ciudad": "Lorca",
         "fechaini": "19-06-2026",
@@ -382,18 +466,6 @@
         "lat": 38.3459902,
         "lon": -0.7692125,
         "link": "https://info64.org/iii-irt-sub-2000-villa-de-aspe"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Memorial Augusto Menvielle Laccourreye",
-        "ciudad": "Las Palmas de Gran Canaria",
-        "fechaini": "19-06-2026",
-        "fechafin": "19-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 28.1288694,
-        "lon": -15.4349015,
-        "link": "https://info64.org/i-memorial-augusto-menvielle-laccourreye"
     },
     {
         "origin": "info64",
@@ -637,18 +709,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VII Open Internacional de Ajedrez Sub 2200 FIDE Costa de la Luz 2026",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "25-09-2026",
-        "fechafin": "27-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub-2200-fide-costa-de-la-luz"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV INTERNACIONAL CHESS OPEN HOTEL CAP NEGRET 65",
         "ciudad": "Altea SPAIN",
         "fechaini": "07-11-2026",
@@ -853,18 +913,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IX OPEN DE AJEDREZ CANFRANC IRT SUB 2200",
-        "ciudad": "Canfranc",
-        "fechaini": "26-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7533689,
-        "lon": -0.4796771,
-        "link": "https://info64.org/ix-open-de-ajedrez-canfranc-irt-sub-2200"
-    },
-    {
-        "origin": "info64",
         "nombre": "XI Open Internacional 64 Villalba",
         "ciudad": "Collado Villalba",
         "fechaini": "01-08-2026",
@@ -886,18 +934,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II TORNEO SOLIDARIO DE AJEDREZ BURJASSOT",
-        "ciudad": "BURJASSOT",
-        "fechaini": "17-07-2026",
-        "fechafin": "17-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5090599,
-        "lon": -0.4108581,
-        "link": "https://info64.org/ii-torneo-solidario-de-ajedrez-burjassot"
     },
     {
         "origin": "info64",
@@ -1102,18 +1138,6 @@
         "lat": 38.9962242,
         "lon": -3.3722143,
         "link": "https://info64.org/team/cto-castilla-la-mancha-equipos-clubs-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIX OPEN INTERNACIONAL POBLE DE MONTSERRAT 2026",
-        "ciudad": "Montserrat",
-        "fechaini": "24-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.3576494,
-        "lon": -0.6031,
-        "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
     },
     {
         "origin": "info64",
@@ -1609,18 +1633,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Torneo de ajedrez inclusivo La Serranía Ajedrosaurus",
-        "ciudad": "Alpuente, Av San Blas 51",
-        "fechaini": "31-07-2026",
-        "fechafin": "31-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-inclusivo-la-serrania-ajedrosaurus"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open Primavera Blitz",
         "ciudad": "Colmenar Viejo",
         "fechaini": "19-06-2026",
@@ -1810,30 +1822,6 @@
         "lat": 37.7036217,
         "lon": -3.2867065,
         "link": "https://info64.org/i-memorial-juan-jose-diaz-moya"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Blitz VI Pozuelo Chess Festival (ID: 480289)",
-        "ciudad": "POZUELO DE ALARCON",
-        "fechaini": "08-07-2026",
-        "fechafin": "08-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4346528,
-        "lon": -3.814834,
-        "link": "https://info64.org/torneo-blitz-vi-pozuelo-chess-festival"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE POZUELO (480287)",
-        "ciudad": "POZUELO DE ALARCON",
-        "fechaini": "03-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4346528,
-        "lon": -3.814834,
-        "link": "https://info64.org/iii-open-internacional-de-ajedrez-ciudad-de-pozuelo"
     },
     {
         "origin": "info64",
