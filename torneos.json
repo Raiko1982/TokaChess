@@ -481,18 +481,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Cto Autonomico Veteranos Valencia 65 2026",
-        "ciudad": "Valencia",
-        "fechaini": "18-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/cto-autonomico-veteranos-valencia-65-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Cto Autonomico Veteranos Valencia 50 2026",
         "ciudad": "Valencia",
         "fechaini": "18-06-2026",
@@ -502,6 +490,18 @@
         "lat": 39.4697065,
         "lon": -0.3763353,
         "link": "https://info64.org/cto-autonomico-veteranos-valencia-50-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Memorial Augusto Menvielle Laccourreye",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "fechaini": "19-06-2026",
+        "fechafin": "19-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 28.1288694,
+        "lon": -15.4349015,
+        "link": "https://info64.org/i-memorial-augusto-menvielle-laccourreye"
     },
     {
         "origin": "info64",
@@ -538,18 +538,6 @@
         "lat": 38.3459902,
         "lon": -0.7692125,
         "link": "https://info64.org/iii-irt-sub-2000-villa-de-aspe"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Memorial Augusto Menvielle Laccourreye",
-        "ciudad": "Las Palmas de Gran Canaria",
-        "fechaini": "19-06-2026",
-        "fechafin": "19-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 28.1288694,
-        "lon": -15.4349015,
-        "link": "https://info64.org/i-memorial-augusto-menvielle-laccourreye"
     },
     {
         "origin": "info64",
@@ -709,6 +697,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Torneo de Ajedrez Sub-1800 Molina de Segura",
+        "ciudad": "Molina de Segura",
+        "fechaini": "20-06-2026",
+        "fechafin": "21-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0572339,
+        "lon": -1.2095298,
+        "link": "https://info64.org/i-torneo-de-ajedrez-sub-1800-molina-de-segura"
+    },
+    {
+        "origin": "info64",
         "nombre": "II IRT SUB1800 VILA DE ALMUSSAFES",
         "ciudad": "Almussafes",
         "fechaini": "20-06-2026",
@@ -766,18 +766,6 @@
         "lat": 43.2511582,
         "lon": -5.7729289,
         "link": "https://info64.org/xl-open-ajedrez-san-juan"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo de Ajedrez Sub-1800 Molina de Segura",
-        "ciudad": "Molina de Segura",
-        "fechaini": "20-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0572339,
-        "lon": -1.2095298,
-        "link": "https://info64.org/i-torneo-de-ajedrez-sub-1800-molina-de-segura"
     },
     {
         "origin": "info64",
@@ -2077,18 +2065,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Abierto de Ajedrez Clasico Sub 2200 Villa de Zahara",
-        "ciudad": "Zahara de la Sierra",
-        "fechaini": "03-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.8405841,
-        "lon": -5.3905374,
-        "link": "https://info64.org/v-abierto-de-ajedrez-clasico-sub-2200-villa-de-zahara-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "III OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE POZUELO (480287)",
         "ciudad": "POZUELO DE ALARCON",
         "fechaini": "03-07-2026",
@@ -2098,6 +2074,18 @@
         "lat": 40.4346528,
         "lon": -3.814834,
         "link": "https://info64.org/iii-open-internacional-de-ajedrez-ciudad-de-pozuelo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Abierto de Ajedrez Clasico Sub 2200 Villa de Zahara",
+        "ciudad": "Zahara de la Sierra",
+        "fechaini": "03-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.8405841,
+        "lon": -5.3905374,
+        "link": "https://info64.org/v-abierto-de-ajedrez-clasico-sub-2200-villa-de-zahara-1"
     },
     {
         "origin": "chess-results",
@@ -2473,6 +2461,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II TORNEO SOLIDARIO DE AJEDREZ BURJASSOT",
+        "ciudad": "BURJASSOT",
+        "fechaini": "17-07-2026",
+        "fechafin": "17-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.5090599,
+        "lon": -0.4108581,
+        "link": "https://info64.org/ii-torneo-solidario-de-ajedrez-burjassot"
+    },
+    {
+        "origin": "info64",
         "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB2400",
         "ciudad": "Valdepeñas",
         "fechaini": "17-07-2026",
@@ -2494,18 +2494,6 @@
         "lat": 38.7594573,
         "lon": -3.3847392,
         "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II TORNEO SOLIDARIO DE AJEDREZ BURJASSOT",
-        "ciudad": "BURJASSOT",
-        "fechaini": "17-07-2026",
-        "fechafin": "17-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5090599,
-        "lon": -0.4108581,
-        "link": "https://info64.org/ii-torneo-solidario-de-ajedrez-burjassot"
     },
     {
         "origin": "info64",
@@ -2905,6 +2893,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV Torneo de ajedrez inclusivo La Serranía Ajedrosaurus",
+        "ciudad": "Alpuente, Av San Blas 51",
+        "fechaini": "31-07-2026",
+        "fechafin": "31-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-inclusivo-la-serrania-ajedrosaurus"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXI Torneo de Promoción de Ajedrez Almansa B",
         "ciudad": "Almansa",
         "fechaini": "31-07-2026",
@@ -2938,18 +2938,6 @@
         "lat": 41.7140829,
         "lon": -0.9943593,
         "link": "https://info64.org/ix-torneo-de-verano-club-de-utebo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo de ajedrez inclusivo La Serranía Ajedrosaurus",
-        "ciudad": "Alpuente, Av San Blas 51",
-        "fechaini": "31-07-2026",
-        "fechafin": "31-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-inclusivo-la-serrania-ajedrosaurus"
     },
     {
         "origin": "info64",
