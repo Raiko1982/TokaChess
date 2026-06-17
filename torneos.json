@@ -493,6 +493,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "CHESSNGO - 17JUNIO 2026Torneos semanales, esperar",
+        "ciudad": "CAMPOAMOR BAR, VALENCIA, cerca de Cabanyal",
+        "fechaini": "17-06-2026",
+        "fechafin": "17-06-2026",
+        "organizador": "Faisal W H, VAL",
+        "ritmo": "5 mins + 3 segs",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1440096.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "TORNEIG COL·LEGI SANT BONAVENTURA 2026",
         "ciudad": "Plaça Sant Joan, Son Servera",
         "fechaini": "17-06-2026",
@@ -2736,18 +2748,6 @@
         "link": "https://info64.org/i-torneo-xadrez-concello-do-porrino"
     },
     {
-        "origin": "chess-results",
-        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB1800",
-        "ciudad": "Centro Cultural \"La Confianza\", Calle Real, 9 - Valdepeñas",
-        "fechaini": "17-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "Club Ajedrez Los Molinos",
-        "ritmo": "30 minutes + 30 seconds per move",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1226960.aspx?lan=2"
-    },
-    {
         "origin": "info64",
         "nombre": "IV BLITZ NOCTURNO LOS MOLINOS",
         "ciudad": "Valdepeñas",
@@ -3566,13 +3566,13 @@
     {
         "origin": "chess-results",
         "nombre": "Torneo Ajedrez San Agustín Cúllar 2026",
-        "ciudad": "Cúllar, Granada",
+        "ciudad": "SENPA, Pabellón Deportivo y Cultural, 18850 Cúllar, Granada",
         "fechaini": "22-08-2026",
         "fechafin": "22-08-2026",
         "organizador": "Excmo.Ayuntamiento de Cúllar",
-        "ritmo": "8+3",
-        "lat": 37.5835402,
-        "lon": -2.5766049,
+        "ritmo": "8min+5seg/jugada",
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1392956.aspx?lan=2"
     },
     {
