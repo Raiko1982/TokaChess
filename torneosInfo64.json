@@ -1,6 +1,150 @@
 [
     {
         "origin": "info64",
+        "nombre": "XIX Internacional Ayuntamiento de Utebo",
+        "ciudad": "Utebo",
+        "fechaini": "21-06-2026",
+        "fechafin": "21-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.7140829,
+        "lon": -0.9943593,
+        "link": "https://info64.org/xix-internacional-ayuntamiento-de-utebo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V IRT Sub-1800 Sant Joan de Alacant",
+        "ciudad": "Sant Joan de Alacant",
+        "fechaini": "30-06-2026",
+        "fechafin": "02-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7815044,
+        "lon": 0.1509366,
+        "link": "https://info64.org/v-irt-sub-1800-sant-joan-de-alacant"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Obert Internacional Ciutat de Sant Joan de Alacant",
+        "ciudad": "Sant Joan de Alacant",
+        "fechaini": "30-06-2026",
+        "fechafin": "02-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7815044,
+        "lon": 0.1509366,
+        "link": "https://info64.org/i-obert-internacional-ciutat-de-sant-joan-de-alacant"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Los Viernes del Rico Endgame",
+        "ciudad": "CMI Del Llano, Gijón",
+        "fechaini": "19-06-2026",
+        "fechafin": "19-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/los-viernes-del-rico-endgame-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Memorial Augusto Menvielle Laccourreye",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "fechaini": "19-06-2026",
+        "fechafin": "19-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 28.1288694,
+        "lon": -15.4349015,
+        "link": "https://info64.org/i-memorial-augusto-menvielle-laccourreye"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo de Ajedrez Las Norias",
+        "ciudad": "Logrono",
+        "fechaini": "21-06-2026",
+        "fechafin": "21-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4661196,
+        "lon": -2.4396676,
+        "link": "https://info64.org/i-torneo-de-ajedrez-las-norias"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Torneo Fin de Curso Escuela Municipal de Ajedrez Astorga 2026",
+        "ciudad": "Astorga",
+        "fechaini": "20-06-2026",
+        "fechafin": "20-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.455401,
+        "lon": -6.052924,
+        "link": "https://info64.org/x-torneo-fin-de-curso-escuela-municipal-de-ajedrez-astorga-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II IRT SUB1800 VILA DE ALMUSSAFES",
+        "ciudad": "Almussafes",
+        "fechaini": "20-06-2026",
+        "fechafin": "21-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2924334,
+        "lon": -0.4138577,
+        "link": "https://info64.org/ii-irt-sub1800-vila-de-almussafes"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XL Open Ajedrez San Juan",
+        "ciudad": "Mieres Centru Cultural",
+        "fechaini": "20-06-2026",
+        "fechafin": "20-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2511582,
+        "lon": -5.7729289,
+        "link": "https://info64.org/xl-open-ajedrez-san-juan"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo de ajedrez inclusivo La Serranía Ajedrosaurus",
+        "ciudad": "Alpuente, Av San Blas 51",
+        "fechaini": "31-07-2026",
+        "fechafin": "31-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-inclusivo-la-serrania-ajedrosaurus"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III IRT Sub 2000 Villa de Aspe",
+        "ciudad": "Aspe",
+        "fechaini": "19-06-2026",
+        "fechafin": "21-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3459902,
+        "lon": -0.7692125,
+        "link": "https://info64.org/iii-irt-sub-2000-villa-de-aspe"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Abierto Internacional de Ajedrez Hotel CEMAR",
+        "ciudad": "MONDARIZ BALNEARIO",
+        "fechaini": "09-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.2194134,
+        "lon": -8.4713577,
+        "link": "https://info64.org/xii-abierto-internacional-de-ajedrez-hotel-cemar"
+    },
+    {
+        "origin": "info64",
         "nombre": "41 Ciudad de Ferrol 2026",
         "ciudad": "Ferrol",
         "fechaini": "04-07-2026",
@@ -337,18 +481,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "TORNEO SOCIAL CLUB AJEDREZ OROPESA",
-        "ciudad": "OROPESA DEL MAR",
-        "fechaini": "06-05-2026",
-        "fechafin": "17-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0932078,
-        "lon": 0.1358123,
-        "link": "https://info64.org/torneo-social-club-ajedrez-oropesa"
-    },
-    {
-        "origin": "info64",
         "nombre": "III TORNEO ESTIVAL BLITZ BIBLIOTECA",
         "ciudad": "Orihuela",
         "fechaini": "22-06-2026",
@@ -358,18 +490,6 @@
         "lat": 38.0275575,
         "lon": -0.9130957,
         "link": "https://info64.org/iii-torneo-estivalblitz-biblioteca"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIX Internacional Ayuntamiento de Utebo",
-        "ciudad": "Utebo",
-        "fechaini": "21-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.7140829,
-        "lon": -0.9943593,
-        "link": "https://info64.org/xix-internacional-ayuntamiento-de-utebo"
     },
     {
         "origin": "info64",
@@ -409,18 +529,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Memorial Augusto Menvielle Laccourreye",
-        "ciudad": "Las Palmas de Gran Canaria",
-        "fechaini": "19-06-2026",
-        "fechafin": "19-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 28.1288694,
-        "lon": -15.4349015,
-        "link": "https://info64.org/i-memorial-augusto-menvielle-laccourreye"
-    },
-    {
-        "origin": "info64",
         "nombre": "VII Social Escuela-Club de ajedrez Dama de Guardamar",
         "ciudad": "Guardamar del Segura",
         "fechaini": "21-06-2026",
@@ -454,18 +562,6 @@
         "lat": 38.096787,
         "lon": -3.7765601,
         "link": "https://info64.org/v-batalla-de-bailen-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XL Open Ajedrez San Juan",
-        "ciudad": "Mieres Centru Cultural",
-        "fechaini": "20-06-2026",
-        "fechafin": "20-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.2511582,
-        "lon": -5.7729289,
-        "link": "https://info64.org/xl-open-ajedrez-san-juan"
     },
     {
         "origin": "info64",
@@ -541,18 +637,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Los Viernes del Rico Endgame",
-        "ciudad": "CMI Del Llano, Gijón",
-        "fechaini": "19-06-2026",
-        "fechafin": "19-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/los-viernes-del-rico-endgame-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "Los Viernes del Rico Endgame Kids",
         "ciudad": "CMI Del Llano, Gijón",
         "fechaini": "19-06-2026",
@@ -562,18 +646,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/los-viernes-del-rico-endgame-kids-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo fin de curso 25/26",
-        "ciudad": "Cabanillas del Campo",
-        "fechaini": "17-06-2026",
-        "fechafin": "17-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6294786,
-        "lon": -3.2433558,
-        "link": "https://info64.org/torneo-fin-de-curso-2526"
     },
     {
         "origin": "info64",
@@ -622,18 +694,6 @@
         "lat": 39.071992,
         "lon": -0.4869889,
         "link": "https://info64.org/iii-torneig-infantil-memorial-p-garcia-garrigues-sant-joanet"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III IRT Sub 2000 Villa de Aspe",
-        "ciudad": "Aspe",
-        "fechaini": "19-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3459902,
-        "lon": -0.7692125,
-        "link": "https://info64.org/iii-irt-sub-2000-villa-de-aspe"
     },
     {
         "origin": "info64",
@@ -886,18 +946,6 @@
         "lat": 39.4697065,
         "lon": -0.3763353,
         "link": "https://info64.org/cto-autonomico-veteranos-valencia-65"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II IRT SUB1800 VILA DE ALMUSSAFES",
-        "ciudad": "Almussafes",
-        "fechaini": "20-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2924334,
-        "lon": -0.4138577,
-        "link": "https://info64.org/ii-irt-sub1800-vila-de-almussafes"
     },
     {
         "origin": "info64",
@@ -1549,18 +1597,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Torneo de ajedrez inclusivo La Serranía Ajedrosaurus",
-        "ciudad": "Alpuente, Av San Blas 51",
-        "fechaini": "31-07-2026",
-        "fechafin": "31-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-inclusivo-la-serrania-ajedrosaurus"
-    },
-    {
-        "origin": "info64",
         "nombre": "III OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE POZUELO (480287)",
         "ciudad": "POZUELO DE ALARCON",
         "fechaini": "03-07-2026",
@@ -1777,18 +1813,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo de Ajedrez Las Norias",
-        "ciudad": "Logrono",
-        "fechaini": "21-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4661196,
-        "lon": -2.4396676,
-        "link": "https://info64.org/i-torneo-de-ajedrez-las-norias"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Campeonato de Ajedrez Rotary Club Santiago",
         "ciudad": "Santiago de Compostela",
         "fechaini": "24-10-2026",
@@ -1822,30 +1846,6 @@
         "lat": 37.1734995,
         "lon": -3.5995337,
         "link": "https://info64.org/granada-chess-open-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V IRT Sub-1800 Sant Joan de Alacant",
-        "ciudad": "Sant Joan de Alacant",
-        "fechaini": "30-06-2026",
-        "fechafin": "02-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7815044,
-        "lon": 0.1509366,
-        "link": "https://info64.org/v-irt-sub-1800-sant-joan-de-alacant"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Obert Internacional Ciutat de Sant Joan de Alacant",
-        "ciudad": "Sant Joan de Alacant",
-        "fechaini": "30-06-2026",
-        "fechafin": "02-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7815044,
-        "lon": 0.1509366,
-        "link": "https://info64.org/i-obert-internacional-ciutat-de-sant-joan-de-alacant"
     },
     {
         "origin": "info64",
@@ -1999,8 +1999,8 @@
         "fechafin": "21-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 37.3539621,
-        "lon": -5.9409435,
+        "lat": 37.3538937,
+        "lon": -5.9411621,
         "link": "https://info64.org/campeonato-de-sevilla-individual-b-2026-sub2000-fide"
     },
     {
@@ -2242,18 +2242,6 @@
         "lat": 36.893528,
         "lon": -4.4287903,
         "link": "https://info64.org/v-open-internacional-de-casabermeja-sub-2400"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Abierto Internacional de Ajedrez Hotel CEMAR",
-        "ciudad": "MONDARIZ BALNEARIO",
-        "fechaini": "09-08-2026",
-        "fechafin": "16-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.2194134,
-        "lon": -8.4713577,
-        "link": "https://info64.org/xii-abierto-internacional-de-ajedrez-hotel-cemar"
     },
     {
         "origin": "info64",
