@@ -481,6 +481,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Final Curs Balanguera 2026",
+        "ciudad": "",
+        "fechaini": "18-06-2026",
+        "fechafin": "18-06-2026",
+        "organizador": "",
+        "ritmo": "",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1440723.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "I TORNEO DE AJEDREZ DEL CLUB DEPORTIVO VALLAJEDREZ",
         "ciudad": "C/ Gabilondo 5, entreplanta E, Valladolid",
         "fechaini": "18-06-2026",
@@ -514,6 +526,18 @@
         "lat": 40.4993696,
         "lon": -6.5305442,
         "link": "https://chess-results.com/tnr1440595.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo Social José Ángel en Myrtea",
+        "ciudad": "",
+        "fechaini": "18-06-2026",
+        "fechafin": "18-06-2026",
+        "organizador": "Thader Chess",
+        "ritmo": "5'+2\"",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1440749.aspx?lan=2"
     },
     {
         "origin": "info64",
@@ -1405,18 +1429,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "I Torneo Rosa Luxemburgo 2026",
-        "ciudad": "Rosa Luxemburgo",
-        "fechaini": "21-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "Asociación Vecinos Rosa Luxemburgo",
-        "ritmo": "5 minutos finis",
-        "lat": 40.5564127,
-        "lon": -3.6361315,
-        "link": "https://chess-results.com/tnr1417960.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "II TORNEO DE AJEDREZ PEÑA BÉTICA VILLANUEVA DEL AR",
         "ciudad": "Villanueva del Ariscal",
         "fechaini": "21-06-2026",
@@ -1462,6 +1474,18 @@
         "lat": 37.1782212,
         "lon": -3.6028081,
         "link": "https://chess-results.com/tnr1433265.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "X Torneo Rosa Luxemburgo 2026",
+        "ciudad": "Rosa Luxemburgo",
+        "fechaini": "21-06-2026",
+        "fechafin": "21-06-2026",
+        "organizador": "Asociación Vecinos Rosa Luxemburgo",
+        "ritmo": "5 minutos finis",
+        "lat": 40.5564127,
+        "lon": -3.6361315,
+        "link": "https://chess-results.com/tnr1417960.aspx?lan=2"
     },
     {
         "origin": "info64",
@@ -4807,8 +4831,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3889426,
-        "lon": -0.5176876,
+        "lat": 38.3915493,
+        "lon": -0.5208521,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     }
 ]
