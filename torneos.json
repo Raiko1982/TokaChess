@@ -169,18 +169,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "C.A. Tomelloso - Trofeo de Primavera - Torneo A",
-        "ciudad": "Tomelloso",
-        "fechaini": "02-05-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1585549,
-        "lon": -3.0214851,
-        "link": "https://info64.org/ca-tomelloso-trofeo-de-primavera-torneo-a"
-    },
-    {
-        "origin": "info64",
         "nombre": "C.A. Tomelloso - Trofeo de Primavera - Torneo B",
         "ciudad": "Tomelloso",
         "fechaini": "02-05-2026",
@@ -190,6 +178,18 @@
         "lat": 39.1585549,
         "lon": -3.0214851,
         "link": "https://info64.org/ca-tomelloso-trofeo-de-primavera-torneo-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "C.A. Tomelloso - Trofeo de Primavera - Torneo A",
+        "ciudad": "Tomelloso",
+        "fechaini": "02-05-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1585549,
+        "lon": -3.0214851,
+        "link": "https://info64.org/ca-tomelloso-trofeo-de-primavera-torneo-a"
     },
     {
         "origin": "chess-results",
@@ -276,18 +276,6 @@
         "link": "https://chess-results.com/tnr1430923.aspx?lan=2"
     },
     {
-        "origin": "info64",
-        "nombre": "VII Torneo Escuela de ajedrez Dama de Guardamar",
-        "ciudad": "Guardamar del segura",
-        "fechaini": "06-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/vii-torneo-escuela-de-ajedrez-dama-de-guardamar"
-    },
-    {
         "origin": "chess-results",
         "nombre": "prueba",
         "ciudad": "",
@@ -313,7 +301,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo Promocion Elo Junio Club Ajedrez Fundacion La Caja 2026.GrupoA",
+        "nombre": "Torneo Promocion Elo Junio Club Ajedrez Fundacion La Caja 2026.GrupoC",
         "ciudad": "Las Palmas de Gran Canaria",
         "fechaini": "15-06-2026",
         "fechafin": "22-06-2026",
@@ -321,7 +309,7 @@
         "ritmo": "-",
         "lat": 28.1288694,
         "lon": -15.4349015,
-        "link": "https://info64.org/torneo-promocion-elo-junio-club-ajedrez-fundacion-la-caja-2026grupoa"
+        "link": "https://info64.org/torneo-promocion-elo-junio-club-ajedrez-fundacion-la-caja-2026grupoc"
     },
     {
         "origin": "info64",
@@ -337,7 +325,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo Promocion Elo Junio Club Ajedrez Fundacion La Caja 2026.GrupoC",
+        "nombre": "Torneo Promocion Elo Junio Club Ajedrez Fundacion La Caja 2026.GrupoA",
         "ciudad": "Las Palmas de Gran Canaria",
         "fechaini": "15-06-2026",
         "fechafin": "22-06-2026",
@@ -345,7 +333,7 @@
         "ritmo": "-",
         "lat": 28.1288694,
         "lon": -15.4349015,
-        "link": "https://info64.org/torneo-promocion-elo-junio-club-ajedrez-fundacion-la-caja-2026grupoc"
+        "link": "https://info64.org/torneo-promocion-elo-junio-club-ajedrez-fundacion-la-caja-2026grupoa"
     },
     {
         "origin": "chess-results",
@@ -396,30 +384,6 @@
         "link": "https://info64.org/preparacion-vicar"
     },
     {
-        "origin": "info64",
-        "nombre": "Cto Autonomico Veteranos Valencia +50 2026",
-        "ciudad": "Valencia",
-        "fechaini": "18-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/cto-autonomico-veteranos-valencia-50-2026-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto Autonomico Veteranos Valencia +65 2026",
-        "ciudad": "Valencia",
-        "fechaini": "18-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/cto-autonomico-veteranos-valencia-65"
-    },
-    {
         "origin": "chess-results",
         "nombre": "I Obert Escacs Ciutat d´Inca",
         "ciudad": "Inca (Baleares)",
@@ -445,18 +409,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Memorial Enrique Rojas Mengual - Ajedrez Tajamar 2026 (480290)",
-        "ciudad": "Madrid",
-        "fechaini": "20-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/nombre-del-torneo-iii-memorial-enrique-rojas-mengual-ajedrez-tajamar-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "XVI Open Ciudad de Tres Cantos B",
         "ciudad": "Tres cantos",
         "fechaini": "20-06-2026",
@@ -466,6 +418,18 @@
         "lat": 40.6012354,
         "lon": -3.7038475,
         "link": "https://info64.org/xvi-open-ciudad-de-tres-cantos-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Memorial Enrique Rojas Mengual - Ajedrez Tajamar 2026 (480290)",
+        "ciudad": "Madrid",
+        "fechaini": "20-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/nombre-del-torneo-iii-memorial-enrique-rojas-mengual-ajedrez-tajamar-2026"
     },
     {
         "origin": "chess-results",
@@ -505,63 +469,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Open Gambito de Cabra",
-        "ciudad": "Hostería de Torazo",
+        "nombre": "Torneo Veraniego",
+        "ciudad": "myTown",
         "fechaini": "21-06-2026",
         "fechafin": "21-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.3943681,
-        "lon": -5.4032151,
-        "link": "https://info64.org/v-open-gambito-de-cabra"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Festa da Rosa 2026",
-        "ciudad": "Mos",
-        "fechaini": "21-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1879926,
-        "lon": -8.6262198,
-        "link": "https://info64.org/iii-torneo-festa-da-rosa-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Concello de Camarinas",
-        "ciudad": "Camarinas - A Coruna",
-        "fechaini": "21-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.1601987,
-        "lon": -9.1447525,
-        "link": "https://info64.org/vi-concello-de-camarinas-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIX Internacional Ayuntamiento de Utebo",
-        "ciudad": "Utebo",
-        "fechaini": "21-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.7140829,
-        "lon": -0.9943593,
-        "link": "https://info64.org/xix-internacional-ayuntamiento-de-utebo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XVI Open Ciudad de Tres Cantos A",
-        "ciudad": "Tres cantos",
-        "fechaini": "21-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6012354,
-        "lon": -3.7038475,
-        "link": "https://info64.org/xvi-open-ciudad-de-tres-cantos-a"
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/torneo-veraniego"
     },
     {
         "origin": "info64",
@@ -577,15 +493,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "VII Social Escuela-Club de ajedrez Dama de Guardamar",
-        "ciudad": "Guardamar del Segura",
+        "nombre": "XVI Open Ciudad de Tres Cantos A",
+        "ciudad": "Tres cantos",
         "fechaini": "21-06-2026",
-        "fechafin": "21-06-2026",
+        "fechafin": "28-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/vii-social-escuela-club-de-ajedrez-dama-de-guardamar"
+        "lat": 40.6012354,
+        "lon": -3.7038475,
+        "link": "https://info64.org/xvi-open-ciudad-de-tres-cantos-a"
     },
     {
         "origin": "info64",
@@ -610,30 +526,6 @@
         "lat": 42.4096322,
         "lon": -4.6161004,
         "link": "https://info64.org/iv-torneo-san-juanillo-absoluto-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Gran Final Circuito de Rápidas Sub14 Alcalá de Henares 2026",
-        "ciudad": "Alcalá de Henares",
-        "fechaini": "21-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.481954,
-        "lon": -3.363981,
-        "link": "https://info64.org/gran-final-circuito-de-rapidas-sub14-alcala-de-henares-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Trofeo Alcaldesa Ajedrez Rápido",
-        "ciudad": "Linares",
-        "fechaini": "21-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.087695,
-        "lon": -3.6401793,
-        "link": "https://info64.org/ii-trofeo-alcaldesa-ajedrez-rapido"
     },
     {
         "origin": "chess-results",
@@ -937,6 +829,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "I IRT Sub-2000 Hotel Playas de Guardamar",
+        "ciudad": "Guardamar del Segura",
+        "fechaini": "26-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/i-irt-sub-2000-hotel-playas-de-guardamar"
+    },
+    {
+        "origin": "info64",
         "nombre": "III IRT Sub 2300 Utiel",
         "ciudad": "Utiel",
         "fechaini": "26-06-2026",
@@ -961,15 +865,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "I IRT Sub-2000 Hotel Playas de Guardamar",
-        "ciudad": "Guardamar del Segura",
-        "fechaini": "26-06-2026",
-        "fechafin": "28-06-2026",
+        "nombre": "II Lince Andujar Chess Festival 2026",
+        "ciudad": "Andujar",
+        "fechaini": "27-06-2026",
+        "fechafin": "03-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/i-irt-sub-2000-hotel-playas-de-guardamar"
+        "lat": 38.0392362,
+        "lon": -4.0505603,
+        "link": "https://info64.org/ii-lince-andujar-chess-festival-2026"
     },
     {
         "origin": "info64",
@@ -1078,18 +982,6 @@
         "lat": 36.7852106,
         "lon": -4.8430732,
         "link": "https://info64.org/i-torneo-bon-elo-de-ajedrez-de-casarabonela"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Lince Andujar Chess Festival 2026",
-        "ciudad": "Andujar",
-        "fechaini": "27-06-2026",
-        "fechafin": "03-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0392362,
-        "lon": -4.0505603,
-        "link": "https://info64.org/ii-lince-andujar-chess-festival-2026"
     },
     {
         "origin": "info64",
@@ -1489,18 +1381,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Canarias Veteranos 2026",
-        "ciudad": "Lanzarote",
-        "fechaini": "02-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 29.0397081,
-        "lon": -13.6362916,
-        "link": "https://info64.org/campeonato-de-canarias-veteranos-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato de Canarias Juvenil 2026",
         "ciudad": "Lanzarote",
         "fechaini": "02-07-2026",
@@ -1510,6 +1390,18 @@
         "lat": 29.0397081,
         "lon": -13.6362916,
         "link": "https://info64.org/campeonato-de-canarias-juvenil-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Canarias Veteranos 2026",
+        "ciudad": "Lanzarote",
+        "fechaini": "02-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 29.0397081,
+        "lon": -13.6362916,
+        "link": "https://info64.org/campeonato-de-canarias-veteranos-2026"
     },
     {
         "origin": "info64",
@@ -1573,18 +1465,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Abierto de Ajedrez Clasico Sub 2200 Villa de Zahara",
-        "ciudad": "Zahara de la Sierra",
-        "fechaini": "03-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.8405841,
-        "lon": -5.3905374,
-        "link": "https://info64.org/v-abierto-de-ajedrez-clasico-sub-2200-villa-de-zahara-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "III OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE POZUELO (480287)",
         "ciudad": "POZUELO DE ALARCON",
         "fechaini": "03-07-2026",
@@ -1594,6 +1474,18 @@
         "lat": 40.4346528,
         "lon": -3.814834,
         "link": "https://info64.org/iii-open-internacional-de-ajedrez-ciudad-de-pozuelo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Abierto de Ajedrez Clasico Sub 2200 Villa de Zahara",
+        "ciudad": "Zahara de la Sierra",
+        "fechaini": "03-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.8405841,
+        "lon": -5.3905374,
+        "link": "https://info64.org/v-abierto-de-ajedrez-clasico-sub-2200-villa-de-zahara-1"
     },
     {
         "origin": "chess-results",
@@ -1609,15 +1501,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "41 Ciudad de Ferrol 2026",
-        "ciudad": "Ferrol",
+        "nombre": "XII Master Centro Comercial Arousa sub14",
+        "ciudad": "Vilagarcía de Arousa",
         "fechaini": "04-07-2026",
-        "fechafin": "11-07-2026",
+        "fechafin": "04-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5113053,
-        "lon": -8.2624767,
-        "link": "https://info64.org/41-ciudad-de-ferrol-2026"
+        "lat": 42.5950502,
+        "lon": -8.7430537,
+        "link": "https://info64.org/xii-masterchess-centro-comercial-arousa-sub14"
     },
     {
         "origin": "info64",
@@ -1630,6 +1522,18 @@
         "lat": 37.9680499,
         "lon": -3.8087804,
         "link": "https://info64.org/xxxix-nocturnoa-de-ajedrez-memorial-pedrito-medina"
+    },
+    {
+        "origin": "info64",
+        "nombre": "41 Ciudad de Ferrol 2026",
+        "ciudad": "Ferrol",
+        "fechaini": "04-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5113053,
+        "lon": -8.2624767,
+        "link": "https://info64.org/41-ciudad-de-ferrol-2026"
     },
     {
         "origin": "info64",
@@ -1741,18 +1645,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XII Master Centro Comercial Arousa sub14",
-        "ciudad": "Vilagarcía de Arousa",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5950502,
-        "lon": -8.7430537,
-        "link": "https://info64.org/xii-masterchess-centro-comercial-arousa-sub14"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Xadrez Activo Pontinas 2026",
         "ciudad": "myTown",
         "fechaini": "04-07-2026",
@@ -1801,6 +1693,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXII MEMORIAL DE AJEDREZ MANUEL RUS CASADO",
+        "ciudad": "VILLANUEVA DE LA REINA",
+        "fechaini": "05-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0051678,
+        "lon": -3.9146981,
+        "link": "https://info64.org/xxii-memorial-de-ajedrez-manuel-rus-casado"
+    },
+    {
+        "origin": "info64",
         "nombre": "Open de Ribadesella 2026",
         "ciudad": "Ribadesella",
         "fechaini": "05-07-2026",
@@ -1822,18 +1726,6 @@
         "lat": 42.6052663,
         "lon": 0.5237318,
         "link": "https://info64.org/xlv-torneo-open-internacional-villa-de-benasque"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXII MEMORIAL DE AJEDREZ MANUEL RUS CASADO",
-        "ciudad": "VILLANUEVA DE LA REINA",
-        "fechaini": "05-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0051678,
-        "lon": -3.9146981,
-        "link": "https://info64.org/xxii-memorial-de-ajedrez-manuel-rus-casado"
     },
     {
         "origin": "chess-results",
@@ -1873,18 +1765,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Torneo de Xadrez Concello de Meis",
-        "ciudad": "O Mosteiro, Meis",
-        "fechaini": "08-07-2026",
-        "fechafin": "08-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5184875,
-        "lon": -8.7036082,
-        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-meis"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Blitz VI Pozuelo Chess Festival (ID: 480289)",
         "ciudad": "POZUELO DE ALARCON",
         "fechaini": "08-07-2026",
@@ -1894,6 +1774,18 @@
         "lat": 40.4346528,
         "lon": -3.814834,
         "link": "https://info64.org/torneo-blitz-vi-pozuelo-chess-festival"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Torneo de Xadrez Concello de Meis",
+        "ciudad": "O Mosteiro, Meis",
+        "fechaini": "08-07-2026",
+        "fechafin": "08-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5184875,
+        "lon": -8.7036082,
+        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-meis"
     },
     {
         "origin": "chess-results",
@@ -2185,6 +2077,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "V Open de Grado - Fiesta Santiago y Santa Ana",
+        "ciudad": "Grado",
+        "fechaini": "18-07-2026",
+        "fechafin": "18-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2980596,
+        "lon": -6.1471901,
+        "link": "https://info64.org/v-open-de-grado-fiesta-santiago-y-santa-ana"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV BLITZ NOCTURNO LOS MOLINOS",
         "ciudad": "Valdepeñas",
         "fechaini": "18-07-2026",
@@ -2206,18 +2110,6 @@
         "lat": 42.1134546,
         "lon": -8.7646089,
         "link": "https://info64.org/iv-abierto-de-ajedrez-feria-santa-marta-in-memoriam-enrique-moreno"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Open de Grado - Fiesta Santiago y Santa Ana",
-        "ciudad": "Grado",
-        "fechaini": "18-07-2026",
-        "fechafin": "18-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.2980596,
-        "lon": -6.1471901,
-        "link": "https://info64.org/v-open-de-grado-fiesta-santiago-y-santa-ana"
     },
     {
         "origin": "chess-results",
@@ -2629,18 +2521,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Torneo de ajedrez inclusivo La Serranía Ajedrosaurus",
-        "ciudad": "Alpuente, Av San Blas 51",
-        "fechaini": "31-07-2026",
-        "fechafin": "31-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-inclusivo-la-serrania-ajedrosaurus"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXI Torneo de Promoción de Ajedrez Almansa A",
         "ciudad": "Almansa",
         "fechaini": "31-07-2026",
@@ -2662,6 +2542,18 @@
         "lat": 38.8682065,
         "lon": -1.0978627,
         "link": "https://info64.org/xxi-torneo-de-promocion-de-ajedrez-almansa-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo de ajedrez inclusivo La Serranía Ajedrosaurus",
+        "ciudad": "Alpuente, Av San Blas 51",
+        "fechaini": "31-07-2026",
+        "fechafin": "31-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-inclusivo-la-serrania-ajedrosaurus"
     },
     {
         "origin": "info64",
@@ -3049,18 +2941,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
-        "ciudad": "Zaragoza",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
-        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
-    },
-    {
-        "origin": "info64",
         "nombre": "TORNEO B - 5 Open Internacional Sub1800 Hotel Vertice Sevilla Bormujos",
         "ciudad": "Bormujos",
         "fechaini": "21-08-2026",
@@ -3082,6 +2962,18 @@
         "lat": 37.3715939,
         "lon": -6.07133,
         "link": "https://info64.org/torneo-a-8-open-internacional-sub2200-hotel-vertice-sevilla-bormujos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
+        "ciudad": "Zaragoza",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
     },
     {
         "origin": "info64",
