@@ -697,18 +697,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Torneo de Ajedrez de Fuencarral - El Pardo",
-        "ciudad": "CDM La Masó (Madrid)",
-        "fechaini": "21-06-2026",
-        "fechafin": "21-06-2026",
-        "organizador": "Ajedrez Capablanca",
-        "ritmo": "10'",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1439427.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "Torneo de Cervechess \"Café Pub Liberia\" 2026",
         "ciudad": "C/ Duquesa nº8, Granada",
         "fechaini": "21-06-2026",
@@ -2568,6 +2556,18 @@
         "link": "https://chess-results.com/tnr1348675.aspx?lan=2"
     },
     {
+        "origin": "chess-results",
+        "nombre": "XII O‏PEN FUNDACION VALENCIA CUNA",
+        "ciudad": "VALENCIA, ESPAÑA",
+        "fechaini": "27-07-2026",
+        "fechafin": "02-08-2026",
+        "organizador": "",
+        "ritmo": "90 min + 30 segundos",
+        "lat": 37.1665094,
+        "lon": -4.1500582,
+        "link": "https://chess-results.com/tnr1443112.aspx?lan=2"
+    },
+    {
         "origin": "info64",
         "nombre": "Granada Chess Open 2026",
         "ciudad": "Granada",
@@ -2614,6 +2614,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1317968.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "GAY GAMES 2026 RAPID",
+        "ciudad": "La petxina, Valencia",
+        "fechaini": "30-07-2026",
+        "fechafin": "31-07-2026",
+        "organizador": "C.D. BASILIO",
+        "ritmo": "15 min + 3seg",
+        "lat": 39.4735852,
+        "lon": -0.3909546,
+        "link": "https://chess-results.com/tnr1443123.aspx?lan=2"
     },
     {
         "origin": "info64",
@@ -4363,8 +4375,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3915493,
-        "lon": -0.5208521,
+        "lat": 38.3889426,
+        "lon": -0.5176876,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     }
 ]
