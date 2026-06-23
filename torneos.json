@@ -397,12 +397,24 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "MATCH INTERNACIONAL EUSKAL SELEKZIOA - SELECCION I",
+        "ciudad": "Donostia",
+        "fechaini": "23-06-2026",
+        "fechafin": "23-06-2026",
+        "organizador": "FVA",
+        "ritmo": "15 m + 5 s.",
+        "lat": 43.3224219,
+        "lon": -1.9838889,
+        "link": "https://chess-results.com/tnr1443797.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Social de Verano Martintxo sub 11",
         "ciudad": "Vitoria - Gasteiz, Martintxo",
         "fechaini": "23-06-2026",
         "fechafin": "23-06-2026",
-        "organizador": "",
-        "ritmo": "",
+        "organizador": "Martintxo",
+        "ritmo": "10+0",
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1414377.aspx?lan=2"
@@ -430,6 +442,18 @@
         "lat": 43.5499932,
         "lon": -5.9282082,
         "link": "https://info64.org/team/match-amistoso-ensidesa-vs-gradense-escarlata"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "C.C. Xanadú Junio 2026",
+        "ciudad": "Arroyomolinos (Madrid)",
+        "fechaini": "24-06-2026",
+        "fechafin": "24-06-2026",
+        "organizador": "",
+        "ritmo": "Rapid: 5min +3sec increment per move starting from move 1",
+        "lat": 40.2729225,
+        "lon": -3.9157978,
+        "link": "https://chess-results.com/tnr1443787.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -766,6 +790,18 @@
         "lat": 42.1939629,
         "lon": -7.537124,
         "link": "https://info64.org/xaque-ao-emerito-2026"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "FIN DE CURSO 2026 SANTA CRUZ DE LA ZARZA/TARANCÓN",
+        "ciudad": "PISCINA DE SANTA CRUZ DE LA ZARZA",
+        "fechaini": "27-06-2026",
+        "fechafin": "27-06-2026",
+        "organizador": "SANTA CRUZ DE LA ZARZA Y CAISSAJEDREZ",
+        "ritmo": "7 MIN MAS 3 S3EG",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1443786.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1963,8 +1999,8 @@
         "fechafin": "18-07-2026",
         "organizador": "Beraun Bera Xake Taldea",
         "ritmo": "3+2",
-        "lat": 43.3140504,
-        "lon": -1.8999769,
+        "lat": 43.3105604,
+        "lon": -1.9096644,
         "link": "https://chess-results.com/tnr1443293.aspx?lan=2"
     },
     {
@@ -4099,8 +4135,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3915493,
-        "lon": -0.5208521,
+        "lat": 38.3889426,
+        "lon": -0.5176876,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     }
 ]
