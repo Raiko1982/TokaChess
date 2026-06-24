@@ -133,18 +133,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo",
-        "ciudad": "Hotel Bali - Benidorm (Alicante - SPAIN)",
-        "fechaini": "28-11-2026",
-        "fechafin": "05-12-2026",
-        "organizador": "Club Deportivo Tossal de la Cala",
-        "ritmo": "Standard: 90 minutes with 30 second increment from move 1",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1404735.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "XXIII Open Internacional Gran Hotel Bali 2026",
         "ciudad": "Gran Hotel Bali (Benidorm), Salón Terraza de Cristal, floor/planta +1",
         "fechaini": "28-11-2026",
@@ -154,6 +142,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1411135.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXIII Torneo Internacional Gran Hotel Bali Grupo B",
+        "ciudad": "Hotel Bali - Benidorm (Alicante - SPAIN)",
+        "fechaini": "28-11-2026",
+        "fechafin": "05-12-2026",
+        "organizador": "Club Deportivo Tossal de la Cala",
+        "ritmo": "Standard: 90 minutes with 30 second increment from move 1",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1404735.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -466,6 +466,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1376314.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXXI Open Internacional Virgen de ValenciaVioño de",
+        "ciudad": "Viono de Pielagos",
+        "fechaini": "04-09-2026",
+        "fechafin": "07-09-2026",
+        "organizador": "M.A. Muela Perez (I.O. 22260102)",
+        "ritmo": "90 min + 30 seg",
+        "lat": 43.3613846,
+        "lon": -3.9707742,
+        "link": "https://chess-results.com/tnr1444147.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1297,6 +1309,66 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "III MEMORIAL JUAN MIGUEL ABRIL RODRIGUEZMAYORES",
+        "ciudad": "PASEO MARÍTIMO DE ESTEPONA JUNTO A OFICINA DE CORREOS",
+        "fechaini": "02-07-2026",
+        "fechafin": "02-07-2026",
+        "organizador": "ILMO. AYUNTAMIENTO DE ESTEPONA",
+        "ritmo": "10 Minutos",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1444150.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "III MEMORIAL JUAN MIGUEL ABRIL RODRIGUEZSENIORS",
+        "ciudad": "PASEO MARÍTIMO DE ESTEPONA JUNTO A OFICINA DE CORREOS",
+        "fechaini": "02-07-2026",
+        "fechafin": "02-07-2026",
+        "organizador": "ILMO. AYUNTAMIENTO DE ESTEPONA",
+        "ritmo": "15 Minutos",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1444151.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "III MEMORIAL JUAN MIGUEL ABRIL RODRIGUEZSUB08 Y PI",
+        "ciudad": "PASEO MARÍTIMO DE ESTEPONA JUNTO A OFICINA DE CORREOS",
+        "fechaini": "02-07-2026",
+        "fechafin": "02-07-2026",
+        "organizador": "ILMO. AYUNTAMIENTO DE ESTEPONA",
+        "ritmo": "10 Minutos",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1444152.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "III MEMORIAL JUAN MIGUEL ABRIL RODRIGUEZSUB10 Y SU",
+        "ciudad": "PASEO MARÍTIMO DE ESTEPONA JUNTO A OFICINA DE CORREOS",
+        "fechaini": "02-07-2026",
+        "fechafin": "02-07-2026",
+        "organizador": "ILMO. AYUNTAMIENTO DE ESTEPONA",
+        "ritmo": "10 Minutos",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1444153.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "III MEMORIAL JUAN MIGUEL ABRIL RODRIGUEZSUB14 Y SU",
+        "ciudad": "PASEO MARÍTIMO DE ESTEPONA JUNTO A OFICINA DE CORREOS",
+        "fechaini": "02-07-2026",
+        "fechafin": "02-07-2026",
+        "organizador": "ILMO. AYUNTAMIENTO DE ESTEPONA",
+        "ritmo": "10 Minutos",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1444154.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Campament Escacs 2026",
         "ciudad": "Casa de Colonias Binicanella",
         "fechaini": "01-07-2026",
@@ -1375,8 +1447,8 @@
         "fechafin": "28-06-2026",
         "organizador": "COR DE MARINA",
         "ritmo": "3+2",
-        "lat": 41.3916925,
-        "lon": 2.1905867,
+        "lat": 41.3915206,
+        "lon": 2.1907387,
         "link": "https://chess-results.com/tnr1443142.aspx?lan=2"
     },
     {
@@ -1585,42 +1657,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "MATCH INTERNACIONAL EUSKAL SELEKZIOA - SELECCION I",
-        "ciudad": "Donostia",
-        "fechaini": "23-06-2026",
-        "fechafin": "23-06-2026",
-        "organizador": "FVA",
-        "ritmo": "15 m + 5 s.",
-        "lat": 43.3224219,
-        "lon": -1.9838889,
-        "link": "https://chess-results.com/tnr1443797.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Social de Verano Martintxo sub 11",
-        "ciudad": "Vitoria - Gasteiz, Martintxo",
-        "fechaini": "23-06-2026",
-        "fechafin": "23-06-2026",
-        "organizador": "Martintxo",
-        "ritmo": "10+0",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1414377.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Torneo Ajedrez Club Gata_junio 2026",
-        "ciudad": "Poliesportiu Municipal de Teulada, 03725 Teulada, Alicante",
-        "fechaini": "23-06-2026",
-        "fechafin": "23-06-2026",
-        "organizador": "",
-        "ritmo": "5 minuts +3 segons d'increment per jugador.",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1443854.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "X Open Internacional RGCC 2026 - II Memorial Marco",
         "ciudad": "Hotel 1907 Villa de Gijón",
         "fechaini": "22-06-2026",
@@ -1657,18 +1693,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "VIII TORNEO DE VERANO PEÑA ECIJANA DE AJEDREZ",
-        "ciudad": "CEIP BLAS INFANTE",
-        "fechaini": "09-06-2026",
-        "fechafin": "23-06-2026",
-        "organizador": "PEÑA ECIJANA DE AJEDREZ",
-        "ritmo": "30'+10''",
-        "lat": 37.4113915,
-        "lon": -5.9781059,
-        "link": "https://chess-results.com/tnr1434424.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "III Social Cerrado de Ajedrez Clasico Costa Fenici",
         "ciudad": "",
         "fechaini": "27-05-2026",
@@ -1678,30 +1702,6 @@
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1421287.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "I Torneig Social ràpid Penya Alfil",
-        "ciudad": "Es Mercadal",
-        "fechaini": "26-05-2026",
-        "fechafin": "23-06-2026",
-        "organizador": "Penya Alfil des Mercadal",
-        "ritmo": "15 minuts per partida amb un increment de 3 segons a partir de la primera jugada.",
-        "lat": 39.9881268,
-        "lon": 4.0925999,
-        "link": "https://chess-results.com/tnr1414754.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "I Torneig Social ràpid Penya Alfil",
-        "ciudad": "Es Mercadal",
-        "fechaini": "26-05-2026",
-        "fechafin": "23-06-2026",
-        "organizador": "Penya Alfil des Mercadal",
-        "ritmo": "15 minuts per partida amb un increment de 3 segons a partir de la primera jugada.",
-        "lat": 39.9881268,
-        "lon": 4.0925999,
-        "link": "https://chess-results.com/tnr1434795.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1738,18 +1738,6 @@
         "lat": 43.2815684,
         "lon": -1.9474769,
         "link": "https://chess-results.com/tnr1399062.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Torneo Social de Zuri Baltza 2026 - Standard",
-        "ciudad": "Sede del Club Ajedrez Zuri Baltza",
-        "fechaini": "24-03-2026",
-        "fechafin": "23-06-2026",
-        "organizador": "Club Ajedrez Zuri Baltza & Diego Beltrán",
-        "ritmo": "60´ + 30´´ / jug",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1378668.aspx?lan=2"
     },
     {
         "origin": "chess-results",
