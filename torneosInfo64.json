@@ -1,15 +1,135 @@
 [
     {
         "origin": "info64",
-        "nombre": "Torneo Blitz Noite de San Xoan Campus de Veran 2026",
-        "ciudad": "Ourense",
-        "fechaini": "23-06-2026",
-        "fechafin": "23-06-2026",
+        "nombre": "I Obert Internacional Ciutat de Sant Joan de Alacant",
+        "ciudad": "Sant Joan de Alacant",
+        "fechaini": "30-06-2026",
+        "fechafin": "02-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/torneo-blitz-noite-de-san-xoan-campus-de-veran-2026"
+        "lat": 38.7815044,
+        "lon": 0.1509366,
+        "link": "https://info64.org/i-obert-internacional-ciutat-de-sant-joan-de-alacant"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Magistral Internacional Ciudad de Sant Joan de Alacant",
+        "ciudad": "Sant Joan de Alacant",
+        "fechaini": "29-06-2026",
+        "fechafin": "03-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7815044,
+        "lon": 0.1509366,
+        "link": "https://info64.org/v-magistral-internacional-ciudad-de-sant-joan-de-alacant"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Memorial Caballo Blanco Casino de Galdar 2026",
+        "ciudad": "Galdar",
+        "fechaini": "28-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 28.0960644,
+        "lon": -15.6554885,
+        "link": "https://info64.org/memorial-caballo-blanco-casino-de-galdar-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Xadrez Concello do Porrino",
+        "ciudad": "O Porriño",
+        "fechaini": "17-07-2026",
+        "fechafin": "17-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1364387,
+        "lon": -8.6255949,
+        "link": "https://info64.org/i-torneo-xadrez-concello-do-porrino"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Open de Grado - Fiesta Santiago y Santa Ana",
+        "ciudad": "Grado",
+        "fechaini": "18-07-2026",
+        "fechafin": "18-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2980596,
+        "lon": -6.1471901,
+        "link": "https://info64.org/v-open-de-grado-fiesta-santiago-y-santa-ana"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 4: GUADIX",
+        "ciudad": "Guadix",
+        "fechaini": "23-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3724432,
+        "lon": -3.068928,
+        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-4-guadix"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Circuito Provincial de Ajedrez 2026 -Torneo 1: PADUL",
+        "ciudad": "Padul",
+        "fechaini": "12-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.0222913,
+        "lon": -3.6274938,
+        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
+        "ciudad": "Benidorm",
+        "fechaini": "28-11-2026",
+        "fechafin": "05-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 10: CASTILLEJAR",
+        "ciudad": "Castillejar",
+        "fechaini": "15-11-2026",
+        "fechafin": "15-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.717227,
+        "lon": -2.6425103,
+        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026-torneo-10-castillejar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XIII Torneo Verano Alicante",
+        "ciudad": "Alicante",
+        "fechaini": "27-07-2026",
+        "fechafin": "02-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/xiii-torneo-verano-alicante"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Memorial Enrique Rojas Mengual - Ajedrez Tajamar 2026 (480290)",
+        "ciudad": "Madrid",
+        "fechaini": "20-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/nombre-del-torneo-iii-memorial-enrique-rojas-mengual-ajedrez-tajamar-2026"
     },
     {
         "origin": "info64",
@@ -154,30 +274,6 @@
         "lat": 36.9488544,
         "lon": -3.3570047,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-3-bubion"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 10: CASTILLÉJAR",
-        "ciudad": "Castilléjar",
-        "fechaini": "15-11-2026",
-        "fechafin": "15-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.717227,
-        "lon": -2.6425103,
-        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026-torneo-10-castillejar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 4: GUADIX",
-        "ciudad": "Guadix",
-        "fechaini": "23-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3724432,
-        "lon": -3.068928,
-        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-4-guadix"
     },
     {
         "origin": "info64",
@@ -442,18 +538,6 @@
         "lat": 43.2086195,
         "lon": -8.6668237,
         "link": "https://info64.org/iv-maxistral-xiria-carballo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Obert Internacional Ciutat de Sant Joan de Alacant",
-        "ciudad": "Sant Joan de Alacant",
-        "fechaini": "30-06-2026",
-        "fechafin": "02-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7815044,
-        "lon": 0.1509366,
-        "link": "https://info64.org/i-obert-internacional-ciutat-de-sant-joan-de-alacant"
     },
     {
         "origin": "info64",
@@ -1009,18 +1093,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Circuito Provincial de Ajedrez 2026",
-        "ciudad": "Padul",
-        "fechaini": "12-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.0222913,
-        "lon": -3.6274938,
-        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Torneo de ajedrez inclusivo La Serranía Ajedrosaurus",
         "ciudad": "Alpuente, Av San Blas 51",
         "fechaini": "31-07-2026",
@@ -1093,18 +1165,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Memorial Enrique Rojas Mengual - Ajedrez Tajamar 2026 (480290)",
-        "ciudad": "Madrid",
-        "fechaini": "20-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/nombre-del-torneo-iii-memorial-enrique-rojas-mengual-ajedrez-tajamar-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "II T. Escalona",
         "ciudad": "Escalona",
         "fechaini": "28-06-2026",
@@ -1162,18 +1222,6 @@
         "lat": 42.5816647,
         "lon": -5.6437418,
         "link": "https://info64.org/ii-open-club-de-ajedrez-la-virgen-del-camino"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Memorial Caballo Blanco Casino de Galdar 2026",
-        "ciudad": "Galdar",
-        "fechaini": "28-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 28.0960644,
-        "lon": -15.6554885,
-        "link": "https://info64.org/memorial-caballo-blanco-casino-de-galdar-2026"
     },
     {
         "origin": "info64",
@@ -1486,18 +1534,6 @@
         "lat": 39.1585549,
         "lon": -3.0214851,
         "link": "https://info64.org/ca-tomelloso-trofeo-de-primavera-torneo-a"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Open de Grado - Fiesta Santiago y Santa Ana",
-        "ciudad": "Grado",
-        "fechaini": "18-07-2026",
-        "fechafin": "18-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.2980596,
-        "lon": -6.1471901,
-        "link": "https://info64.org/v-open-de-grado-fiesta-santiago-y-santa-ana"
     },
     {
         "origin": "info64",
@@ -1855,8 +1891,8 @@
         "fechafin": "02-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.3238525,
-        "lon": -3.8649214,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://info64.org/xv-torneo-irt-ad-ajedrez-mostoles"
     },
     {
@@ -1930,18 +1966,6 @@
         "lat": 38.5406255,
         "lon": -0.1290929,
         "link": "https://info64.org/benidorm-chess-open-a-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
-        "ciudad": "Benidorm",
-        "fechaini": "28-11-2026",
-        "fechafin": "05-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
     },
     {
         "origin": "info64",
@@ -2161,18 +2185,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XIII Torneo Verano Alicante",
-        "ciudad": "Alicante",
-        "fechaini": "27-07-2026",
-        "fechafin": "02-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/xiii-torneo-verano-alicante"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Open Relampago RGCC 2026 - II Memorial Marco Marino",
         "ciudad": "Fronton RGCC",
         "fechaini": "08-08-2026",
@@ -2194,18 +2206,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/xxiii-open-activo-villa-de-gijon-2026-ii-memorial-marco-marino"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Xadrez Concello do Porrino",
-        "ciudad": "O Porriño",
-        "fechaini": "17-07-2026",
-        "fechafin": "17-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1364387,
-        "lon": -8.6255949,
-        "link": "https://info64.org/i-torneo-xadrez-concello-do-porrino"
     },
     {
         "origin": "info64",
@@ -2254,18 +2254,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/iv-internacional-chess-open-hotel-cap-negret-50"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Magistral Internacional Ciudad de Sant Joan de Alacant",
-        "ciudad": "Sant Joan Alacant",
-        "fechaini": "29-06-2026",
-        "fechafin": "03-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7815044,
-        "lon": 0.1509366,
-        "link": "https://info64.org/v-magistral-internacional-ciudad-de-sant-joan-de-alacant"
     },
     {
         "origin": "info64",
@@ -2431,8 +2419,8 @@
         "fechafin": "20-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.988085,
-        "lon": -0.5200428,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://info64.org/xii-torneig-descoles-la-primitiva-xativa"
     },
     {
@@ -2479,8 +2467,8 @@
         "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4799017,
-        "lon": -3.7397206,
+        "lat": 40.4800615,
+        "lon": -3.7393998,
         "link": "https://info64.org/x-torneo-fiestas-de-fresnedillas-2026-ajedrez-y-paella"
     },
     {
