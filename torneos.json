@@ -421,15 +421,15 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "TORNEO MILITAR \"MUEVE FIXA\"",
-        "ciudad": "",
+        "nombre": "Torneo Clase Cúllar 25.06.2026",
+        "ciudad": "Cullar",
         "fechaini": "25-06-2026",
         "fechafin": "25-06-2026",
         "organizador": "",
-        "ritmo": "8+3",
-        "lat": 39.3260685,
-        "lon": -4.8379791,
-        "link": "https://chess-results.com/tnr1444698.aspx?lan=2"
+        "ritmo": "",
+        "lat": 37.5835402,
+        "lon": -2.5766049,
+        "link": "https://chess-results.com/tnr1444872.aspx?lan=2"
     },
     {
         "origin": "info64",
@@ -2410,6 +2410,30 @@
         "lat": 40.3238525,
         "lon": -3.8649214,
         "link": "https://info64.org/xv-torneo-irt-ad-ajedrez-mostoles"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Astigarraga. Santio Jaiak 2026. Absoluto",
+        "ciudad": "Plaza Kontxa Etxeberria. Astigarraga",
+        "fechaini": "26-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "Astigarraga Xake Kluba",
+        "ritmo": "5´+3\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1444910.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Astigarraga. Santio Jaiak 2026. Sub-12",
+        "ciudad": "Plaza Kontxa Etxeberria. Astigarraga",
+        "fechaini": "26-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "Astigarraga Xake Kluba",
+        "ritmo": "5´+3\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1444920.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -4519,8 +4543,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3915493,
-        "lon": -0.5208521,
+        "lat": 38.3889426,
+        "lon": -0.5176876,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     }
 ]
