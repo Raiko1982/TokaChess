@@ -277,18 +277,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XVI Open Ciudad de Tres Cantos A",
-        "ciudad": "Tres cantos",
-        "fechaini": "21-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6012354,
-        "lon": -3.7038475,
-        "link": "https://info64.org/xvi-open-ciudad-de-tres-cantos-a"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXXVI Open Internacional de GROS Nazioarteko Xake Irekia",
         "ciudad": "Donostia",
         "fechaini": "21-06-2026",
@@ -298,6 +286,18 @@
         "lat": 43.3224219,
         "lon": -1.9838889,
         "link": "https://info64.org/xxxvi-open-internacional-de-gros-nazioarteko-xake-irekia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XVI Open Ciudad de Tres Cantos A",
+        "ciudad": "Tres cantos",
+        "fechaini": "21-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6012354,
+        "lon": -3.7038475,
+        "link": "https://info64.org/xvi-open-ciudad-de-tres-cantos-a"
     },
     {
         "origin": "info64",
@@ -373,15 +373,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "IX OPEN DE AJEDREZ CANFRANC IRT SUB 2200",
-        "ciudad": "Canfranc",
+        "nombre": "I IRT Sub-2000 Hotel Playas de Guardamar",
+        "ciudad": "Guardamar del Segura",
         "fechaini": "26-06-2026",
         "fechafin": "28-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.7533689,
-        "lon": -0.4796771,
-        "link": "https://info64.org/ix-open-de-ajedrez-canfranc-irt-sub-2200"
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/i-irt-sub-2000-hotel-playas-de-guardamar"
     },
     {
         "origin": "info64",
@@ -397,15 +397,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "I IRT Sub-2000 Hotel Playas de Guardamar",
-        "ciudad": "Guardamar del Segura",
+        "nombre": "IX OPEN DE AJEDREZ CANFRANC IRT SUB 2200",
+        "ciudad": "Canfranc",
         "fechaini": "26-06-2026",
         "fechafin": "28-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/i-irt-sub-2000-hotel-playas-de-guardamar"
+        "lat": 42.7533689,
+        "lon": -0.4796771,
+        "link": "https://info64.org/ix-open-de-ajedrez-canfranc-irt-sub-2200"
     },
     {
         "origin": "chess-results",
@@ -418,6 +418,66 @@
         "lat": 40.4743937,
         "lon": -3.8663563,
         "link": "https://chess-results.com/tnr1444308.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II IRT Sub-1800 Castell de Cullera",
+        "ciudad": "Cullera",
+        "fechaini": "27-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1647217,
+        "lon": -0.2542313,
+        "link": "https://info64.org/ii-irt-sub-1800-castell-de-cullera"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXIX Setmana Esportiva de Riba-Roja de Túria",
+        "ciudad": "Riba-roja de Túria",
+        "fechaini": "27-06-2026",
+        "fechafin": "27-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.5463524,
+        "lon": -0.5699662,
+        "link": "https://info64.org/xxxix-setmana-esportiva-de-riba-roja-de-turia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Ajedrez Blitz Toledum",
+        "ciudad": "Toledo",
+        "fechaini": "27-06-2026",
+        "fechafin": "27-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/ii-torneo-ajedrez-blitz-toledum"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Ajedrez Rapido Toledum",
+        "ciudad": "Toledo",
+        "fechaini": "27-06-2026",
+        "fechafin": "27-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/ii-torneo-ajedrez-rapido-toledum"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV TORNEO QUERCUS - ABSOLUTA",
+        "ciudad": "MAJADAS DE TIÉTAR - EXTREMAD.",
+        "fechaini": "27-06-2026",
+        "fechafin": "27-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iv-torneo-quercus-absoluta"
     },
     {
         "origin": "info64",
@@ -469,18 +529,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV TORNEO QUERCUS - ABSOLUTA",
-        "ciudad": "MAJADAS DE TIÉTAR - EXTREMAD.",
-        "fechaini": "27-06-2026",
-        "fechafin": "27-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-torneo-quercus-absoluta"
-    },
-    {
-        "origin": "info64",
         "nombre": "IX Concello de Malpica",
         "ciudad": "Malpica - A Coruna",
         "fechaini": "27-06-2026",
@@ -490,30 +538,6 @@
         "lat": 43.3226285,
         "lon": -8.8106696,
         "link": "https://info64.org/ix-concello-de-malpica"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo Ajedrez Blitz Toledum",
-        "ciudad": "Toledo",
-        "fechaini": "27-06-2026",
-        "fechafin": "27-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/ii-torneo-ajedrez-blitz-toledum"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo Ajedrez Rapido Toledum",
-        "ciudad": "Toledo",
-        "fechaini": "27-06-2026",
-        "fechafin": "27-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/ii-torneo-ajedrez-rapido-toledum"
     },
     {
         "origin": "info64",
@@ -538,18 +562,6 @@
         "lat": 37.1824646,
         "lon": -5.7817506,
         "link": "https://info64.org/ix-torneo-piscinero-de-ajedrez-ciudad-de-utrera"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II IRT Sub-1800 Castell de Cullera",
-        "ciudad": "Cullera",
-        "fechaini": "27-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1647217,
-        "lon": -0.2542313,
-        "link": "https://info64.org/ii-irt-sub-1800-castell-de-cullera"
     },
     {
         "origin": "info64",
@@ -610,18 +622,6 @@
         "lat": 39.9860347,
         "lon": -0.0377354,
         "link": "https://info64.org/ii-irt-sub1800-escola-escacs-castello"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXXIX Setmana Esportiva de Riba-Roja de Túria",
-        "ciudad": "Riba-roja de Túria",
-        "fechaini": "27-06-2026",
-        "fechafin": "27-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5463524,
-        "lon": -0.5699662,
-        "link": "https://info64.org/xxxix-setmana-esportiva-de-riba-roja-de-turia"
     },
     {
         "origin": "info64",
@@ -1405,6 +1405,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "XII Master Centro Comercial Arousa sub10",
+        "ciudad": "Vilagarcía de Arousa",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5950502,
+        "lon": -8.7430537,
+        "link": "https://info64.org/xii-masterchess-centro-comercial-arousa-sub10"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII NOCTURNO INFANTIL DE AJEDREZ MEMORIAL PEDRITO MEDINA",
+        "ciudad": "MENGIBAR",
+        "fechaini": "04-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.9680499,
+        "lon": -3.8087804,
+        "link": "https://info64.org/viii-nocturno-infantil-de-ajedrez-memorial-pedrito-medina"
+    },
+    {
+        "origin": "info64",
+        "nombre": "30º Memorial Miguel Bootello de Ajedrez",
+        "ciudad": "Alora",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.8238814,
+        "lon": -4.7063011,
+        "link": "https://info64.org/30o-memorial-miguel-bootello-de-ajedrez"
+    },
+    {
+        "origin": "info64",
         "nombre": "41 Ciudad de Ferrol 2026",
         "ciudad": "Ferrol",
         "fechaini": "04-07-2026",
@@ -1465,18 +1501,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "30º Memorial Miguel Bootello de Ajedrez",
-        "ciudad": "Alora",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.8238814,
-        "lon": -4.7063011,
-        "link": "https://info64.org/30o-memorial-miguel-bootello-de-ajedrez"
-    },
-    {
-        "origin": "info64",
         "nombre": "XII Master Centro Comercial Arousa sub8",
         "ciudad": "Vilagarcía de Arousa",
         "fechaini": "04-07-2026",
@@ -1486,18 +1510,6 @@
         "lat": 42.5950502,
         "lon": -8.7430537,
         "link": "https://info64.org/xii-masterchess-centro-comercial-arousa-sub8"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Master Centro Comercial Arousa sub10",
-        "ciudad": "Vilagarcía de Arousa",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5950502,
-        "lon": -8.7430537,
-        "link": "https://info64.org/xii-masterchess-centro-comercial-arousa-sub10"
     },
     {
         "origin": "info64",
@@ -1534,18 +1546,6 @@
         "lat": 37.9680499,
         "lon": -3.8087804,
         "link": "https://info64.org/xxxix-nocturnoa-de-ajedrez-memorial-pedrito-medina"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VIII NOCTURNO INFANTIL DE AJEDREZ MEMORIAL PEDRITO MEDINA",
-        "ciudad": "MENGIBAR",
-        "fechaini": "04-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.9680499,
-        "lon": -3.8087804,
-        "link": "https://info64.org/viii-nocturno-infantil-de-ajedrez-memorial-pedrito-medina"
     },
     {
         "origin": "info64",
@@ -1633,6 +1633,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXII MEMORIAL DE AJEDREZ MANUEL RUS CASADO",
+        "ciudad": "VILLANUEVA DE LA REINA",
+        "fechaini": "05-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0051678,
+        "lon": -3.9146981,
+        "link": "https://info64.org/xxii-memorial-de-ajedrez-manuel-rus-casado"
+    },
+    {
+        "origin": "info64",
         "nombre": "XLV TORNEO OPEN INTERNACIONAL VILLA DE BENASQUE",
         "ciudad": "Benasque",
         "fechaini": "05-07-2026",
@@ -1654,18 +1666,6 @@
         "lat": 43.4456557,
         "lon": -5.0835484,
         "link": "https://info64.org/open-de-ribadesella-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXII MEMORIAL DE AJEDREZ MANUEL RUS CASADO",
-        "ciudad": "VILLANUEVA DE LA REINA",
-        "fechaini": "05-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0051678,
-        "lon": -3.9146981,
-        "link": "https://info64.org/xxii-memorial-de-ajedrez-manuel-rus-casado"
     },
     {
         "origin": "chess-results",
@@ -2113,18 +2113,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV BLITZ NOCTURNO LOS MOLINOS",
-        "ciudad": "Valdepeñas",
-        "fechaini": "18-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7594573,
-        "lon": -3.3847392,
-        "link": "https://info64.org/iv-blitz-nocturno-los-molinos"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Torneig Escacs Mancomunitat La Costera-Canal",
         "ciudad": "Canals",
         "fechaini": "18-07-2026",
@@ -2134,6 +2122,18 @@
         "lat": 38.9623954,
         "lon": -0.5832175,
         "link": "https://info64.org/i-torneig-escacs-mancomunitat-la-costera-canal"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV BLITZ NOCTURNO LOS MOLINOS",
+        "ciudad": "Valdepeñas",
+        "fechaini": "18-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/iv-blitz-nocturno-los-molinos"
     },
     {
         "origin": "info64",
@@ -2317,6 +2317,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "XIV Torneo Internacional Cidade de Pontevedra Amateur.",
+        "ciudad": "Pontevedra",
+        "fechaini": "24-07-2026",
+        "fechafin": "30-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.428065,
+        "lon": -8.6041447,
+        "link": "https://info64.org/xiv-torneo-internacional-cidade-de-pontevedra-amateur"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XIV Torneo Internacional Cidade de Pontevedra Masters.",
+        "ciudad": "Pontevedra",
+        "fechaini": "24-07-2026",
+        "fechafin": "30-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.428065,
+        "lon": -8.6041447,
+        "link": "https://info64.org/xiv-torneo-internacional-cidade-de-pontevedra-masters"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Festival de Ajedrez en Candanchu",
         "ciudad": "Candanchú",
         "fechaini": "24-07-2026",
@@ -2350,30 +2374,6 @@
         "lat": 40.5473698,
         "lon": -3.6260586,
         "link": "https://info64.org/x-torneo-sub-2400-club-ajedrez-v-centenario"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIV Torneo Internacional Cidade de Pontevedra Amateur.",
-        "ciudad": "Pontevedra",
-        "fechaini": "24-07-2026",
-        "fechafin": "30-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.428065,
-        "lon": -8.6041447,
-        "link": "https://info64.org/xiv-torneo-internacional-cidade-de-pontevedra-amateur"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIV Torneo Internacional Cidade de Pontevedra Masters.",
-        "ciudad": "Pontevedra",
-        "fechaini": "24-07-2026",
-        "fechafin": "30-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.428065,
-        "lon": -8.6041447,
-        "link": "https://info64.org/xiv-torneo-internacional-cidade-de-pontevedra-masters"
     },
     {
         "origin": "chess-results",
@@ -2893,6 +2893,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Torneo Caniles 2026",
+        "ciudad": "Caniles",
+        "fechaini": "09-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.4362471,
+        "lon": -2.722409,
+        "link": "https://info64.org/torneo-caniles-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Open Internacional de Ajedrez Villa de Aspe - Grupo B",
         "ciudad": "Aspe",
         "fechaini": "09-08-2026",
@@ -3157,18 +3169,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
-        "ciudad": "Zaragoza",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
-        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
-    },
-    {
-        "origin": "info64",
         "nombre": "TORNEO B - 5 Open Internacional Sub1800 Hotel Vertice Sevilla Bormujos",
         "ciudad": "Bormujos",
         "fechaini": "21-08-2026",
@@ -3178,6 +3178,18 @@
         "lat": 37.3715939,
         "lon": -6.07133,
         "link": "https://info64.org/torneo-b-5-open-internacional-sub1800-hotel-vertice-sevilla-bormujos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
+        "ciudad": "Zaragoza",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
     },
     {
         "origin": "info64",
@@ -3922,6 +3934,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1399686.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Torneo Memorial Jose Luis Bano Orbezo",
+        "ciudad": "Enguera",
+        "fechaini": "27-09-2026",
+        "fechafin": "27-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9804366,
+        "lon": -0.6894299,
+        "link": "https://info64.org/vi-torneo-memorial-jose-luis-bano-orbezo"
     },
     {
         "origin": "info64",
