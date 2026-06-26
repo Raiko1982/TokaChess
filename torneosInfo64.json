@@ -1,6 +1,162 @@
 [
     {
         "origin": "info64",
+        "nombre": "II Torneo Ajedrez Blitz Toledum",
+        "ciudad": "Toledo",
+        "fechaini": "27-06-2026",
+        "fechafin": "27-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/ii-torneo-ajedrez-blitz-toledum"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Ajedrez Rapido Toledum",
+        "ciudad": "Toledo",
+        "fechaini": "27-06-2026",
+        "fechafin": "27-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "link": "https://info64.org/ii-torneo-ajedrez-rapido-toledum"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III IRT Sub 2300 Utiel en tu interior",
+        "ciudad": "Utiel",
+        "fechaini": "26-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.5680797,
+        "lon": -1.2051604,
+        "link": "https://info64.org/iii-irt-sub-2300-utiel"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Memorial Emilio Sánchez Jerez",
+        "ciudad": "Beniaján",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.9752568,
+        "lon": -1.0711116,
+        "link": "https://info64.org/ii-memorial-emilio-sanchez-jerez"
+    },
+    {
+        "origin": "info64",
+        "nombre": "41 Ciudad de Ferrol 2026",
+        "ciudad": "Ferrol",
+        "fechaini": "04-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5113053,
+        "lon": -8.2624767,
+        "link": "https://info64.org/41-ciudad-de-ferrol-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II TORNEO SOLIDARIO DE AJEDREZ BURJASSOT",
+        "ciudad": "BURJASSOT",
+        "fechaini": "17-07-2026",
+        "fechafin": "17-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.5090599,
+        "lon": -0.4108581,
+        "link": "https://info64.org/ii-torneo-solidario-de-ajedrez-burjassot"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Open de ajedrez “La Didáctica – Chamberí” Primavera 2026",
+        "ciudad": "Madrid",
+        "fechaini": "21-03-2026",
+        "fechafin": "27-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/open-de-ajedrez-la-didactica-chamberi-primavera-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Torneo de Xadrez Concello de Meis",
+        "ciudad": "O Mosteiro, Meis",
+        "fechaini": "08-07-2026",
+        "fechafin": "08-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5184875,
+        "lon": -8.7036082,
+        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-meis"
+    },
+    {
+        "origin": "info64",
+        "nombre": "C.A. Tomelloso - Trofeo de Primavera - Torneo B",
+        "ciudad": "Tomelloso",
+        "fechaini": "02-05-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1585549,
+        "lon": -3.0214851,
+        "link": "https://info64.org/ca-tomelloso-trofeo-de-primavera-torneo-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Memorial Enrique Rojas Mengual - Ajedrez Tajamar 2026 (480290)",
+        "ciudad": "Madrid",
+        "fechaini": "20-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/nombre-del-torneo-iii-memorial-enrique-rojas-mengual-ajedrez-tajamar-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Obert Internacional Ciutat de Sant Joan de Alacant",
+        "ciudad": "Sant Joan de Alacant",
+        "fechaini": "30-06-2026",
+        "fechafin": "02-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7815044,
+        "lon": 0.1509366,
+        "link": "https://info64.org/i-obert-internacional-ciutat-de-sant-joan-de-alacant"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Iron Chess Blitz",
+        "ciudad": "A Coruña",
+        "fechaini": "28-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3466447,
+        "lon": -8.4127029,
+        "link": "https://info64.org/ii-iron-chess-blitz"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Open de Ribadesella 2026",
+        "ciudad": "Ribadesella",
+        "fechaini": "05-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4456557,
+        "lon": -5.0835484,
+        "link": "https://info64.org/open-de-ribadesella-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Open Internacional Vila de Benimaclet 2026",
         "ciudad": "Valencia",
         "fechaini": "22-06-2026",
@@ -22,30 +178,6 @@
         "lat": 43.4851194,
         "lon": -5.2706728,
         "link": "https://info64.org/open-de-colunga-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Memorial Enrique Rojas Mengual - Ajedrez Tajamar 2026 (480290)",
-        "ciudad": "Madrid",
-        "fechaini": "20-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/nombre-del-torneo-iii-memorial-enrique-rojas-mengual-ajedrez-tajamar-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Open de Ribadesella 2026",
-        "ciudad": "Ribadesella",
-        "fechaini": "05-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4456557,
-        "lon": -5.0835484,
-        "link": "https://info64.org/open-de-ribadesella-2026"
     },
     {
         "origin": "info64",
@@ -82,18 +214,6 @@
         "lat": 42.4220772,
         "lon": -8.8353365,
         "link": "https://info64.org/iii-internacional-de-xadrez-apecr-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Torneo de Xadrez Concello de Meis",
-        "ciudad": "O Mosteiro, Meis",
-        "fechaini": "08-07-2026",
-        "fechafin": "08-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5184875,
-        "lon": -8.7036082,
-        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-meis"
     },
     {
         "origin": "info64",
@@ -469,18 +589,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III IRT Sub 2300 Utiel en tu interior",
-        "ciudad": "Utiel",
-        "fechaini": "26-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5680797,
-        "lon": -1.2051604,
-        "link": "https://info64.org/iii-irt-sub-2300-utiel"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Torneo de Ajedrez Ciudad de Priego",
         "ciudad": "Priego de Cordoba",
         "fechaini": "28-06-2026",
@@ -502,18 +610,6 @@
         "lat": 38.7815044,
         "lon": 0.1509366,
         "link": "https://info64.org/v-irt-sub-1800-sant-joan-de-alacant"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Obert Internacional Ciutat de Sant Joan de Alacant",
-        "ciudad": "Sant Joan de Alacant",
-        "fechaini": "30-06-2026",
-        "fechafin": "02-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7815044,
-        "lon": 0.1509366,
-        "link": "https://info64.org/i-obert-internacional-ciutat-de-sant-joan-de-alacant"
     },
     {
         "origin": "info64",
@@ -625,18 +721,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "41 Ciudad de Ferrol 2026",
-        "ciudad": "Ferrol",
-        "fechaini": "04-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5113053,
-        "lon": -8.2624767,
-        "link": "https://info64.org/41-ciudad-de-ferrol-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Granada Chess Open 2026",
         "ciudad": "Granada",
         "fechaini": "28-07-2026",
@@ -718,18 +802,6 @@
         "lat": 38.7594573,
         "lon": -3.3847392,
         "link": "https://info64.org/iv-blitz-nocturno-los-molinos"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Iron Chess Blitz",
-        "ciudad": "A Coruña",
-        "fechaini": "28-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3466447,
-        "lon": -8.4127029,
-        "link": "https://info64.org/ii-iron-chess-blitz"
     },
     {
         "origin": "info64",
@@ -817,18 +889,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II TORNEO SOLIDARIO DE AJEDREZ BURJASSOT",
-        "ciudad": "BURJASSOT",
-        "fechaini": "17-07-2026",
-        "fechafin": "17-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5090599,
-        "lon": -0.4108581,
-        "link": "https://info64.org/ii-torneo-solidario-de-ajedrez-burjassot"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Torneo de Ajedrez Fiestas del Albujon",
         "ciudad": "Cartagena",
         "fechaini": "27-06-2026",
@@ -850,30 +910,6 @@
         "lat": 36.7450888,
         "lon": -3.5207655,
         "link": "https://info64.org/i-open-pueblos-de-america"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo Ajedrez Rapido Toledum",
-        "ciudad": "Toledo",
-        "fechaini": "27-06-2026",
-        "fechafin": "27-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/ii-torneo-ajedrez-rapido-toledum"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo Ajedrez Blitz Toledum",
-        "ciudad": "Toledo",
-        "fechaini": "27-06-2026",
-        "fechafin": "27-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8558913,
-        "lon": -4.024265,
-        "link": "https://info64.org/ii-torneo-ajedrez-blitz-toledum"
     },
     {
         "origin": "info64",
@@ -1234,18 +1270,6 @@
         "lat": 37.9680499,
         "lon": -3.8087804,
         "link": "https://info64.org/xxxix-nocturnoa-de-ajedrez-memorial-pedrito-medina"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Preparacion Vicar",
-        "ciudad": "Piscinas Sarriguren",
-        "fechaini": "16-06-2026",
-        "fechafin": "25-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/preparacion-vicar"
     },
     {
         "origin": "info64",
@@ -1645,18 +1669,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Open de ajedrez “La Didáctica – Chamberí” Primavera 2026",
-        "ciudad": "Madrid",
-        "fechaini": "21-03-2026",
-        "fechafin": "27-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/open-de-ajedrez-la-didactica-chamberi-primavera-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Torneo Infantil Chella",
         "ciudad": "Chella",
         "fechaini": "30-08-2026",
@@ -1774,18 +1786,6 @@
         "lat": 42.5950502,
         "lon": -8.7430537,
         "link": "https://info64.org/xii-masterchess-centro-comercial-arousa-sub14"
-    },
-    {
-        "origin": "info64",
-        "nombre": "C.A. Tomelloso - Trofeo de Primavera - Torneo B",
-        "ciudad": "Tomelloso",
-        "fechaini": "02-05-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1585549,
-        "lon": -3.0214851,
-        "link": "https://info64.org/ca-tomelloso-trofeo-de-primavera-torneo-b"
     },
     {
         "origin": "info64",
@@ -2290,18 +2290,6 @@
         "lat": 36.893528,
         "lon": -4.4287903,
         "link": "https://info64.org/v-open-internacional-de-casabermeja-sub-2400"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Memorial Emilio Sánchez Jerez",
-        "ciudad": "Beniaján",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.9752568,
-        "lon": -1.0711116,
-        "link": "https://info64.org/ii-memorial-emilio-sanchez-jerez"
     },
     {
         "origin": "info64",
