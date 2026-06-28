@@ -229,6 +229,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXXVI Open Internacional de GROS Nazioarteko Xake Irekia",
+        "ciudad": "Donostia",
+        "fechaini": "21-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3224219,
+        "lon": -1.9838889,
+        "link": "https://info64.org/xxxvi-open-internacional-de-gros-nazioarteko-xake-irekia"
+    },
+    {
+        "origin": "info64",
         "nombre": "XVI Open Ciudad de Tres Cantos A",
         "ciudad": "Tres cantos",
         "fechaini": "21-06-2026",
@@ -253,15 +265,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXXVI Open Internacional de GROS Nazioarteko Xake Irekia",
-        "ciudad": "Donostia",
-        "fechaini": "21-06-2026",
+        "nombre": "Open Internacional Vila de Benimaclet 2026",
+        "ciudad": "Valencia",
+        "fechaini": "22-06-2026",
         "fechafin": "28-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.3224219,
-        "lon": -1.9838889,
-        "link": "https://info64.org/xxxvi-open-internacional-de-gros-nazioarteko-xake-irekia"
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/open-internacional-vila-de-benimaclet-2026"
     },
     {
         "origin": "info64",
@@ -274,18 +286,6 @@
         "lat": 43.5166887,
         "lon": -5.6754116,
         "link": "https://info64.org/x-open-internacional-rgcc-2026-ii-memorial-marco-marino"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Open Internacional Vila de Benimaclet 2026",
-        "ciudad": "Valencia",
-        "fechaini": "22-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/open-internacional-vila-de-benimaclet-2026"
     },
     {
         "origin": "chess-results",
@@ -337,18 +337,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III IRT Sub 2300 Utiel en tu interior",
-        "ciudad": "Utiel",
-        "fechaini": "26-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5680797,
-        "lon": -1.2051604,
-        "link": "https://info64.org/iii-irt-sub-2300-utiel"
-    },
-    {
-        "origin": "info64",
         "nombre": "IX OPEN DE AJEDREZ CANFRANC IRT SUB 2200",
         "ciudad": "Canfranc",
         "fechaini": "26-06-2026",
@@ -373,27 +361,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Lince Andujar Chess Festival 2026",
-        "ciudad": "Andujar",
-        "fechaini": "27-06-2026",
-        "fechafin": "03-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0392362,
-        "lon": -4.0505603,
-        "link": "https://info64.org/ii-lince-andujar-chess-festival-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II IRT Sub1800 Escola Escacs Castelló",
-        "ciudad": "Castelló de la Plana",
-        "fechaini": "27-06-2026",
+        "nombre": "III IRT Sub 2300 Utiel en tu interior",
+        "ciudad": "Utiel",
+        "fechaini": "26-06-2026",
         "fechafin": "28-06-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.9860347,
-        "lon": -0.0377354,
-        "link": "https://info64.org/ii-irt-sub1800-escola-escacs-castello"
+        "lat": 39.5680797,
+        "lon": -1.2051604,
+        "link": "https://info64.org/iii-irt-sub-2300-utiel"
     },
     {
         "origin": "info64",
@@ -420,6 +396,30 @@
         "link": "https://info64.org/ii-torneo-xadrez-xoven-482172"
     },
     {
+        "origin": "info64",
+        "nombre": "II Lince Andujar Chess Festival 2026",
+        "ciudad": "Andujar",
+        "fechaini": "27-06-2026",
+        "fechafin": "03-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0392362,
+        "lon": -4.0505603,
+        "link": "https://info64.org/ii-lince-andujar-chess-festival-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II IRT Sub1800 Escola Escacs Castelló",
+        "ciudad": "Castelló de la Plana",
+        "fechaini": "27-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9860347,
+        "lon": -0.0377354,
+        "link": "https://info64.org/ii-irt-sub1800-escola-escacs-castello"
+    },
+    {
         "origin": "chess-results",
         "nombre": "II Lince Andujar Chess Festival 2026",
         "ciudad": "Andujar",
@@ -433,31 +433,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "2º Torneo XADREZ DORNA (28-6-26)",
-        "ciudad": "Illa de Arousa",
-        "fechaini": "28-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.550039,
-        "lon": -8.8671561,
-        "link": "https://info64.org/2o-torneo-xadrez-dorna-28-6-26-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Llinars International Blitz Chess Open",
-        "ciudad": "Llinars del Valles",
-        "fechaini": "28-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6400252,
-        "lon": 2.3978389,
-        "link": "https://info64.org/v-llinars-international-blitz-chess-open"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo de Ajedrez Fiestas del Distrito de Vicalvaro",
+        "nombre": "Fiestas del Distrito de Vicalvaro",
         "ciudad": "Vicalvaro",
         "fechaini": "28-06-2026",
         "fechafin": "28-06-2026",
@@ -465,31 +441,7 @@
         "ritmo": "-",
         "lat": 40.4018377,
         "lon": -3.5950537,
-        "link": "https://info64.org/torneo-de-ajedrez-fiestas-del-distrito-de-vicalvaro"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo de Ajedrez Ciudad de Priego",
-        "ciudad": "Priego de Cordoba",
-        "fechaini": "28-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.4384292,
-        "lon": -4.1980422,
-        "link": "https://info64.org/iii-torneo-de-ajedrez-ciudad-de-priego"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Memorial Caballo Blanco Casino de Galdar 2026",
-        "ciudad": "Galdar",
-        "fechaini": "28-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 28.0960644,
-        "lon": -15.6554885,
-        "link": "https://info64.org/memorial-caballo-blanco-casino-de-galdar-2026"
+        "link": "https://info64.org/torneo-de-ajedrez-fiestas-del-distrito-de-vicalvaro-1"
     },
     {
         "origin": "info64",
@@ -505,6 +457,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "III Torneo de Ajedrez Ciudad de Priego",
+        "ciudad": "Priego de Cordoba",
+        "fechaini": "28-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.4384292,
+        "lon": -4.1980422,
+        "link": "https://info64.org/iii-torneo-de-ajedrez-ciudad-de-priego"
+    },
+    {
+        "origin": "info64",
+        "nombre": "2º Torneo XADREZ DORNA (28-6-26)",
+        "ciudad": "Illa de Arousa",
+        "fechaini": "28-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.550039,
+        "lon": -8.8671561,
+        "link": "https://info64.org/2o-torneo-xadrez-dorna-28-6-26-1"
+    },
+    {
+        "origin": "info64",
         "nombre": "I TORNEO DE AJEDREZ BERENGUELA DE CASTILLA",
         "ciudad": "Bolaños de Calatrava",
         "fechaini": "28-06-2026",
@@ -514,6 +490,30 @@
         "lat": 38.9062533,
         "lon": -3.6629811,
         "link": "https://info64.org/i-torneo-de-ajedrez-berenguela-de-castilla"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Llinars International Blitz Chess Open",
+        "ciudad": "Llinars del Valles",
+        "fechaini": "28-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6400252,
+        "lon": 2.3978389,
+        "link": "https://info64.org/v-llinars-international-blitz-chess-open"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Memorial Caballo Blanco Casino de Galdar 2026",
+        "ciudad": "Galdar",
+        "fechaini": "28-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 28.0960644,
+        "lon": -15.6554885,
+        "link": "https://info64.org/memorial-caballo-blanco-casino-de-galdar-2026"
     },
     {
         "origin": "info64",
@@ -709,6 +709,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II Torneo de Ajedrez Restaurante Finca Sport Gril",
+        "ciudad": "Malaga",
+        "fechaini": "30-06-2026",
+        "fechafin": "30-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7647913,
+        "lon": -4.4422005,
+        "link": "https://info64.org/ii-torneo-de-ajedrez-restaurante-finca-sport-gril"
+    },
+    {
+        "origin": "info64",
         "nombre": "V IRT Sub-1800 Sant Joan de Alacant",
         "ciudad": "Sant Joan de Alacant",
         "fechaini": "30-06-2026",
@@ -745,18 +757,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Torneo de Ajedrez Restaurante Finca Sport Gril",
-        "ciudad": "Malaga",
-        "fechaini": "30-06-2026",
-        "fechafin": "30-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7647913,
-        "lon": -4.4422005,
-        "link": "https://info64.org/ii-torneo-de-ajedrez-restaurante-finca-sport-gril"
-    },
-    {
-        "origin": "info64",
         "nombre": "Selecciones Autonomicas Sub-14 CESA 2026",
         "ciudad": "Padron",
         "fechaini": "30-06-2026",
@@ -766,6 +766,18 @@
         "lat": 42.7597656,
         "lon": -8.6236363,
         "link": "https://info64.org/team/selecciones-autonomicas-sub-14-cesa-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Lince Andujar Blitz nocturno Hotel Casa Azul",
+        "ciudad": "Andujar",
+        "fechaini": "01-07-2026",
+        "fechafin": "01-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0392362,
+        "lon": -4.0505603,
+        "link": "https://info64.org/ii-lince-andujar-blitz-nocturno-hotel-casa-azul"
     },
     {
         "origin": "info64",
@@ -1033,6 +1045,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Aberto Xadrez Albatros",
+        "ciudad": "A Guarda",
+        "fechaini": "04-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.9028824,
+        "lon": -8.8563509,
+        "link": "https://info64.org/i-aberto-xadrez-albatros"
+    },
+    {
+        "origin": "info64",
         "nombre": "41 Ciudad de Ferrol 2026",
         "ciudad": "Ferrol",
         "fechaini": "04-07-2026",
@@ -1186,18 +1210,6 @@
         "lat": 39.0513265,
         "lon": -0.4909038,
         "link": "https://info64.org/torneig-social-ce-manuel-eduardo-perez"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Aberto Xadrez Albatros",
-        "ciudad": "A Guarda",
-        "fechaini": "04-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.9028824,
-        "lon": -8.8563509,
-        "link": "https://info64.org/i-aberto-xadrez-albatros"
     },
     {
         "origin": "info64",
@@ -1441,18 +1453,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Open de Colunga 2026",
-        "ciudad": "Colunga",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4851194,
-        "lon": -5.2706728,
-        "link": "https://info64.org/open-de-colunga-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "III TORNEIG D'ESCACS D'ESTIU - VILLA DE SANTA POLA BLITZ SUB 2000",
         "ciudad": "SANTA POLA",
         "fechaini": "11-07-2026",
@@ -1462,6 +1462,18 @@
         "lat": 38.1923641,
         "lon": -0.5555464,
         "link": "https://info64.org/iii-torneig-descacs-destiu-villa-de-santa-pola-blitz-sub-2000"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Open de Colunga 2026",
+        "ciudad": "Colunga",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4851194,
+        "lon": -5.2706728,
+        "link": "https://info64.org/open-de-colunga-2026"
     },
     {
         "origin": "info64",
@@ -1717,6 +1729,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II TORNEO SOLIDARIO DE AJEDREZ BURJASSOT",
+        "ciudad": "BURJASSOT",
+        "fechaini": "17-07-2026",
+        "fechafin": "17-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.5090599,
+        "lon": -0.4108581,
+        "link": "https://info64.org/ii-torneo-solidario-de-ajedrez-burjassot"
+    },
+    {
+        "origin": "info64",
         "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB1800",
         "ciudad": "Valdepeñas",
         "fechaini": "17-07-2026",
@@ -1738,18 +1762,6 @@
         "lat": 38.7594573,
         "lon": -3.3847392,
         "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub2400"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II TORNEO SOLIDARIO DE AJEDREZ BURJASSOT",
-        "ciudad": "BURJASSOT",
-        "fechaini": "17-07-2026",
-        "fechafin": "17-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5090599,
-        "lon": -0.4108581,
-        "link": "https://info64.org/ii-torneo-solidario-de-ajedrez-burjassot"
     },
     {
         "origin": "info64",
@@ -1789,18 +1801,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Open de Grado - Fiesta Santiago y Santa Ana",
-        "ciudad": "Grado",
-        "fechaini": "18-07-2026",
-        "fechafin": "18-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.2980596,
-        "lon": -6.1471901,
-        "link": "https://info64.org/v-open-de-grado-fiesta-santiago-y-santa-ana"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Abierto de Ajedrez Feria Santa Marta In Memoriam Enrique Moreno",
         "ciudad": "Polideportivo Municipal",
         "fechaini": "18-07-2026",
@@ -1810,6 +1810,18 @@
         "lat": 42.1134546,
         "lon": -8.7646089,
         "link": "https://info64.org/iv-abierto-de-ajedrez-feria-santa-marta-in-memoriam-enrique-moreno"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Open de Grado - Fiesta Santiago y Santa Ana",
+        "ciudad": "Grado",
+        "fechaini": "18-07-2026",
+        "fechafin": "18-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2980596,
+        "lon": -6.1471901,
+        "link": "https://info64.org/v-open-de-grado-fiesta-santiago-y-santa-ana"
     },
     {
         "origin": "info64",
@@ -2005,15 +2017,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Torneo Sub 2400 Club Ajedrez V Centenario",
-        "ciudad": "San Sebastian de los Reyes",
+        "nombre": "XIV Torneo Internacional Cidade de Pontevedra Masters.",
+        "ciudad": "Pontevedra",
         "fechaini": "24-07-2026",
-        "fechafin": "26-07-2026",
+        "fechafin": "30-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.5473698,
-        "lon": -3.6260586,
-        "link": "https://info64.org/x-torneo-sub-2400-club-ajedrez-v-centenario"
+        "lat": 42.428065,
+        "lon": -8.6041447,
+        "link": "https://info64.org/xiv-torneo-internacional-cidade-de-pontevedra-masters"
     },
     {
         "origin": "info64",
@@ -2029,15 +2041,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "XIV Torneo Internacional Cidade de Pontevedra Masters.",
-        "ciudad": "Pontevedra",
+        "nombre": "X Torneo Sub 2400 Club Ajedrez V Centenario",
+        "ciudad": "San Sebastian de los Reyes",
         "fechaini": "24-07-2026",
-        "fechafin": "30-07-2026",
+        "fechafin": "26-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.428065,
-        "lon": -8.6041447,
-        "link": "https://info64.org/xiv-torneo-internacional-cidade-de-pontevedra-masters"
+        "lat": 40.5473698,
+        "lon": -3.6260586,
+        "link": "https://info64.org/x-torneo-sub-2400-club-ajedrez-v-centenario"
     },
     {
         "origin": "info64",
