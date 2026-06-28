@@ -373,15 +373,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo Bon-Elo de Ajedrez de Casarabonela",
-        "ciudad": "Casarabonela",
+        "nombre": "II Lince Andujar Chess Festival 2026",
+        "ciudad": "Andujar",
         "fechaini": "27-06-2026",
-        "fechafin": "27-06-2026",
+        "fechafin": "03-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7852106,
-        "lon": -4.8430732,
-        "link": "https://info64.org/i-torneo-bon-elo-de-ajedrez-de-casarabonela"
+        "lat": 38.0392362,
+        "lon": -4.0505603,
+        "link": "https://info64.org/ii-lince-andujar-chess-festival-2026"
     },
     {
         "origin": "info64",
@@ -394,18 +394,6 @@
         "lat": 39.9860347,
         "lon": -0.0377354,
         "link": "https://info64.org/ii-irt-sub1800-escola-escacs-castello"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Lince Andujar Chess Festival 2026",
-        "ciudad": "Andujar",
-        "fechaini": "27-06-2026",
-        "fechafin": "03-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0392362,
-        "lon": -4.0505603,
-        "link": "https://info64.org/ii-lince-andujar-chess-festival-2026"
     },
     {
         "origin": "info64",
@@ -432,18 +420,6 @@
         "link": "https://info64.org/ii-torneo-xadrez-xoven-482172"
     },
     {
-        "origin": "info64",
-        "nombre": "XXXV TORNEO PROMOCION UNIVERSITARIO - ODEON",
-        "ciudad": "Naron",
-        "fechaini": "27-06-2026",
-        "fechafin": "27-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5317883,
-        "lon": -8.1565473,
-        "link": "https://info64.org/xxxv-torneo-promocion-universitario-odeon"
-    },
-    {
         "origin": "chess-results",
         "nombre": "II Lince Andujar Chess Festival 2026",
         "ciudad": "Andujar",
@@ -454,42 +430,6 @@
         "lat": 38.0392362,
         "lon": -4.0505603,
         "link": "https://chess-results.com/tnr1364562.aspx?lan=2"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo de Ajedrez Fiestas del Distrito de Vicalvaro",
-        "ciudad": "Vicalvaro",
-        "fechaini": "28-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4018377,
-        "lon": -3.5950537,
-        "link": "https://info64.org/torneo-de-ajedrez-fiestas-del-distrito-de-vicalvaro"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Llinars International Blitz Chess Open",
-        "ciudad": "Llinars del Valles",
-        "fechaini": "28-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6400252,
-        "lon": 2.3978389,
-        "link": "https://info64.org/v-llinars-international-blitz-chess-open"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Memorial Caballo Blanco Casino de Galdar 2026",
-        "ciudad": "Galdar",
-        "fechaini": "28-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 28.0960644,
-        "lon": -15.6554885,
-        "link": "https://info64.org/memorial-caballo-blanco-casino-de-galdar-2026"
     },
     {
         "origin": "info64",
@@ -505,6 +445,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "V Llinars International Blitz Chess Open",
+        "ciudad": "Llinars del Valles",
+        "fechaini": "28-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6400252,
+        "lon": 2.3978389,
+        "link": "https://info64.org/v-llinars-international-blitz-chess-open"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de Ajedrez Fiestas del Distrito de Vicalvaro",
+        "ciudad": "Vicalvaro",
+        "fechaini": "28-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4018377,
+        "lon": -3.5950537,
+        "link": "https://info64.org/torneo-de-ajedrez-fiestas-del-distrito-de-vicalvaro"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Torneo de Ajedrez Ciudad de Priego",
         "ciudad": "Priego de Cordoba",
         "fechaini": "28-06-2026",
@@ -514,6 +478,18 @@
         "lat": 37.4384292,
         "lon": -4.1980422,
         "link": "https://info64.org/iii-torneo-de-ajedrez-ciudad-de-priego"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Memorial Caballo Blanco Casino de Galdar 2026",
+        "ciudad": "Galdar",
+        "fechaini": "28-06-2026",
+        "fechafin": "28-06-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 28.0960644,
+        "lon": -15.6554885,
+        "link": "https://info64.org/memorial-caballo-blanco-casino-de-galdar-2026"
     },
     {
         "origin": "info64",
@@ -1057,6 +1033,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "41 Ciudad de Ferrol 2026",
+        "ciudad": "Ferrol",
+        "fechaini": "04-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5113053,
+        "lon": -8.2624767,
+        "link": "https://info64.org/41-ciudad-de-ferrol-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "XII Master Centro Comercial Arousa sub12",
         "ciudad": "Vilagarcía de Arousa",
         "fechaini": "04-07-2026",
@@ -1177,18 +1165,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "41 Ciudad de Ferrol 2026",
-        "ciudad": "Ferrol",
-        "fechaini": "04-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5113053,
-        "lon": -8.2624767,
-        "link": "https://info64.org/41-ciudad-de-ferrol-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "VII Open Internacional Valencia Cuna del Ajedrez - Grupo A",
         "ciudad": "Valencia",
         "fechaini": "04-07-2026",
@@ -1297,6 +1273,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Open de Ribadesella 2026",
+        "ciudad": "Ribadesella",
+        "fechaini": "05-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4456557,
+        "lon": -5.0835484,
+        "link": "https://info64.org/open-de-ribadesella-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Torneo Semana de la Juventud Collado Villalba Abierto",
         "ciudad": "Collado Villalba",
         "fechaini": "05-07-2026",
@@ -1318,18 +1306,6 @@
         "lat": 38.0051678,
         "lon": -3.9146981,
         "link": "https://info64.org/xxii-memorial-de-ajedrez-manuel-rus-casado"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Open de Ribadesella 2026",
-        "ciudad": "Ribadesella",
-        "fechaini": "05-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4456557,
-        "lon": -5.0835484,
-        "link": "https://info64.org/open-de-ribadesella-2026"
     },
     {
         "origin": "info64",
@@ -1465,6 +1441,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Open de Colunga 2026",
+        "ciudad": "Colunga",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4851194,
+        "lon": -5.2706728,
+        "link": "https://info64.org/open-de-colunga-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "III TORNEIG D'ESCACS D'ESTIU - VILLA DE SANTA POLA BLITZ SUB 2000",
         "ciudad": "SANTA POLA",
         "fechaini": "11-07-2026",
@@ -1486,18 +1474,6 @@
         "lat": 38.349681,
         "lon": -2.736619,
         "link": "https://info64.org/vi-open-ajedrez"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Open de Colunga 2026",
-        "ciudad": "Colunga",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4851194,
-        "lon": -5.2706728,
-        "link": "https://info64.org/open-de-colunga-2026"
     },
     {
         "origin": "info64",
@@ -2245,18 +2221,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Open Internacional Ciudad de Vitoria - Gasteiz",
-        "ciudad": "Vitoria-Gasteiz",
-        "fechaini": "27-07-2026",
-        "fechafin": "02-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8505845,
-        "lon": -2.66145,
-        "link": "https://info64.org/ii-open-internacional-ciudad-de-vitoria-gasteiz"
-    },
-    {
-        "origin": "info64",
         "nombre": "XIII Torneo Verano Alicante",
         "ciudad": "Alicante",
         "fechaini": "27-07-2026",
@@ -2266,6 +2230,18 @@
         "lat": 38.3436365,
         "lon": -0.4881708,
         "link": "https://info64.org/xiii-torneo-verano-alicante"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Internacional Ciudad de Vitoria - Gasteiz",
+        "ciudad": "Vitoria-Gasteiz",
+        "fechaini": "27-07-2026",
+        "fechafin": "02-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8505845,
+        "lon": -2.66145,
+        "link": "https://info64.org/ii-open-internacional-ciudad-de-vitoria-gasteiz"
     },
     {
         "origin": "chess-results",
