@@ -96,18 +96,6 @@
         "link": "https://chess-results.com/tnr1362287.aspx?lan=2"
     },
     {
-        "origin": "info64",
-        "nombre": "Primera liga Club Alfil Callejero",
-        "ciudad": "Guadalajara",
-        "fechaini": "23-02-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7399963,
-        "lon": -2.50593,
-        "link": "https://info64.org/primera-liga-club-alfil-callejero"
-    },
-    {
         "origin": "chess-results",
         "nombre": "Torneo Social AXK 2026 - Astigarraga",
         "ciudad": "Astigarraga",
@@ -154,18 +142,6 @@
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1421287.aspx?lan=2"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Copa de Asturias por Equipos 2026",
-        "ciudad": "Asturias",
-        "fechaini": "30-05-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3133868,
-        "lon": -5.94192,
-        "link": "https://info64.org/team/copa-de-asturias-por-equipos-2026"
     },
     {
         "origin": "chess-results",
@@ -262,30 +238,6 @@
         "lat": 38.0392362,
         "lon": -4.0505603,
         "link": "https://chess-results.com/tnr1364562.aspx?lan=2"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Iron Chess Blitz",
-        "ciudad": "A Coruña",
-        "fechaini": "28-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3466447,
-        "lon": -8.4127029,
-        "link": "https://info64.org/ii-iron-chess-blitz"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II T. Escalona",
-        "ciudad": "Escalona",
-        "fechaini": "28-06-2026",
-        "fechafin": "28-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.1665576,
-        "lon": -4.4038607,
-        "link": "https://info64.org/ii-t-escalona"
     },
     {
         "origin": "info64",
@@ -649,6 +601,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "41 Ciudad de Ferrol 2026",
+        "ciudad": "Ferrol",
+        "fechaini": "04-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5113053,
+        "lon": -8.2624767,
+        "link": "https://info64.org/41-ciudad-de-ferrol-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "VIII NOCTURNO INFANTIL DE AJEDREZ MEMORIAL PEDRITO MEDINA",
         "ciudad": "MENGIBAR",
         "fechaini": "04-07-2026",
@@ -769,18 +733,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "41 Ciudad de Ferrol 2026",
-        "ciudad": "Ferrol",
-        "fechaini": "04-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5113053,
-        "lon": -8.2624767,
-        "link": "https://info64.org/41-ciudad-de-ferrol-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXXIX NOCTURNO DE AJEDREZ MEMORIAL PEDRITO MEDINA",
         "ciudad": "MENGIBAR",
         "fechaini": "04-07-2026",
@@ -889,15 +841,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXII MEMORIAL DE AJEDREZ MANUEL RUS CASADO",
-        "ciudad": "VILLANUEVA DE LA REINA",
+        "nombre": "XLV TORNEO OPEN INTERNACIONAL VILLA DE BENASQUE",
+        "ciudad": "Benasque",
         "fechaini": "05-07-2026",
-        "fechafin": "05-07-2026",
+        "fechafin": "14-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.0051678,
-        "lon": -3.9146981,
-        "link": "https://info64.org/xxii-memorial-de-ajedrez-manuel-rus-casado"
+        "lat": 42.6052663,
+        "lon": 0.5237318,
+        "link": "https://info64.org/xlv-torneo-open-internacional-villa-de-benasque"
     },
     {
         "origin": "info64",
@@ -913,6 +865,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXII MEMORIAL DE AJEDREZ MANUEL RUS CASADO",
+        "ciudad": "VILLANUEVA DE LA REINA",
+        "fechaini": "05-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0051678,
+        "lon": -3.9146981,
+        "link": "https://info64.org/xxii-memorial-de-ajedrez-manuel-rus-casado"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Torneo Semana de la Juventud Collado Villalba Abierto",
         "ciudad": "Collado Villalba",
         "fechaini": "05-07-2026",
@@ -922,18 +886,6 @@
         "lat": 40.6483467,
         "lon": -3.9819765,
         "link": "https://info64.org/iii-torneo-semana-de-la-juventud-collado-villalba-abierto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XLV TORNEO OPEN INTERNACIONAL VILLA DE BENASQUE",
-        "ciudad": "Benasque",
-        "fechaini": "05-07-2026",
-        "fechafin": "14-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.6052663,
-        "lon": 0.5237318,
-        "link": "https://info64.org/xlv-torneo-open-internacional-villa-de-benasque"
     },
     {
         "origin": "chess-results",
