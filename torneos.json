@@ -169,18 +169,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Tancat IM Llinars del Valles",
-        "ciudad": "Llinars del Valles",
-        "fechaini": "25-06-2026",
-        "fechafin": "03-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6400252,
-        "lon": 2.3978389,
-        "link": "https://info64.org/i-tancat-im-llinars-del-valles"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Llinars International Chess Open Grup A",
         "ciudad": "Llinars del Valles",
         "fechaini": "25-06-2026",
@@ -190,6 +178,18 @@
         "lat": 41.6400252,
         "lon": 2.3978389,
         "link": "https://info64.org/vi-llinars-international-chess-open-grup-a"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Tancat IM Llinars del Valles",
+        "ciudad": "Llinars del Valles",
+        "fechaini": "25-06-2026",
+        "fechafin": "03-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6400252,
+        "lon": 2.3978389,
+        "link": "https://info64.org/i-tancat-im-llinars-del-valles"
     },
     {
         "origin": "info64",
@@ -238,18 +238,6 @@
         "lat": 38.0392362,
         "lon": -4.0505603,
         "link": "https://chess-results.com/tnr1364562.aspx?lan=2"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Aviles Activa 2026_7",
-        "ciudad": "Aviles",
-        "fechaini": "29-06-2026",
-        "fechafin": "29-06-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
-        "link": "https://info64.org/aviles-activa-2026_7"
     },
     {
         "origin": "info64",
@@ -325,27 +313,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Obert Internacional Ciutat de Sant Joan de Alacant",
-        "ciudad": "Sant Joan de Alacant",
+        "nombre": "Selecciones Autonomicas Sub-16 CESA 2026",
+        "ciudad": "Padron",
         "fechaini": "30-06-2026",
-        "fechafin": "02-07-2026",
+        "fechafin": "03-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.7815044,
-        "lon": 0.1509366,
-        "link": "https://info64.org/i-obert-internacional-ciutat-de-sant-joan-de-alacant"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V IRT Sub-1800 Sant Joan de Alacant",
-        "ciudad": "Sant Joan de Alacant",
-        "fechaini": "30-06-2026",
-        "fechafin": "02-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7815044,
-        "lon": 0.1509366,
-        "link": "https://info64.org/v-irt-sub-1800-sant-joan-de-alacant"
+        "lat": 42.7597656,
+        "lon": -8.6236363,
+        "link": "https://info64.org/team/selecciones-autonomicas-sub-16-cesa-2026"
     },
     {
         "origin": "info64",
@@ -361,15 +337,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "Selecciones Autonomicas Sub-16 CESA 2026",
-        "ciudad": "Padron",
+        "nombre": "V IRT Sub-1800 Sant Joan de Alacant",
+        "ciudad": "Sant Joan de Alacant",
         "fechaini": "30-06-2026",
-        "fechafin": "03-07-2026",
+        "fechafin": "02-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.7597656,
-        "lon": -8.6236363,
-        "link": "https://info64.org/team/selecciones-autonomicas-sub-16-cesa-2026"
+        "lat": 38.7815044,
+        "lon": 0.1509366,
+        "link": "https://info64.org/v-irt-sub-1800-sant-joan-de-alacant"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Obert Internacional Ciutat de Sant Joan de Alacant",
+        "ciudad": "Sant Joan de Alacant",
+        "fechaini": "30-06-2026",
+        "fechafin": "02-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7815044,
+        "lon": 0.1509366,
+        "link": "https://info64.org/i-obert-internacional-ciutat-de-sant-joan-de-alacant"
     },
     {
         "origin": "info64",
@@ -433,18 +421,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Canarias Juvenil 2026",
-        "ciudad": "Lanzarote",
-        "fechaini": "02-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 29.0397081,
-        "lon": -13.6362916,
-        "link": "https://info64.org/campeonato-de-canarias-juvenil-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato de Canarias Veteranos 2026",
         "ciudad": "Lanzarote",
         "fechaini": "02-07-2026",
@@ -454,6 +430,18 @@
         "lat": 29.0397081,
         "lon": -13.6362916,
         "link": "https://info64.org/campeonato-de-canarias-veteranos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Canarias Juvenil 2026",
+        "ciudad": "Lanzarote",
+        "fechaini": "02-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 29.0397081,
+        "lon": -13.6362916,
+        "link": "https://info64.org/campeonato-de-canarias-juvenil-2026"
     },
     {
         "origin": "info64",
@@ -661,6 +649,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "III Torneo Semana de la Juventud Collado Villalba Jovenes",
+        "ciudad": "Collado Villalba",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6483467,
+        "lon": -3.9819765,
+        "link": "https://info64.org/iii-torneo-semana-de-la-juventud-collado-villalba-jovenes"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Aberto Xadrez Albatros",
         "ciudad": "A Guarda",
         "fechaini": "04-07-2026",
@@ -754,18 +754,6 @@
         "lat": 39.0513265,
         "lon": -0.4909038,
         "link": "https://info64.org/torneig-social-ce-manuel-eduardo-perez"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Semana de la Juventud Collado Villalba Jovenes",
-        "ciudad": "Collado Villalba",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6483467,
-        "lon": -3.9819765,
-        "link": "https://info64.org/iii-torneo-semana-de-la-juventud-collado-villalba-jovenes"
     },
     {
         "origin": "info64",
@@ -925,18 +913,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Open de Ribadesella 2026",
-        "ciudad": "Ribadesella",
-        "fechaini": "05-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4456557,
-        "lon": -5.0835484,
-        "link": "https://info64.org/open-de-ribadesella-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Torneo Semana de la Juventud Collado Villalba Categoria Abierta",
         "ciudad": "Collado Villalba",
         "fechaini": "05-07-2026",
@@ -946,6 +922,18 @@
         "lat": 40.6483467,
         "lon": -3.9819765,
         "link": "https://info64.org/iii-torneo-semana-de-la-juventud-collado-villalba-abierto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Open de Ribadesella 2026",
+        "ciudad": "Ribadesella",
+        "fechaini": "05-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4456557,
+        "lon": -5.0835484,
+        "link": "https://info64.org/open-de-ribadesella-2026"
     },
     {
         "origin": "info64",
@@ -1225,6 +1213,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "VI Circuito Provincial de Ajedrez 2026 -Torneo 1: PADUL",
+        "ciudad": "Padul",
+        "fechaini": "12-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.0222913,
+        "lon": -3.6274938,
+        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "V BATALLA DE BAILEN 2026",
         "ciudad": "Bailen",
         "fechaini": "12-07-2026",
@@ -1246,18 +1246,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/i-torneo-blitz-akeru-vicalvaro"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Circuito Provincial de Ajedrez 2026 -Torneo 1: PADUL",
-        "ciudad": "Padul",
-        "fechaini": "12-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.0222913,
-        "lon": -3.6274938,
-        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026"
     },
     {
         "origin": "info64",
@@ -2209,6 +2197,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXIII Open Activo Villa de Gijon 2026 - II Memorial Marco Marino",
+        "ciudad": "Fronton RGCC",
+        "fechaini": "08-08-2026",
+        "fechafin": "08-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/xxiii-open-activo-villa-de-gijon-2026-ii-memorial-marco-marino"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Open Pueblos de America",
         "ciudad": "Motril",
         "fechaini": "08-08-2026",
@@ -2257,15 +2257,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXIII Open Activo Villa de Gijon 2026 - II Memorial Marco Marino",
-        "ciudad": "Fronton RGCC",
-        "fechaini": "08-08-2026",
-        "fechafin": "08-08-2026",
+        "nombre": "Torneo Caniles 2026",
+        "ciudad": "Caniles",
+        "fechaini": "09-08-2026",
+        "fechafin": "09-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xxiii-open-activo-villa-de-gijon-2026-ii-memorial-marco-marino"
+        "lat": 37.4362471,
+        "lon": -2.722409,
+        "link": "https://info64.org/torneo-caniles-2026"
     },
     {
         "origin": "info64",
@@ -2278,18 +2278,6 @@
         "lat": 39.9264703,
         "lon": -0.4956292,
         "link": "https://info64.org/xiii-campeonato-de-ajedrez-villa-de-gaibiel"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Caniles 2026",
-        "ciudad": "Caniles",
-        "fechaini": "09-08-2026",
-        "fechafin": "09-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.4362471,
-        "lon": -2.722409,
-        "link": "https://info64.org/torneo-caniles-2026"
     },
     {
         "origin": "info64",
@@ -2719,8 +2707,8 @@
         "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4800615,
-        "lon": -3.7393998,
+        "lat": 40.4799017,
+        "lon": -3.7397206,
         "link": "https://info64.org/x-torneo-fiestas-de-fresnedillas-2026-ajedrez-y-paella"
     },
     {
