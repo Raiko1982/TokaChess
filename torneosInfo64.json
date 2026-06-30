@@ -1,6 +1,114 @@
 [
     {
         "origin": "info64",
+        "nombre": "X Torneo de Xadrez Concello de Meis",
+        "ciudad": "O Mosteiro, Meis",
+        "fechaini": "08-07-2026",
+        "fechafin": "08-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5184875,
+        "lon": -8.7036082,
+        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-meis"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Internacional de Xadrez APECR 2026",
+        "ciudad": "Sanxenxo",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4220772,
+        "lon": -8.8353365,
+        "link": "https://info64.org/iii-internacional-de-xadrez-apecr-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Aldaia Educart 10º aniversario SUB10",
+        "ciudad": "C/ Juan Sánchez, 1",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7239088,
+        "lon": -4.437763,
+        "link": "https://info64.org/torneo-aldaia-educart-10o-aniversario-sub10"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Aldaia Educart 10º aniversario SUB12",
+        "ciudad": "C/ Juan Sánchez, 1",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7239088,
+        "lon": -4.437763,
+        "link": "https://info64.org/torneo-aldaia-educart-10o-aniversario-sub12"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Aldaia Educart 10º aniversario ABSOLUTA",
+        "ciudad": "C/ Juan Sánchez, 1",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7239088,
+        "lon": -4.437763,
+        "link": "https://info64.org/torneo-aldaia-educart-10o-aniversario-absoluta"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Xadrez Concello do Porrino",
+        "ciudad": "O Porriño",
+        "fechaini": "17-07-2026",
+        "fechafin": "17-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1364387,
+        "lon": -8.6255949,
+        "link": "https://info64.org/i-torneo-xadrez-concello-do-porrino"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI TORNEO OPEN SUB 2200 de BURLADA",
+        "ciudad": "BURLADA",
+        "fechaini": "02-10-2026",
+        "fechafin": "04-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8230299,
+        "lon": -1.614076,
+        "link": "https://info64.org/vi-torneo-open-sub-2200-de-burlada"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Open Internacional de Oviedo 2026",
+        "ciudad": "Oviedo",
+        "fechaini": "20-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3533452,
+        "lon": -5.8795096,
+        "link": "https://info64.org/open-internacional-de-oviedo-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo de Blitz Mikel Gurea",
+        "ciudad": "Burlada",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8230299,
+        "lon": -1.614076,
+        "link": "https://info64.org/ii-torneo-de-blitz-mikel-gurea-1"
+    },
+    {
+        "origin": "info64",
         "nombre": "XIII Torneo Verano Alicante",
         "ciudad": "Alicante",
         "fechaini": "27-07-2026",
@@ -565,18 +673,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Torneo de Xadrez Concello de Meis",
-        "ciudad": "O Mosteiro, Meis",
-        "fechaini": "08-07-2026",
-        "fechafin": "08-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5184875,
-        "lon": -8.7036082,
-        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-meis"
-    },
-    {
-        "origin": "info64",
         "nombre": "V BATALLA DE BAILEN 2026",
         "ciudad": "Bailen",
         "fechaini": "12-07-2026",
@@ -781,18 +877,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Open Internacional de Oviedo 2026",
-        "ciudad": "Oviedo",
-        "fechaini": "20-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3533452,
-        "lon": -5.8795096,
-        "link": "https://info64.org/open-internacional-de-oviedo-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "XLV TORNEO OPEN INTERNACIONAL VILLA DE BENASQUE",
         "ciudad": "Benasque",
         "fechaini": "05-07-2026",
@@ -922,18 +1006,6 @@
         "lat": 36.8316986,
         "lon": -2.6430297,
         "link": "https://info64.org/campeonato-de-espana-sub-10-2026-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Internacional de Xadrez APECR 2026",
-        "ciudad": "Sanxenxo",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4220772,
-        "lon": -8.8353365,
-        "link": "https://info64.org/iii-internacional-de-xadrez-apecr-2026"
     },
     {
         "origin": "info64",
@@ -1462,18 +1534,6 @@
         "lat": 36.8316986,
         "lon": -2.6430297,
         "link": "https://info64.org/campeonato-de-espana-sub-8-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Xadrez Concello do Porrino",
-        "ciudad": "O Porriño",
-        "fechaini": "17-07-2026",
-        "fechafin": "17-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1364387,
-        "lon": -8.6255949,
-        "link": "https://info64.org/i-torneo-xadrez-concello-do-porrino"
     },
     {
         "origin": "info64",
@@ -2179,8 +2239,8 @@
         "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4799017,
-        "lon": -3.7397206,
+        "lat": 40.4800615,
+        "lon": -3.7393998,
         "link": "https://info64.org/x-torneo-fiestas-de-fresnedillas-2026-ajedrez-y-paella"
     },
     {
