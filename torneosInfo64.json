@@ -1,6 +1,114 @@
 [
     {
         "origin": "info64",
+        "nombre": "V BATALLA DE BAILEN 2026",
+        "ciudad": "Bailen",
+        "fechaini": "12-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.096787,
+        "lon": -3.7765601,
+        "link": "https://info64.org/v-batalla-de-bailen-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "BILBAO BAILEN 60 ANIVERSARIO",
+        "ciudad": "BAILEN",
+        "fechaini": "02-07-2026",
+        "fechafin": "03-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.096787,
+        "lon": -3.7765601,
+        "link": "https://info64.org/bilbao-bailen-60-aniversario"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Internacional de Xadrez APECR 2026",
+        "ciudad": "Sanxenxo",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4220772,
+        "lon": -8.8353365,
+        "link": "https://info64.org/iii-internacional-de-xadrez-apecr-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VII Open Internacional Valencia Cuna del Ajedrez - Grupo A",
+        "ciudad": "Valencia",
+        "fechaini": "04-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/vii-open-internacional-valencia-cuna-del-ajedrez-grupo-a"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Torneo de Xadrez Concello de Meis",
+        "ciudad": "O Mosteiro, Meis",
+        "fechaini": "08-07-2026",
+        "fechafin": "08-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5184875,
+        "lon": -8.7036082,
+        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-meis"
+    },
+    {
+        "origin": "info64",
+        "nombre": "TORNEO B - 5 Open Internacional Sub1800 Hotel Vertice Sevilla Bormujos",
+        "ciudad": "Bormujos",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3715939,
+        "lon": -6.07133,
+        "link": "https://info64.org/torneo-b-5-open-internacional-sub1800-hotel-vertice-sevilla-bormujos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Torneo de Xadrez Concello de Meis Amateur",
+        "ciudad": "O Mosteiro, Meis",
+        "fechaini": "08-07-2026",
+        "fechafin": "08-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5184875,
+        "lon": -8.7036082,
+        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-meis-amateur"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II TORNEO SOLIDARIO DE AJEDREZ BURJASSOT",
+        "ciudad": "BURJASSOT",
+        "fechaini": "17-07-2026",
+        "fechafin": "17-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.5090599,
+        "lon": -0.4108581,
+        "link": "https://info64.org/ii-torneo-solidario-de-ajedrez-burjassot"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Open Internacional de Oviedo 2026",
+        "ciudad": "Oviedo",
+        "fechaini": "20-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3533452,
+        "lon": -5.8795096,
+        "link": "https://info64.org/open-internacional-de-oviedo-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Circuito Provincial de Ajedrez 2026 -Torneo 1: PADUL",
         "ciudad": "Padul",
         "fechaini": "12-07-2026",
@@ -46,18 +154,6 @@
         "lat": 39.4697065,
         "lon": -0.3763353,
         "link": "https://info64.org/vii-open-internacional-valencia-cuna-grupo-b"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VII Open Internacional Valencia Cuna del Ajedrez - Grupo A",
-        "ciudad": "Valencia",
-        "fechaini": "04-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/vii-open-internacional-valencia-cuna-del-ajedrez-grupo-a"
     },
     {
         "origin": "info64",
@@ -241,18 +337,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Open Internacional de Oviedo 2026",
-        "ciudad": "Oviedo",
-        "fechaini": "20-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3533452,
-        "lon": -5.8795096,
-        "link": "https://info64.org/open-internacional-de-oviedo-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXIV Torneo de Ajedrez Santiago Apóstol",
         "ciudad": "Don Benito",
         "fechaini": "18-07-2026",
@@ -334,18 +418,6 @@
         "lat": 36.7355451,
         "lon": -6.4348221,
         "link": "https://info64.org/2-open-internacional-sub2200-hotel-vertice-chipiona-mar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "TORNEO B - 5 Open Internacional Sub1800 Hotel Vertice Sevilla Bormujos",
-        "ciudad": "Bormujos",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3715939,
-        "lon": -6.07133,
-        "link": "https://info64.org/torneo-b-5-open-internacional-sub1800-hotel-vertice-sevilla-bormujos"
     },
     {
         "origin": "info64",
@@ -745,18 +817,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Torneo de Xadrez Concello de Meis",
-        "ciudad": "O Mosteiro, Meis",
-        "fechaini": "08-07-2026",
-        "fechafin": "08-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5184875,
-        "lon": -8.7036082,
-        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-meis"
-    },
-    {
-        "origin": "info64",
         "nombre": "CAMPEONATO DE ESPAÑA SUB 8 2026",
         "ciudad": "Vicar",
         "fechaini": "02-07-2026",
@@ -778,30 +838,6 @@
         "lat": 29.0397081,
         "lon": -13.6362916,
         "link": "https://info64.org/campeonato-de-canarias-veteranos-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "TORNEO AJEDREZ 60 ANIVERSARIO",
-        "ciudad": "Bailen",
-        "fechaini": "02-07-2026",
-        "fechafin": "03-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.096787,
-        "lon": -3.7765601,
-        "link": "https://info64.org/torneo-ajedrez-60-aniversario"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V BATALLA DE BAILEN 2026",
-        "ciudad": "Bailen",
-        "fechaini": "12-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.096787,
-        "lon": -3.7765601,
-        "link": "https://info64.org/v-batalla-de-bailen-2026"
     },
     {
         "origin": "info64",
@@ -874,18 +910,6 @@
         "lat": 37.1734995,
         "lon": -3.5995337,
         "link": "https://info64.org/granada-chess-open-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Internacional de Xadrez APECR 2026",
-        "ciudad": "Sanxenxo",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4220772,
-        "lon": -8.8353365,
-        "link": "https://info64.org/iii-internacional-de-xadrez-apecr-2026"
     },
     {
         "origin": "info64",
@@ -1117,18 +1141,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II TORNEO SOLIDARIO DE AJEDREZ BURJASSOT",
-        "ciudad": "BURJASSOT",
-        "fechaini": "17-07-2026",
-        "fechafin": "17-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5090599,
-        "lon": -0.4108581,
-        "link": "https://info64.org/ii-torneo-solidario-de-ajedrez-burjassot"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Blitz VI Pozuelo Chess Festival (ID: 480289)",
         "ciudad": "POZUELO DE ALARCON",
         "fechaini": "08-07-2026",
@@ -1210,18 +1222,6 @@
         "lat": 42.7888886,
         "lon": -0.5287344,
         "link": "https://info64.org/i-festival-de-ajedrez-en-candanchu"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Torneo de Xadrez Concello de Meis Amateur",
-        "ciudad": "O Mosteiro, Meis",
-        "fechaini": "08-07-2026",
-        "fechafin": "08-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5184875,
-        "lon": -8.7036082,
-        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-meis-amateur"
     },
     {
         "origin": "info64",
