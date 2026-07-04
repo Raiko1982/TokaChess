@@ -55,8 +55,8 @@
         "fechafin": "11-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.1585549,
+        "lon": -3.0214851,
         "link": "https://info64.org/ca-tomelloso-trofeo-de-primavera-torneo-b"
     },
     {
@@ -67,8 +67,8 @@
         "fechafin": "11-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.1585549,
+        "lon": -3.0214851,
         "link": "https://info64.org/ca-tomelloso-trofeo-de-primavera-torneo-a"
     },
     {
@@ -109,14 +109,38 @@
     },
     {
         "origin": "info64",
+        "nombre": "CAMPEONATO DE ESPAÑA SUB 8 2026",
+        "ciudad": "Vicar",
+        "fechaini": "02-07-2026",
+        "fechafin": "06-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.8316986,
+        "lon": -2.6430297,
+        "link": "https://info64.org/campeonato-de-espana-sub-8-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Cto. Castilla-La Mancha Equipos Clubs 2026",
+        "ciudad": "Manzanares",
+        "fechaini": "02-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9962242,
+        "lon": -3.3722143,
+        "link": "https://info64.org/team/cto-castilla-la-mancha-equipos-clubs-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Cto. Castilla-La Mancha Equipos Clubs 2026 - Categoria B",
         "ciudad": "Manzanares",
         "fechaini": "02-07-2026",
         "fechafin": "05-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.9962242,
+        "lon": -3.3722143,
         "link": "https://info64.org/team/cto-castilla-la-mancha-equipos-clubs-2026-categoria-b"
     },
     {
@@ -127,8 +151,8 @@
         "fechafin": "05-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 29.0397081,
+        "lon": -13.6362916,
         "link": "https://info64.org/campeonato-de-canarias-veteranos-2026"
     },
     {
@@ -139,33 +163,9 @@
         "fechafin": "05-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 29.0397081,
+        "lon": -13.6362916,
         "link": "https://info64.org/campeonato-de-canarias-juvenil-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto. Castilla-La Mancha Equipos Clubs 2026",
-        "ciudad": "Manzanares",
-        "fechaini": "02-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/team/cto-castilla-la-mancha-equipos-clubs-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CAMPEONATO DE ESPAÑA SUB 8 2026",
-        "ciudad": "Vicar",
-        "fechaini": "02-07-2026",
-        "fechafin": "06-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/campeonato-de-espana-sub-8-2026"
     },
     {
         "origin": "chess-results",
@@ -193,27 +193,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "III OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE POZUELO (480287)",
-        "ciudad": "POZUELO DE ALARCON",
-        "fechaini": "03-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iii-open-internacional-de-ajedrez-ciudad-de-pozuelo"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Abierto de Ajedrez Clasico Sub 2200 Villa de Zahara",
         "ciudad": "Zahara de la Sierra",
         "fechaini": "03-07-2026",
         "fechafin": "05-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.8405841,
+        "lon": -5.3905374,
         "link": "https://info64.org/v-abierto-de-ajedrez-clasico-sub-2200-villa-de-zahara-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III OPEN INTERNACIONAL DE AJEDREZ CIUDAD DE POZUELO (480287)",
+        "ciudad": "POZUELO DE ALARCON",
+        "fechaini": "03-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4346528,
+        "lon": -3.814834,
+        "link": "https://info64.org/iii-open-internacional-de-ajedrez-ciudad-de-pozuelo"
     },
     {
         "origin": "chess-results",
@@ -226,6 +226,162 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1410156.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "30º Memorial Miguel Bootello de Ajedrez",
+        "ciudad": "Alora",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.8238814,
+        "lon": -4.7063011,
+        "link": "https://info64.org/30o-memorial-miguel-bootello-de-ajedrez"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Aldaia Educart 10º aniversario SUB12",
+        "ciudad": "C/ Juan Sánchez, 1",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7239088,
+        "lon": -4.437763,
+        "link": "https://info64.org/torneo-aldaia-educart-10o-aniversario-sub12"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Aldaia Educart 10º aniversario ABSOLUTA",
+        "ciudad": "C/ Juan Sánchez, 1",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7239088,
+        "lon": -4.437763,
+        "link": "https://info64.org/torneo-aldaia-educart-10o-aniversario-absoluta"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Semana de la Juventud Collado Villalba Jovenes",
+        "ciudad": "Collado Villalba",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6483467,
+        "lon": -3.9819765,
+        "link": "https://info64.org/iii-torneo-semana-de-la-juventud-collado-villalba-jovenes"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneig Social CE Manuel Eduardo Perez",
+        "ciudad": "Manuel",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.0513265,
+        "lon": -0.4909038,
+        "link": "https://info64.org/torneig-social-ce-manuel-eduardo-perez"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII Torneo San Pedro y San Pablo Enrok2 2026 absoluto",
+        "ciudad": "Burgos",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3448498,
+        "lon": -3.6812477,
+        "link": "https://info64.org/viii-torneo-san-pedro-y-san-pablo-enrok2-2026-absoluto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII Torneo San Pedro y San Pablo Enrok2 2026 Infantil",
+        "ciudad": "Burgos",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3448498,
+        "lon": -3.6812477,
+        "link": "https://info64.org/viii-torneo-san-pedro-y-san-pablo-enrok2-2026-infantil"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Aberto Xadrez Albatros",
+        "ciudad": "A Guarda",
+        "fechaini": "04-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.9028824,
+        "lon": -8.8563509,
+        "link": "https://info64.org/i-aberto-xadrez-albatros"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Master Centro Comercial Arousa",
+        "ciudad": "Vilagarcía de Arousa",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5950502,
+        "lon": -8.7430537,
+        "link": "https://info64.org/xii-masterchess-centro-comercial-arousa"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Master Centro Comercial Arousa sub12",
+        "ciudad": "Vilagarcía de Arousa",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5950502,
+        "lon": -8.7430537,
+        "link": "https://info64.org/xii-masterchess-centro-comercial-arousa-sub12"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Master Centro Comercial Arousa sub10",
+        "ciudad": "Vilagarcía de Arousa",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5950502,
+        "lon": -8.7430537,
+        "link": "https://info64.org/xii-masterchess-centro-comercial-arousa-sub10"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Master Centro Comercial Arousa sub8",
+        "ciudad": "Vilagarcía de Arousa",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5950502,
+        "lon": -8.7430537,
+        "link": "https://info64.org/xii-masterchess-centro-comercial-arousa-sub8"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Aldaia Educart 10º aniversario SUB10",
+        "ciudad": "C/ Juan Sánchez, 1",
+        "fechaini": "04-07-2026",
+        "fechafin": "04-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7239088,
+        "lon": -4.437763,
+        "link": "https://info64.org/torneo-aldaia-educart-10o-aniversario-sub10"
     },
     {
         "origin": "info64",
@@ -247,8 +403,8 @@
         "fechafin": "05-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.9680499,
+        "lon": -3.8087804,
         "link": "https://info64.org/viii-nocturno-infantil-de-ajedrez-memorial-pedrito-medina"
     },
     {
@@ -259,8 +415,8 @@
         "fechafin": "05-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.9680499,
+        "lon": -3.8087804,
         "link": "https://info64.org/xxxix-nocturnoa-de-ajedrez-memorial-pedrito-medina"
     },
     {
@@ -271,45 +427,9 @@
         "fechafin": "05-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.6341451,
+        "lon": -5.9714151,
         "link": "https://info64.org/xi-open-internacional-magistral-de-leon"
-    },
-    {
-        "origin": "info64",
-        "nombre": "30º Memorial Miguel Bootello de Ajedrez",
-        "ciudad": "Alora",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/30o-memorial-miguel-bootello-de-ajedrez"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Master Centro Comercial Arousa",
-        "ciudad": "Vilagarcía de Arousa",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xii-masterchess-centro-comercial-arousa"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VIII Torneo San Pedro y San Pablo Enrok2 2026 Infantil",
-        "ciudad": "Burgos",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/viii-torneo-san-pedro-y-san-pablo-enrok2-2026-infantil"
     },
     {
         "origin": "info64",
@@ -319,8 +439,8 @@
         "fechafin": "11-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 43.5113053,
+        "lon": -8.2624767,
         "link": "https://info64.org/41-ciudad-de-ferrol-2026"
     },
     {
@@ -331,8 +451,8 @@
         "fechafin": "12-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.4697065,
+        "lon": -0.3763353,
         "link": "https://info64.org/vii-open-internacional-valencia-cuna-grupo-b"
     },
     {
@@ -343,93 +463,9 @@
         "fechafin": "12-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.4697065,
+        "lon": -0.3763353,
         "link": "https://info64.org/vii-open-internacional-valencia-cuna-del-ajedrez-grupo-a"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Aldaia Educart 10º aniversario SUB10",
-        "ciudad": "C/ Juan Sánchez, 1",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/torneo-aldaia-educart-10o-aniversario-sub10"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Aldaia Educart 10º aniversario SUB12",
-        "ciudad": "C/ Juan Sánchez, 1",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/torneo-aldaia-educart-10o-aniversario-sub12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Aldaia Educart 10º aniversario ABSOLUTA",
-        "ciudad": "C/ Juan Sánchez, 1",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/torneo-aldaia-educart-10o-aniversario-absoluta"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Aberto Xadrez Albatros",
-        "ciudad": "A Guarda",
-        "fechaini": "04-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/i-aberto-xadrez-albatros"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VIII Torneo San Pedro y San Pablo Enrok2 2026 absoluto",
-        "ciudad": "Burgos",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/viii-torneo-san-pedro-y-san-pablo-enrok2-2026-absoluto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Master Centro Comercial Arousa sub12",
-        "ciudad": "Vilagarcía de Arousa",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xii-masterchess-centro-comercial-arousa-sub12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Master Centro Comercial Arousa sub8",
-        "ciudad": "Vilagarcía de Arousa",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xii-masterchess-centro-comercial-arousa-sub8"
     },
     {
         "origin": "info64",
@@ -439,8 +475,8 @@
         "fechafin": "04-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.2653307,
+        "lon": -0.6988391,
         "link": "https://info64.org/festes-d-asprella"
     },
     {
@@ -451,21 +487,9 @@
         "fechafin": "04-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.2653307,
+        "lon": -0.6988391,
         "link": "https://info64.org/vii-torneo-ajedrez-festes-d-asprella-sub-12-y-sub-9"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneig Social CE Manuel Eduardo Perez",
-        "ciudad": "Manuel",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/torneig-social-ce-manuel-eduardo-perez"
     },
     {
         "origin": "info64",
@@ -475,33 +499,9 @@
         "fechafin": "04-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.8406411,
+        "lon": -5.3905472,
         "link": "https://info64.org/simultanea-de-ajedrez-con-gm-alexei-shirov"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Semana de la Juventud Collado Villalba Jovenes",
-        "ciudad": "Collado Villalba",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iii-torneo-semana-de-la-juventud-collado-villalba-jovenes"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Master Centro Comercial Arousa sub10",
-        "ciudad": "Vilagarcía de Arousa",
-        "fechaini": "04-07-2026",
-        "fechafin": "04-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xii-masterchess-centro-comercial-arousa-sub10"
     },
     {
         "origin": "info64",
@@ -511,8 +511,8 @@
         "fechafin": "04-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.5950502,
+        "lon": -8.7430537,
         "link": "https://info64.org/xii-masterchess-centro-comercial-arousa-sub14"
     },
     {
@@ -637,51 +637,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXII MEMORIAL DE AJEDREZ MANUEL RUS CASADO",
-        "ciudad": "VILLANUEVA DE LA REINA",
-        "fechaini": "05-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xxii-memorial-de-ajedrez-manuel-rus-casado"
-    },
-    {
-        "origin": "info64",
         "nombre": "Open de Ribadesella 2026",
         "ciudad": "Ribadesella",
         "fechaini": "05-07-2026",
         "fechafin": "05-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 43.4456557,
+        "lon": -5.0835484,
         "link": "https://info64.org/open-de-ribadesella-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XLV TORNEO OPEN INTERNACIONAL VILLA DE BENASQUE",
-        "ciudad": "Benasque",
-        "fechaini": "05-07-2026",
-        "fechafin": "14-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xlv-torneo-open-internacional-villa-de-benasque"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Herrera de Pisuerga Absoluto 2026",
-        "ciudad": "Herrera de Pisuerga",
-        "fechaini": "05-07-2026",
-        "fechafin": "05-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/v-torneo-herrera-de-pisuerga-absoluto-2026"
     },
     {
         "origin": "info64",
@@ -691,9 +655,45 @@
         "fechafin": "05-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.5938269,
+        "lon": -4.3310029,
         "link": "https://info64.org/v-torneo-herrera-de-pisuerga-infantil-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Herrera de Pisuerga Absoluto 2026",
+        "ciudad": "Herrera de Pisuerga",
+        "fechaini": "05-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5938269,
+        "lon": -4.3310029,
+        "link": "https://info64.org/v-torneo-herrera-de-pisuerga-absoluto-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXII MEMORIAL DE AJEDREZ MANUEL RUS CASADO",
+        "ciudad": "VILLANUEVA DE LA REINA",
+        "fechaini": "05-07-2026",
+        "fechafin": "05-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0051678,
+        "lon": -3.9146981,
+        "link": "https://info64.org/xxii-memorial-de-ajedrez-manuel-rus-casado"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XLV TORNEO OPEN INTERNACIONAL VILLA DE BENASQUE",
+        "ciudad": "Benasque",
+        "fechaini": "05-07-2026",
+        "fechafin": "14-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.6052663,
+        "lon": 0.5237318,
+        "link": "https://info64.org/xlv-torneo-open-internacional-villa-de-benasque"
     },
     {
         "origin": "info64",
@@ -703,8 +703,8 @@
         "fechafin": "05-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 40.6483467,
+        "lon": -3.9819765,
         "link": "https://info64.org/iii-torneo-semana-de-la-juventud-collado-villalba-abierto"
     },
     {
@@ -715,8 +715,8 @@
         "fechafin": "05-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 41.9347499,
+        "lon": -2.8832493,
         "link": "https://info64.org/ii-torneo-de-ajedrez-covaleda"
     },
     {
@@ -799,8 +799,8 @@
         "fechafin": "12-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.8316986,
+        "lon": -2.6430297,
         "link": "https://info64.org/campeonato-de-espana-sub-10-2026-1"
     },
     {
@@ -811,8 +811,8 @@
         "fechafin": "07-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.8558913,
+        "lon": -4.024265,
         "link": "https://info64.org/xxiv-torneo-ajedrez-asociacion-vecinos-la-verdad-2026"
     },
     {
@@ -823,8 +823,8 @@
         "fechafin": "08-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.5184875,
+        "lon": -8.7036082,
         "link": "https://info64.org/x-torneo-de-xadrez-concello-de-meis-amateur"
     },
     {
@@ -835,8 +835,8 @@
         "fechafin": "08-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.5184875,
+        "lon": -8.7036082,
         "link": "https://info64.org/x-torneo-de-xadrez-concello-de-meis"
     },
     {
@@ -847,8 +847,8 @@
         "fechafin": "08-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 40.4346528,
+        "lon": -3.814834,
         "link": "https://info64.org/torneo-blitz-vi-pozuelo-chess-festival"
     },
     {
@@ -907,8 +907,8 @@
         "fechafin": "11-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.4220772,
+        "lon": -8.8353365,
         "link": "https://info64.org/iii-internacional-de-xadrez-apecr-2026"
     },
     {
@@ -919,8 +919,8 @@
         "fechafin": "11-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.1923641,
+        "lon": -0.5555464,
         "link": "https://info64.org/iii-torneig-descacs-destiu-villa-de-santa-pola-blitz-sub-2000"
     },
     {
@@ -931,8 +931,8 @@
         "fechafin": "11-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.7266169,
+        "lon": -2.0019637,
         "link": "https://info64.org/penas-de-san-pedro-26"
     },
     {
@@ -943,8 +943,8 @@
         "fechafin": "11-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 43.4851194,
+        "lon": -5.2706728,
         "link": "https://info64.org/open-de-colunga-2026"
     },
     {
@@ -955,8 +955,8 @@
         "fechafin": "11-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.349681,
+        "lon": -2.736619,
         "link": "https://info64.org/vi-open-ajedrez"
     },
     {
@@ -1021,27 +1021,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "V BATALLA DE BAILEN 2026",
-        "ciudad": "Bailen",
-        "fechaini": "12-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/v-batalla-de-bailen-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Circuito Provincial de Ajedrez 2026 -Torneo 1: PADUL",
         "ciudad": "Padul",
         "fechaini": "12-07-2026",
         "fechafin": "12-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.0222913,
+        "lon": -3.6274938,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V BATALLA DE BAILEN 2026",
+        "ciudad": "Bailen",
+        "fechaini": "12-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.096787,
+        "lon": -3.7765601,
+        "link": "https://info64.org/v-batalla-de-bailen-2026"
     },
     {
         "origin": "info64",
@@ -1051,8 +1051,8 @@
         "fechafin": "12-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 40.416782,
+        "lon": -3.703507,
         "link": "https://info64.org/i-torneo-blitz-akeru-vicalvaro"
     },
     {
@@ -1075,8 +1075,8 @@
         "fechafin": "12-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 43.1626367,
+        "lon": -8.5034757,
         "link": "https://info64.org/x-concello-de-cerceda"
     },
     {
@@ -1099,8 +1099,8 @@
         "fechafin": "19-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 43.0395266,
+        "lon": -7.4567985,
         "link": "https://info64.org/i-open-internacional-fuxan-os-ventos-lugo"
     },
     {
@@ -1135,8 +1135,8 @@
         "fechafin": "19-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 28.1010455,
+        "lon": -17.347242,
         "link": "https://info64.org/campeonato-de-canarias-absoluto-y-femenino-2026"
     },
     {
@@ -1159,8 +1159,8 @@
         "fechafin": "16-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.8373515,
+        "lon": -2.5688899,
         "link": "https://info64.org/ii-torneo-infantil-las-penitas"
     },
     {
@@ -1177,14 +1177,26 @@
     },
     {
         "origin": "info64",
+        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB1800",
+        "ciudad": "Valdepeñas",
+        "fechaini": "17-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub1800"
+    },
+    {
+        "origin": "info64",
         "nombre": "II TORNEO SOLIDARIO DE AJEDREZ BURJASSOT",
         "ciudad": "BURJASSOT",
         "fechaini": "17-07-2026",
         "fechafin": "17-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.5090599,
+        "lon": -0.4108581,
         "link": "https://info64.org/ii-torneo-solidario-de-ajedrez-burjassot"
     },
     {
@@ -1195,21 +1207,9 @@
         "fechafin": "17-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 41.6827963,
+        "lon": -1.0260411,
         "link": "https://info64.org/torneo-de-ajedrez-fiestas-garrapinillos-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB1800",
-        "ciudad": "Valdepeñas",
-        "fechaini": "17-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub1800"
     },
     {
         "origin": "info64",
@@ -1219,8 +1219,8 @@
         "fechafin": "17-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.1364387,
+        "lon": -8.6255949,
         "link": "https://info64.org/i-torneo-xadrez-concello-do-porrino"
     },
     {
@@ -1231,8 +1231,8 @@
         "fechafin": "19-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.7594573,
+        "lon": -3.3847392,
         "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub2400"
     },
     {
@@ -1243,8 +1243,8 @@
         "fechafin": "17-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.8543122,
+        "lon": -0.5030984,
         "link": "https://info64.org/team/i-torneig-per-parelles-la-primitiva"
     },
     {
@@ -1273,14 +1273,26 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV BLITZ NOCTURNO LOS MOLINOS",
+        "ciudad": "Valdepeñas",
+        "fechaini": "18-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/iv-blitz-nocturno-los-molinos"
+    },
+    {
+        "origin": "info64",
         "nombre": "V Open de Grado - Fiesta Santiago y Santa Ana",
         "ciudad": "Grado",
         "fechaini": "18-07-2026",
         "fechafin": "18-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 43.2980596,
+        "lon": -6.1471901,
         "link": "https://info64.org/v-open-de-grado-fiesta-santiago-y-santa-ana"
     },
     {
@@ -1291,8 +1303,8 @@
         "fechafin": "18-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.5947625,
+        "lon": -8.7669178,
         "link": "https://info64.org/i-torneo-bar-alegria-las-tapas-de-laura"
     },
     {
@@ -1303,21 +1315,9 @@
         "fechafin": "18-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.9623954,
+        "lon": -0.5832175,
         "link": "https://info64.org/i-torneig-escacs-mancomunitat-la-costera-canal"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV BLITZ NOCTURNO LOS MOLINOS",
-        "ciudad": "Valdepeñas",
-        "fechaini": "18-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-blitz-nocturno-los-molinos"
     },
     {
         "origin": "info64",
@@ -1327,8 +1327,8 @@
         "fechafin": "18-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.4099628,
+        "lon": -1.5804922,
         "link": "https://info64.org/i-torneo-de-ajedrez-ciudad-de-aguilas-2026"
     },
     {
@@ -1339,8 +1339,8 @@
         "fechafin": "18-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.7732439,
+        "lon": -4.0399307,
         "link": "https://info64.org/x-torneo-de-ajedrez-villa-de-algarrobo"
     },
     {
@@ -1351,8 +1351,8 @@
         "fechafin": "20-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 41.883148,
+        "lon": 2.2433061,
         "link": "https://info64.org/iv-encuentro-dia-mundial-del-ajedrez"
     },
     {
@@ -1363,8 +1363,8 @@
         "fechafin": "18-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.9540269,
+        "lon": -5.8619466,
         "link": "https://info64.org/xxiv-torneo-santiago-apostol"
     },
     {
@@ -1375,8 +1375,8 @@
         "fechafin": "18-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.1134546,
+        "lon": -8.7646089,
         "link": "https://info64.org/iv-abierto-de-ajedrez-feria-santa-marta-in-memoriam-enrique-moreno"
     },
     {
@@ -1483,8 +1483,8 @@
         "fechafin": "19-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 41.6915847,
+        "lon": -0.9101268,
         "link": "https://info64.org/torneo-relampago-el-greco-julio-2026"
     },
     {
@@ -1495,8 +1495,8 @@
         "fechafin": "19-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.1837551,
+        "lon": -3.6855149,
         "link": "https://info64.org/iii-torneo-ajedrez-villa-de-guarroman"
     },
     {
@@ -1507,8 +1507,8 @@
         "fechafin": "19-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.3263415,
+        "lon": -3.5946529,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-2-deifontes"
     },
     {
@@ -1555,8 +1555,8 @@
         "fechafin": "26-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 43.3533452,
+        "lon": -5.8795096,
         "link": "https://info64.org/open-internacional-de-oviedo-2026"
     },
     {
@@ -1567,8 +1567,8 @@
         "fechafin": "20-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.4367662,
+        "lon": -5.8851414,
         "link": "https://info64.org/iv-torneo-de-ajedrez-veguellina-de-orbigo-2026"
     },
     {
@@ -1579,8 +1579,8 @@
         "fechafin": "25-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 43.3045792,
+        "lon": -8.5079101,
         "link": "https://info64.org/xxv-aberto-de-arteixo"
     },
     {
@@ -1591,8 +1591,8 @@
         "fechafin": "26-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 40.5473698,
+        "lon": -3.6260586,
         "link": "https://info64.org/x-torneo-sub-2400-club-ajedrez-v-centenario"
     },
     {
@@ -1603,8 +1603,8 @@
         "fechafin": "26-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.7197483,
+        "lon": -2.2211991,
         "link": "https://info64.org/ii-open-intenacional-sub2400-valverde-de-jucar"
     },
     {
@@ -1615,8 +1615,8 @@
         "fechafin": "26-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.7888886,
+        "lon": -0.5287344,
         "link": "https://info64.org/i-festival-de-ajedrez-en-candanchu"
     },
     {
@@ -1627,8 +1627,8 @@
         "fechafin": "30-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.428065,
+        "lon": -8.6041447,
         "link": "https://info64.org/xiv-torneo-internacional-cidade-de-pontevedra-masters"
     },
     {
@@ -1639,8 +1639,8 @@
         "fechafin": "30-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.428065,
+        "lon": -8.6041447,
         "link": "https://info64.org/xiv-torneo-internacional-cidade-de-pontevedra-amateur"
     },
     {
@@ -1675,8 +1675,8 @@
         "fechafin": "25-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.5819684,
+        "lon": -4.9495445,
         "link": "https://info64.org/iv-torneo-de-ajedrez-rapido-24h-deportivas-de-istan"
     },
     {
@@ -1687,8 +1687,8 @@
         "fechafin": "30-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.8316986,
+        "lon": -2.6430297,
         "link": "https://info64.org/campeonato-de-espana-sub-16-2026"
     },
     {
@@ -1699,8 +1699,8 @@
         "fechafin": "25-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.6671024,
+        "lon": -4.6415461,
         "link": "https://info64.org/ii-torneo-de-ajedrez-de-navalucillos-2026"
     },
     {
@@ -1711,8 +1711,8 @@
         "fechafin": "25-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.6671024,
+        "lon": -4.6415461,
         "link": "https://info64.org/ii-torneo-de-ajedrez-los-navalucillos-2026-promocion"
     },
     {
@@ -1723,8 +1723,8 @@
         "fechafin": "25-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.2924334,
+        "lon": -0.4138577,
         "link": "https://info64.org/v-obert-escacs-festes-de-almussafes"
     },
     {
@@ -1771,8 +1771,8 @@
         "fechafin": "26-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.087695,
+        "lon": -3.6401793,
         "link": "https://info64.org/iii-open-de-ajedrez-juan-vargas"
     },
     {
@@ -1783,8 +1783,8 @@
         "fechafin": "02-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 40.3238525,
+        "lon": -3.8649214,
         "link": "https://info64.org/xv-torneo-irt-ad-ajedrez-mostoles"
     },
     {
@@ -1837,27 +1837,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Open Internacional Ciudad de Vitoria - Gasteiz",
-        "ciudad": "Vitoria-Gasteiz",
-        "fechaini": "27-07-2026",
-        "fechafin": "02-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/ii-open-internacional-ciudad-de-vitoria-gasteiz"
-    },
-    {
-        "origin": "info64",
         "nombre": "XIII Torneo Verano Alicante",
         "ciudad": "Alicante",
         "fechaini": "27-07-2026",
         "fechafin": "02-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.3436365,
+        "lon": -0.4881708,
         "link": "https://info64.org/xiii-torneo-verano-alicante"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Internacional Ciudad de Vitoria - Gasteiz",
+        "ciudad": "Vitoria-Gasteiz",
+        "fechaini": "27-07-2026",
+        "fechafin": "02-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8505845,
+        "lon": -2.66145,
+        "link": "https://info64.org/ii-open-internacional-ciudad-de-vitoria-gasteiz"
     },
     {
         "origin": "chess-results",
@@ -1903,8 +1903,8 @@
         "fechafin": "02-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.1734995,
+        "lon": -3.5995337,
         "link": "https://info64.org/granada-chess-open-2026"
     },
     {
@@ -1927,8 +1927,8 @@
         "fechafin": "06-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 29.0397081,
+        "lon": -13.6362916,
         "link": "https://info64.org/vi-festival-internacional-de-ajedrez-lanzarote-2026"
     },
     {
@@ -1969,6 +1969,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "DATo Villacañas 2026",
+        "ciudad": "Villacañas",
+        "fechaini": "31-07-2026",
+        "fechafin": "31-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.6213826,
+        "lon": -3.3392996,
+        "link": "https://info64.org/dato-villacanas-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV Torneo de ajedrez inclusivo La Serranía Ajedrosaurus",
         "ciudad": "Alpuente, Av San Blas 51",
         "fechaini": "31-07-2026",
@@ -1987,21 +1999,9 @@
         "fechafin": "31-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.5947625,
+        "lon": -8.7669178,
         "link": "https://info64.org/xviii-torneo-el-huerto-del-cura"
-    },
-    {
-        "origin": "info64",
-        "nombre": "DATo Villacañas 2026",
-        "ciudad": "Villacañas",
-        "fechaini": "31-07-2026",
-        "fechafin": "31-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/dato-villacanas-2026"
     },
     {
         "origin": "info64",
@@ -2011,8 +2011,8 @@
         "fechafin": "02-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.8682065,
+        "lon": -1.0978627,
         "link": "https://info64.org/xxi-torneo-de-promocion-de-ajedrez-almansa-b"
     },
     {
@@ -2023,8 +2023,8 @@
         "fechafin": "02-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.8682065,
+        "lon": -1.0978627,
         "link": "https://info64.org/xxi-torneo-de-promocion-de-ajedrez-almansa-a"
     },
     {
@@ -2035,8 +2035,8 @@
         "fechafin": "02-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 41.7140829,
+        "lon": -0.9943593,
         "link": "https://info64.org/ix-torneo-de-verano-club-de-utebo"
     },
     {
@@ -2047,8 +2047,8 @@
         "fechafin": "06-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 43.3466447,
+        "lon": -8.4127029,
         "link": "https://info64.org/iv-erlac-teresa-herrera-a-coruna"
     },
     {
@@ -2071,8 +2071,8 @@
         "fechafin": "09-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 40.6483467,
+        "lon": -3.9819765,
         "link": "https://info64.org/xi-open-internacional-64-villalba"
     },
     {
@@ -2131,8 +2131,8 @@
         "fechafin": "02-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.1024656,
+        "lon": -0.6953201,
         "link": "https://info64.org/iv-torneo-infantil-semana-cultural-de-navarres"
     },
     {
@@ -2155,8 +2155,8 @@
         "fechafin": "09-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 40.8587766,
+        "lon": -3.7097632,
         "link": "https://info64.org/ii-agosto-sierra-norte"
     },
     {
@@ -2179,8 +2179,8 @@
         "fechafin": "09-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.5816647,
+        "lon": -5.6437418,
         "link": "https://info64.org/ii-open-club-de-ajedrez-la-virgen-del-camino"
     },
     {
@@ -2203,8 +2203,8 @@
         "fechafin": "08-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.3878613,
+        "lon": -2.5826373,
         "link": "https://info64.org/xxiii-torneo-de-ajedrez-siles-2026"
     },
     {
@@ -2215,8 +2215,8 @@
         "fechafin": "08-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.7450888,
+        "lon": -3.5207655,
         "link": "https://info64.org/i-open-pueblos-de-america"
     },
     {
@@ -2251,8 +2251,8 @@
         "fechafin": "08-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.5193232,
+        "lon": -8.797678,
         "link": "https://info64.org/xli-open-internacional-de-ajedrez-albarino"
     },
     {
@@ -2263,8 +2263,8 @@
         "fechafin": "16-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.2194134,
+        "lon": -8.4713577,
         "link": "https://info64.org/xii-abierto-internacional-de-ajedrez-hotel-cemar"
     },
     {
@@ -2275,8 +2275,8 @@
         "fechafin": "09-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.3459902,
+        "lon": -0.7692125,
         "link": "https://info64.org/vi-open-internacional-de-ajedrez-villa-de-aspe-grupo-a"
     },
     {
@@ -2287,8 +2287,8 @@
         "fechafin": "09-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.3459902,
+        "lon": -0.7692125,
         "link": "https://info64.org/vi-open-internacional-de-ajedrez-villa-de-aspe-grupo-b"
     },
     {
@@ -2299,8 +2299,8 @@
         "fechafin": "09-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.4362471,
+        "lon": -2.722409,
         "link": "https://info64.org/torneo-caniles-2026"
     },
     {
@@ -2311,8 +2311,8 @@
         "fechafin": "09-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.9264703,
+        "lon": -0.4956292,
         "link": "https://info64.org/xiii-campeonato-de-ajedrez-villa-de-gaibiel"
     },
     {
@@ -2323,8 +2323,8 @@
         "fechafin": "09-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.0204311,
+        "lon": -0.6461361,
         "link": "https://info64.org/iii-torneo-infantil-anna"
     },
     {
@@ -2347,8 +2347,8 @@
         "fechafin": "16-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.4751444,
+        "lon": -0.4179125,
         "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-c-sub-1800"
     },
     {
@@ -2359,8 +2359,8 @@
         "fechafin": "16-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.4751444,
+        "lon": -0.4179125,
         "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-b-sub-2000"
     },
     {
@@ -2371,8 +2371,8 @@
         "fechafin": "16-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.4751444,
+        "lon": -0.4179125,
         "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-a-open"
     },
     {
@@ -2383,8 +2383,8 @@
         "fechafin": "14-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.2194134,
+        "lon": -8.4713577,
         "link": "https://info64.org/torneo-de-ajedrez-blitz-pub-fegatello-1"
     },
     {
@@ -2419,8 +2419,8 @@
         "fechafin": "15-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.4751444,
+        "lon": -0.4179125,
         "link": "https://info64.org/13-abierto-escolar-villa-de-mislata-sub-16"
     },
     {
@@ -2431,8 +2431,8 @@
         "fechafin": "21-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 43.2086195,
+        "lon": -8.6668237,
         "link": "https://info64.org/iv-maxistral-xiria-carballo"
     },
     {
@@ -2443,8 +2443,8 @@
         "fechafin": "16-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 40.2107266,
+        "lon": -5.0868775,
         "link": "https://info64.org/ii-torneo-de-ajedrez-de-verano-de-arenas-de-san-pedro-avila-1"
     },
     {
@@ -2455,8 +2455,8 @@
         "fechafin": "16-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.9488544,
+        "lon": -3.3570047,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-3-bubion"
     },
     {
@@ -2515,8 +2515,8 @@
         "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.071992,
+        "lon": -0.4869889,
         "link": "https://info64.org/ii-irt-sub-2200-club-doble-dama"
     },
     {
@@ -2527,8 +2527,8 @@
         "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 41.6915847,
+        "lon": -0.9101268,
         "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
     },
     {
@@ -2539,8 +2539,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 40.6483467,
+        "lon": -3.9819765,
         "link": "https://info64.org/xliii-torneo-abierto-internacional-de-ajedrez-de-collado-villalba"
     },
     {
@@ -2551,8 +2551,8 @@
         "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.3715939,
+        "lon": -6.07133,
         "link": "https://info64.org/torneo-b-5-open-internacional-sub1800-hotel-vertice-sevilla-bormujos"
     },
     {
@@ -2563,8 +2563,8 @@
         "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.3715939,
+        "lon": -6.07133,
         "link": "https://info64.org/torneo-a-8-open-internacional-sub2200-hotel-vertice-sevilla-bormujos"
     },
     {
@@ -2575,8 +2575,8 @@
         "fechafin": "27-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 43.2086195,
+        "lon": -8.6668237,
         "link": "https://info64.org/ix-aberto-concello-de-carballo-clasico"
     },
     {
@@ -2623,8 +2623,8 @@
         "fechafin": "22-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.3715939,
+        "lon": -6.07133,
         "link": "https://info64.org/torneo-c-2-blitz-nocturno-trebejo-solidario-hotel-vertice-sevilla-bormujos"
     },
     {
@@ -2635,8 +2635,8 @@
         "fechafin": "22-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.277054,
+        "lon": -6.0881874,
         "link": "https://info64.org/iv-open-internacional-de-conil"
     },
     {
@@ -2683,8 +2683,8 @@
         "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.071992,
+        "lon": -0.4869889,
         "link": "https://info64.org/ii-blitz-club-doble-dama"
     },
     {
@@ -2695,8 +2695,8 @@
         "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.3724432,
+        "lon": -3.068928,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-4-guadix"
     },
     {
@@ -2707,8 +2707,8 @@
         "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 40.4799017,
+        "lon": -3.7397206,
         "link": "https://info64.org/x-torneo-fiestas-de-fresnedillas-2026-ajedrez-y-paella"
     },
     {
@@ -2731,8 +2731,8 @@
         "fechafin": "30-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.3576494,
+        "lon": -0.6031,
         "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
     },
     {
@@ -2743,8 +2743,8 @@
         "fechafin": "28-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.5947625,
+        "lon": -8.7669178,
         "link": "https://info64.org/v-nocturno-centro-comercial-arousa"
     },
     {
@@ -2755,8 +2755,8 @@
         "fechafin": "30-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.8845813,
+        "lon": -4.7760138,
         "link": "https://info64.org/iv-open-internacional-de-ajedrez-sub-2400-hotel-oasis-cordoba-2026"
     },
     {
@@ -2767,8 +2767,8 @@
         "fechafin": "30-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.848579,
+        "lon": -5.0380606,
         "link": "https://info64.org/i-open-sub-2200-fide-el-colorado"
     },
     {
@@ -2779,8 +2779,8 @@
         "fechafin": "30-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.848579,
+        "lon": -5.0380606,
         "link": "https://info64.org/i-open-sub-1700-fide-el-colorado"
     },
     {
@@ -2815,8 +2815,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.9752568,
+        "lon": -1.0711116,
         "link": "https://info64.org/ii-memorial-emilio-sanchez-jerez"
     },
     {
@@ -2827,8 +2827,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.1824646,
+        "lon": -5.7817506,
         "link": "https://info64.org/torneo-de-ajedrez-feria-de-utrera-2026"
     },
     {
@@ -2839,8 +2839,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.3608107,
+        "lon": -1.6636704,
         "link": "https://info64.org/torneo-de-ajedrez-san-juan-de-los-terreros-2026"
     },
     {
@@ -2875,8 +2875,8 @@
         "fechafin": "30-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.0419132,
+        "lon": -0.6590644,
         "link": "https://info64.org/ii-torneo-infantil-chella-1"
     },
     {
@@ -2947,8 +2947,8 @@
         "fechafin": "06-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 40.0932078,
+        "lon": 0.1358123,
         "link": "https://info64.org/v-irt-sub2400-oropesa-del-mar"
     },
     {
@@ -2971,8 +2971,8 @@
         "fechafin": "05-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.1947105,
+        "lon": -0.5042406,
         "link": "https://info64.org/hypatia-blitz-festes-2026"
     },
     {
@@ -2983,8 +2983,8 @@
         "fechafin": "05-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.9804366,
+        "lon": -0.6894299,
         "link": "https://info64.org/v-torneo-infantil-de-san-gil-enguera"
     },
     {
@@ -3043,8 +3043,8 @@
         "fechafin": "06-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.1209651,
+        "lon": -0.4472814,
         "link": "https://info64.org/ii-torneig-descacs-sub-16-motilla-bressol-de-la-taronja"
     },
     {
@@ -3055,21 +3055,9 @@
         "fechafin": "06-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.2226964,
+        "lon": -3.6865662,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-5-atarfe"
-    },
-    {
-        "origin": "info64",
-        "nombre": "41º. Open Sestao Basque Country - Sub2000",
-        "ciudad": "Sestao",
-        "fechaini": "08-09-2026",
-        "fechafin": "13-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/41o-open-sestao-basque-country-sub2000"
     },
     {
         "origin": "info64",
@@ -3079,9 +3067,21 @@
         "fechafin": "13-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 43.309341,
+        "lon": -3.0074501,
         "link": "https://info64.org/41o-open-sestao-basque-country-34o-magistral-internacional-de-euskadi"
+    },
+    {
+        "origin": "info64",
+        "nombre": "41º. Open Sestao Basque Country - Sub2000",
+        "ciudad": "Sestao",
+        "fechaini": "08-09-2026",
+        "fechafin": "13-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.309341,
+        "lon": -3.0074501,
+        "link": "https://info64.org/41o-open-sestao-basque-country-sub2000"
     },
     {
         "origin": "chess-results",
@@ -3115,8 +3115,8 @@
         "fechafin": "30-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.5090599,
+        "lon": -0.4108581,
         "link": "https://info64.org/mytournament-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
     },
     {
@@ -3127,8 +3127,8 @@
         "fechafin": "13-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.893528,
+        "lon": -4.4287903,
         "link": "https://info64.org/v-open-internacional-de-casabermeja-sub-2400"
     },
     {
@@ -3139,8 +3139,8 @@
         "fechafin": "13-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.7382658,
+        "lon": -3.3899284,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-6-gualchos"
     },
     {
@@ -3187,8 +3187,8 @@
         "fechafin": "20-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.815686,
+        "lon": -1.6522353,
         "link": "https://info64.org/i-open-transpirenaico-memorial-salvador-casado-oberena"
     },
     {
@@ -3223,8 +3223,8 @@
         "fechafin": "20-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.988085,
+        "lon": -0.5200428,
         "link": "https://info64.org/xii-torneig-descoles-la-primitiva-xativa"
     },
     {
@@ -3247,8 +3247,8 @@
         "fechafin": "27-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.277054,
+        "lon": -6.0881874,
         "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub-2200-fide-costa-de-la-luz"
     },
     {
@@ -3283,8 +3283,8 @@
         "fechafin": "27-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.9804366,
+        "lon": -0.6894299,
         "link": "https://info64.org/vi-torneo-memorial-jose-luis-bano-orbezo"
     },
     {
@@ -3295,8 +3295,8 @@
         "fechafin": "27-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.1886579,
+        "lon": -8.5054515,
         "link": "https://info64.org/ix-torneo-de-xadrez-vila-de-ponteareas-categoria-escolar"
     },
     {
@@ -3307,8 +3307,8 @@
         "fechafin": "27-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.1886579,
+        "lon": -8.5054515,
         "link": "https://info64.org/ix-torneo-de-xadrez-vila-de-ponteareas-categoria-absoluta"
     },
     {
@@ -3319,8 +3319,8 @@
         "fechafin": "27-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.1886579,
+        "lon": -8.5054515,
         "link": "https://info64.org/ix-torneo-de-xadrez-vila-de-ponteareas-categoria-afeccionados"
     },
     {
@@ -3331,8 +3331,8 @@
         "fechafin": "02-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.9830568,
+        "lon": 1.3009485,
         "link": "https://info64.org/blitz-fide-ibiza-travel-2026"
     },
     {
@@ -3343,8 +3343,8 @@
         "fechafin": "04-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.8230299,
+        "lon": -1.614076,
         "link": "https://info64.org/vi-torneo-open-sub-2200-de-burlada"
     },
     {
@@ -3379,8 +3379,8 @@
         "fechafin": "03-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.9830568,
+        "lon": 1.3009485,
         "link": "https://info64.org/rapid-fide-ibiza-travel-2026"
     },
     {
@@ -3391,8 +3391,8 @@
         "fechafin": "03-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.8230299,
+        "lon": -1.614076,
         "link": "https://info64.org/ii-torneo-de-blitz-mikel-gurea-1"
     },
     {
@@ -3415,8 +3415,8 @@
         "fechafin": "04-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.7450888,
+        "lon": -3.5207655,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026-torneo-7-motril"
     },
     {
@@ -3427,8 +3427,8 @@
         "fechafin": "04-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.0204311,
+        "lon": -0.6461361,
         "link": "https://info64.org/iii-torneig-infantil-danna"
     },
     {
@@ -3463,8 +3463,8 @@
         "fechafin": "10-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.4253489,
+        "lon": -6.4193627,
         "link": "https://info64.org/xxxv-open-internacional-ciudad-de-zafra"
     },
     {
@@ -3487,8 +3487,8 @@
         "fechafin": "11-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.4253489,
+        "lon": -6.4193627,
         "link": "https://info64.org/xxxv-torneo-infantil-ciudad-de-zafra"
     },
     {
@@ -3511,8 +3511,8 @@
         "fechafin": "18-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.9884181,
+        "lon": -0.4704196,
         "link": "https://info64.org/i-torneig-infantil-el-genoves"
     },
     {
@@ -3523,8 +3523,8 @@
         "fechafin": "25-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.1585549,
+        "lon": -3.0214851,
         "link": "https://info64.org/iii-open-de-ajedrez-ciudad-de-tomelloso-sub1800"
     },
     {
@@ -3535,8 +3535,8 @@
         "fechafin": "25-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.1585549,
+        "lon": -3.0214851,
         "link": "https://info64.org/iii-open-de-ajedrez-ciudad-de-tomelloso-sub2400"
     },
     {
@@ -3583,8 +3583,8 @@
         "fechafin": "24-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.9064576,
+        "lon": -8.5192983,
         "link": "https://info64.org/ii-campeonato-de-ajedrez-rotary-club-santiago"
     },
     {
@@ -3607,8 +3607,8 @@
         "fechafin": "01-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.5406255,
+        "lon": -0.1290929,
         "link": "https://info64.org/benidorm-chess-open-a-2026"
     },
     {
@@ -3619,8 +3619,8 @@
         "fechafin": "01-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.5406255,
+        "lon": -0.1290929,
         "link": "https://info64.org/benidorm-chess-open-b-sub-2000-2026-1"
     },
     {
@@ -3631,8 +3631,8 @@
         "fechafin": "29-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.5406255,
+        "lon": -0.1290929,
         "link": "https://info64.org/memorial-emilio-pellicer-2026-benidorm-chess-open"
     },
     {
@@ -3643,8 +3643,8 @@
         "fechafin": "31-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.5406255,
+        "lon": -0.1290929,
         "link": "https://info64.org/halloween-chess-2026-benidorm-chess-open"
     },
     {
@@ -3655,8 +3655,8 @@
         "fechafin": "08-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.7355451,
+        "lon": -6.4348221,
         "link": "https://info64.org/2-open-internacional-sub2200-hotel-vertice-chipiona-mar"
     },
     {
@@ -3727,8 +3727,8 @@
         "fechafin": "08-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 36.964497,
+        "lon": -3.3867753,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026-torneo-9-pampaneira"
     },
     {
@@ -3739,8 +3739,8 @@
         "fechafin": "15-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.1886579,
+        "lon": -8.5054515,
         "link": "https://info64.org/x-torneo-internacional-sub-2400-xadrez-ponteareas"
     },
     {
@@ -3751,8 +3751,8 @@
         "fechafin": "15-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.717227,
+        "lon": -2.6425103,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026-torneo-10-castillejar"
     },
     {
@@ -3763,8 +3763,8 @@
         "fechafin": "22-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.1756189,
+        "lon": -3.8151245,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026-torneo-11-cijuela"
     },
     {
@@ -3775,8 +3775,8 @@
         "fechafin": "27-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.4253489,
+        "lon": -6.4193627,
         "link": "https://info64.org/vi-fest-int-ruy-lopez-magistral"
     },
     {
@@ -3787,8 +3787,8 @@
         "fechafin": "29-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.5406255,
+        "lon": -0.1290929,
         "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-08"
     },
     {
@@ -3799,8 +3799,8 @@
         "fechafin": "29-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.5406255,
+        "lon": -0.1290929,
         "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-10"
     },
     {
@@ -3811,8 +3811,8 @@
         "fechafin": "29-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.4253489,
+        "lon": -6.4193627,
         "link": "https://info64.org/vi-festival-int-ruy-lopez-open-sub-1800"
     },
     {
@@ -3823,8 +3823,8 @@
         "fechafin": "29-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.4253489,
+        "lon": -6.4193627,
         "link": "https://info64.org/vi-festival-int-ruy-lopez-open-sub-2400"
     },
     {
@@ -3835,8 +3835,8 @@
         "fechafin": "29-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.5406255,
+        "lon": -0.1290929,
         "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-12"
     },
     {
@@ -3847,8 +3847,8 @@
         "fechafin": "05-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.5406255,
+        "lon": -0.1290929,
         "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
     },
     {
@@ -3859,8 +3859,8 @@
         "fechafin": "05-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.5406255,
+        "lon": -0.1290929,
         "link": "https://info64.org/xxiii-torneo-internacional-gran-hotel-bali-grupo-a"
     },
     {
@@ -3871,8 +3871,8 @@
         "fechafin": "28-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.4253489,
+        "lon": -6.4193627,
         "link": "https://info64.org/vi-festival-int-ruy-lopez-blitz-nocturno"
     },
     {
@@ -3919,8 +3919,8 @@
         "fechafin": "02-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.5406255,
+        "lon": -0.1290929,
         "link": "https://info64.org/xvii-blitz-internacional-nocturno-gran-hotel-bali-grupo-a-open"
     },
     {
@@ -3931,8 +3931,8 @@
         "fechafin": "02-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.5406255,
+        "lon": -0.1290929,
         "link": "https://info64.org/xvii-blitz-internacional-nocturno-gran-hotel-bali-grupo-b-sub-2000"
     },
     {
@@ -3979,8 +3979,8 @@
         "fechafin": "08-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 42.2194134,
+        "lon": -8.4713577,
         "link": "https://info64.org/vi-abierto-internacional-de-ajedrez-sub-2400-institucion-educativa-aceimar"
     },
     {
@@ -4087,8 +4087,8 @@
         "fechafin": "13-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.1824646,
+        "lon": -5.7817506,
         "link": "https://info64.org/iii-abierto-internacional-de-ajedrez-sub-2400-ciudad-de-utrera"
     },
     {
@@ -4111,8 +4111,8 @@
         "fechafin": "20-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 39.9372616,
+        "lon": -0.1004465,
         "link": "https://info64.org/ii-copa-de-invierno-vila-real"
     },
     {
@@ -4123,8 +4123,8 @@
         "fechafin": "30-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 38.3436365,
+        "lon": -0.4881708,
         "link": "https://info64.org/vii-open-internacional-de-ajedrez-dama-negra"
     },
     {
@@ -4147,8 +4147,8 @@
         "fechafin": "30-06-2027",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 40.6012354,
+        "lon": -3.7038475,
         "link": "https://info64.org/sociostc"
     }
 ]
