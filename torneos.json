@@ -422,7 +422,7 @@
     {
         "origin": "chess-results",
         "nombre": "III OPEN ESCACS ATZENETA DEL MAESTRAT - CIRCUIT AL",
-        "ciudad": "Espai Polivalent - Atzeneta del Maestrat (Castelló)",
+        "ciudad": "Espai Multiusos - Atzeneta del Maestrat (Castelló)",
         "fechaini": "11-07-2026",
         "fechafin": "11-07-2026",
         "organizador": "Escola Escacs Castelló",
@@ -1764,6 +1764,18 @@
         "link": "https://chess-results.com/tnr1402577.aspx?lan=2"
     },
     {
+        "origin": "chess-results",
+        "nombre": "XX Open Ciudad de Tijola",
+        "ciudad": "Biblioteca Municipal de Tijola",
+        "fechaini": "02-08-2026",
+        "fechafin": "02-08-2026",
+        "organizador": "CDA Tijola",
+        "ritmo": "10+2",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1451688.aspx?lan=2"
+    },
+    {
         "origin": "info64",
         "nombre": "II Agosto Sierra Norte",
         "ciudad": "Bustarviejo",
@@ -2173,18 +2185,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "IV Torneo de Ajedrez Feria de Fuentes de Andalucía",
-        "ciudad": "Recinto Ferial. Junto a la portada. Fuentes de Andalucía (Sevilla)",
-        "fechaini": "16-08-2026",
-        "fechafin": "16-08-2026",
-        "organizador": "",
-        "ritmo": "8'+3\"",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1449204.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "XLI Torneo Ajedrez Villa de Galera",
         "ciudad": "Solón Hotel Galera, GALERA (Granada)",
         "fechaini": "16-08-2026",
@@ -2194,6 +2194,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1395803.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "IV Torneo de Ajedrez Feria de Fuentes de Andalucía",
+        "ciudad": "Recinto Ferial. Junto a la portada. Fuentes de Andalucía (Sevilla)",
+        "fechaini": "19-08-2026",
+        "fechafin": "19-08-2026",
+        "organizador": "",
+        "ritmo": "8'+3\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1449204.aspx?lan=2"
     },
     {
         "origin": "info64",
