@@ -205,18 +205,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Torneo de Xadrez Concello de Meis",
-        "ciudad": "O Mosteiro, Meis",
-        "fechaini": "08-07-2026",
-        "fechafin": "08-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5184875,
-        "lon": -8.7036082,
-        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-meis"
-    },
-    {
-        "origin": "info64",
         "nombre": "TORNEO BLITZ VILLA DE BENASQUE 2026",
         "ciudad": "Benasque",
         "fechaini": "08-07-2026",
@@ -226,6 +214,18 @@
         "lat": 42.6052663,
         "lon": 0.5237318,
         "link": "https://info64.org/torneo-blitz-villa-de-benasque-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Torneo de Xadrez Concello de Meis",
+        "ciudad": "O Mosteiro, Meis",
+        "fechaini": "08-07-2026",
+        "fechafin": "08-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5184875,
+        "lon": -8.7036082,
+        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-meis"
     },
     {
         "origin": "info64",
@@ -301,6 +301,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "CTO ESPANA PAREJAS MIXTAS RAPIDO 2026",
+        "ciudad": "Benasque",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.6052663,
+        "lon": 0.5237318,
+        "link": "https://info64.org/team/cto-espana-parejas-mixtas-rapido-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "III TORNEIG D'ESCACS D'ESTIU - VILLA DE SANTA POLA BLITZ SUB 2000",
         "ciudad": "SANTA POLA",
         "fechaini": "11-07-2026",
@@ -346,18 +358,6 @@
         "lat": 38.349681,
         "lon": -2.736619,
         "link": "https://info64.org/vi-open-ajedrez"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CTO ESPANA PAREJAS MIXTAS RAPIDO 2026",
-        "ciudad": "Benasque",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.6052663,
-        "lon": 0.5237318,
-        "link": "https://info64.org/team/cto-espana-parejas-mixtas-rapido-2026"
     },
     {
         "origin": "info64",
@@ -481,6 +481,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "VI Circuito Provincial de Ajedrez 2026 -Torneo 1: PADUL",
+        "ciudad": "Padul",
+        "fechaini": "12-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.0222913,
+        "lon": -3.6274938,
+        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "V Torneo Absoluto Ampudia",
         "ciudad": "Ampudia",
         "fechaini": "12-07-2026",
@@ -502,18 +514,6 @@
         "lat": 37.207778,
         "lon": -4.6581597,
         "link": "https://info64.org/circuito-provincial-de-ajedrez-alameda"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Circuito Provincial de Ajedrez 2026 -Torneo 1: PADUL",
-        "ciudad": "Padul",
-        "fechaini": "12-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.0222913,
-        "lon": -3.6274938,
-        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026"
     },
     {
         "origin": "info64",
@@ -793,6 +793,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "X TORNEO DE AJEDREZ VILLA DE ALGARROBO",
+        "ciudad": "ALGARROBO",
+        "fechaini": "18-07-2026",
+        "fechafin": "18-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7732439,
+        "lon": -4.0399307,
+        "link": "https://info64.org/x-torneo-de-ajedrez-villa-de-algarrobo"
+    },
+    {
+        "origin": "info64",
         "nombre": "V Open de Grado - Fiesta Santiago y Santa Ana",
         "ciudad": "Grado",
         "fechaini": "18-07-2026",
@@ -853,18 +865,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "X TORNEO DE AJEDREZ VILLA DE ALGARROBO",
-        "ciudad": "ALGARROBO",
-        "fechaini": "18-07-2026",
-        "fechafin": "18-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7732439,
-        "lon": -4.0399307,
-        "link": "https://info64.org/x-torneo-de-ajedrez-villa-de-algarrobo"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Torneo Bar As Tapas de Laura Alegría",
         "ciudad": "Vilagarcía",
         "fechaini": "18-07-2026",
@@ -907,8 +907,8 @@
         "fechafin": "20-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.8831074,
-        "lon": 2.2431519,
+        "lat": 41.883148,
+        "lon": 2.2433061,
         "link": "https://info64.org/iv-encuentro-dia-mundial-del-ajedrez"
     },
     {
@@ -1021,18 +1021,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III TORNEO AJEDREZ VILLA DE GUARROMAN",
-        "ciudad": "GUARROMAN",
-        "fechaini": "19-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.1837551,
-        "lon": -3.6855149,
-        "link": "https://info64.org/iii-torneo-ajedrez-villa-de-guarroman"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo relámpago El Greco. Julio 2026",
         "ciudad": "Zaragoza",
         "fechaini": "19-07-2026",
@@ -1042,6 +1030,18 @@
         "lat": 41.6915847,
         "lon": -0.9101268,
         "link": "https://info64.org/torneo-relampago-el-greco-julio-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III TORNEO AJEDREZ VILLA DE GUARROMAN",
+        "ciudad": "GUARROMAN",
+        "fechaini": "19-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.1837551,
+        "lon": -3.6855149,
+        "link": "https://info64.org/iii-torneo-ajedrez-villa-de-guarroman"
     },
     {
         "origin": "info64",
@@ -1153,18 +1153,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Torneo Sub 2400 Club Ajedrez V Centenario",
-        "ciudad": "San Sebastian de los Reyes",
-        "fechaini": "24-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5473698,
-        "lon": -3.6260586,
-        "link": "https://info64.org/x-torneo-sub-2400-club-ajedrez-v-centenario"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Open Intenacional Sub2400 Valverde de Jucar",
         "ciudad": "Valverde de Jucar",
         "fechaini": "24-07-2026",
@@ -1174,6 +1162,18 @@
         "lat": 39.7197483,
         "lon": -2.2211991,
         "link": "https://info64.org/ii-open-intenacional-sub2400-valverde-de-jucar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Torneo Sub 2400 Club Ajedrez V Centenario",
+        "ciudad": "San Sebastian de los Reyes",
+        "fechaini": "24-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5473698,
+        "lon": -3.6260586,
+        "link": "https://info64.org/x-torneo-sub-2400-club-ajedrez-v-centenario"
     },
     {
         "origin": "info64",
@@ -1237,18 +1237,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Open Internacional Quart de Poblet",
-        "ciudad": "Quart de Poblet",
-        "fechaini": "25-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4827253,
-        "lon": -0.4438854,
-        "link": "https://info64.org/x-open-internacional-quart-de-poblet"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Torneo de Ajedrez Rápido 24h Deportivas de Istán",
         "ciudad": "Istán",
         "fechaini": "25-07-2026",
@@ -1258,6 +1246,18 @@
         "lat": 36.5819684,
         "lon": -4.9495445,
         "link": "https://info64.org/iv-torneo-de-ajedrez-rapido-24h-deportivas-de-istan"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Open Internacional Quart de Poblet",
+        "ciudad": "Quart de Poblet",
+        "fechaini": "25-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4827253,
+        "lon": -0.4438854,
+        "link": "https://info64.org/x-open-internacional-quart-de-poblet"
     },
     {
         "origin": "info64",
