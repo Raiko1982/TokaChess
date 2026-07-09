@@ -1,6 +1,234 @@
 [
     {
         "origin": "info64",
+        "nombre": "III Torneo Desafío a la Ciega",
+        "ciudad": "València",
+        "fechaini": "07-07-2026",
+        "fechafin": "09-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/iii-torneo-desafio-a-la-ciega"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CAMPEONATO DE ESPAÑA SUB 10 2026",
+        "ciudad": "Vícar",
+        "fechaini": "07-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.8316986,
+        "lon": -2.6430297,
+        "link": "https://info64.org/campeonato-de-espana-sub-10-2026-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo de Ajedrez Rápido 24h Deportivas de Istán",
+        "ciudad": "Istán",
+        "fechaini": "25-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.5819684,
+        "lon": -4.9495445,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-rapido-24h-deportivas-de-istan"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Summer Chess Festival 2026 - Marbella Chess Club",
+        "ciudad": "Marbella",
+        "fechaini": "14-07-2026",
+        "fechafin": "14-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.5074781,
+        "lon": -4.8047219,
+        "link": "https://info64.org/summer-chess-festival-2026-marbella-chess-club"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI OPEN AJEDREZ LA PUERTA DE SEGURA 2026",
+        "ciudad": "LA PUERTA DE SEGURA",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.349681,
+        "lon": -2.736619,
+        "link": "https://info64.org/vi-open-ajedrez"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Circuito Nocturno Totem 2026 - III Torneo",
+        "ciudad": "Totem Cafe Gijon",
+        "fechaini": "24-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/circuito-nocturno-totem-2026-iii-torneo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Festival Int. Ruy López Open Sub 2400",
+        "ciudad": "Zafra",
+        "fechaini": "27-11-2026",
+        "fechafin": "29-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4253489,
+        "lon": -6.4193627,
+        "link": "https://info64.org/vi-festival-int-ruy-lopez-open-sub-2400"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Festival Int. Ruy López Blitz Nocturno",
+        "ciudad": "Zafra",
+        "fechaini": "28-11-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4253489,
+        "lon": -6.4193627,
+        "link": "https://info64.org/vi-festival-int-ruy-lopez-blitz-nocturno"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XIX OPEN INTERNACIONAL POBLE DE MONTSERRAT 2026",
+        "ciudad": "Montserrat",
+        "fechaini": "24-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.3576494,
+        "lon": -0.6031,
+        "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Granada Chess Open 2026",
+        "ciudad": "Granada",
+        "fechaini": "28-07-2026",
+        "fechafin": "02-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.1734995,
+        "lon": -3.5995337,
+        "link": "https://info64.org/granada-chess-open-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III TORNEIG D'ESCACS D'ESTIU - VILLA DE SANTA POLA BLITZ SUB 2000",
+        "ciudad": "SANTA POLA",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.1923641,
+        "lon": -0.5555464,
+        "link": "https://info64.org/iii-torneig-descacs-destiu-villa-de-santa-pola-blitz-sub-2000"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB1800",
+        "ciudad": "Valdepeñas",
+        "fechaini": "17-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV BLITZ NOCTURNO LOS MOLINOS",
+        "ciudad": "Valdepeñas",
+        "fechaini": "18-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/iv-blitz-nocturno-los-molinos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "TORNEO B - 5 Open Internacional Sub1800 Hotel Vertice Sevilla Bormujos",
+        "ciudad": "Bormujos",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3715939,
+        "lon": -6.07133,
+        "link": "https://info64.org/torneo-b-5-open-internacional-sub1800-hotel-vertice-sevilla-bormujos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "TORNEO A - 8 Open Internacional Sub2200 Hotel Vertice Sevilla Bormujos",
+        "ciudad": "Bormujos",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3715939,
+        "lon": -6.07133,
+        "link": "https://info64.org/torneo-a-8-open-internacional-sub2200-hotel-vertice-sevilla-bormujos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Agosto Sierra Norte",
+        "ciudad": "Bustarviejo",
+        "fechaini": "03-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.8587766,
+        "lon": -3.7097632,
+        "link": "https://info64.org/ii-agosto-sierra-norte"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Concello de Cerceda",
+        "ciudad": "Cerceda - A Coruna",
+        "fechaini": "12-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.1626367,
+        "lon": -8.5034757,
+        "link": "https://info64.org/x-concello-de-cerceda"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Open Internacional Fuxan Os Ventos Lugo",
+        "ciudad": "Lugo",
+        "fechaini": "13-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.0395266,
+        "lon": -7.4567985,
+        "link": "https://info64.org/i-open-internacional-fuxan-os-ventos-lugo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIII TORNEO DE AJEDREZ SILES 2026",
+        "ciudad": "SILES",
+        "fechaini": "08-08-2026",
+        "fechafin": "08-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3878613,
+        "lon": -2.5826373,
+        "link": "https://info64.org/xxiii-torneo-de-ajedrez-siles-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "II Torneo Internacional de Ajedrez Ciudad de Pamplona - Pepe Leuza in Memoriam",
         "ciudad": "Hotel NH Iruña Park",
         "fechaini": "06-02-2027",
@@ -34,18 +262,6 @@
         "lat": 37.0222913,
         "lon": -3.6274938,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI OPEN AJEDREZ LA PUERTA DE SEGURA 2026",
-        "ciudad": "LA PUERTA DE SEGURA",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.349681,
-        "lon": -2.736619,
-        "link": "https://info64.org/vi-open-ajedrez"
     },
     {
         "origin": "info64",
@@ -145,42 +361,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Open Internacional Fuxan Os Ventos Lugo",
-        "ciudad": "Lugo",
-        "fechaini": "13-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.0395266,
-        "lon": -7.4567985,
-        "link": "https://info64.org/i-open-internacional-fuxan-os-ventos-lugo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Summer Chess Festival 2026 - Marbella Chess Club",
-        "ciudad": "Marbella",
-        "fechaini": "14-07-2026",
-        "fechafin": "14-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.5074781,
-        "lon": -4.8047219,
-        "link": "https://info64.org/summer-chess-festival-2026-marbella-chess-club"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Concello de Cerceda",
-        "ciudad": "Cerceda - A Coruna",
-        "fechaini": "12-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.1626367,
-        "lon": -8.5034757,
-        "link": "https://info64.org/x-concello-de-cerceda"
-    },
-    {
-        "origin": "info64",
         "nombre": "X TORNEO DE AJEDREZ VILLA DE ALGARROBO",
         "ciudad": "ALGARROBO",
         "fechaini": "18-07-2026",
@@ -202,18 +382,6 @@
         "lat": 42.4367662,
         "lon": -5.8851414,
         "link": "https://info64.org/iv-torneo-de-ajedrez-veguellina-de-orbigo-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "TORNEO A - 8 Open Internacional Sub2200 Hotel Vertice Sevilla Bormujos",
-        "ciudad": "Bormujos",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3715939,
-        "lon": -6.07133,
-        "link": "https://info64.org/torneo-a-8-open-internacional-sub2200-hotel-vertice-sevilla-bormujos"
     },
     {
         "origin": "info64",
@@ -397,18 +565,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "TORNEO B - 5 Open Internacional Sub1800 Hotel Vertice Sevilla Bormujos",
-        "ciudad": "Bormujos",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3715939,
-        "lon": -6.07133,
-        "link": "https://info64.org/torneo-b-5-open-internacional-sub1800-hotel-vertice-sevilla-bormujos"
-    },
-    {
-        "origin": "info64",
         "nombre": "TORNEO C - 2 BLITZ NOCTURNO Trebejo Solidario Hotel Vertice Sevilla Bormujos",
         "ciudad": "Bormujos",
         "fechaini": "22-08-2026",
@@ -430,18 +586,6 @@
         "lat": 39.6213826,
         "lon": -3.3392996,
         "link": "https://info64.org/dato-villacanas-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIII TORNEO DE AJEDREZ SILES 2026",
-        "ciudad": "SILES",
-        "fechaini": "08-08-2026",
-        "fechafin": "08-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3878613,
-        "lon": -2.5826373,
-        "link": "https://info64.org/xxiii-torneo-de-ajedrez-siles-2026"
     },
     {
         "origin": "info64",
@@ -553,18 +697,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III TORNEIG D'ESCACS D'ESTIU - VILLA DE SANTA POLA BLITZ SUB 2000",
-        "ciudad": "SANTA POLA",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.1923641,
-        "lon": -0.5555464,
-        "link": "https://info64.org/iii-torneig-descacs-destiu-villa-de-santa-pola-blitz-sub-2000"
-    },
-    {
-        "origin": "info64",
         "nombre": "XV Torneo IRT AD Ajedrez Mostoles",
         "ciudad": "Mostoles",
         "fechaini": "26-07-2026",
@@ -610,30 +742,6 @@
         "lat": 39.4827253,
         "lon": -0.4438854,
         "link": "https://info64.org/x-open-internacional-quart-de-poblet"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Desafío a la Ciega",
-        "ciudad": "València",
-        "fechaini": "07-07-2026",
-        "fechafin": "09-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/iii-torneo-desafio-a-la-ciega"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB1800",
-        "ciudad": "Valdepeñas",
-        "fechaini": "17-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7594573,
-        "lon": -3.3847392,
-        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub1800"
     },
     {
         "origin": "info64",
@@ -697,18 +805,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "CAMPEONATO DE ESPAÑA SUB 10 2026",
-        "ciudad": "Vícar",
-        "fechaini": "07-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.8316986,
-        "lon": -2.6430297,
-        "link": "https://info64.org/campeonato-de-espana-sub-10-2026-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "III TORNEO AJEDREZ VILLA DE GUARROMAN",
         "ciudad": "GUARROMAN",
         "fechaini": "19-07-2026",
@@ -769,30 +865,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV BLITZ NOCTURNO LOS MOLINOS",
-        "ciudad": "Valdepeñas",
-        "fechaini": "18-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7594573,
-        "lon": -3.3847392,
-        "link": "https://info64.org/iv-blitz-nocturno-los-molinos"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo de Ajedrez Rápido 24h Deportivas de Istán",
-        "ciudad": "Istán",
-        "fechaini": "25-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.5819684,
-        "lon": -4.9495445,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-rapido-24h-deportivas-de-istan"
-    },
-    {
-        "origin": "info64",
         "nombre": "LIX Torneo Internacional Villa de Mislata Grupo C Sub-1800",
         "ciudad": "Mislata",
         "fechaini": "10-08-2026",
@@ -826,18 +898,6 @@
         "lat": 40.6294786,
         "lon": -3.2433558,
         "link": "https://info64.org/team/ii-torneo-de-ajedrez-por-parejas-mixtas"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Granada Chess Open 2026",
-        "ciudad": "Granada",
-        "fechaini": "28-07-2026",
-        "fechafin": "02-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.1734995,
-        "lon": -3.5995337,
-        "link": "https://info64.org/granada-chess-open-2026"
     },
     {
         "origin": "info64",
@@ -1153,18 +1213,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Agosto Sierra Norte",
-        "ciudad": "Bustarviejo",
-        "fechaini": "03-08-2026",
-        "fechafin": "09-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.8587766,
-        "lon": -3.7097632,
-        "link": "https://info64.org/ii-agosto-sierra-norte"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV ERLAC Teresa Herrera A Coruña",
         "ciudad": "A Coruña",
         "fechaini": "31-07-2026",
@@ -1186,18 +1234,6 @@
         "lat": 41.7140829,
         "lon": -0.9943593,
         "link": "https://info64.org/ix-torneo-de-verano-club-de-utebo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Festival Int. Ruy López Open Sub 2400",
-        "ciudad": "Zafra",
-        "fechaini": "27-11-2026",
-        "fechafin": "29-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4253489,
-        "lon": -6.4193627,
-        "link": "https://info64.org/vi-festival-int-ruy-lopez-open-sub-2400"
     },
     {
         "origin": "info64",
@@ -1246,18 +1282,6 @@
         "lat": 41.9148751,
         "lon": -4.7792135,
         "link": "https://info64.org/v-torneo-infantil-ampudia"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Festival Int. Ruy López Blitz Nocturno",
-        "ciudad": "Zafra",
-        "fechaini": "28-11-2026",
-        "fechafin": "28-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4253489,
-        "lon": -6.4193627,
-        "link": "https://info64.org/vi-festival-int-ruy-lopez-blitz-nocturno"
     },
     {
         "origin": "info64",
@@ -1834,18 +1858,6 @@
         "lat": 37.4362471,
         "lon": -2.722409,
         "link": "https://info64.org/torneo-caniles-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIX OPEN INTERNACIONAL POBLE DE MONTSERRAT 2026",
-        "ciudad": "Montserrat",
-        "fechaini": "24-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.3576494,
-        "lon": -0.6031,
-        "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
     },
     {
         "origin": "info64",
