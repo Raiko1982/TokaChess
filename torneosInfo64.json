@@ -1,6 +1,186 @@
 [
     {
         "origin": "info64",
+        "nombre": "IX Torneo de Verano Club de Utebo",
+        "ciudad": "Utebo",
+        "fechaini": "31-07-2026",
+        "fechafin": "02-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.7140829,
+        "lon": -0.9943593,
+        "link": "https://info64.org/ix-torneo-de-verano-club-de-utebo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Open de Grado - Fiesta Santiago y Santa Ana",
+        "ciudad": "Grado",
+        "fechaini": "18-07-2026",
+        "fechafin": "18-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2980596,
+        "lon": -6.1471901,
+        "link": "https://info64.org/v-open-de-grado-fiesta-santiago-y-santa-ana"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo de Ajedrez Veguellina de Orbigo 2026",
+        "ciudad": "Veguellina de Orbigo",
+        "fechaini": "20-07-2026",
+        "fechafin": "20-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4367662,
+        "lon": -5.8851414,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-veguellina-de-orbigo-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Ajedrez Fiestas de Sigüenza 2026 ABSOLUTO",
+        "ciudad": "Sigüenza",
+        "fechaini": "18-07-2026",
+        "fechafin": "18-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.0680324,
+        "lon": -2.6405659,
+        "link": "https://info64.org/torneo-ajedrez-fiestas-de-siguenza-2026-absoluto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Ajedrez Fiestas de Sigüenza 2026 SUB-14",
+        "ciudad": "Sigüenza",
+        "fechaini": "18-07-2026",
+        "fechafin": "18-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.0680324,
+        "lon": -2.6405659,
+        "link": "https://info64.org/torneo-ajedrez-fiestas-de-siguenza-2026-sub-14"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Open Internacional de Oviedo 2026",
+        "ciudad": "Oviedo",
+        "fechaini": "20-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3533452,
+        "lon": -5.8795096,
+        "link": "https://info64.org/open-internacional-de-oviedo-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "PENAS DE SAN PEDRO 26",
+        "ciudad": "PENAS DE SAN PEDRO",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7266169,
+        "lon": -2.0019637,
+        "link": "https://info64.org/penas-de-san-pedro-26"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
+        "ciudad": "Benidorm",
+        "fechaini": "28-11-2026",
+        "fechafin": "05-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Open Internacional Fuxan Os Ventos Lugo",
+        "ciudad": "Lugo",
+        "fechaini": "13-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.0395266,
+        "lon": -7.4567985,
+        "link": "https://info64.org/i-open-internacional-fuxan-os-ventos-lugo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Concello de Cerceda",
+        "ciudad": "Cerceda - A Coruna",
+        "fechaini": "12-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.1626367,
+        "lon": -8.5034757,
+        "link": "https://info64.org/x-concello-de-cerceda"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Canarias Absoluto y Femenino 2026",
+        "ciudad": "Playa del Inglés-Gran Canaria",
+        "fechaini": "15-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 28.1010455,
+        "lon": -17.347242,
+        "link": "https://info64.org/campeonato-de-canarias-absoluto-y-femenino-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo de ajedrez inclusivo La Serranía Ajedrosaurus",
+        "ciudad": "Alpuente, Av San Blas 51",
+        "fechaini": "31-07-2026",
+        "fechafin": "31-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-inclusivo-la-serrania-ajedrosaurus"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo de Ajedrez Ciudad de Águilas 2026",
+        "ciudad": "Águilas",
+        "fechaini": "18-07-2026",
+        "fechafin": "18-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.4099628,
+        "lon": -1.5804922,
+        "link": "https://info64.org/i-torneo-de-ajedrez-ciudad-de-aguilas-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CIRCUITO PROVINCIAL DE AJEDREZ ALAMEDA",
+        "ciudad": "Alameda",
+        "fechaini": "12-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.207778,
+        "lon": -4.6581597,
+        "link": "https://info64.org/circuito-provincial-de-ajedrez-alameda"
+    },
+    {
+        "origin": "info64",
+        "nombre": "2 Open Internacional Sub2200 Hotel Vertice Chipiona Mar",
+        "ciudad": "Chipiona",
+        "fechaini": "06-11-2026",
+        "fechafin": "08-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7355451,
+        "lon": -6.4348221,
+        "link": "https://info64.org/2-open-internacional-sub2200-hotel-vertice-chipiona-mar"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo de Ajedrez Feria de Utrera 2026",
         "ciudad": "UTRERA",
         "fechaini": "29-08-2026",
@@ -313,30 +493,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Torneo de ajedrez inclusivo La Serranía Ajedrosaurus",
-        "ciudad": "Alpuente, Av San Blas 51",
-        "fechaini": "31-07-2026",
-        "fechafin": "31-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-inclusivo-la-serrania-ajedrosaurus"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Open Internacional de Oviedo 2026",
-        "ciudad": "Oviedo",
-        "fechaini": "20-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3533452,
-        "lon": -5.8795096,
-        "link": "https://info64.org/open-internacional-de-oviedo-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Romaría Xadrez Viking Rise sub8",
         "ciudad": "Catoira",
         "fechaini": "26-07-2026",
@@ -382,18 +538,6 @@
         "lat": 42.5947625,
         "lon": -8.7669178,
         "link": "https://info64.org/i-torneo-bar-alegria-las-tapas-de-laura"
-    },
-    {
-        "origin": "info64",
-        "nombre": "PENAS DE SAN PEDRO 26",
-        "ciudad": "PENAS DE SAN PEDRO",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7266169,
-        "lon": -2.0019637,
-        "link": "https://info64.org/penas-de-san-pedro-26"
     },
     {
         "origin": "info64",
@@ -589,30 +733,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Open de Grado - Fiesta Santiago y Santa Ana",
-        "ciudad": "Grado",
-        "fechaini": "18-07-2026",
-        "fechafin": "18-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.2980596,
-        "lon": -6.1471901,
-        "link": "https://info64.org/v-open-de-grado-fiesta-santiago-y-santa-ana"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo de Ajedrez Veguellina de Orbigo 2026",
-        "ciudad": "Veguellina de Orbigo",
-        "fechaini": "20-07-2026",
-        "fechafin": "20-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4367662,
-        "lon": -5.8851414,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-veguellina-de-orbigo-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "LIX Torneo Internacional Villa de Mislata Grupo C Sub-1800",
         "ciudad": "Mislata",
         "fechaini": "10-08-2026",
@@ -730,30 +850,6 @@
         "lat": 40.8587766,
         "lon": -3.7097632,
         "link": "https://info64.org/ii-agosto-sierra-norte"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Concello de Cerceda",
-        "ciudad": "Cerceda - A Coruna",
-        "fechaini": "12-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.1626367,
-        "lon": -8.5034757,
-        "link": "https://info64.org/x-concello-de-cerceda"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Open Internacional Fuxan Os Ventos Lugo",
-        "ciudad": "Lugo",
-        "fechaini": "13-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.0395266,
-        "lon": -7.4567985,
-        "link": "https://info64.org/i-open-internacional-fuxan-os-ventos-lugo"
     },
     {
         "origin": "info64",
@@ -961,30 +1057,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo Ajedrez Fiestas de Sigüenza 2026 ABSOLUTO",
-        "ciudad": "Sigüenza",
-        "fechaini": "18-07-2026",
-        "fechafin": "18-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.0680324,
-        "lon": -2.6405659,
-        "link": "https://info64.org/torneo-ajedrez-fiestas-de-siguenza-2026-absoluto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Ajedrez Fiestas de Sigüenza 2026 SUB-14",
-        "ciudad": "Sigüenza",
-        "fechaini": "18-07-2026",
-        "fechafin": "18-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.0680324,
-        "lon": -2.6405659,
-        "link": "https://info64.org/torneo-ajedrez-fiestas-de-siguenza-2026-sub-14"
-    },
-    {
-        "origin": "info64",
         "nombre": "XV Torneo IRT AD Ajedrez Mostoles",
         "ciudad": "Mostoles",
         "fechaini": "26-07-2026",
@@ -1033,18 +1105,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo de Ajedrez Ciudad de Águilas 2026",
-        "ciudad": "Águilas",
-        "fechaini": "18-07-2026",
-        "fechafin": "18-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.4099628,
-        "lon": -1.5804922,
-        "link": "https://info64.org/i-torneo-de-ajedrez-ciudad-de-aguilas-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXVII TORNEO ABIERTO AJEDREZ ACTIVO  HUELMA",
         "ciudad": "Huelma",
         "fechaini": "02-08-2026",
@@ -1066,18 +1126,6 @@
         "lat": 38.1837551,
         "lon": -3.6855149,
         "link": "https://info64.org/iii-torneo-ajedrez-villa-de-guarroman"
-    },
-    {
-        "origin": "info64",
-        "nombre": "2 Open Internacional Sub2200 Hotel Vertice Chipiona Mar",
-        "ciudad": "Chipiona",
-        "fechaini": "06-11-2026",
-        "fechafin": "08-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7355451,
-        "lon": -6.4348221,
-        "link": "https://info64.org/2-open-internacional-sub2200-hotel-vertice-chipiona-mar"
     },
     {
         "origin": "info64",
@@ -1225,18 +1273,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "CIRCUITO PROVINCIAL DE AJEDREZ ALAMEDA",
-        "ciudad": "Alameda",
-        "fechaini": "12-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.207778,
-        "lon": -4.6581597,
-        "link": "https://info64.org/circuito-provincial-de-ajedrez-alameda"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open Transpirenaico Memorial Salvador Casado - Oberena -",
         "ciudad": "Pamplona",
         "fechaini": "18-09-2026",
@@ -1246,18 +1282,6 @@
         "lat": 42.815686,
         "lon": -1.6522353,
         "link": "https://info64.org/i-open-transpirenaico-memorial-salvador-casado-oberena"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Canarias Absoluto y Femenino 2026",
-        "ciudad": "Playa del Inglés-Gran Canaria",
-        "fechaini": "15-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 28.1010455,
-        "lon": -17.347242,
-        "link": "https://info64.org/campeonato-de-canarias-absoluto-y-femenino-2026"
     },
     {
         "origin": "info64",
@@ -1366,18 +1390,6 @@
         "lat": 43.3466447,
         "lon": -8.4127029,
         "link": "https://info64.org/iv-erlac-teresa-herrera-a-coruna"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IX Torneo de Verano Club de Utebo",
-        "ciudad": "Utebo",
-        "fechaini": "31-07-2026",
-        "fechafin": "02-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.7140829,
-        "lon": -0.9943593,
-        "link": "https://info64.org/ix-torneo-de-verano-club-de-utebo"
     },
     {
         "origin": "info64",
@@ -1726,18 +1738,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
-        "ciudad": "Benidorm",
-        "fechaini": "28-11-2026",
-        "fechafin": "05-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
     },
     {
         "origin": "info64",
