@@ -181,39 +181,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Internacional de Xadrez APECR 2026",
-        "ciudad": "Sanxenxo",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
+        "nombre": "informal viernes julio",
+        "ciudad": "montserrat",
+        "fechaini": "10-07-2026",
+        "fechafin": "31-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.4220772,
-        "lon": -8.8353365,
-        "link": "https://info64.org/iii-internacional-de-xadrez-apecr-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Blitz Verano Fiestas del Carmen Aficionados 2026",
-        "ciudad": "Telde",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 27.9984538,
-        "lon": -15.4166761,
-        "link": "https://info64.org/torneo-blitz-verano-fiestas-del-carmen-aficionados-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Blitz Verano Fiestas del Carmen 2026",
-        "ciudad": "Telde",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 27.9984538,
-        "lon": -15.4166761,
-        "link": "https://info64.org/torneo-blitz-verano-fiestas-del-carmen-2026"
+        "lat": 39.3576494,
+        "lon": -0.6031,
+        "link": "https://info64.org/informal-viernes-julio"
     },
     {
         "origin": "info64",
@@ -241,18 +217,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo de Alles",
-        "ciudad": "Alles, Asturias",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3345449,
-        "lon": -4.7070278,
-        "link": "https://info64.org/i-torneo-de-alles"
-    },
-    {
-        "origin": "info64",
         "nombre": "III TORNEIG D'ESCACS D'ESTIU - VILLA DE SANTA POLA BLITZ SUB 2000",
         "ciudad": "SANTA POLA",
         "fechaini": "11-07-2026",
@@ -265,18 +229,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Blitz Primavera 2",
-        "ciudad": "Divina Pastora",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3728179,
-        "lon": -0.5023158,
-        "link": "https://info64.org/blitz-primavera-2"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI OPEN AJEDREZ LA PUERTA DE SEGURA 2026",
         "ciudad": "LA PUERTA DE SEGURA",
         "fechaini": "11-07-2026",
@@ -286,6 +238,90 @@
         "lat": 38.349681,
         "lon": -2.736619,
         "link": "https://info64.org/vi-open-ajedrez"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Internacional de Xadrez APECR 2026",
+        "ciudad": "Sanxenxo",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4220772,
+        "lon": -8.8353365,
+        "link": "https://info64.org/iii-internacional-de-xadrez-apecr-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Exhibicion San Fermin",
+        "ciudad": "Barakaldo",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2949177,
+        "lon": -2.9887476,
+        "link": "https://info64.org/i-exhibicion-san-fermin-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Exhibicion San Fermin",
+        "ciudad": "Barakaldo",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2949177,
+        "lon": -2.9887476,
+        "link": "https://info64.org/i-exhibicion-san-fermin"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Blitz Verano Fiestas del Carmen Aficionados 2026",
+        "ciudad": "Telde",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 27.9984538,
+        "lon": -15.4166761,
+        "link": "https://info64.org/torneo-blitz-verano-fiestas-del-carmen-aficionados-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Blitz Verano Fiestas del Carmen 2026",
+        "ciudad": "Telde",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 27.9984538,
+        "lon": -15.4166761,
+        "link": "https://info64.org/torneo-blitz-verano-fiestas-del-carmen-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo de Alles",
+        "ciudad": "Alles, Asturias",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3345449,
+        "lon": -4.7070278,
+        "link": "https://info64.org/i-torneo-de-alles"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Blitz Primavera 2",
+        "ciudad": "Divina Pastora",
+        "fechaini": "11-07-2026",
+        "fechafin": "11-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3728179,
+        "lon": -0.5023158,
+        "link": "https://info64.org/blitz-primavera-2"
     },
     {
         "origin": "info64",
@@ -397,6 +433,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "X Concello de Cerceda",
+        "ciudad": "Cerceda - A Coruna",
+        "fechaini": "12-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.1626367,
+        "lon": -8.5034757,
+        "link": "https://info64.org/x-concello-de-cerceda"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Circuito Provincial de Ajedrez 2026 -Torneo 1: PADUL",
         "ciudad": "Padul",
         "fechaini": "12-07-2026",
@@ -430,18 +478,6 @@
         "lat": 38.096787,
         "lon": -3.7765601,
         "link": "https://info64.org/v-batalla-de-bailen-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Concello de Cerceda",
-        "ciudad": "Cerceda - A Coruna",
-        "fechaini": "12-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.1626367,
-        "lon": -8.5034757,
-        "link": "https://info64.org/x-concello-de-cerceda"
     },
     {
         "origin": "info64",
@@ -589,18 +625,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo de Ajedrez Cafe de Sophia 2026",
-        "ciudad": "Gijon",
-        "fechaini": "16-07-2026",
-        "fechafin": "16-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/torneo-de-ajedrez-cafe-de-sophia-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Torneo de Ajedrez Infantil Las Peñitas",
         "ciudad": "Villafranca B.",
         "fechaini": "16-07-2026",
@@ -610,6 +634,18 @@
         "lat": 42.8373515,
         "lon": -2.5688899,
         "link": "https://info64.org/ii-torneo-infantil-las-penitas"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de Ajedrez Cafe de Sophia 2026",
+        "ciudad": "Gijon",
+        "fechaini": "16-07-2026",
+        "fechafin": "16-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/torneo-de-ajedrez-cafe-de-sophia-2026"
     },
     {
         "origin": "chess-results",
@@ -622,6 +658,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1441247.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB2400",
+        "ciudad": "Valdepeñas",
+        "fechaini": "17-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub2400"
     },
     {
         "origin": "info64",
@@ -646,18 +694,6 @@
         "lat": 39.5090599,
         "lon": -0.4108581,
         "link": "https://info64.org/ii-torneo-solidario-de-ajedrez-burjassot"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB2400",
-        "ciudad": "Valdepeñas",
-        "fechaini": "17-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7594573,
-        "lon": -3.3847392,
-        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub2400"
     },
     {
         "origin": "info64",
@@ -757,6 +793,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV BLITZ NOCTURNO LOS MOLINOS",
+        "ciudad": "Valdepeñas",
+        "fechaini": "18-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/iv-blitz-nocturno-los-molinos"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXIV Torneo de Ajedrez Santiago Apóstol",
         "ciudad": "Don Benito",
         "fechaini": "18-07-2026",
@@ -778,18 +826,6 @@
         "lat": 43.4007283,
         "lon": -8.1497914,
         "link": "https://info64.org/i-torneio-blitz-de-pontedeume"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV BLITZ NOCTURNO LOS MOLINOS",
-        "ciudad": "Valdepeñas",
-        "fechaini": "18-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7594573,
-        "lon": -3.3847392,
-        "link": "https://info64.org/iv-blitz-nocturno-los-molinos"
     },
     {
         "origin": "info64",
@@ -1249,6 +1285,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "X Open Internacional Quart de Poblet",
+        "ciudad": "Quart de Poblet",
+        "fechaini": "25-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4827253,
+        "lon": -0.4438854,
+        "link": "https://info64.org/x-open-internacional-quart-de-poblet"
+    },
+    {
+        "origin": "info64",
         "nombre": "V OBERT ESCACS FESTES DE ALMUSSAFES",
         "ciudad": "Almussafes",
         "fechaini": "25-07-2026",
@@ -1282,18 +1330,6 @@
         "lat": 36.5819684,
         "lon": -4.9495445,
         "link": "https://info64.org/iv-torneo-de-ajedrez-rapido-24h-deportivas-de-istan"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Open Internacional Quart de Poblet",
-        "ciudad": "Quart de Poblet",
-        "fechaini": "25-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4827253,
-        "lon": -0.4438854,
-        "link": "https://info64.org/x-open-internacional-quart-de-poblet"
     },
     {
         "origin": "info64",
@@ -1378,6 +1414,30 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1402663.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Open Internacional Blitz Quart de Poblet",
+        "ciudad": "Quart de Poblet",
+        "fechaini": "26-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4827253,
+        "lon": -0.4438854,
+        "link": "https://info64.org/v-open-internacional-blitz-quart-de-poblet"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Torneo 960 Quart de Poblet",
+        "ciudad": "Quart de Poblet",
+        "fechaini": "26-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4827253,
+        "lon": -0.4438854,
+        "link": "https://info64.org/vi-torneo-960-quart-de-poblet"
     },
     {
         "origin": "info64",
@@ -1474,30 +1534,6 @@
         "lat": 40.3238525,
         "lon": -3.8649214,
         "link": "https://info64.org/xv-torneo-irt-ad-ajedrez-mostoles"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Open Internacional Blitz Quart de Poblet",
-        "ciudad": "Quart de Poblet",
-        "fechaini": "26-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4827253,
-        "lon": -0.4438854,
-        "link": "https://info64.org/v-open-internacional-blitz-quart-de-poblet"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Torneo 960 Quart de Poblet",
-        "ciudad": "Quart de Poblet",
-        "fechaini": "26-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4827253,
-        "lon": -0.4438854,
-        "link": "https://info64.org/vi-torneo-960-quart-de-poblet"
     },
     {
         "origin": "chess-results",
