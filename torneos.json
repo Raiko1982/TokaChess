@@ -85,18 +85,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VII Open Internacional Valencia Cuna Grupo B",
-        "ciudad": "Valencia",
-        "fechaini": "04-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/vii-open-internacional-valencia-cuna-grupo-b"
-    },
-    {
-        "origin": "info64",
         "nombre": "VII Open Internacional Valencia Cuna del Ajedrez - Grupo A",
         "ciudad": "Valencia",
         "fechaini": "04-07-2026",
@@ -106,6 +94,18 @@
         "lat": 39.4697065,
         "lon": -0.3763353,
         "link": "https://info64.org/vii-open-internacional-valencia-cuna-del-ajedrez-grupo-a"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VII Open Internacional Valencia Cuna Grupo B",
+        "ciudad": "Valencia",
+        "fechaini": "04-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/vii-open-internacional-valencia-cuna-grupo-b"
     },
     {
         "origin": "info64",
@@ -157,18 +157,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "CIRCUITO PROVINCIAL DE AJEDREZ ALAMEDA",
-        "ciudad": "Alameda",
-        "fechaini": "12-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.207778,
-        "lon": -4.6581597,
-        "link": "https://info64.org/circuito-provincial-de-ajedrez-alameda"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Circuito Provincial de Ajedrez 2026 -Torneo 1: PADUL",
         "ciudad": "Padul",
         "fechaini": "12-07-2026",
@@ -181,15 +169,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "I TORNEO BLITZ AKERU VICALVARO",
-        "ciudad": "Madrid",
+        "nombre": "CIRCUITO PROVINCIAL DE AJEDREZ ALAMEDA",
+        "ciudad": "Alameda",
         "fechaini": "12-07-2026",
         "fechafin": "12-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/i-torneo-blitz-akeru-vicalvaro"
+        "lat": 37.207778,
+        "lon": -4.6581597,
+        "link": "https://info64.org/circuito-provincial-de-ajedrez-alameda"
     },
     {
         "origin": "info64",
@@ -205,15 +193,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Torneo Blitz Monumento al Campesino 2026",
-        "ciudad": "Museo al Campesino",
+        "nombre": "I TORNEO BLITZ AKERU VICALVARO",
+        "ciudad": "Madrid",
         "fechaini": "12-07-2026",
         "fechafin": "12-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-torneo-blitz-monumento-al-campesino-2026"
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/i-torneo-blitz-akeru-vicalvaro"
     },
     {
         "origin": "info64",
@@ -226,6 +214,18 @@
         "lat": 43.1626367,
         "lon": -8.5034757,
         "link": "https://info64.org/x-concello-de-cerceda"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo Blitz Monumento al Campesino 2026",
+        "ciudad": "Museo al Campesino",
+        "fechaini": "12-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iv-torneo-blitz-monumento-al-campesino-2026"
     },
     {
         "origin": "chess-results",
@@ -301,18 +301,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "CAMPEONATO DE ESPAÑA SUB 12 2026",
-        "ciudad": "Vícar",
-        "fechaini": "13-07-2026",
-        "fechafin": "18-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.8316986,
-        "lon": -2.6430297,
-        "link": "https://info64.org/campeonato-de-espana-sub-12-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open Internacional Fuxan Os Ventos Lugo",
         "ciudad": "Lugo",
         "fechaini": "13-07-2026",
@@ -322,6 +310,18 @@
         "lat": 43.0395266,
         "lon": -7.4567985,
         "link": "https://info64.org/i-open-internacional-fuxan-os-ventos-lugo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CAMPEONATO DE ESPAÑA SUB 12 2026",
+        "ciudad": "Vícar",
+        "fechaini": "13-07-2026",
+        "fechafin": "18-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.8316986,
+        "lon": -2.6430297,
+        "link": "https://info64.org/campeonato-de-espana-sub-12-2026"
     },
     {
         "origin": "chess-results",
@@ -421,15 +421,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "II TORNEO SOLIDARIO DE AJEDREZ BURJASSOT",
-        "ciudad": "BURJASSOT",
+        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB1800",
+        "ciudad": "Valdepeñas",
         "fechaini": "17-07-2026",
-        "fechafin": "17-07-2026",
+        "fechafin": "19-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.5090599,
-        "lon": -0.4108581,
-        "link": "https://info64.org/ii-torneo-solidario-de-ajedrez-burjassot"
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub1800"
     },
     {
         "origin": "info64",
@@ -445,15 +445,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB1800",
-        "ciudad": "Valdepeñas",
+        "nombre": "II TORNEO SOLIDARIO DE AJEDREZ BURJASSOT",
+        "ciudad": "BURJASSOT",
         "fechaini": "17-07-2026",
-        "fechafin": "19-07-2026",
+        "fechafin": "17-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.7594573,
-        "lon": -3.3847392,
-        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub1800"
+        "lat": 39.5090599,
+        "lon": -0.4108581,
+        "link": "https://info64.org/ii-torneo-solidario-de-ajedrez-burjassot"
     },
     {
         "origin": "info64",
@@ -553,6 +553,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXIV Torneo de Ajedrez Santiago Apóstol",
+        "ciudad": "Don Benito",
+        "fechaini": "18-07-2026",
+        "fechafin": "18-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9540269,
+        "lon": -5.8619466,
+        "link": "https://info64.org/xxiv-torneo-santiago-apostol"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Ajedrez Fiestas de Sigüenza 2026 ABSOLUTO",
+        "ciudad": "Sigüenza",
+        "fechaini": "18-07-2026",
+        "fechafin": "18-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.0680324,
+        "lon": -2.6405659,
+        "link": "https://info64.org/torneo-ajedrez-fiestas-de-siguenza-2026-absoluto"
+    },
+    {
+        "origin": "info64",
         "nombre": "V Open de Grado - Fiesta Santiago y Santa Ana",
         "ciudad": "Grado",
         "fechaini": "18-07-2026",
@@ -601,18 +625,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo Ajedrez Fiestas de Sigüenza 2026 ABSOLUTO",
-        "ciudad": "Sigüenza",
-        "fechaini": "18-07-2026",
-        "fechafin": "18-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.0680324,
-        "lon": -2.6405659,
-        "link": "https://info64.org/torneo-ajedrez-fiestas-de-siguenza-2026-absoluto"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Ajedrez Fiestas de Sigüenza 2026 SUB-14",
         "ciudad": "Sigüenza",
         "fechaini": "18-07-2026",
@@ -634,18 +646,6 @@
         "lat": 36.7732439,
         "lon": -4.0399307,
         "link": "https://info64.org/x-torneo-de-ajedrez-villa-de-algarrobo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIV Torneo de Ajedrez Santiago Apóstol",
-        "ciudad": "Don Benito",
-        "fechaini": "18-07-2026",
-        "fechafin": "18-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9540269,
-        "lon": -5.8619466,
-        "link": "https://info64.org/xxiv-torneo-santiago-apostol"
     },
     {
         "origin": "info64",
@@ -691,8 +691,8 @@
         "fechafin": "20-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883263,
-        "lon": 2.243206,
+        "lat": 41.8831074,
+        "lon": 2.2431519,
         "link": "https://info64.org/iv-encuentro-dia-mundial-del-ajedrez"
     },
     {
@@ -805,15 +805,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Torneo de ajedrez por parejas mixtas",
-        "ciudad": "Cabanillas del Campo",
+        "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 2: DEIFONTES",
+        "ciudad": "Salón de Usos Múlt., Deifontes",
         "fechaini": "19-07-2026",
         "fechafin": "19-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.6294786,
-        "lon": -3.2433558,
-        "link": "https://info64.org/team/ii-torneo-de-ajedrez-por-parejas-mixtas"
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-2-deifontes"
     },
     {
         "origin": "info64",
@@ -829,6 +829,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II Torneo de ajedrez por parejas mixtas",
+        "ciudad": "Cabanillas del Campo",
+        "fechaini": "19-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6294786,
+        "lon": -3.2433558,
+        "link": "https://info64.org/team/ii-torneo-de-ajedrez-por-parejas-mixtas"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo relámpago El Greco. Julio 2026",
         "ciudad": "Zaragoza",
         "fechaini": "19-07-2026",
@@ -838,18 +850,6 @@
         "lat": 41.6915847,
         "lon": -0.9101268,
         "link": "https://info64.org/torneo-relampago-el-greco-julio-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 2: DEIFONTES",
-        "ciudad": "Deifontes",
-        "fechaini": "19-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3263415,
-        "lon": -3.5946529,
-        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-2-deifontes"
     },
     {
         "origin": "info64",
@@ -1597,6 +1597,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXI Torneo de Promoción de Ajedrez Almansa B",
+        "ciudad": "Almansa",
+        "fechaini": "31-07-2026",
+        "fechafin": "02-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.8682065,
+        "lon": -1.0978627,
+        "link": "https://info64.org/xxi-torneo-de-promocion-de-ajedrez-almansa-b"
+    },
+    {
+        "origin": "info64",
         "nombre": "IX Torneo de Verano Club de Utebo",
         "ciudad": "Utebo",
         "fechaini": "31-07-2026",
@@ -1618,18 +1630,6 @@
         "lat": 39.6213826,
         "lon": -3.3392996,
         "link": "https://info64.org/dato-villacanas-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXI Torneo de Promoción de Ajedrez Almansa B",
-        "ciudad": "Almansa",
-        "fechaini": "31-07-2026",
-        "fechafin": "02-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.8682065,
-        "lon": -1.0978627,
-        "link": "https://info64.org/xxi-torneo-de-promocion-de-ajedrez-almansa-b"
     },
     {
         "origin": "info64",
@@ -2527,8 +2527,8 @@
         "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4799017,
-        "lon": -3.7397206,
+        "lat": 40.4800615,
+        "lon": -3.7393998,
         "link": "https://info64.org/x-torneo-fiestas-de-fresnedillas-2026-ajedrez-y-paella"
     },
     {
