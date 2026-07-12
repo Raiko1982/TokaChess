@@ -48,30 +48,6 @@
         "link": "https://chess-results.com/tnr1399062.aspx?lan=2"
     },
     {
-        "origin": "info64",
-        "nombre": "C.A. Tomelloso - Trofeo de Primavera - Torneo B",
-        "ciudad": "Tomelloso",
-        "fechaini": "02-05-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1585549,
-        "lon": -3.0214851,
-        "link": "https://info64.org/ca-tomelloso-trofeo-de-primavera-torneo-b"
-    },
-    {
-        "origin": "info64",
-        "nombre": "C.A. Tomelloso - Trofeo de Primavera - Torneo A",
-        "ciudad": "Tomelloso",
-        "fechaini": "02-05-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1585549,
-        "lon": -3.0214851,
-        "link": "https://info64.org/ca-tomelloso-trofeo-de-primavera-torneo-a"
-    },
-    {
         "origin": "chess-results",
         "nombre": "prueba",
         "ciudad": "",
@@ -181,27 +157,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Torneo Ampudia",
-        "ciudad": "Ampudia",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
+        "nombre": "CIRCUITO PROVINCIAL DE AJEDREZ ALAMEDA",
+        "ciudad": "Alameda",
+        "fechaini": "12-07-2026",
+        "fechafin": "12-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.9148751,
-        "lon": -4.7792135,
-        "link": "https://info64.org/v-torneo-ampudia"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Ampudia Infantil",
-        "ciudad": "Ampudia",
-        "fechaini": "11-07-2026",
-        "fechafin": "11-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.9148751,
-        "lon": -4.7792135,
-        "link": "https://info64.org/v-torneo-ampudia-infantil"
+        "lat": 37.207778,
+        "lon": -4.6581597,
+        "link": "https://info64.org/circuito-provincial-de-ajedrez-alameda"
     },
     {
         "origin": "info64",
@@ -214,6 +178,18 @@
         "lat": 37.0222913,
         "lon": -3.6274938,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I TORNEO BLITZ AKERU VICALVARO",
+        "ciudad": "Madrid",
+        "fechaini": "12-07-2026",
+        "fechafin": "12-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/i-torneo-blitz-akeru-vicalvaro"
     },
     {
         "origin": "info64",
@@ -250,30 +226,6 @@
         "lat": 43.1626367,
         "lon": -8.5034757,
         "link": "https://info64.org/x-concello-de-cerceda"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I TORNEO BLITZ AKERU VICALVARO",
-        "ciudad": "Madrid",
-        "fechaini": "12-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/i-torneo-blitz-akeru-vicalvaro"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CIRCUITO PROVINCIAL DE AJEDREZ ALAMEDA",
-        "ciudad": "Alameda",
-        "fechaini": "12-07-2026",
-        "fechafin": "12-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.207778,
-        "lon": -4.6581597,
-        "link": "https://info64.org/circuito-provincial-de-ajedrez-alameda"
     },
     {
         "origin": "chess-results",
@@ -739,8 +691,8 @@
         "fechafin": "20-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.8831074,
-        "lon": 2.2431519,
+        "lat": 41.883263,
+        "lon": 2.243206,
         "link": "https://info64.org/iv-encuentro-dia-mundial-del-ajedrez"
     },
     {
@@ -853,6 +805,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II Torneo de ajedrez por parejas mixtas",
+        "ciudad": "Cabanillas del Campo",
+        "fechaini": "19-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6294786,
+        "lon": -3.2433558,
+        "link": "https://info64.org/team/ii-torneo-de-ajedrez-por-parejas-mixtas"
+    },
+    {
+        "origin": "info64",
         "nombre": "III TORNEO AJEDREZ VILLA DE GUARROMAN",
         "ciudad": "GUARROMAN",
         "fechaini": "19-07-2026",
@@ -874,18 +838,6 @@
         "lat": 41.6915847,
         "lon": -0.9101268,
         "link": "https://info64.org/torneo-relampago-el-greco-julio-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo de ajedrez por parejas mixtas",
-        "ciudad": "Cabanillas del Campo",
-        "fechaini": "19-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6294786,
-        "lon": -3.2433558,
-        "link": "https://info64.org/team/ii-torneo-de-ajedrez-por-parejas-mixtas"
     },
     {
         "origin": "info64",
@@ -997,6 +949,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "X Torneo Sub 2400 Club Ajedrez V Centenario",
+        "ciudad": "San Sebastian de los Reyes",
+        "fechaini": "24-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5473698,
+        "lon": -3.6260586,
+        "link": "https://info64.org/x-torneo-sub-2400-club-ajedrez-v-centenario"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Festival de Ajedrez en Candanchu",
         "ciudad": "Candanchú",
         "fechaini": "24-07-2026",
@@ -1030,18 +994,6 @@
         "lat": 42.428065,
         "lon": -8.6041447,
         "link": "https://info64.org/xiv-torneo-internacional-cidade-de-pontevedra-masters"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Torneo Sub 2400 Club Ajedrez V Centenario",
-        "ciudad": "San Sebastian de los Reyes",
-        "fechaini": "24-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5473698,
-        "lon": -3.6260586,
-        "link": "https://info64.org/x-torneo-sub-2400-club-ajedrez-v-centenario"
     },
     {
         "origin": "info64",
@@ -1957,6 +1909,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXIII TORNEO DE AJEDREZ SILES 2026",
+        "ciudad": "SILES",
+        "fechaini": "08-08-2026",
+        "fechafin": "08-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3878613,
+        "lon": -2.5826373,
+        "link": "https://info64.org/xxiii-torneo-de-ajedrez-siles-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV Open Relampago RGCC 2026 - II Memorial Marco Marino",
         "ciudad": "Fronton RGCC",
         "fechaini": "08-08-2026",
@@ -1978,18 +1942,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/xxiii-open-activo-villa-de-gijon-2026-ii-memorial-marco-marino"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIII TORNEO DE AJEDREZ SILES 2026",
-        "ciudad": "SILES",
-        "fechaini": "08-08-2026",
-        "fechafin": "08-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3878613,
-        "lon": -2.5826373,
-        "link": "https://info64.org/xxiii-torneo-de-ajedrez-siles-2026"
     },
     {
         "origin": "info64",
@@ -2389,6 +2341,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
+        "ciudad": "Zaragoza",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
+    },
+    {
+        "origin": "info64",
         "nombre": "TORNEO B - 5 Open Internacional Sub1800 Hotel Vertice Sevilla Bormujos",
         "ciudad": "Bormujos",
         "fechaini": "21-08-2026",
@@ -2410,18 +2374,6 @@
         "lat": 37.3715939,
         "lon": -6.07133,
         "link": "https://info64.org/torneo-a-8-open-internacional-sub2200-hotel-vertice-sevilla-bormujos"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
-        "ciudad": "Zaragoza",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
-        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
     },
     {
         "origin": "info64",
@@ -2845,6 +2797,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXXVI Torneo Ajedrez Tinamar 2026",
+        "ciudad": "Vega de San Mateo",
+        "fechaini": "03-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 27.9961882,
+        "lon": -15.5682128,
+        "link": "https://info64.org/xxxvi-torneo-ajedrez-tinamar-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV Festival internacional ESPHOUSES -IRT -2400",
         "ciudad": "DUARDAMAR DEL SEGURA",
         "fechaini": "03-09-2026",
@@ -3262,6 +3226,18 @@
         "lat": 42.1886579,
         "lon": -8.5054515,
         "link": "https://info64.org/ix-torneo-de-xadrez-vila-de-ponteareas-categoria-afeccionados"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XI Open Internacional de Ajedrez Ayuntamiento de Getxo",
+        "ciudad": "Getxo",
+        "fechaini": "02-10-2026",
+        "fechafin": "09-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3431164,
+        "lon": -3.0078627,
+        "link": "https://info64.org/xi-open-internacional-de-ajedrez-ayuntamiento-de-getxo"
     },
     {
         "origin": "info64",
