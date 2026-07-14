@@ -1,6 +1,234 @@
 [
     {
         "origin": "info64",
+        "nombre": "CAMPEONATO DE ESPAÑA SUB 12 2026",
+        "ciudad": "Vícar",
+        "fechaini": "13-07-2026",
+        "fechafin": "18-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.8316986,
+        "lon": -2.6430297,
+        "link": "https://info64.org/campeonato-de-espana-sub-12-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XLV TORNEO OPEN INTERNACIONAL VILLA DE BENASQUE",
+        "ciudad": "Benasque",
+        "fechaini": "05-07-2026",
+        "fechafin": "14-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.6052663,
+        "lon": 0.5237318,
+        "link": "https://info64.org/xlv-torneo-open-internacional-villa-de-benasque"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo de Ajedrez Rápido 24h Deportivas de Istán",
+        "ciudad": "Istán",
+        "fechaini": "25-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.5819684,
+        "lon": -4.9495445,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-rapido-24h-deportivas-de-istan"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Open Internacional Fuxan Os Ventos Lugo",
+        "ciudad": "Lugo",
+        "fechaini": "13-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.0395266,
+        "lon": -7.4567985,
+        "link": "https://info64.org/i-open-internacional-fuxan-os-ventos-lugo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV BLITZ NOCTURNO LOS MOLINOS",
+        "ciudad": "Valdepeñas",
+        "fechaini": "18-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/iv-blitz-nocturno-los-molinos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB2400",
+        "ciudad": "Valdepeñas",
+        "fechaini": "17-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub2400"
+    },
+    {
+        "origin": "info64",
+        "nombre": "TORNEO A - 8 Open Internacional Sub2200 Hotel Vertice Sevilla Bormujos",
+        "ciudad": "Bormujos",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3715939,
+        "lon": -6.07133,
+        "link": "https://info64.org/torneo-a-8-open-internacional-sub2200-hotel-vertice-sevilla-bormujos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "TORNEO B - 5 Open Internacional Sub1800 Hotel Vertice Sevilla Bormujos",
+        "ciudad": "Bormujos",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3715939,
+        "lon": -6.07133,
+        "link": "https://info64.org/torneo-b-5-open-internacional-sub1800-hotel-vertice-sevilla-bormujos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XIV Torneo Internacional Cidade de Pontevedra Amateur.",
+        "ciudad": "Pontevedra",
+        "fechaini": "24-07-2026",
+        "fechafin": "30-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.428065,
+        "lon": -8.6041447,
+        "link": "https://info64.org/xiv-torneo-internacional-cidade-de-pontevedra-amateur"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Summer Chess Festival 2026 - Marbella Chess Club",
+        "ciudad": "Marbella",
+        "fechaini": "14-07-2026",
+        "fechafin": "14-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.5074781,
+        "lon": -4.8047219,
+        "link": "https://info64.org/summer-chess-festival-2026-marbella-chess-club"
+    },
+    {
+        "origin": "info64",
+        "nombre": "AVAL AJEDREZON - Julio 2026 - Grupo I",
+        "ciudad": "Guarena",
+        "fechaini": "27-07-2026",
+        "fechafin": "30-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.8592191,
+        "lon": -6.1028965,
+        "link": "https://info64.org/aval-ajedrezon-julio-2026-grupo-i-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "AVAL AJEDREZON - Julio 2026 - Grupo III",
+        "ciudad": "Guarena",
+        "fechaini": "27-07-2026",
+        "fechafin": "30-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.8592191,
+        "lon": -6.1028965,
+        "link": "https://info64.org/aval-ajedrezon-julio-2026-grupo-iii"
+    },
+    {
+        "origin": "info64",
+        "nombre": "AVAL AJEDREZON - Julio 2026 - Grupo II",
+        "ciudad": "Guarena",
+        "fechaini": "27-07-2026",
+        "fechafin": "30-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.8592191,
+        "lon": -6.1028965,
+        "link": "https://info64.org/aval-ajedrezon-julio-2026-grupo-ii"
+    },
+    {
+        "origin": "info64",
+        "nombre": "LIX Torneo Internacional Villa de Mislata Grupo C Sub-1800",
+        "ciudad": "Mislata",
+        "fechaini": "10-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4751444,
+        "lon": -0.4179125,
+        "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-c-sub-1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo de Ajedrez Infantil Las Peñitas",
+        "ciudad": "Villafranca B.",
+        "fechaini": "16-07-2026",
+        "fechafin": "16-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8373515,
+        "lon": -2.5688899,
+        "link": "https://info64.org/ii-torneo-infantil-las-penitas"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIV Torneo de Ajedrez Santiago Apóstol",
+        "ciudad": "Don Benito",
+        "fechaini": "18-07-2026",
+        "fechafin": "18-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9540269,
+        "lon": -5.8619466,
+        "link": "https://info64.org/xxiv-torneo-santiago-apostol"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB1800",
+        "ciudad": "Valdepeñas",
+        "fechaini": "17-07-2026",
+        "fechafin": "19-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de Ajedrez Feria de Utrera 2026",
+        "ciudad": "UTRERA",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.1824646,
+        "lon": -5.7817506,
+        "link": "https://info64.org/torneo-de-ajedrez-feria-de-utrera-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Festival de Ajedrez en Candanchu",
+        "ciudad": "Candanchú",
+        "fechaini": "24-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.7888886,
+        "lon": -0.5287344,
+        "link": "https://info64.org/i-festival-de-ajedrez-en-candanchu"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Torneig per parelles La Primitiva",
         "ciudad": "El Palomar",
         "fechaini": "17-07-2026",
@@ -289,18 +517,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Summer Chess Festival 2026 - Marbella Chess Club",
-        "ciudad": "Marbella",
-        "fechaini": "14-07-2026",
-        "fechafin": "14-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.5074781,
-        "lon": -4.8047219,
-        "link": "https://info64.org/summer-chess-festival-2026-marbella-chess-club"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Festival Internacional de Ajedrez Lanzarote 2026",
         "ciudad": "Lanzarote",
         "fechaini": "29-07-2026",
@@ -421,18 +637,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "TORNEO B - 5 Open Internacional Sub1800 Hotel Vertice Sevilla Bormujos",
-        "ciudad": "Bormujos",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3715939,
-        "lon": -6.07133,
-        "link": "https://info64.org/torneo-b-5-open-internacional-sub1800-hotel-vertice-sevilla-bormujos"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
         "ciudad": "Zaragoza",
         "fechaini": "21-08-2026",
@@ -469,30 +673,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Open Internacional Fuxan Os Ventos Lugo",
-        "ciudad": "Lugo",
-        "fechaini": "13-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.0395266,
-        "lon": -7.4567985,
-        "link": "https://info64.org/i-open-internacional-fuxan-os-ventos-lugo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XLV TORNEO OPEN INTERNACIONAL VILLA DE BENASQUE",
-        "ciudad": "Benasque",
-        "fechaini": "05-07-2026",
-        "fechafin": "14-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.6052663,
-        "lon": 0.5237318,
-        "link": "https://info64.org/xlv-torneo-open-internacional-villa-de-benasque"
-    },
-    {
-        "origin": "info64",
         "nombre": "IX Torneo de Ajedrez Almenar de Soria",
         "ciudad": "Almenar de Soria",
         "fechaini": "18-07-2026",
@@ -502,18 +682,6 @@
         "lat": 41.6817949,
         "lon": -2.2006812,
         "link": "https://info64.org/ix-torneo-de-ajedrez-almenar-de-soria"
-    },
-    {
-        "origin": "info64",
-        "nombre": "LIX Torneo Internacional Villa de Mislata Grupo C Sub-1800",
-        "ciudad": "Mislata",
-        "fechaini": "10-08-2026",
-        "fechafin": "16-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4751444,
-        "lon": -0.4179125,
-        "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-c-sub-1800"
     },
     {
         "origin": "info64",
@@ -541,18 +709,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "CAMPEONATO DE ESPAÑA SUB 12 2026",
-        "ciudad": "Vícar",
-        "fechaini": "13-07-2026",
-        "fechafin": "18-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.8316986,
-        "lon": -2.6430297,
-        "link": "https://info64.org/campeonato-de-espana-sub-12-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Open TURKASIA",
         "ciudad": "Palma de Mallorca",
         "fechaini": "13-07-2026",
@@ -565,18 +721,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB2400",
-        "ciudad": "Valdepeñas",
-        "fechaini": "17-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7594573,
-        "lon": -3.3847392,
-        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub2400"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Torneo de Ajedrez de Navalucillos 2026",
         "ciudad": "Los Navalucillos",
         "fechaini": "25-07-2026",
@@ -586,30 +730,6 @@
         "lat": 39.6671024,
         "lon": -4.6415461,
         "link": "https://info64.org/ii-torneo-de-ajedrez-de-navalucillos-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VIII OPEN LOS MOLINOS CIUDAD DEL VINO SUB1800",
-        "ciudad": "Valdepeñas",
-        "fechaini": "17-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7594573,
-        "lon": -3.3847392,
-        "link": "https://info64.org/viii-open-los-molinos-ciudad-del-vino-sub1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV BLITZ NOCTURNO LOS MOLINOS",
-        "ciudad": "Valdepeñas",
-        "fechaini": "18-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7594573,
-        "lon": -3.3847392,
-        "link": "https://info64.org/iv-blitz-nocturno-los-molinos"
     },
     {
         "origin": "info64",
@@ -739,8 +859,8 @@
         "fechafin": "20-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 41.883263,
-        "lon": 2.243206,
+        "lat": 41.8831074,
+        "lon": 2.2431519,
         "link": "https://info64.org/iv-encuentro-dia-mundial-del-ajedrez"
     },
     {
@@ -781,18 +901,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXIV Torneo de Ajedrez Santiago Apóstol",
-        "ciudad": "Don Benito",
-        "fechaini": "18-07-2026",
-        "fechafin": "18-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9540269,
-        "lon": -5.8619466,
-        "link": "https://info64.org/xxiv-torneo-santiago-apostol"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Ajedrez Fiestas de Sigüenza 2026 SUB-14",
         "ciudad": "Sigüenza",
         "fechaini": "18-07-2026",
@@ -826,18 +934,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/iv-torneo-de-ajedrez-inclusivo-la-serrania-ajedrosaurus"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo de Ajedrez Infantil Las Peñitas",
-        "ciudad": "Villafranca B.",
-        "fechaini": "16-07-2026",
-        "fechafin": "16-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8373515,
-        "lon": -2.5688899,
-        "link": "https://info64.org/ii-torneo-infantil-las-penitas"
     },
     {
         "origin": "info64",
@@ -1153,18 +1249,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "TORNEO A - 8 Open Internacional Sub2200 Hotel Vertice Sevilla Bormujos",
-        "ciudad": "Bormujos",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3715939,
-        "lon": -6.07133,
-        "link": "https://info64.org/torneo-a-8-open-internacional-sub2200-hotel-vertice-sevilla-bormujos"
-    },
-    {
-        "origin": "info64",
         "nombre": "LIX Torneo Internacional Villa de Mislata Grupo B Sub-2000",
         "ciudad": "Mislata",
         "fechaini": "10-08-2026",
@@ -1258,18 +1342,6 @@
         "lat": 36.7355451,
         "lon": -6.4348221,
         "link": "https://info64.org/2-open-internacional-sub2200-hotel-vertice-chipiona-mar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Festival de Ajedrez en Candanchu",
-        "ciudad": "Candanchú",
-        "fechaini": "24-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7888886,
-        "lon": -0.5287344,
-        "link": "https://info64.org/i-festival-de-ajedrez-en-candanchu"
     },
     {
         "origin": "info64",
@@ -1429,18 +1501,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XIV Torneo Internacional Cidade de Pontevedra Amateur.",
-        "ciudad": "Pontevedra",
-        "fechaini": "24-07-2026",
-        "fechafin": "30-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.428065,
-        "lon": -8.6041447,
-        "link": "https://info64.org/xiv-torneo-internacional-cidade-de-pontevedra-amateur"
-    },
-    {
-        "origin": "info64",
         "nombre": "XIV Torneo Internacional Cidade de Pontevedra Masters.",
         "ciudad": "Pontevedra",
         "fechaini": "24-07-2026",
@@ -1525,18 +1585,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo de Ajedrez Feria de Utrera 2026",
-        "ciudad": "UTRERA",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.1824646,
-        "lon": -5.7817506,
-        "link": "https://info64.org/torneo-de-ajedrez-feria-de-utrera-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo de Ajedrez Fiestas Garrapinillos 2026",
         "ciudad": "Garrapinillos",
         "fechaini": "17-07-2026",
@@ -1606,18 +1654,6 @@
         "lat": 36.8316986,
         "lon": -2.6430297,
         "link": "https://info64.org/campeonato-de-espana-sub-16-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo de Ajedrez Rápido 24h Deportivas de Istán",
-        "ciudad": "Istán",
-        "fechaini": "25-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.5819684,
-        "lon": -4.9495445,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-rapido-24h-deportivas-de-istan"
     },
     {
         "origin": "info64",
