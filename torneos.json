@@ -1519,8 +1519,8 @@
         "fechafin": "01-08-2026",
         "organizador": "Delegació Menorca Federació Balear d'Escacs - Centre de Cultura Es Castell",
         "ritmo": "4'+2\" blitz",
-        "lat": 39.8798861,
-        "lon": 4.2881609,
+        "lat": 39.8806164,
+        "lon": 4.2905982,
         "link": "https://chess-results.com/tnr1455274.aspx?lan=2"
     },
     {
@@ -1531,8 +1531,8 @@
         "fechafin": "01-08-2026",
         "organizador": "Delegació Menorca Federació Balear d'Escacs - Centre de Cultura Es Castell",
         "ritmo": "4'+2\" blitz",
-        "lat": 39.8798861,
-        "lon": 4.2881609,
+        "lat": 39.8806164,
+        "lon": 4.2905982,
         "link": "https://chess-results.com/tnr1455453.aspx?lan=2"
     },
     {
@@ -1546,18 +1546,6 @@
         "lat": 43.294141,
         "lon": -2.3539311,
         "link": "https://chess-results.com/tnr1452346.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "XI Open Internacional de Ajedrez 64 Villalba",
-        "ciudad": "Salon El Capricho Plaza los Cuatro Caños 28400 Collado Villalba (Madrid)",
-        "fechaini": "01-08-2026",
-        "fechafin": "09-08-2026",
-        "organizador": "(IO) Luis Blasco de la Cruz (2219107)",
-        "ritmo": "90 Min + 30 sec x Move from move 1.",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1387689.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1690,6 +1678,18 @@
         "lat": 40.1324589,
         "lon": -0.2743436,
         "link": "https://chess-results.com/tnr1457418.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XI Open Internacional de Ajedrez 64 Villalba",
+        "ciudad": "Salon El Capricho Plaza los Cuatro Caños 28400 Collado Villalba (Madrid)",
+        "fechaini": "02-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "(IO) Blasco de la Cruz, Luis (2219107)",
+        "ritmo": "90 Min + 30 sec x Move from move 1.",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1387689.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -3613,6 +3613,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Amateur - Ibiza Travel 2026",
+        "ciudad": "Sant Antoni de Portmany(Ibiza)",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "Napoli, Nicolo (813702)",
+        "ritmo": "10 minutos finish",
+        "lat": 38.9830568,
+        "lon": 1.3009485,
+        "link": "https://chess-results.com/tnr1460067.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "RAPID FIDE - Ibiza Travel 2026",
         "ciudad": "Sant Antoni de Portmany(Ibiza)",
         "fechaini": "03-10-2026",
@@ -3797,7 +3809,7 @@
         "ciudad": "Collado Villalba (Madrid)",
         "fechaini": "23-10-2026",
         "fechafin": "25-10-2026",
-        "organizador": "",
+        "organizador": "MADRID CHESS ACADEMY - CLUB AJEDREZ 64 VILLALBA",
         "ritmo": "60 minutes + 30 sec x move",
         "lat": 40.6483467,
         "lon": -3.9819765,
