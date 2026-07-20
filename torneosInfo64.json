@@ -1,6 +1,90 @@
 [
     {
         "origin": "info64",
+        "nombre": "Open Internacional de Oviedo 2026",
+        "ciudad": "Oviedo",
+        "fechaini": "20-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3533452,
+        "lon": -5.8795096,
+        "link": "https://info64.org/open-internacional-de-oviedo-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Bambuchess Chess Festival – Masters",
+        "ciudad": "Villablanca",
+        "fechaini": "26-12-2026",
+        "fechafin": "30-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3028005,
+        "lon": -7.3423138,
+        "link": "https://info64.org/vi-bambuchess-chess-festival-masters"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII OPEN FUNDACION VALENCIA CUNA",
+        "ciudad": "Valencia",
+        "fechaini": "27-07-2026",
+        "fechafin": "02-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/xii-open-fundacion-valencia-cuna"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo de Ajedrez Veguellina de Orbigo 2026",
+        "ciudad": "Veguellina de Orbigo",
+        "fechaini": "20-07-2026",
+        "fechafin": "20-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4367662,
+        "lon": -5.8851414,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-veguellina-de-orbigo-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Club de Ajedrez La Virgen del Camino",
+        "ciudad": "La Virgen del Camino",
+        "fechaini": "06-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5816647,
+        "lon": -5.6437418,
+        "link": "https://info64.org/ii-open-club-de-ajedrez-la-virgen-del-camino"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de Ajedrez Blitz Dolores 2026",
+        "ciudad": "Villa de Dolores",
+        "fechaini": "25-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.9811694,
+        "lon": -1.1157896,
+        "link": "https://info64.org/torneo-de-ajedrez-blitz-dolores-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Festival de Ajedrez en Candanchu",
+        "ciudad": "Candanchú",
+        "fechaini": "24-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.7853573,
+        "lon": -0.5266516,
+        "link": "https://info64.org/i-festival-de-ajedrez-en-candanchu"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXV Aberto de Arteixo",
         "ciudad": "Arteixo - A Coruña",
         "fechaini": "20-07-2026",
@@ -82,18 +166,6 @@
         "lat": 39.0419132,
         "lon": -0.6590644,
         "link": "https://info64.org/ii-torneo-infantil-chella-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo de Ajedrez Veguellina de Orbigo 2026",
-        "ciudad": "Veguellina de Orbigo",
-        "fechaini": "20-07-2026",
-        "fechafin": "20-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4367662,
-        "lon": -5.8851414,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-veguellina-de-orbigo-2026"
     },
     {
         "origin": "info64",
@@ -202,18 +274,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/30-open-de-ajedrez-rapido-ciudad-de-coin"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Blitz Villa Esparza",
-        "ciudad": "Bocairent",
-        "fechaini": "19-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7669181,
-        "lon": -0.610892,
-        "link": "https://info64.org/i-blitz-villa-esparza"
     },
     {
         "origin": "info64",
@@ -349,18 +409,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Open Internacional de Oviedo 2026",
-        "ciudad": "Oviedo",
-        "fechaini": "20-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3533452,
-        "lon": -5.8795096,
-        "link": "https://info64.org/open-internacional-de-oviedo-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Torneo de ajedrez Yanguas",
         "ciudad": "Yanguas",
         "fechaini": "01-08-2026",
@@ -409,18 +457,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XIV Torneo de las Fiestas del Carmen Infantil",
-        "ciudad": "Torrelodones, Madrid",
-        "fechaini": "19-07-2026",
-        "fechafin": "19-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5762809,
-        "lon": -3.928603,
-        "link": "https://info64.org/xiv-torneo-de-las-fiestas-del-carmen-infantil"
-    },
-    {
-        "origin": "info64",
         "nombre": "X Torneo Sub 2400 Club Ajedrez V Centenario",
         "ciudad": "San Sebastian de los Reyes",
         "fechaini": "24-07-2026",
@@ -430,18 +466,6 @@
         "lat": 40.5473698,
         "lon": -3.6260586,
         "link": "https://info64.org/x-torneo-sub-2400-club-ajedrez-v-centenario"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Festival de Ajedrez en Candanchu",
-        "ciudad": "Candanchú",
-        "fechaini": "24-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.7853573,
-        "lon": -0.5266516,
-        "link": "https://info64.org/i-festival-de-ajedrez-en-candanchu"
     },
     {
         "origin": "info64",
@@ -799,8 +823,8 @@
         "fechafin": "09-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.5813523,
-        "lon": -6.6075296,
+        "lat": 42.5803111,
+        "lon": -6.6053732,
         "link": "https://info64.org/xxiii-torneo-internacional-cubillos-del-sil"
     },
     {
@@ -877,18 +901,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo de Ajedrez Blitz Dolores 2026",
-        "ciudad": "Villa de Dolores",
-        "fechaini": "25-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.9811694,
-        "lon": -1.1157896,
-        "link": "https://info64.org/torneo-de-ajedrez-blitz-dolores-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Torneo de Ajedrez de Verano de Arenas de San Pedro (Avila)",
         "ciudad": "Arenas de San Pedro",
         "fechaini": "16-08-2026",
@@ -946,18 +958,6 @@
         "lat": 39.4751444,
         "lon": -0.4179125,
         "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-c-sub-1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII OPEN FUNDACION VALENCIA CUNA",
-        "ciudad": "Valencia",
-        "fechaini": "27-07-2026",
-        "fechafin": "02-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/xii-open-fundacion-valencia-cuna"
     },
     {
         "origin": "info64",
@@ -1201,18 +1201,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Bambuchess Chess Festival – Masters",
-        "ciudad": "Villablanca",
-        "fechaini": "26-12-2026",
-        "fechafin": "30-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3028005,
-        "lon": -7.3423138,
-        "link": "https://info64.org/vi-bambuchess-chess-festival-masters"
-    },
-    {
-        "origin": "info64",
         "nombre": "Virrey Chelva 2026",
         "ciudad": "Chelva",
         "fechaini": "26-08-2026",
@@ -1450,18 +1438,6 @@
         "lat": 38.7877317,
         "lon": -4.1386794,
         "link": "https://info64.org/i-torneo-aquajedrez"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open Club de Ajedrez La Virgen del Camino",
-        "ciudad": "La Virgen del Camino",
-        "fechaini": "06-08-2026",
-        "fechafin": "09-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5816647,
-        "lon": -5.6437418,
-        "link": "https://info64.org/ii-open-club-de-ajedrez-la-virgen-del-camino"
     },
     {
         "origin": "info64",
