@@ -1,6 +1,150 @@
 [
     {
         "origin": "info64",
+        "nombre": "CAMPEONATO DE ESPAÑA SUB 14 2026",
+        "ciudad": "Vícar",
+        "fechaini": "19-07-2026",
+        "fechafin": "24-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.8316986,
+        "lon": -2.6430297,
+        "link": "https://info64.org/campeonato-de-espana-sub-14-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Intenacional Sub2400 Valverde de Jucar",
+        "ciudad": "Valverde de Jucar",
+        "fechaini": "24-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.7197483,
+        "lon": -2.2211991,
+        "link": "https://info64.org/ii-open-intenacional-sub2400-valverde-de-jucar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "TORNEO BLITZ FIESTA DEL AJEDREZ 2026",
+        "ciudad": "Vícar",
+        "fechaini": "20-07-2026",
+        "fechafin": "20-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.8316986,
+        "lon": -2.6430297,
+        "link": "https://info64.org/torneo-blitz-fiesta-del-ajedrez-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Open Internacional Blitz Quart de Poblet",
+        "ciudad": "Quart de Poblet",
+        "fechaini": "26-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4827253,
+        "lon": -0.4438854,
+        "link": "https://info64.org/v-open-internacional-blitz-quart-de-poblet"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Torneo 960 Quart de Poblet",
+        "ciudad": "Quart de Poblet",
+        "fechaini": "26-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4827253,
+        "lon": -0.4438854,
+        "link": "https://info64.org/vi-torneo-960-quart-de-poblet"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Open Internacional Quart de Poblet",
+        "ciudad": "Quart de Poblet",
+        "fechaini": "25-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4827253,
+        "lon": -0.4438854,
+        "link": "https://info64.org/x-open-internacional-quart-de-poblet"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Ajedrez Porcuna",
+        "ciudad": "Porcuna",
+        "fechaini": "20-08-2026",
+        "fechafin": "20-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.8710423,
+        "lon": -4.1842853,
+        "link": "https://info64.org/ii-torneo-ajedrez-porcuna"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXV Aberto de Arteixo",
+        "ciudad": "Arteixo - A Coruña",
+        "fechaini": "20-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3045792,
+        "lon": -8.5079101,
+        "link": "https://info64.org/xxv-aberto-de-arteixo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Festes Torrent 2026",
+        "ciudad": "Torrent",
+        "fechaini": "25-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.436668,
+        "lon": -0.4656213,
+        "link": "https://info64.org/festes-torrent-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "LIX Torneo Internacional Villa de Mislata Grupo C Sub-1800",
+        "ciudad": "Mislata",
+        "fechaini": "10-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4751444,
+        "lon": -0.4179125,
+        "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-c-sub-1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXII Torneo Relampago Ciudad de Avila",
+        "ciudad": "Avila",
+        "fechaini": "25-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.656478,
+        "lon": -4.7002172,
+        "link": "https://info64.org/xxxii-torneo-relampago-ciudad-de-avila"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Circuito Nocturno Totem 2026 - III Torneo",
+        "ciudad": "Totem Cafe Gijon",
+        "fechaini": "24-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/circuito-nocturno-totem-2026-iii-torneo"
+    },
+    {
+        "origin": "info64",
         "nombre": "Open Internacional de Oviedo 2026",
         "ciudad": "Oviedo",
         "fechaini": "20-07-2026",
@@ -10,6 +154,18 @@
         "lat": 43.3533452,
         "lon": -5.8795096,
         "link": "https://info64.org/open-internacional-de-oviedo-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I TORNEO DE LA PEÑA RECREATIVA Y CULTURAL CIUDAD DE VÉLEZ-MÁLAGA",
+        "ciudad": "VELEZ-MÁLAGA",
+        "fechaini": "25-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7818354,
+        "lon": -4.0988099,
+        "link": "https://info64.org/i-torneo-de-la-pena-recreativa-y-cultural-ciudad-de-velez-malaga"
     },
     {
         "origin": "info64",
@@ -85,18 +241,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXV Aberto de Arteixo",
-        "ciudad": "Arteixo - A Coruña",
-        "fechaini": "20-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3045792,
-        "lon": -8.5079101,
-        "link": "https://info64.org/xxv-aberto-de-arteixo"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open Pueblos de America",
         "ciudad": "Motril",
         "fechaini": "08-08-2026",
@@ -169,18 +313,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "CAMPEONATO DE ESPAÑA SUB 14 2026",
-        "ciudad": "Vícar",
-        "fechaini": "19-07-2026",
-        "fechafin": "24-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.8316986,
-        "lon": -2.6430297,
-        "link": "https://info64.org/campeonato-de-espana-sub-14-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Torneo Infantil Anna",
         "ciudad": "Anna",
         "fechaini": "09-08-2026",
@@ -202,18 +334,6 @@
         "lat": 41.6915847,
         "lon": -0.9101268,
         "link": "https://info64.org/fiestas-del-barrio-de-san-jose-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "TORNEO BLITZ FIESTA DEL AJEDREZ 2026",
-        "ciudad": "Vícar",
-        "fechaini": "20-07-2026",
-        "fechafin": "20-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.8316986,
-        "lon": -2.6430297,
-        "link": "https://info64.org/torneo-blitz-fiesta-del-ajedrez-2026"
     },
     {
         "origin": "info64",
@@ -250,18 +370,6 @@
         "lat": 42.6583215,
         "lon": -8.703449,
         "link": "https://info64.org/iii-romaria-xadrez-viking-rise"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXXII Torneo Relampago Ciudad de Avila",
-        "ciudad": "Avila",
-        "fechaini": "25-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.656478,
-        "lon": -4.7002172,
-        "link": "https://info64.org/xxxii-torneo-relampago-ciudad-de-avila"
     },
     {
         "origin": "info64",
@@ -541,18 +649,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Open Intenacional Sub2400 Valverde de Jucar",
-        "ciudad": "Valverde de Jucar",
-        "fechaini": "24-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.7197483,
-        "lon": -2.2211991,
-        "link": "https://info64.org/ii-open-intenacional-sub2400-valverde-de-jucar"
-    },
-    {
-        "origin": "info64",
         "nombre": "lV Torneig Escacs a la Piscina",
         "ciudad": "La Granja de la Costera",
         "fechaini": "26-07-2026",
@@ -823,8 +919,8 @@
         "fechafin": "09-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.5803111,
-        "lon": -6.6053732,
+        "lat": 42.5813523,
+        "lon": -6.6075296,
         "link": "https://info64.org/xxiii-torneo-internacional-cubillos-del-sil"
     },
     {
@@ -838,42 +934,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/iv-torneo-de-ajedrez-inclusivo-la-serrania-ajedrosaurus"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Open Internacional Quart de Poblet",
-        "ciudad": "Quart de Poblet",
-        "fechaini": "25-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4827253,
-        "lon": -0.4438854,
-        "link": "https://info64.org/x-open-internacional-quart-de-poblet"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Open Internacional Blitz Quart de Poblet",
-        "ciudad": "Quart de Poblet",
-        "fechaini": "26-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4827253,
-        "lon": -0.4438854,
-        "link": "https://info64.org/v-open-internacional-blitz-quart-de-poblet"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Torneo 960 Quart de Poblet",
-        "ciudad": "Quart de Poblet",
-        "fechaini": "26-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4827253,
-        "lon": -0.4438854,
-        "link": "https://info64.org/vi-torneo-960-quart-de-poblet"
     },
     {
         "origin": "info64",
@@ -913,18 +973,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Festes Torrent 2026",
-        "ciudad": "Torrent",
-        "fechaini": "25-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.436668,
-        "lon": -0.4656213,
-        "link": "https://info64.org/festes-torrent-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "VIII Torneo Ajedrez Desposorios 2026-Infantil",
         "ciudad": "Membrilla",
         "fechaini": "09-08-2026",
@@ -946,18 +994,6 @@
         "lat": 38.9724781,
         "lon": -3.3464983,
         "link": "https://info64.org/viii-torneo-ajedrez-desposorios-2026-absoluto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "LIX Torneo Internacional Villa de Mislata Grupo C Sub-1800",
-        "ciudad": "Mislata",
-        "fechaini": "10-08-2026",
-        "fechafin": "16-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4751444,
-        "lon": -0.4179125,
-        "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-c-sub-1800"
     },
     {
         "origin": "info64",
@@ -1162,18 +1198,6 @@
         "lat": 39.6755957,
         "lon": -0.5612995,
         "link": "https://info64.org/xi-torneo-relampago-de-marines"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Circuito Nocturno Totem 2026 - III Torneo",
-        "ciudad": "Totem Cafe Gijon",
-        "fechaini": "24-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/circuito-nocturno-totem-2026-iii-torneo"
     },
     {
         "origin": "info64",
