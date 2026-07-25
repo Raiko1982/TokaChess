@@ -61,18 +61,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo Promocion Elo Julio Club Ajedrez Fundacion La Caja 2026.GrupoA",
-        "ciudad": "Las Palmas de Gran Canaria",
-        "fechaini": "20-07-2026",
-        "fechafin": "24-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 28.1288694,
-        "lon": -15.4349015,
-        "link": "https://info64.org/torneo-promocion-elo-julio-club-ajedrez-fundacion-la-caja-2026grupoa"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXV Aberto de Arteixo",
         "ciudad": "Arteixo - A Coruña",
         "fechaini": "20-07-2026",
@@ -97,18 +85,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Torneo Sub 2400 Club Ajedrez V Centenario",
-        "ciudad": "San Sebastian de los Reyes",
-        "fechaini": "24-07-2026",
-        "fechafin": "26-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5473698,
-        "lon": -3.6260586,
-        "link": "https://info64.org/x-torneo-sub-2400-club-ajedrez-v-centenario"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Festival de Ajedrez en Candanchu",
         "ciudad": "Candanchú",
         "fechaini": "24-07-2026",
@@ -118,6 +94,18 @@
         "lat": 42.7853573,
         "lon": -0.5266516,
         "link": "https://info64.org/i-festival-de-ajedrez-en-candanchu"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Torneo Sub 2400 Club Ajedrez V Centenario",
+        "ciudad": "San Sebastian de los Reyes",
+        "fechaini": "24-07-2026",
+        "fechafin": "26-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5473698,
+        "lon": -3.6260586,
+        "link": "https://info64.org/x-torneo-sub-2400-club-ajedrez-v-centenario"
     },
     {
         "origin": "info64",
@@ -168,30 +156,6 @@
         "link": "https://info64.org/segundo-informal"
     },
     {
-        "origin": "info64",
-        "nombre": "Circuito Nocturno Totem 2026 - III Torneo",
-        "ciudad": "Totem Cafe Gijon",
-        "fechaini": "24-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/circuito-nocturno-totem-2026-iii-torneo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "prueba",
-        "ciudad": "myTown",
-        "fechaini": "24-07-2026",
-        "fechafin": "24-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/prueba-1-1-1-1-1"
-    },
-    {
         "origin": "chess-results",
         "nombre": "XIV Torneo Internacional Cidade de Pontevedra \"Ama",
         "ciudad": "Pabellón Deportivo Universitario Pontevedra – Cruz Roja s/n – 36.002 Pontevedra",
@@ -214,6 +178,54 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1360196.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I TORNEO DE LA PEÑA RECREATIVA Y CULTURAL CIUDAD DE VÉLEZ-MÁLAGA",
+        "ciudad": "VELEZ-MÁLAGA",
+        "fechaini": "25-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7818354,
+        "lon": -4.0988099,
+        "link": "https://info64.org/i-torneo-de-la-pena-recreativa-y-cultural-ciudad-de-velez-malaga"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo de Ajedrez Rápido 24h Deportivas de Istán",
+        "ciudad": "Istán",
+        "fechaini": "25-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.5819684,
+        "lon": -4.9495445,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-rapido-24h-deportivas-de-istan"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V OBERT ESCACS FESTES DE ALMUSSAFES",
+        "ciudad": "Almussafes",
+        "fechaini": "25-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2924334,
+        "lon": -0.4138577,
+        "link": "https://info64.org/v-obert-escacs-festes-de-almussafes"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Festes Torrent 2026",
+        "ciudad": "Torrent",
+        "fechaini": "25-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.436668,
+        "lon": -0.4656213,
+        "link": "https://info64.org/festes-torrent-2026"
     },
     {
         "origin": "info64",
@@ -289,18 +301,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I TORNEO DE LA PEÑA RECREATIVA Y CULTURAL CIUDAD DE VÉLEZ-MÁLAGA",
-        "ciudad": "VELEZ-MÁLAGA",
-        "fechaini": "25-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7818354,
-        "lon": -4.0988099,
-        "link": "https://info64.org/i-torneo-de-la-pena-recreativa-y-cultural-ciudad-de-velez-malaga"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo de Ajedrez Blitz Dolores 2026",
         "ciudad": "Villa de Dolores",
         "fechaini": "25-07-2026",
@@ -310,18 +310,6 @@
         "lat": 37.9811694,
         "lon": -1.1157896,
         "link": "https://info64.org/torneo-de-ajedrez-blitz-dolores-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V OBERT ESCACS FESTES DE ALMUSSAFES",
-        "ciudad": "Almussafes",
-        "fechaini": "25-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2924334,
-        "lon": -0.4138577,
-        "link": "https://info64.org/v-obert-escacs-festes-de-almussafes"
     },
     {
         "origin": "info64",
@@ -370,30 +358,6 @@
         "lat": 39.6755957,
         "lon": -0.5612995,
         "link": "https://info64.org/xi-torneo-relampago-de-marines"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo de Ajedrez Rápido 24h Deportivas de Istán",
-        "ciudad": "Istán",
-        "fechaini": "25-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.5819684,
-        "lon": -4.9495445,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-rapido-24h-deportivas-de-istan"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Festes Torrent 2026",
-        "ciudad": "Torrent",
-        "fechaini": "25-07-2026",
-        "fechafin": "25-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.436668,
-        "lon": -0.4656213,
-        "link": "https://info64.org/festes-torrent-2026"
     },
     {
         "origin": "chess-results",
@@ -493,15 +457,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "XV Torneo IRT AD Ajedrez Mostoles",
-        "ciudad": "Mostoles",
+        "nombre": "I Torneo Fuentes de Valdepeo Infantil",
+        "ciudad": "Fuentes de Valdepero Palencia",
         "fechaini": "26-07-2026",
-        "fechafin": "02-08-2026",
+        "fechafin": "26-07-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.3238525,
-        "lon": -3.8649214,
-        "link": "https://info64.org/xv-torneo-irt-ad-ajedrez-mostoles"
+        "lat": 42.0749607,
+        "lon": -4.5005124,
+        "link": "https://info64.org/i-torneo-fuentes-de-valdepeo-infantil"
     },
     {
         "origin": "info64",
@@ -517,15 +481,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo Fuentes de Valdepeo Infantil",
-        "ciudad": "Fuentes de Valdepero Palencia",
+        "nombre": "XV Torneo IRT AD Ajedrez Mostoles",
+        "ciudad": "Mostoles",
         "fechaini": "26-07-2026",
-        "fechafin": "26-07-2026",
+        "fechafin": "02-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.0749607,
-        "lon": -4.5005124,
-        "link": "https://info64.org/i-torneo-fuentes-de-valdepeo-infantil"
+        "lat": 40.3238525,
+        "lon": -3.8649214,
+        "link": "https://info64.org/xv-torneo-irt-ad-ajedrez-mostoles"
     },
     {
         "origin": "info64",
@@ -1033,6 +997,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV Torneo de ajedrez inclusivo La Serranía Ajedrosaurus",
+        "ciudad": "Alpuente, Av San Blas 51",
+        "fechaini": "31-07-2026",
+        "fechafin": "31-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iv-torneo-de-ajedrez-inclusivo-la-serrania-ajedrosaurus"
+    },
+    {
+        "origin": "info64",
         "nombre": "TORNEO DE AJEDREZ CASTELLAR 2026",
         "ciudad": "CASTELLAR",
         "fechaini": "31-07-2026",
@@ -1102,18 +1078,6 @@
         "lat": 39.6213826,
         "lon": -3.3392996,
         "link": "https://info64.org/dato-villacanas-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo de ajedrez inclusivo La Serranía Ajedrosaurus",
-        "ciudad": "Alpuente, Av San Blas 51",
-        "fechaini": "31-07-2026",
-        "fechafin": "31-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-torneo-de-ajedrez-inclusivo-la-serrania-ajedrosaurus"
     },
     {
         "origin": "info64",
@@ -1573,18 +1537,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo Aquajedrez",
-        "ciudad": "Villamayor de Calatrava",
-        "fechaini": "08-08-2026",
-        "fechafin": "08-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7877317,
-        "lon": -4.1386794,
-        "link": "https://info64.org/i-torneo-aquajedrez"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXIII TORNEO DE AJEDREZ SILES 2026",
         "ciudad": "SILES",
         "fechaini": "08-08-2026",
@@ -1594,6 +1546,18 @@
         "lat": 38.3878613,
         "lon": -2.5826373,
         "link": "https://info64.org/xxiii-torneo-de-ajedrez-siles-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Aquajedrez",
+        "ciudad": "Villamayor de Calatrava",
+        "fechaini": "08-08-2026",
+        "fechafin": "08-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7877317,
+        "lon": -4.1386794,
+        "link": "https://info64.org/i-torneo-aquajedrez"
     },
     {
         "origin": "info64",
