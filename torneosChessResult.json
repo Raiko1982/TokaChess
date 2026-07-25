@@ -163,8 +163,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3915493,
-        "lon": -0.5208521,
+        "lat": 38.3889426,
+        "lon": -0.5176876,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     },
     {
@@ -350,7 +350,7 @@
     {
         "origin": "chess-results",
         "nombre": "31 San Andres - Azkoitia 2026",
-        "ciudad": "Zubiaurre Elkargunea (Aita Madinabeitia plaza z/g) 20720 Azkoitia",
+        "ciudad": "https://www.google.com/maps/place/Zubiaurre+Elkargunea/@43.1769566,-2.3133549,17",
         "fechaini": "28-11-2026",
         "fechafin": "28-11-2026",
         "organizador": "Anaitasuna-Kakute Xake Taldea",
@@ -2062,6 +2062,18 @@
         "lat": 37.7869887,
         "lon": -1.5247044,
         "link": "https://chess-results.com/tnr1448255.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Madalenak Jaiak 2026 Umeak",
+        "ciudad": "Errenteria",
+        "fechaini": "25-07-2026",
+        "fechafin": "25-07-2026",
+        "organizador": "Beraun Bera",
+        "ritmo": "10+0",
+        "lat": 43.3125271,
+        "lon": -1.8986133,
+        "link": "https://chess-results.com/tnr1463664.aspx?lan=2"
     },
     {
         "origin": "chess-results",
