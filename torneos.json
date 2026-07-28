@@ -397,6 +397,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "DATo Villacañas 2026",
+        "ciudad": "Villacañas",
+        "fechaini": "31-07-2026",
+        "fechafin": "31-07-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.6213826,
+        "lon": -3.3392996,
+        "link": "https://info64.org/dato-villacanas-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "XVIII Torneo El Huerto del Cura",
         "ciudad": "Vilagarcía",
         "fechaini": "31-07-2026",
@@ -418,18 +430,6 @@
         "lat": 37.7846607,
         "lon": -0.9667964,
         "link": "https://info64.org/i-torneo-nocturno-torre-pacheco"
-    },
-    {
-        "origin": "info64",
-        "nombre": "DATo Villacañas 2026",
-        "ciudad": "Villacañas",
-        "fechaini": "31-07-2026",
-        "fechafin": "31-07-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.6213826,
-        "lon": -3.3392996,
-        "link": "https://info64.org/dato-villacanas-2026"
     },
     {
         "origin": "info64",
@@ -745,18 +745,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Torneo Infantil Semana Cultural de Navarrés",
-        "ciudad": "Navarrés",
-        "fechaini": "02-08-2026",
-        "fechafin": "02-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1024656,
-        "lon": -0.6953201,
-        "link": "https://info64.org/iv-torneo-infantil-semana-cultural-de-navarres"
-    },
-    {
-        "origin": "info64",
         "nombre": "FUENTEALBILLA 26",
         "ciudad": "FUENTEALBILLAmyTown",
         "fechaini": "02-08-2026",
@@ -766,6 +754,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/fuentealbilla-26"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo Cervera de Pisuerga Absoluto",
+        "ciudad": "Cervera de Pisuerga Palencia",
+        "fechaini": "02-08-2026",
+        "fechafin": "02-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8635509,
+        "lon": -4.4972234,
+        "link": "https://info64.org/iv-torneo-cervera-de-pisuerga-absoluto"
     },
     {
         "origin": "info64",
@@ -781,6 +781,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV Torneo Infantil Semana Cultural de Navarrés",
+        "ciudad": "Navarrés",
+        "fechaini": "02-08-2026",
+        "fechafin": "02-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1024656,
+        "lon": -0.6953201,
+        "link": "https://info64.org/iv-torneo-infantil-semana-cultural-de-navarres"
+    },
+    {
+        "origin": "info64",
         "nombre": "XI Open Internacional 64 Villalba",
         "ciudad": "Collado Villalba",
         "fechaini": "02-08-2026",
@@ -790,18 +802,6 @@
         "lat": 40.6483467,
         "lon": -3.9819765,
         "link": "https://info64.org/xi-open-internacional-64-villalba"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo Cervera de Pisuerga Absoluto",
-        "ciudad": "Cervera de Pisuerga Palencia",
-        "fechaini": "02-08-2026",
-        "fechafin": "02-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8635509,
-        "lon": -4.4972234,
-        "link": "https://info64.org/iv-torneo-cervera-de-pisuerga-absoluto"
     },
     {
         "origin": "info64",
@@ -1201,6 +1201,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXXVIII TORNEO AJEDREZ MEMORIAL EUGENIO TELLO",
+        "ciudad": "CABRA DEL SANTO CRISTO -JAEN-",
+        "fechaini": "09-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.7036217,
+        "lon": -3.2867065,
+        "link": "https://info64.org/xxxviii-torneo-ajedrez-memorial-eugenio-tello"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Open Internacional de Ajedrez Villa de Aspe - Grupo A",
+        "ciudad": "Aspe",
+        "fechaini": "09-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3459902,
+        "lon": -0.7692125,
+        "link": "https://info64.org/vi-open-internacional-de-ajedrez-villa-de-aspe-grupo-a"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Open Internacional de Ajedrez Villa de Aspe - Grupo B",
+        "ciudad": "Aspe",
+        "fechaini": "09-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3459902,
+        "lon": -0.7692125,
+        "link": "https://info64.org/vi-open-internacional-de-ajedrez-villa-de-aspe-grupo-b"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXV TORNEO AJEDREZ VILLA DE JARAIZ Senior",
         "ciudad": "Jaraiz de la Vera -Extremadura",
         "fechaini": "09-08-2026",
@@ -1246,18 +1282,6 @@
         "lat": 38.9724781,
         "lon": -3.3464983,
         "link": "https://info64.org/20260809_viiitorneoajedrezdesposorios2056_infantil"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Open Internacional de Ajedrez Villa de Aspe - Grupo A",
-        "ciudad": "Aspe",
-        "fechaini": "09-08-2026",
-        "fechafin": "09-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3459902,
-        "lon": -0.7692125,
-        "link": "https://info64.org/vi-open-internacional-de-ajedrez-villa-de-aspe-grupo-a"
     },
     {
         "origin": "info64",
@@ -1345,39 +1369,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXXVIII TORNEO AJEDREZ MEMORIAL EUGENIO TELLO",
-        "ciudad": "CABRA DEL SANTO CRISTO -JAEN-",
-        "fechaini": "09-08-2026",
-        "fechafin": "09-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.7036217,
-        "lon": -3.2867065,
-        "link": "https://info64.org/xxxviii-torneo-ajedrez-memorial-eugenio-tello"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXIII Torneo Internacional Cubillos del Sil",
         "ciudad": "Cubillos del Sil - Ponferrada",
         "fechaini": "09-08-2026",
         "fechafin": "09-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.5813523,
-        "lon": -6.6075296,
+        "lat": 42.5803111,
+        "lon": -6.6053732,
         "link": "https://info64.org/xxiii-torneo-internacional-cubillos-del-sil"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Open Internacional de Ajedrez Villa de Aspe - Grupo B",
-        "ciudad": "Aspe",
-        "fechaini": "09-08-2026",
-        "fechafin": "09-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3459902,
-        "lon": -0.7692125,
-        "link": "https://info64.org/vi-open-internacional-de-ajedrez-villa-de-aspe-grupo-b"
     },
     {
         "origin": "info64",
@@ -1873,6 +1873,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
+        "ciudad": "Zaragoza",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
+    },
+    {
+        "origin": "info64",
         "nombre": "TORNEO A - 8 Open Internacional Sub2200 Hotel Vertice Sevilla Bormujos",
         "ciudad": "Bormujos",
         "fechaini": "21-08-2026",
@@ -1894,18 +1906,6 @@
         "lat": 37.3715939,
         "lon": -6.07133,
         "link": "https://info64.org/torneo-b-5-open-internacional-sub1800-hotel-vertice-sevilla-bormujos"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
-        "ciudad": "Zaragoza",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
-        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
     },
     {
         "origin": "info64",
