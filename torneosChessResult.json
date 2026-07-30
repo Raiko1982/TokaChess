@@ -163,8 +163,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3915493,
-        "lon": -0.5208521,
+        "lat": 38.3889426,
+        "lon": -0.5176876,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     },
     {
@@ -1537,11 +1537,11 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "XXV NOCTURNO DE ROQUETAS",
+        "nombre": "XXV NOCTURNO DE ROQUETASVálido ELO FADA",
         "ciudad": "Pabellon Infanta Cristina. Roquetas de Mar (Almeria)",
         "fechaini": "08-08-2026",
         "fechafin": "09-08-2026",
-        "organizador": "Club ajedrez Roquetas",
+        "organizador": "Club Ajedrez Roquetas",
         "ritmo": "8´+3´´",
         "lat": 36.7683847,
         "lon": -2.6129527,
@@ -1777,6 +1777,30 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "V Torneo Comarcal Medina de Rioseco 2026 Absoluto",
+        "ciudad": "Medina de Rioseco, Valladolid",
+        "fechaini": "01-08-2026",
+        "fechafin": "01-08-2026",
+        "organizador": "Ayuntamiento de Medina de Rioseco",
+        "ritmo": "10 minutos + 5 segundos de incremento por jugada",
+        "lat": 41.8836792,
+        "lon": -5.0433596,
+        "link": "https://chess-results.com/tnr1466565.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "V Torneo Comarcal Medina de Rioseco 2026 Infantil",
+        "ciudad": "Medina de Rioseco, Valladolid",
+        "fechaini": "01-08-2026",
+        "fechafin": "01-08-2026",
+        "organizador": "Ayuntamiento de Medina de Rioseco",
+        "ritmo": "10 minutos + 5 segundos de incremento por jugada",
+        "lat": 41.8836792,
+        "lon": -5.0433596,
+        "link": "https://chess-results.com/tnr1466576.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "VI Open Promocion Extremadura Sub1800 Heuristic So",
         "ciudad": "CID Municipios Guadiana / Guarena (Badajoz)",
         "fechaini": "01-08-2026",
@@ -1921,6 +1945,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "II Torneo 960 Campamento Avila",
+        "ciudad": "",
+        "fechaini": "30-07-2026",
+        "fechafin": "30-07-2026",
+        "organizador": "",
+        "ritmo": "",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1466487.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "II Torneo de Ajedrez Nocturno por Parejas- Granada",
         "ciudad": "Plaza de Santa Ana, frente al Pilar del Toro, 18010 Granada",
         "fechaini": "30-07-2026",
@@ -1954,6 +1990,42 @@
         "lat": 38.087695,
         "lon": -3.6401793,
         "link": "https://chess-results.com/tnr1449608.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo Ajedrez Rápido Previa CE Final",
+        "ciudad": "Centro Comercial Myrtea",
+        "fechaini": "30-07-2026",
+        "fechafin": "30-07-2026",
+        "organizador": "Club de Ajedrez Thader Chess",
+        "ritmo": "3'+2\"",
+        "lat": 38.0163591,
+        "lon": -1.1620992,
+        "link": "https://chess-results.com/tnr1466489.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo Ajedrez Rápido Previa CE Grupo d4",
+        "ciudad": "Centro Comercial Myrtea",
+        "fechaini": "30-07-2026",
+        "fechafin": "30-07-2026",
+        "organizador": "",
+        "ritmo": "15'+5\"",
+        "lat": 38.0163591,
+        "lon": -1.1620992,
+        "link": "https://chess-results.com/tnr1466478.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo Ajedrez Rápido Previa CE Grupo e4",
+        "ciudad": "Centro Comercial Myrtea",
+        "fechaini": "30-07-2026",
+        "fechafin": "30-07-2026",
+        "organizador": "",
+        "ritmo": "15'+5\"",
+        "lat": 38.0163591,
+        "lon": -1.1620992,
+        "link": "https://chess-results.com/tnr1466486.aspx?lan=2"
     },
     {
         "origin": "chess-results",
