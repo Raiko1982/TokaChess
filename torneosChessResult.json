@@ -163,8 +163,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3889426,
-        "lon": -0.5176876,
+        "lat": 38.3915493,
+        "lon": -0.5208521,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     },
     {
@@ -1705,6 +1705,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "XXI Circuito Somontano III Prueba (Lagunarrota)",
+        "ciudad": "Lagunarrota",
+        "fechaini": "02-08-2026",
+        "fechafin": "02-08-2026",
+        "organizador": "Servicio Comarcal de Deportes Somontano de Barbastro",
+        "ritmo": "3+2",
+        "lat": 41.9255986,
+        "lon": -0.0087922,
+        "link": "https://chess-results.com/tnr1467080.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Equipos Ciudad de Valencia 2026",
         "ciudad": "Valencia, Valencia",
         "fechaini": "01-08-2026",
@@ -1858,6 +1870,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1448975.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Circuit Blitz Estiu 2026 T5_486369",
+        "ciudad": "Binissalem (Baleares)",
+        "fechaini": "31-07-2026",
+        "fechafin": "31-07-2026",
+        "organizador": "",
+        "ritmo": "Blitz: 3 minutes for game with 2 seconds increment from move 1",
+        "lat": 39.6889279,
+        "lon": 2.8420532,
+        "link": "https://chess-results.com/tnr1467158.aspx?lan=2"
     },
     {
         "origin": "chess-results",
