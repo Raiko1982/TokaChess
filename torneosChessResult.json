@@ -1165,6 +1165,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "NOCHE BLANCA DEL DEPORTE 2026",
+        "ciudad": "",
+        "fechaini": "22-08-2026",
+        "fechafin": "22-08-2026",
+        "organizador": "Club de Ajedrez Jaque 64 Nueva Carteya",
+        "ritmo": "8 minutos finish",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1467317.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Torneo Ajedrez San Agustín Cúllar 2026",
         "ciudad": "SENPA, Pabellón Deportivo y Cultural, 18850 Cúllar, Granada",
         "fechaini": "22-08-2026",
@@ -1771,8 +1783,8 @@
         "fechafin": "01-08-2026",
         "organizador": "Delegació Menorca Federació Balear d'Escacs - Centre de Cultura Es Castell",
         "ritmo": "4'+2\" blitz",
-        "lat": 39.8798861,
-        "lon": 4.2881609,
+        "lat": 39.8806164,
+        "lon": 4.2905982,
         "link": "https://chess-results.com/tnr1455274.aspx?lan=2"
     },
     {
@@ -1783,8 +1795,8 @@
         "fechafin": "01-08-2026",
         "organizador": "Delegació Menorca Federació Balear d'Escacs - Centre de Cultura Es Castell",
         "ritmo": "4'+2\" blitz",
-        "lat": 39.8798861,
-        "lon": 4.2881609,
+        "lat": 39.8806164,
+        "lon": 4.2905982,
         "link": "https://chess-results.com/tnr1455453.aspx?lan=2"
     },
     {
@@ -1873,18 +1885,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Circuit Blitz Estiu 2026 T5_486369",
-        "ciudad": "Binissalem (Baleares)",
-        "fechaini": "31-07-2026",
-        "fechafin": "31-07-2026",
-        "organizador": "",
-        "ritmo": "Blitz: 3 minutes for game with 2 seconds increment from move 1",
-        "lat": 39.6889279,
-        "lon": 2.8420532,
-        "link": "https://chess-results.com/tnr1467158.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "III Open Nocturno de Ajedrez de Alcoy 2026",
         "ciudad": "Avenida de la Hispanidad nº 10 (frente Polideportivo Caramanchel) de Alcoy",
         "fechaini": "31-07-2026",
@@ -1897,10 +1897,22 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Lliga Club d'Escacs Calp 2026",
+        "ciudad": "Calp",
+        "fechaini": "31-07-2026",
+        "fechafin": "31-07-2026",
+        "organizador": "Club d'Escacs Calp",
+        "ritmo": "5+3",
+        "lat": 38.6443252,
+        "lon": 0.046012,
+        "link": "https://chess-results.com/tnr1467374.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "XLVIII OPEN DE CHIPIONA DE AJEDREZ SUB 2250 FADA",
         "ciudad": "Palacio de Exposiciones y Congresos (Avenida de Granada, 35",
         "fechaini": "31-07-2026",
-        "fechafin": "02-08-2026",
+        "fechafin": "31-07-2026",
         "organizador": "CLUB AJEDREZ CHIPIONA",
         "ritmo": "40 minutos + 10 segundos",
         "lat": 40.4167,
