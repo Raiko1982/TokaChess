@@ -7,8 +7,8 @@
         "fechafin": "29-05-2027",
         "organizador": "Club d'Escacs Xàbia",
         "ritmo": "5 minuts per jugador + 3 segons d’increment per jugada",
-        "lat": 38.7891991,
-        "lon": 0.1683179,
+        "lat": 38.7886371,
+        "lon": 0.1653001,
         "link": "https://chess-results.com/tnr1462497.aspx?lan=2"
     },
     {
@@ -163,8 +163,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3915493,
-        "lon": -0.5208521,
+        "lat": 38.3889426,
+        "lon": -0.5176876,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     },
     {
@@ -865,6 +865,30 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "IV TORNEO INTERNACIONAL DE AJEDREZ ALFAFAR 2026- M",
+        "ciudad": "Calle Manuel Baixauli Andrés, S/N, 46910, Alfafar (Valencia)",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "Asociación de Ajedrez Social y Terapéutico de la Comunidad Valenciana",
+        "ritmo": "5 minutos por jugador más 3 seg. de incremento por jugada",
+        "lat": 39.4178279,
+        "lon": -0.3911207,
+        "link": "https://chess-results.com/tnr1468195.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "IV TORNEO INTERNACIONAL DE AJEDREZ ALFAFAR 2026- M",
+        "ciudad": "Calle Manuel Baixauli Andrés, S/N, 46910, Alfafar (Valencia)",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "Asociación de Ajedrez Social y Terapéutico de la Comunidad Valenciana",
+        "ritmo": "5 minutos por jugador más 3 seg. de incremento por jugada",
+        "lat": 39.4178279,
+        "lon": -0.3911207,
+        "link": "https://chess-results.com/tnr1468198.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "VII Abierto de Ajedrez Rápido \"VILLA DE ZAHARA\"",
         "ciudad": "Plaza del Rey 1, Zahara (Cádiz)",
         "fechaini": "05-09-2026",
@@ -910,6 +934,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1460612.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXII Torneig Migjorn de Campos 2026",
+        "ciudad": "Casal Ca'n Pere Ignasi (07630 Campos)",
+        "fechaini": "04-09-2026",
+        "fechafin": "26-09-2026",
+        "organizador": "Club Fomento Ajedrez Campos",
+        "ritmo": "Standard: 90 minutes with 30 second increment from move 1",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1468155.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1489,6 +1525,42 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "V Obert Festes de La Terra 2026",
+        "ciudad": "Ibiza",
+        "fechaini": "09-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "Amics dels Escacs",
+        "ritmo": "10 min + 5 seg.",
+        "lat": 38.9743901,
+        "lon": 1.4197463,
+        "link": "https://chess-results.com/tnr1468050.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "FESTES DE LA TERRA AFICIONADOS 2026",
+        "ciudad": "Eivissa",
+        "fechaini": "09-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "Amics dels Escacs Eivissa",
+        "ritmo": "",
+        "lat": 38.9743901,
+        "lon": 1.4197463,
+        "link": "https://chess-results.com/tnr1468054.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "II Freestyle Llucmajor",
+        "ciudad": "Claustre de Sant Bonaventura (Carrer Fra Joan Garau, 2, Llucmajor)",
+        "fechaini": "09-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "Club Escacs Llucmajor - Associació Freestyle Chess Balears",
+        "ritmo": "5' + 3\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1468167.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "TORNEO DE AJEDREZ DE PINA DE EBRO",
         "ciudad": "PINA DE EBRO (Zaragoza)",
         "fechaini": "09-08-2026",
@@ -1717,19 +1789,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "TORNEO YANGUAS 2026",
-        "ciudad": "YANGUAS DE ERESMA",
-        "fechaini": "02-08-2026",
-        "fechafin": "02-08-2026",
-        "organizador": "LAURA MOREJON",
-        "ritmo": "10 + 3",
-        "lat": 41.0718126,
-        "lon": -4.2394772,
-        "link": "https://chess-results.com/tnr1467984.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "TORNEO YANGUAS 2026",
+        "nombre": "X TORNEO YANGUAS DE ERESMA 2026Ariadna Morejon Ram",
         "ciudad": "YANGUAS DE ERESMA",
         "fechaini": "02-08-2026",
         "fechafin": "02-08-2026",
@@ -1801,6 +1861,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "III Torneo Blitz Campamento Avila",
+        "ciudad": "",
+        "fechaini": "01-08-2026",
+        "fechafin": "01-08-2026",
+        "organizador": "",
+        "ritmo": "",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1468096.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "III Torneo de Ajedrez Ciudad de Baeza",
         "ciudad": "Locales de la Cooperativa El Alcazar Olibaeza, carretera de Ibros s/n, Baeza",
         "fechaini": "01-08-2026",
@@ -1831,8 +1903,8 @@
         "fechafin": "01-08-2026",
         "organizador": "Delegació Menorca Federació Balear d'Escacs - Centre de Cultura Es Castell",
         "ritmo": "4'+2\" blitz",
-        "lat": 39.8806164,
-        "lon": 4.2905982,
+        "lat": 39.8798861,
+        "lon": 4.2881609,
         "link": "https://chess-results.com/tnr1455274.aspx?lan=2"
     },
     {
@@ -1843,9 +1915,21 @@
         "fechafin": "01-08-2026",
         "organizador": "Delegació Menorca Federació Balear d'Escacs - Centre de Cultura Es Castell",
         "ritmo": "4'+2\" blitz",
-        "lat": 39.8806164,
-        "lon": 4.2905982,
+        "lat": 39.8798861,
+        "lon": 4.2881609,
         "link": "https://chess-results.com/tnr1455453.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo Fiestas Las Cabañuelas 2026",
+        "ciudad": "Palacio de Deportes de Vicar",
+        "fechaini": "01-08-2026",
+        "fechafin": "01-08-2026",
+        "organizador": "Club Ajedrez Vicar",
+        "ritmo": "8 minutes + 3 seconds",
+        "lat": 36.80997,
+        "lon": -2.6316653,
+        "link": "https://chess-results.com/tnr1468269.aspx?lan=2"
     },
     {
         "origin": "chess-results",
