@@ -205,18 +205,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "III Torneo de Ajedrez de Abades",
-        "ciudad": "Abades",
-        "fechaini": "03-08-2026",
-        "fechafin": "03-08-2026",
-        "organizador": "Ayuntamiento de Avades",
-        "ritmo": "10+3",
-        "lat": 40.914854,
-        "lon": -4.2690384,
-        "link": "https://chess-results.com/tnr1469419.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "VIII MEMORIAL FRANCISCO JOSE RODRIGUEZ CAMACHO \"KI",
         "ciudad": "PRIMERA PISTA PLAYA CALLE ASUNCION CON AV DE LA BARROSA",
         "fechaini": "05-08-2026",
@@ -1213,6 +1201,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Torneo Internacional XXVIII Guanche de Plata 2026",
+        "ciudad": "Parque Los Alamos , Breña Alta La Palma",
+        "fechaini": "15-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "Club de Ajedrez Baltajaque",
+        "ritmo": "15 Minutos + 5 seg/mov",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1469496.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "V Circuito Blitz En Plazas 2026 - Fiestas Nuestra",
         "ciudad": "Pabellón Municipal de Deportes de La Victoria de Acentejo",
         "fechaini": "15-08-2026",
@@ -1634,13 +1634,13 @@
     {
         "origin": "chess-results",
         "nombre": "VII TORNEO INTERNACIONAL DE AJEDREZ SAN CRISTOBAL",
-        "ciudad": "SAN CRISTOBAL DE LA LAGUNA",
+        "ciudad": "Museo Santa Clara Arte Sacro. SAN CRISTOBAL DE LA LAGUNA",
         "fechaini": "22-08-2026",
         "fechafin": "29-08-2026",
         "organizador": "ORGANISMO AUTONOMO DEPORTES - FEDERACION CANARIA AJEDREZ",
         "ritmo": "90 MIN + 30 SEC/MOVE FROM 1",
-        "lat": 28.4857715,
-        "lon": -16.3159422,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1405186.aspx?lan=2"
     },
     {
@@ -4459,8 +4459,8 @@
         "fechafin": "29-05-2027",
         "organizador": "Club d'Escacs Xàbia",
         "ritmo": "5 minuts per jugador + 3 segons d’increment per jugada",
-        "lat": 38.7886371,
-        "lon": 0.1653001,
+        "lat": 38.7891991,
+        "lon": 0.1683179,
         "link": "https://chess-results.com/tnr1462497.aspx?lan=2"
     },
     {
