@@ -241,6 +241,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Achmaz Chess Club",
+        "ciudad": "",
+        "fechaini": "06-08-2026",
+        "fechafin": "06-08-2026",
+        "organizador": "Achmaz Chess Club",
+        "ritmo": "10 min + 5 sec",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1471104.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Sant Llorenç - Alaior 2026 - Absolut",
         "ciudad": "Plaça Es Ramal - Alaior",
         "fechaini": "06-08-2026",
@@ -262,6 +274,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1455454.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo Fresno 2026Provincial de Segovia",
+        "ciudad": "Fresno de Cantespino",
+        "fechaini": "06-08-2026",
+        "fechafin": "06-08-2026",
+        "organizador": "Ayto de Fresno",
+        "ritmo": "10+3",
+        "lat": 41.3685037,
+        "lon": -3.4992497,
+        "link": "https://chess-results.com/tnr1471080.aspx?lan=2"
     },
     {
         "origin": "info64",
@@ -1153,6 +1177,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "II TORNEO NOCTURNO ARCADE",
+        "ciudad": "Checkpoint Arcade Bar. C/Feria, 49. Sevilla.",
+        "fechaini": "14-08-2026",
+        "fechafin": "14-08-2026",
+        "organizador": "Checkpoint Arcade Bar",
+        "ritmo": "5 minutos + 3 segundos/jugada",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1470973.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "III Torneo Fiestas de Fortuna",
         "ciudad": "Fortuna",
         "fechaini": "14-08-2026",
@@ -1298,7 +1334,7 @@
     {
         "origin": "chess-results",
         "nombre": "Torneo Internacional XXVIII Guanche de Plata 2026",
-        "ciudad": "Parque Los Alamos , Breña Alta La Palma",
+        "ciudad": "Sociedad Juventud Española, Breña Alta La Palma",
         "fechaini": "15-08-2026",
         "fechafin": "16-08-2026",
         "organizador": "Club de Ajedrez Baltajaque",
@@ -2926,6 +2962,30 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1465549.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Leyendas & Prodigios II",
+        "ciudad": "Madrid",
+        "fechaini": "07-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "",
+        "ritmo": "60 minutes with 30 second increment from move 1",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://chess-results.com/tnr1471070.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Leyendas & Prodigios II Grupo B",
+        "ciudad": "Madrid",
+        "fechaini": "07-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "",
+        "ritmo": "60 minutes with 30 second increment from move 1",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://chess-results.com/tnr1471075.aspx?lan=2"
     },
     {
         "origin": "info64",
@@ -4615,8 +4675,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3915493,
-        "lon": -0.5208521,
+        "lat": 38.3889426,
+        "lon": -0.5176876,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     },
     {
