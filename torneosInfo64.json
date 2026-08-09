@@ -1,6 +1,78 @@
 [
     {
         "origin": "info64",
+        "nombre": "CE Tramos Elo 2300 2026",
+        "ciudad": "Hoznayo",
+        "fechaini": "30-08-2026",
+        "fechafin": "04-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3891151,
+        "lon": -3.6931459,
+        "link": "https://info64.org/ce-tramos-elo-2300-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Infantil Anna",
+        "ciudad": "Anna",
+        "fechaini": "09-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.0204311,
+        "lon": -0.6461361,
+        "link": "https://info64.org/iii-torneo-infantil-anna"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXV TORNEO AJEDREZ VILLA DE JARAIZ Senior",
+        "ciudad": "Jaraiz de la Vera -Extremadura",
+        "fechaini": "09-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0598888,
+        "lon": -5.7551824,
+        "link": "https://info64.org/xxv-torneo-ajedrez-villa-de-jaraiz-senior"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V TORNEO DE FERIA HOMENAJE JUAN MANUEL LERMA MORENO",
+        "ciudad": "Marmolejo",
+        "fechaini": "09-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.079566,
+        "lon": -4.1648391,
+        "link": "https://info64.org/v-torneo-de-feria-homenaje-juan-manuel-lerma-moreno"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XLIII Torneo Ajedrez San Lorenzo de El Escorial, Madrid",
+        "ciudad": "San Lorenzo de El Escorial",
+        "fechaini": "09-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5926673,
+        "lon": -4.1471642,
+        "link": "https://info64.org/xliii-torneo-ajedrez-san-lorenzo-de-el-escorial-madrid"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV INTERNACIONAL CHESS OPEN HOTEL CAP NEGRET 65",
+        "ciudad": "Altea SPAIN",
+        "fechaini": "07-11-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iv-internacional-chess-open-hotel-cap-negret-65"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo de los Santos Niños 2026 ABSOLUTO",
         "ciudad": "Alcalá de Heranes",
         "fechaini": "09-08-2026",
@@ -10,6 +82,54 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/torneo-de-los-santos-ninos-2026-absoluto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Leyendas  Prodigios II Grupo B",
+        "ciudad": "Madrid",
+        "fechaini": "07-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/leyendas-prodigios-ii-grupo-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Blitz Akeru Vicalvaro",
+        "ciudad": "Madrid",
+        "fechaini": "09-08-2026",
+        "fechafin": "09-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/ii-torneo-blitz-akeru-vicalvaro"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Internacional El Campello",
+        "ciudad": "El Campello",
+        "fechaini": "17-08-2026",
+        "fechafin": "19-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.427416,
+        "lon": -0.3983685,
+        "link": "https://info64.org/iii-torneo-internacional-el-campello"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III TORNEO AJEDREZ VIRGEN DE LA VICTORIA",
+        "ciudad": "TRUJILLO - Cáceres",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4605657,
+        "lon": -5.8816626,
+        "link": "https://info64.org/iii-torneo-ajedrez-virgen-de-la-victoria"
     },
     {
         "origin": "info64",
@@ -37,18 +157,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Torneo Blitz Akeru Vicalvaro",
-        "ciudad": "Madrid",
-        "fechaini": "09-08-2026",
-        "fechafin": "09-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/ii-torneo-blitz-akeru-vicalvaro"
-    },
-    {
-        "origin": "info64",
         "nombre": "3º TORNEO XADREZ DORNA CENTENARIO DO CELTIGA",
         "ciudad": "ILLA DE AROUSA",
         "fechaini": "09-08-2026",
@@ -58,18 +166,6 @@
         "lat": 42.550039,
         "lon": -8.8671561,
         "link": "https://info64.org/3o-torneo-xadrez-centenario-do-celtiga"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXV TORNEO AJEDREZ VILLA DE JARAIZ Senior",
-        "ciudad": "Jaraiz de la Vera -Extremadura",
-        "fechaini": "09-08-2026",
-        "fechafin": "09-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0598888,
-        "lon": -5.7551824,
-        "link": "https://info64.org/xxv-torneo-ajedrez-villa-de-jaraiz-senior"
     },
     {
         "origin": "info64",
@@ -94,18 +190,6 @@
         "lat": 38.6982348,
         "lon": -0.4747619,
         "link": "https://info64.org/iii-open-nocturno-de-ajedrez-de-alcoy-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XLIII Torneo Ajedrez San Lorenzo de El Escorial, Madrid",
-        "ciudad": "San Lorenzo de El Escorial",
-        "fechaini": "09-08-2026",
-        "fechafin": "09-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5926673,
-        "lon": -4.1471642,
-        "link": "https://info64.org/xliii-torneo-ajedrez-san-lorenzo-de-el-escorial-madrid"
     },
     {
         "origin": "info64",
@@ -214,18 +298,6 @@
         "lat": 38.3460834,
         "lon": -0.7692034,
         "link": "https://info64.org/vi-open-internacional-de-ajedrez-villa-de-aspe-grupo-a"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Infantil Anna",
-        "ciudad": "Anna",
-        "fechaini": "09-08-2026",
-        "fechafin": "09-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.0204311,
-        "lon": -0.6461361,
-        "link": "https://info64.org/iii-torneo-infantil-anna"
     },
     {
         "origin": "info64",
@@ -445,18 +517,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III TORNEO AJEDREZ VIRGEN DE LA VICTORIA",
-        "ciudad": "TRUJILLO - Cáceres",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4605657,
-        "lon": -5.8816626,
-        "link": "https://info64.org/iii-torneo-ajedrez-virgen-de-la-victoria"
-    },
-    {
-        "origin": "info64",
         "nombre": "XVIII Torneo Ajedrez San Bartolome",
         "ciudad": "Umbrete",
         "fechaini": "10-08-2026",
@@ -550,18 +610,6 @@
         "lat": 39.4751444,
         "lon": -0.4179125,
         "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-a-open"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V TORNEO DE FERIA HOMENAJE JUAN MANUEL LERMA MORENO",
-        "ciudad": "Marmolejo",
-        "fechaini": "09-08-2026",
-        "fechafin": "09-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.079566,
-        "lon": -4.1648391,
-        "link": "https://info64.org/v-torneo-de-feria-homenaje-juan-manuel-lerma-moreno"
     },
     {
         "origin": "info64",
@@ -913,18 +961,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Torneo Internacional El Campello",
-        "ciudad": "El Campello",
-        "fechaini": "17-08-2026",
-        "fechafin": "19-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.427416,
-        "lon": -0.3983685,
-        "link": "https://info64.org/iii-torneo-internacional-el-campello"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo social verano",
         "ciudad": "club de ajedrez Alicante",
         "fechaini": "07-08-2026",
@@ -1273,18 +1309,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Leyendas  Prodigios II Grupo B",
-        "ciudad": "Madrid",
-        "fechaini": "07-09-2026",
-        "fechafin": "12-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/leyendas-prodigios-ii-grupo-b"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo de Ajedrez Feria de Utrera 2026",
         "ciudad": "UTRERA",
         "fechaini": "29-08-2026",
@@ -1546,18 +1570,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/iv-internacional-chess-open-hotel-cap-negret-50"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV INTERNACIONAL CHESS OPEN HOTEL CAP NEGRET 65",
-        "ciudad": "Altea SPAIN",
-        "fechaini": "07-11-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-internacional-chess-open-hotel-cap-negret-65"
     },
     {
         "origin": "info64",
