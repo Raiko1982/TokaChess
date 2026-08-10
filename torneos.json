@@ -169,6 +169,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "LIX Torneo Internacional Villa de Mislata Grupo B Sub-2000",
+        "ciudad": "Mislata",
+        "fechaini": "10-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4751444,
+        "lon": -0.4179125,
+        "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-b-sub-2000"
+    },
+    {
+        "origin": "info64",
         "nombre": "LIX Torneo Internacional Villa de Mislata Grupo A Open",
         "ciudad": "Mislata",
         "fechaini": "10-08-2026",
@@ -190,18 +202,6 @@
         "lat": 37.368665,
         "lon": -6.1573611,
         "link": "https://info64.org/xviii-torneo-ajedrez-san-bartolome"
-    },
-    {
-        "origin": "info64",
-        "nombre": "LIX Torneo Internacional Villa de Mislata Grupo B Sub-2000",
-        "ciudad": "Mislata",
-        "fechaini": "10-08-2026",
-        "fechafin": "16-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4751444,
-        "lon": -0.4179125,
-        "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-b-sub-2000"
     },
     {
         "origin": "chess-results",
@@ -481,6 +481,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XIII Escolar Villa de Mislata",
+        "ciudad": "Mislata",
+        "fechaini": "15-08-2026",
+        "fechafin": "15-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4751444,
+        "lon": -0.4179125,
+        "link": "https://info64.org/xiii-escolar-villa-de-mislata"
+    },
+    {
+        "origin": "info64",
         "nombre": "XV Torneo de Ajedrez Feria de Miajadas",
         "ciudad": "Miajadas",
         "fechaini": "15-08-2026",
@@ -538,18 +550,6 @@
         "lat": 38.9597347,
         "lon": -3.8828744,
         "link": "https://info64.org/xxviii-campeonato-ferias-y-fiestas-de-ciudad-real-sub-12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIII Escolar Villa de Mislata",
-        "ciudad": "Mislata",
-        "fechaini": "15-08-2026",
-        "fechafin": "15-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4751444,
-        "lon": -0.4179125,
-        "link": "https://info64.org/xiii-escolar-villa-de-mislata"
     },
     {
         "origin": "info64",
@@ -1117,6 +1117,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "DATo Villaluenga",
+        "ciudad": "Villaluenga",
+        "fechaini": "23-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0271087,
+        "lon": -3.9115161,
+        "link": "https://info64.org/dato-villaluenga"
+    },
+    {
+        "origin": "info64",
         "nombre": "X TORNEO FIESTAS DE FRESNEDILLAS 2026 AJEDREZ Y PAELLA",
         "ciudad": "Fresnedillas, Madrid",
         "fechaini": "23-08-2026",
@@ -1138,18 +1150,6 @@
         "lat": 40.0271087,
         "lon": -3.9115161,
         "link": "https://info64.org/dato-villaluenga-sub12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "DATo Villaluenga",
-        "ciudad": "Villaluenga",
-        "fechaini": "23-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0271087,
-        "lon": -3.9115161,
-        "link": "https://info64.org/dato-villaluenga"
     },
     {
         "origin": "info64",
@@ -1513,6 +1513,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Torneo de ajedrez SAN JUAN DE LOS TERREROS 2026",
+        "ciudad": "San Juan de los Terreros,Pulpí",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3608107,
+        "lon": -1.6636704,
+        "link": "https://info64.org/torneo-de-ajedrez-san-juan-de-los-terreros-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Torneo Vila de Celanova",
         "ciudad": "Celanova",
         "fechaini": "29-08-2026",
@@ -1546,18 +1558,6 @@
         "lat": 39.4605657,
         "lon": -5.8816626,
         "link": "https://info64.org/iii-torneo-ajedrez-virgen-de-la-victoria"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo de ajedrez SAN JUAN DE LOS TERREROS 2026",
-        "ciudad": "San Juan de los Terreros,Pulpí",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3608107,
-        "lon": -1.6636704,
-        "link": "https://info64.org/torneo-de-ajedrez-san-juan-de-los-terreros-2026"
     },
     {
         "origin": "info64",
@@ -1651,8 +1651,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
+        "lat": 43.5555299,
+        "lon": -5.9222186,
         "link": "https://info64.org/calledrez-sub-14-2026"
     },
     {
@@ -1663,8 +1663,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
+        "lat": 43.5555299,
+        "lon": -5.9222186,
         "link": "https://info64.org/calledrez-2026"
     },
     {
@@ -1789,6 +1789,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Ferias y Fiestas de Alcala de Henares 2026",
+        "ciudad": "Alcalá de Henares",
+        "fechaini": "30-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.481954,
+        "lon": -3.363981,
+        "link": "https://info64.org/ferias-y-fiestas-de-alcala-de-henares-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Ferias y Fiestas de Alcalá de Henares 2026 sub14",
+        "ciudad": "Alcalá de Henares",
+        "fechaini": "30-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.481954,
+        "lon": -3.363981,
+        "link": "https://info64.org/ferias-y-fiestas-de-alcala-de-henares-2026-sub14"
+    },
+    {
+        "origin": "info64",
         "nombre": "CE Tramos Elo 2300 2026",
         "ciudad": "Hoznayo",
         "fechaini": "30-08-2026",
@@ -1834,30 +1858,6 @@
         "lat": 36.7450888,
         "lon": -3.5207655,
         "link": "https://info64.org/xi-open-caballo-de-plata"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Ferias y Fiestas de Alcala de Henares 2026",
-        "ciudad": "Alcalá de Henares",
-        "fechaini": "30-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.481954,
-        "lon": -3.363981,
-        "link": "https://info64.org/ferias-y-fiestas-de-alcala-de-henares-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Ferias y Fiestas de Alcalá de Henares 2026 sub14",
-        "ciudad": "Alcalá de Henares",
-        "fechaini": "30-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.481954,
-        "lon": -3.363981,
-        "link": "https://info64.org/ferias-y-fiestas-de-alcala-de-henares-2026-sub14"
     },
     {
         "origin": "info64",
@@ -2389,18 +2389,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Torneo Rapidas Akeru Vicalvaro",
-        "ciudad": "Madrid",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/ii-torneo-rapidas-akeru-vicalvaro"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Festival  ESPHOUSES-Open rapidas Dama de Guardamar",
         "ciudad": "GUARDAMAR DEL SEGURA",
         "fechaini": "06-09-2026",
@@ -2410,6 +2398,18 @@
         "lat": 38.0899985,
         "lon": -0.65381,
         "link": "https://info64.org/iv-festival-esphouses-open-rapidas-dama-de-guardamar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Rapidas Akeru Vicalvaro",
+        "ciudad": "Madrid",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/ii-torneo-rapidas-akeru-vicalvaro"
     },
     {
         "origin": "info64",
