@@ -1,6 +1,114 @@
 [
     {
         "origin": "info64",
+        "nombre": "LIX Torneo Internacional Villa de Mislata Grupo C Sub-1800",
+        "ciudad": "Mislata",
+        "fechaini": "10-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4751444,
+        "lon": -0.4179125,
+        "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-c-sub-1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XIII Escolar Villa de Mislata",
+        "ciudad": "Mislata",
+        "fechaini": "15-08-2026",
+        "fechafin": "15-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4751444,
+        "lon": -0.4179125,
+        "link": "https://info64.org/xiii-escolar-villa-de-mislata"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de ajedrez SAN JUAN DE LOS TERREROS 2026",
+        "ciudad": "San Juan de los Terreros,Pulpí",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3608107,
+        "lon": -1.6636704,
+        "link": "https://info64.org/torneo-de-ajedrez-san-juan-de-los-terreros-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "LIX Torneo Internacional Villa de Mislata Grupo B Sub-2000",
+        "ciudad": "Mislata",
+        "fechaini": "10-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4751444,
+        "lon": -0.4179125,
+        "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-b-sub-2000"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Festival  ESPHOUSES-Open rapidas Dama de Guardamar",
+        "ciudad": "GUARDAMAR DEL SEGURA",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/iv-festival-esphouses-open-rapidas-dama-de-guardamar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Festival internacional ESPHOUSES -IRT -2400",
+        "ciudad": "GUARDAMAR DEL SEGURA",
+        "fechaini": "03-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/iv-festival-internacional-esphouses-irt-2400"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Ferias y Fiestas de Alcala de Henares 2026",
+        "ciudad": "Alcalá de Henares",
+        "fechaini": "30-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.481954,
+        "lon": -3.363981,
+        "link": "https://info64.org/ferias-y-fiestas-de-alcala-de-henares-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Ferias y Fiestas de Alcalá de Henares 2026 sub14",
+        "ciudad": "Alcalá de Henares",
+        "fechaini": "30-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.481954,
+        "lon": -3.363981,
+        "link": "https://info64.org/ferias-y-fiestas-de-alcala-de-henares-2026-sub14"
+    },
+    {
+        "origin": "info64",
+        "nombre": "DATo Villaluenga",
+        "ciudad": "Villaluenga",
+        "fechaini": "23-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0271087,
+        "lon": -3.9115161,
+        "link": "https://info64.org/dato-villaluenga"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Torneo Vila de Celanova",
         "ciudad": "Celanova",
         "fechaini": "29-08-2026",
@@ -106,18 +214,6 @@
         "lat": 40.0271087,
         "lon": -3.9115161,
         "link": "https://info64.org/dato-villaluenga-sub12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "DATo Villaluenga",
-        "ciudad": "Villaluenga",
-        "fechaini": "23-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0271087,
-        "lon": -3.9115161,
-        "link": "https://info64.org/dato-villaluenga"
     },
     {
         "origin": "info64",
@@ -253,18 +349,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Festival internacional ESPHOUSES -IRT -2400",
-        "ciudad": "GUARDAMAR DEL SEGURA",
-        "fechaini": "03-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/iv-festival-internacional-esphouses-irt-2400"
-    },
-    {
-        "origin": "info64",
         "nombre": "CE Tramos Elo 2300 2026",
         "ciudad": "Hoznayo",
         "fechaini": "30-08-2026",
@@ -361,18 +445,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Festival  ESPHOUSES-Open rapidas Dama de Guardamar",
-        "ciudad": "GUARDAMAR DEL SEGURA",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/iv-festival-esphouses-open-rapidas-dama-de-guardamar"
-    },
-    {
-        "origin": "info64",
         "nombre": "41º. Open Ezkerraldea Basque Country - 34º Magistral Internacional de Euskadi",
         "ciudad": "Sestao",
         "fechaini": "08-09-2026",
@@ -418,18 +490,6 @@
         "lat": 42.1939629,
         "lon": -7.537124,
         "link": "https://info64.org/v-aberto-de-outono-de-ourense-de-xadrez-activo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "LIX Torneo Internacional Villa de Mislata Grupo C Sub-1800",
-        "ciudad": "Mislata",
-        "fechaini": "10-08-2026",
-        "fechafin": "16-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4751444,
-        "lon": -0.4179125,
-        "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-c-sub-1800"
     },
     {
         "origin": "info64",
@@ -505,18 +565,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo de ajedrez SAN JUAN DE LOS TERREROS 2026",
-        "ciudad": "San Juan de los Terreros,Pulpí",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3608107,
-        "lon": -1.6636704,
-        "link": "https://info64.org/torneo-de-ajedrez-san-juan-de-los-terreros-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "XIII Campeonato de Ajedrez ¨Memorial Asunción Enrique¨",
         "ciudad": "Borriana",
         "fechaini": "12-09-2026",
@@ -562,18 +610,6 @@
         "lat": 40.7440033,
         "lon": -4.7449591,
         "link": "https://info64.org/vii-torneo-de-ajedrez-de-cardenosa"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIII Escolar Villa de Mislata",
-        "ciudad": "Mislata",
-        "fechaini": "15-08-2026",
-        "fechafin": "15-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4751444,
-        "lon": -0.4179125,
-        "link": "https://info64.org/xiii-escolar-villa-de-mislata"
     },
     {
         "origin": "info64",
@@ -694,18 +730,6 @@
         "lat": 39.3576494,
         "lon": -0.6031,
         "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "LIX Torneo Internacional Villa de Mislata Grupo B Sub-2000",
-        "ciudad": "Mislata",
-        "fechaini": "10-08-2026",
-        "fechafin": "16-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4751444,
-        "lon": -0.4179125,
-        "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-b-sub-2000"
     },
     {
         "origin": "info64",
@@ -850,30 +874,6 @@
         "lat": 40.0322289,
         "lon": -3.6040097,
         "link": "https://info64.org/torneo-blitz-internacional-de-aranjuez"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Ferias y Fiestas de Alcala de Henares 2026",
-        "ciudad": "Alcalá de Henares",
-        "fechaini": "30-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.481954,
-        "lon": -3.363981,
-        "link": "https://info64.org/ferias-y-fiestas-de-alcala-de-henares-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Ferias y Fiestas de Alcalá de Henares 2026 sub14",
-        "ciudad": "Alcalá de Henares",
-        "fechaini": "30-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.481954,
-        "lon": -3.363981,
-        "link": "https://info64.org/ferias-y-fiestas-de-alcala-de-henares-2026-sub14"
     },
     {
         "origin": "info64",
@@ -1423,8 +1423,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
+        "lat": 43.5555299,
+        "lon": -5.9222186,
         "link": "https://info64.org/calledrez-sub-14-2026"
     },
     {
@@ -1543,8 +1543,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
+        "lat": 43.5555299,
+        "lon": -5.9222186,
         "link": "https://info64.org/calledrez-2026"
     },
     {
