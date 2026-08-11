@@ -169,18 +169,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XVIII Torneo Ajedrez San Bartolome",
-        "ciudad": "Umbrete",
-        "fechaini": "10-08-2026",
-        "fechafin": "10-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.368665,
-        "lon": -6.1573611,
-        "link": "https://info64.org/xviii-torneo-ajedrez-san-bartolome"
-    },
-    {
-        "origin": "info64",
         "nombre": "LIX Torneo Internacional Villa de Mislata Grupo B Sub-2000",
         "ciudad": "Mislata",
         "fechaini": "10-08-2026",
@@ -193,18 +181,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "LIX Torneo Internacional Villa de Mislata Grupo C Sub-1800",
-        "ciudad": "Mislata",
-        "fechaini": "10-08-2026",
-        "fechafin": "16-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4751444,
-        "lon": -0.4179125,
-        "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-c-sub-1800"
-    },
-    {
-        "origin": "info64",
         "nombre": "LIX Torneo Internacional Villa de Mislata Grupo A Open",
         "ciudad": "Mislata",
         "fechaini": "10-08-2026",
@@ -214,6 +190,18 @@
         "lat": 39.4751444,
         "lon": -0.4179125,
         "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-a-open"
+    },
+    {
+        "origin": "info64",
+        "nombre": "LIX Torneo Internacional Villa de Mislata Grupo C Sub-1800",
+        "ciudad": "Mislata",
+        "fechaini": "10-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4751444,
+        "lon": -0.4179125,
+        "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-c-sub-1800"
     },
     {
         "origin": "chess-results",
@@ -229,18 +217,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Blitz Villamalea 2026",
-        "ciudad": "Villamalea",
-        "fechaini": "11-08-2026",
-        "fechafin": "11-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.3618076,
-        "lon": -1.5398558,
-        "link": "https://info64.org/blitz-villamalea-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "CECLUB SEGUNDA DIVISION SUR 2026",
         "ciudad": "Linares",
         "fechaini": "11-08-2026",
@@ -250,6 +226,18 @@
         "lat": 38.087695,
         "lon": -3.6401793,
         "link": "https://info64.org/team/ceclub-segunda-division-sur-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Blitz Villamalea 2026",
+        "ciudad": "Villamalea",
+        "fechaini": "11-08-2026",
+        "fechafin": "11-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.3618076,
+        "lon": -1.5398558,
+        "link": "https://info64.org/blitz-villamalea-2026"
     },
     {
         "origin": "info64",
@@ -1297,15 +1285,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "XIX OPEN INTERNACIONAL POBLE DE MONTSERRAT 2026",
-        "ciudad": "Montserrat",
+        "nombre": "COPA GONZALEZ MARCH 2026- SUB14",
+        "ciudad": "A CORUÑA",
         "fechaini": "24-08-2026",
-        "fechafin": "30-08-2026",
+        "fechafin": "28-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.3576494,
-        "lon": -0.6031,
-        "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
+        "lat": 43.3466447,
+        "lon": -8.4127029,
+        "link": "https://info64.org/copa-gonzalez-march-2026-sub14"
     },
     {
         "origin": "info64",
@@ -1321,27 +1309,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "COPA GONZALEZ MARCH 2026- SUB14",
-        "ciudad": "A CORUÑA",
+        "nombre": "XIX OPEN INTERNACIONAL POBLE DE MONTSERRAT 2026",
+        "ciudad": "Montserrat",
         "fechaini": "24-08-2026",
-        "fechafin": "28-08-2026",
+        "fechafin": "30-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.3466447,
-        "lon": -8.4127029,
-        "link": "https://info64.org/copa-gonzalez-march-2026-sub14"
-    },
-    {
-        "origin": "info64",
-        "nombre": "TORNEO PROMOCION ESCUELA MUNICIPAL AJEDREZ ESTEPONA",
-        "ciudad": "ESTEPONA",
-        "fechaini": "24-08-2026",
-        "fechafin": "28-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.4268068,
-        "lon": -5.1468484,
-        "link": "https://info64.org/torneo-promocion-escuela-municipal-ajedrez-estepona"
+        "lat": 39.3576494,
+        "lon": -0.6031,
+        "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
     },
     {
         "origin": "chess-results",
@@ -1573,6 +1549,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXIV Torneo de Fiestas 2026 Villatobas",
+        "ciudad": "Villatobas",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9018494,
+        "lon": -3.3239156,
+        "link": "https://info64.org/xxiv-torneo-de-fiestas-2026-villatobas"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de ajedrez SAN JUAN DE LOS TERREROS 2026",
+        "ciudad": "San Juan de los Terreros,Pulpí",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3608107,
+        "lon": -1.6636704,
+        "link": "https://info64.org/torneo-de-ajedrez-san-juan-de-los-terreros-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "II Memorial Emilio Sánchez Jerez",
         "ciudad": "Beniaján",
         "fechaini": "29-08-2026",
@@ -1606,18 +1606,6 @@
         "lat": 39.2181465,
         "lon": -3.6070212,
         "link": "https://info64.org/i-torneo-ciudad-de-villarrubia-de-los-ojos"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo de ajedrez SAN JUAN DE LOS TERREROS 2026",
-        "ciudad": "San Juan de los Terreros,Pulpí",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3608107,
-        "lon": -1.6636704,
-        "link": "https://info64.org/torneo-de-ajedrez-san-juan-de-los-terreros-2026"
     },
     {
         "origin": "info64",
@@ -1711,8 +1699,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
+        "lat": 43.5555299,
+        "lon": -5.9222186,
         "link": "https://info64.org/calledrez-sub-14-2026"
     },
     {
@@ -1723,8 +1711,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
+        "lat": 43.5555299,
+        "lon": -5.9222186,
         "link": "https://info64.org/calledrez-2026"
     },
     {
@@ -1849,6 +1837,66 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXX Torneo de Fiestas 2026 San Sebastian De Los Reyes",
+        "ciudad": "San Sebastian de los Reyes",
+        "fechaini": "30-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5473698,
+        "lon": -3.6260586,
+        "link": "https://info64.org/xxx-torneo-de-fiestas-2026-san-sebastian-de-los-reyes"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CE Tramos Elo 1700 2026",
+        "ciudad": "Hoznayo",
+        "fechaini": "30-08-2026",
+        "fechafin": "04-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3891151,
+        "lon": -3.6931459,
+        "link": "https://info64.org/ce-tramos-elo-1700-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CE Tramos Elo 2000 2026",
+        "ciudad": "Hoznayo",
+        "fechaini": "30-08-2026",
+        "fechafin": "04-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3891151,
+        "lon": -3.6931459,
+        "link": "https://info64.org/ce-tramos-elo-2000-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XI Open Caballo de Plata",
+        "ciudad": "Motril",
+        "fechaini": "30-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7450888,
+        "lon": -3.5207655,
+        "link": "https://info64.org/xi-open-caballo-de-plata"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CE Tramos Elo 2300 2026",
+        "ciudad": "Hoznayo",
+        "fechaini": "30-08-2026",
+        "fechafin": "04-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3891151,
+        "lon": -3.6931459,
+        "link": "https://info64.org/ce-tramos-elo-2300-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXXIX T. Ferias Los Yebenes",
         "ciudad": "Los Yebenes",
         "fechaini": "30-08-2026",
@@ -1873,18 +1921,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XI Open Caballo de Plata",
-        "ciudad": "Motril",
-        "fechaini": "30-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7450888,
-        "lon": -3.5207655,
-        "link": "https://info64.org/xi-open-caballo-de-plata"
-    },
-    {
-        "origin": "info64",
         "nombre": "Ferias y Fiestas de Alcala de Henares 2026",
         "ciudad": "Alcalá de Henares",
         "fechaini": "30-08-2026",
@@ -1906,54 +1942,6 @@
         "lat": 40.481954,
         "lon": -3.363981,
         "link": "https://info64.org/ferias-y-fiestas-de-alcala-de-henares-2026-sub14"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CE Tramos Elo 2300 2026",
-        "ciudad": "Hoznayo",
-        "fechaini": "30-08-2026",
-        "fechafin": "04-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3891151,
-        "lon": -3.6931459,
-        "link": "https://info64.org/ce-tramos-elo-2300-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CE Tramos Elo 2000 2026",
-        "ciudad": "Hoznayo",
-        "fechaini": "30-08-2026",
-        "fechafin": "04-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3891151,
-        "lon": -3.6931459,
-        "link": "https://info64.org/ce-tramos-elo-2000-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CE Tramos Elo 1700 2026",
-        "ciudad": "Hoznayo",
-        "fechaini": "30-08-2026",
-        "fechafin": "04-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3891151,
-        "lon": -3.6931459,
-        "link": "https://info64.org/ce-tramos-elo-1700-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXX Torneo de Fiestas 2026 San Sebastian De Los Reyes",
-        "ciudad": "San Sebastian de los Reyes",
-        "fechaini": "30-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5473698,
-        "lon": -3.6260586,
-        "link": "https://info64.org/xxx-torneo-de-fiestas-2026-san-sebastian-de-los-reyes"
     },
     {
         "origin": "info64",
@@ -2173,6 +2161,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "V Torneo Villa de Fuensalida",
+        "ciudad": "Fuensalida",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0530549,
+        "lon": -4.2088378,
+        "link": "https://info64.org/v-torneo-villa-de-fuensalida"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo de Ajedrez Infantil Miguel Martinez 2026",
         "ciudad": "Alfafar",
         "fechaini": "05-09-2026",
@@ -2206,18 +2206,6 @@
         "lat": 40.4018377,
         "lon": -3.5950537,
         "link": "https://info64.org/torneo-sub-14-blitz-akeru"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Villa de Fuensalida",
-        "ciudad": "Fuensalida",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0530549,
-        "lon": -4.2088378,
-        "link": "https://info64.org/v-torneo-villa-de-fuensalida"
     },
     {
         "origin": "info64",
