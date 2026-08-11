@@ -493,18 +493,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XV Torneo de Ajedrez Feria de Miajadas",
-        "ciudad": "Miajadas",
-        "fechaini": "15-08-2026",
-        "fechafin": "15-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1501902,
-        "lon": -5.9090558,
-        "link": "https://info64.org/xv-torneo-de-ajedrez-feria-de-miajadas"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXVII Torneo de Ajedrez Ciudad de La Baneza",
         "ciudad": "La Baneza",
         "fechaini": "15-08-2026",
@@ -514,6 +502,18 @@
         "lat": 42.2998096,
         "lon": -5.8970081,
         "link": "https://info64.org/xxvii-torneo-de-ajedrez-ciudad-de-la-baneza"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XV Torneo de Ajedrez Feria de Miajadas",
+        "ciudad": "Miajadas",
+        "fechaini": "15-08-2026",
+        "fechafin": "15-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1501902,
+        "lon": -5.9090558,
+        "link": "https://info64.org/xv-torneo-de-ajedrez-feria-de-miajadas"
     },
     {
         "origin": "info64",
@@ -1549,18 +1549,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXIV Torneo de Fiestas 2026 Villatobas",
-        "ciudad": "Villatobas",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9018494,
-        "lon": -3.3239156,
-        "link": "https://info64.org/xxiv-torneo-de-fiestas-2026-villatobas"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo de ajedrez SAN JUAN DE LOS TERREROS 2026",
         "ciudad": "San Juan de los Terreros,Pulpí",
         "fechaini": "29-08-2026",
@@ -1570,6 +1558,18 @@
         "lat": 37.3608107,
         "lon": -1.6636704,
         "link": "https://info64.org/torneo-de-ajedrez-san-juan-de-los-terreros-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIV Torneo de Fiestas 2026 Villatobas",
+        "ciudad": "Villatobas",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9018494,
+        "lon": -3.3239156,
+        "link": "https://info64.org/xxiv-torneo-de-fiestas-2026-villatobas"
     },
     {
         "origin": "info64",
@@ -1699,8 +1699,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5555299,
-        "lon": -5.9222186,
+        "lat": 43.5554436,
+        "lon": -5.9222466,
         "link": "https://info64.org/calledrez-sub-14-2026"
     },
     {
@@ -1711,8 +1711,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5555299,
-        "lon": -5.9222186,
+        "lat": 43.5554436,
+        "lon": -5.9222466,
         "link": "https://info64.org/calledrez-2026"
     },
     {
