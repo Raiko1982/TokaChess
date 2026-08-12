@@ -1,27 +1,111 @@
 [
     {
         "origin": "info64",
-        "nombre": "XI Torneo de Promocion Indalo",
-        "ciudad": "Feria de Almeria",
+        "nombre": "DATo Villaluenga",
+        "ciudad": "Villaluenga",
+        "fechaini": "23-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0271087,
+        "lon": -3.9115161,
+        "link": "https://info64.org/dato-villaluenga"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Virgen de las Virtudes",
+        "ciudad": "Santa Cruz de Mudela",
+        "fechaini": "12-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.6419862,
+        "lon": -3.4666934,
+        "link": "https://info64.org/ii-torneo-virgen-de-las-virtudes-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Trofeu D’Escacs Festes D’Agost D’ALBALAT DE LA RIBERA",
+        "ciudad": "Albalat de la Ribera",
+        "fechaini": "12-08-2026",
+        "fechafin": "12-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2012627,
+        "lon": -0.3866468,
+        "link": "https://info64.org/ii-trofeu-descacs-festes-dagost-dalbalat-de-la-ribera"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Memorial Emilio Sánchez Jerez",
+        "ciudad": "Beniaján",
         "fechaini": "29-08-2026",
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.9083934,
-        "lon": -2.1744158,
-        "link": "https://info64.org/xi-torneo-de-promocion-indalo"
+        "lat": 37.9752568,
+        "lon": -1.0711116,
+        "link": "https://info64.org/ii-memorial-emilio-sanchez-jerez"
     },
     {
         "origin": "info64",
-        "nombre": "Blitz Villamalea 2026",
-        "ciudad": "Villamalea",
-        "fechaini": "11-08-2026",
-        "fechafin": "11-08-2026",
+        "nombre": "XI Open Caballo de Plata",
+        "ciudad": "Motril",
+        "fechaini": "30-08-2026",
+        "fechafin": "30-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.3618076,
-        "lon": -1.5398558,
-        "link": "https://info64.org/blitz-villamalea-2026"
+        "lat": 36.7450888,
+        "lon": -3.5207655,
+        "link": "https://info64.org/xi-open-caballo-de-plata"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Odiseo Chess Masters",
+        "ciudad": "Murcia",
+        "fechaini": "28-08-2026",
+        "fechafin": "28-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.9347521,
+        "lon": -1.1131029,
+        "link": "https://info64.org/odiseo-chess-masters"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Villa de Fuensalida",
+        "ciudad": "Fuensalida",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0530549,
+        "lon": -4.2088378,
+        "link": "https://info64.org/v-torneo-villa-de-fuensalida"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Infantil de San Gil - Enguera",
+        "ciudad": "Enguera",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9804366,
+        "lon": -0.6894299,
+        "link": "https://info64.org/v-torneo-infantil-de-san-gil-enguera"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V IRT-SUB2400 OROPESA DEL MAR",
+        "ciudad": "Oropesa del Mar",
+        "fechaini": "04-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0932078,
+        "lon": 0.1358123,
+        "link": "https://info64.org/v-irt-sub2400-oropesa-del-mar"
     },
     {
         "origin": "info64",
@@ -37,15 +121,51 @@
     },
     {
         "origin": "info64",
-        "nombre": "TORNEO A - 8 Open Internacional Sub2200 Hotel Vertice Sevilla Bormujos",
-        "ciudad": "Bormujos",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
+        "nombre": "XV Torneo de Ajedrez Feria de Miajadas",
+        "ciudad": "Miajadas",
+        "fechaini": "15-08-2026",
+        "fechafin": "15-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 37.3715939,
-        "lon": -6.07133,
-        "link": "https://info64.org/torneo-a-8-open-internacional-sub2200-hotel-vertice-sevilla-bormujos"
+        "lat": 39.1501902,
+        "lon": -5.9090558,
+        "link": "https://info64.org/xv-torneo-de-ajedrez-feria-de-miajadas"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CE Tramos Elo 1700 2026",
+        "ciudad": "Hoznayo",
+        "fechaini": "30-08-2026",
+        "fechafin": "04-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3891151,
+        "lon": -3.6931459,
+        "link": "https://info64.org/ce-tramos-elo-1700-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CE Tramos Elo 2000 2026",
+        "ciudad": "Hoznayo",
+        "fechaini": "30-08-2026",
+        "fechafin": "04-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3891151,
+        "lon": -3.6931459,
+        "link": "https://info64.org/ce-tramos-elo-2000-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CE Tramos Elo 2300 2026",
+        "ciudad": "Hoznayo",
+        "fechaini": "30-08-2026",
+        "fechafin": "04-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3891151,
+        "lon": -3.6931459,
+        "link": "https://info64.org/ce-tramos-elo-2300-2026"
     },
     {
         "origin": "info64",
@@ -58,6 +178,30 @@
         "lat": 38.087695,
         "lon": -3.6401793,
         "link": "https://info64.org/team/ceclub-segunda-division-sur-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XI Torneo de Promocion Indalo",
+        "ciudad": "Feria de Almeria",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.9083934,
+        "lon": -2.1744158,
+        "link": "https://info64.org/xi-torneo-de-promocion-indalo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "TORNEO A - 8 Open Internacional Sub2200 Hotel Vertice Sevilla Bormujos",
+        "ciudad": "Bormujos",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3715939,
+        "lon": -6.07133,
+        "link": "https://info64.org/torneo-a-8-open-internacional-sub2200-hotel-vertice-sevilla-bormujos"
     },
     {
         "origin": "info64",
@@ -181,18 +325,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "DATo Villaluenga",
-        "ciudad": "Villaluenga",
-        "fechaini": "23-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0271087,
-        "lon": -3.9115161,
-        "link": "https://info64.org/dato-villaluenga"
-    },
-    {
-        "origin": "info64",
         "nombre": "Calledrez - Sub 14 - 2026",
         "ciudad": "Aviles",
         "fechaini": "29-08-2026",
@@ -238,18 +370,6 @@
         "lat": 39.4751444,
         "lon": -0.4179125,
         "link": "https://info64.org/lix-torneo-internacional-villa-de-mislata-grupo-c-sub-1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XI Open Caballo de Plata",
-        "ciudad": "Motril",
-        "fechaini": "30-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7450888,
-        "lon": -3.5207655,
-        "link": "https://info64.org/xi-open-caballo-de-plata"
     },
     {
         "origin": "info64",
@@ -361,18 +481,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Trofeu D’Escacs Festes D’Agost D’ALBALAT DE LA RIBERA",
-        "ciudad": "Albalat de la Ribera",
-        "fechaini": "12-08-2026",
-        "fechafin": "12-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2012627,
-        "lon": -0.3866468,
-        "link": "https://info64.org/ii-trofeu-descacs-festes-dagost-dalbalat-de-la-ribera"
-    },
-    {
-        "origin": "info64",
         "nombre": "XIX OPEN INTERNACIONAL POBLE DE MONTSERRAT 2026",
         "ciudad": "Montserrat",
         "fechaini": "24-08-2026",
@@ -397,18 +505,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Campeonato de Ajedrez Penaguila - Infantil y no federados",
-        "ciudad": "Penaguila",
-        "fechaini": "11-08-2026",
-        "fechafin": "11-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.6794181,
-        "lon": -0.3590426,
-        "link": "https://info64.org/iv-campeonato-de-ajedrez-penaguila-infantil-y-no-federados"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Open de Alarcia",
         "ciudad": "Alarcia",
         "fechaini": "15-08-2026",
@@ -430,18 +526,6 @@
         "lat": 39.4313098,
         "lon": 3.0197912,
         "link": "https://info64.org/torneig-migjorn-de-campos-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XV Torneo de Ajedrez Feria de Miajadas",
-        "ciudad": "Miajadas",
-        "fechaini": "15-08-2026",
-        "fechafin": "15-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1501902,
-        "lon": -5.9090558,
-        "link": "https://info64.org/xv-torneo-de-ajedrez-feria-de-miajadas"
     },
     {
         "origin": "info64",
@@ -673,18 +757,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Odiseo Chess Masters",
-        "ciudad": "Murcia",
-        "fechaini": "28-08-2026",
-        "fechafin": "28-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.9347521,
-        "lon": -1.1131029,
-        "link": "https://info64.org/odiseo-chess-masters"
-    },
-    {
-        "origin": "info64",
         "nombre": "Simultáneas con GM Ibarra",
         "ciudad": "Murcia",
         "fechaini": "28-08-2026",
@@ -721,42 +793,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "CE Tramos Elo 1700 2026",
-        "ciudad": "Hoznayo",
-        "fechaini": "30-08-2026",
-        "fechafin": "04-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3891151,
-        "lon": -3.6931459,
-        "link": "https://info64.org/ce-tramos-elo-1700-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CE Tramos Elo 2000 2026",
-        "ciudad": "Hoznayo",
-        "fechaini": "30-08-2026",
-        "fechafin": "04-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3891151,
-        "lon": -3.6931459,
-        "link": "https://info64.org/ce-tramos-elo-2000-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CE Tramos Elo 2300 2026",
-        "ciudad": "Hoznayo",
-        "fechaini": "30-08-2026",
-        "fechafin": "04-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3891151,
-        "lon": -3.6931459,
-        "link": "https://info64.org/ce-tramos-elo-2300-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "COPA GONZALEZ MARCH 2026- SUB14",
         "ciudad": "A CORUÑA",
         "fechaini": "24-08-2026",
@@ -778,18 +814,6 @@
         "lat": 43.3466447,
         "lon": -8.4127029,
         "link": "https://info64.org/copa-gonzalez-march-2026-absoluto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Villa de Fuensalida",
-        "ciudad": "Fuensalida",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0530549,
-        "lon": -4.2088378,
-        "link": "https://info64.org/v-torneo-villa-de-fuensalida"
     },
     {
         "origin": "info64",
@@ -862,18 +886,6 @@
         "lat": 39.071992,
         "lon": -0.4869889,
         "link": "https://info64.org/ii-blitz-club-doble-dama"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Memorial Emilio Sánchez Jerez",
-        "ciudad": "Beniaján",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.9752568,
-        "lon": -1.0711116,
-        "link": "https://info64.org/ii-memorial-emilio-sanchez-jerez"
     },
     {
         "origin": "info64",
@@ -1285,18 +1297,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V IRT-SUB2400 OROPESA DEL MAR",
-        "ciudad": "Oropesa del Mar",
-        "fechaini": "04-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0932078,
-        "lon": 0.1358123,
-        "link": "https://info64.org/v-irt-sub2400-oropesa-del-mar"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Aberto de Outono de Ourense de Xadrez Activo",
         "ciudad": "Ourense",
         "fechaini": "03-10-2026",
@@ -1450,18 +1450,6 @@
         "lat": 39.5090599,
         "lon": -0.4108581,
         "link": "https://info64.org/mytournament-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo Virgen de las Virtudes",
-        "ciudad": "Santa Cruz de Mudela",
-        "fechaini": "12-09-2026",
-        "fechafin": "12-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.6419862,
-        "lon": -3.4666934,
-        "link": "https://info64.org/ii-torneo-virgen-de-las-virtudes-1"
     },
     {
         "origin": "info64",
@@ -1870,18 +1858,6 @@
         "lat": 42.8230299,
         "lon": -1.614076,
         "link": "https://info64.org/vi-torneo-open-sub-2200-de-burlada"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Infantil de San Gil - Enguera",
-        "ciudad": "Enguera",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9804366,
-        "lon": -0.6894299,
-        "link": "https://info64.org/v-torneo-infantil-de-san-gil-enguera"
     },
     {
         "origin": "info64",
