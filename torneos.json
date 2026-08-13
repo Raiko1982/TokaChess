@@ -685,6 +685,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV Maxistral Xiria Carballo",
+        "ciudad": "Carballo - A Coruña",
+        "fechaini": "16-08-2026",
+        "fechafin": "21-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2086195,
+        "lon": -8.6668237,
+        "link": "https://info64.org/iv-maxistral-xiria-carballo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CE Rapido 2026",
+        "ciudad": "Mengibar",
+        "fechaini": "16-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.9680499,
+        "lon": -3.8087804,
+        "link": "https://info64.org/ce-rapido-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "II Torneo de Ajedrez de Verano de Arenas de San Pedro (Avila)",
         "ciudad": "Arenas de San Pedro",
         "fechaini": "16-08-2026",
@@ -709,18 +733,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "CE Rapido 2026",
-        "ciudad": "Mengibar",
-        "fechaini": "16-08-2026",
-        "fechafin": "16-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.9680499,
-        "lon": -3.8087804,
-        "link": "https://info64.org/ce-rapido-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 3: BUBIÓN",
         "ciudad": "Bubión",
         "fechaini": "16-08-2026",
@@ -742,18 +754,6 @@
         "lat": 41.5493833,
         "lon": -3.147095,
         "link": "https://info64.org/torneo-de-ajedrez-pedraja-de-san-esteban"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Maxistral Xiria Carballo",
-        "ciudad": "Carballo - A Coruña",
-        "fechaini": "16-08-2026",
-        "fechafin": "21-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.2086195,
-        "lon": -8.6668237,
-        "link": "https://info64.org/iv-maxistral-xiria-carballo"
     },
     {
         "origin": "chess-results",
@@ -889,6 +889,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "IX Aberto Concello de Carballo Clasico",
+        "ciudad": "Carballo - A Coruña",
+        "fechaini": "21-08-2026",
+        "fechafin": "27-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2086195,
+        "lon": -8.6668237,
+        "link": "https://info64.org/ix-aberto-concello-de-carballo-clasico"
+    },
+    {
+        "origin": "info64",
         "nombre": "TORNEO A - 8 Open Internacional Sub2200 Hotel Vertice Sevilla Bormujos",
         "ciudad": "Bormujos",
         "fechaini": "21-08-2026",
@@ -910,18 +922,6 @@
         "lat": 37.3715939,
         "lon": -6.07133,
         "link": "https://info64.org/torneo-b-5-open-internacional-sub1800-hotel-vertice-sevilla-bormujos"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IX Aberto Concello de Carballo Clasico",
-        "ciudad": "Carballo - A Coruña",
-        "fechaini": "21-08-2026",
-        "fechafin": "27-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.2086195,
-        "lon": -8.6668237,
-        "link": "https://info64.org/ix-aberto-concello-de-carballo-clasico"
     },
     {
         "origin": "info64",
@@ -1573,6 +1573,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Torneo Ciudad de Villarrubia de los Ojos",
+        "ciudad": "Villarrubia de los Ojos",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2181465,
+        "lon": -3.6070212,
+        "link": "https://info64.org/i-torneo-ciudad-de-villarrubia-de-los-ojos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III TORNEO AJEDREZ VIRGEN DE LA VICTORIA",
+        "ciudad": "TRUJILLO - Cáceres",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4605657,
+        "lon": -5.8816626,
+        "link": "https://info64.org/iii-torneo-ajedrez-virgen-de-la-victoria"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXIV Torneo de Fiestas 2026 Villatobas",
         "ciudad": "Villatobas",
         "fechaini": "29-08-2026",
@@ -1627,8 +1651,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5555299,
-        "lon": -5.9222186,
+        "lat": 43.5554436,
+        "lon": -5.9222466,
         "link": "https://info64.org/calledrez-2026"
     },
     {
@@ -1639,8 +1663,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5555299,
-        "lon": -5.9222186,
+        "lat": 43.5554436,
+        "lon": -5.9222466,
         "link": "https://info64.org/calledrez-sub-14-2026"
     },
     {
@@ -1681,18 +1705,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo Ciudad de Villarrubia de los Ojos",
-        "ciudad": "Villarrubia de los Ojos",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2181465,
-        "lon": -3.6070212,
-        "link": "https://info64.org/i-torneo-ciudad-de-villarrubia-de-los-ojos"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Torneo Vila de Celanova",
         "ciudad": "Celanova",
         "fechaini": "29-08-2026",
@@ -1702,18 +1714,6 @@
         "lat": 42.1664426,
         "lon": -7.9611378,
         "link": "https://info64.org/i-torneo-vila-de-celanova"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III TORNEO AJEDREZ VIRGEN DE LA VICTORIA",
-        "ciudad": "TRUJILLO - Cáceres",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4605657,
-        "lon": -5.8816626,
-        "link": "https://info64.org/iii-torneo-ajedrez-virgen-de-la-victoria"
     },
     {
         "origin": "info64",
@@ -1861,6 +1861,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Torneo Veran Xadrez Ortigueira",
+        "ciudad": "Ortigueira- A Coruña",
+        "fechaini": "30-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.6516865,
+        "lon": -7.8400525,
+        "link": "https://info64.org/i-torneo-veran-xadrez-ortigueira"
+    },
+    {
+        "origin": "info64",
         "nombre": "XI Open Caballo de Plata",
         "ciudad": "Motril",
         "fechaini": "30-08-2026",
@@ -1954,18 +1966,6 @@
         "lat": 39.5823444,
         "lon": -3.8702361,
         "link": "https://info64.org/xxxix-t-ferias-los-yebenes"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Veran Xadrez Ortigueira",
-        "ciudad": "Ortigueira- A Coruña",
-        "fechaini": "30-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.6516865,
-        "lon": -7.8400525,
-        "link": "https://info64.org/i-torneo-veran-xadrez-ortigueira"
     },
     {
         "origin": "info64",
@@ -2185,6 +2185,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV Torneo Internacional Alfafar 2026 Miguel Martinez",
+        "ciudad": "Alfafar",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4200749,
+        "lon": -0.3891355,
+        "link": "https://info64.org/iv-torneo-internacional-alfafar-2026-miguel-martinez"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Torneo San Cibrao ( Carballiño )",
         "ciudad": "Carballiño",
         "fechaini": "05-09-2026",
@@ -2254,18 +2266,6 @@
         "lat": 40.3492998,
         "lon": -3.8284295,
         "link": "https://info64.org/v-superblitzchessmarathon-fiestas-de-alcorcon"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo Internacional Alfafar 2026 Miguel Martinez",
-        "ciudad": "Alfafar",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4200749,
-        "lon": -0.3891355,
-        "link": "https://info64.org/iv-torneo-internacional-alfafar-2026-miguel-martinez"
     },
     {
         "origin": "info64",
@@ -2473,6 +2473,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXIX Fiestas del Vino",
+        "ciudad": "Valdepeñas",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/xxix-fiestas-del-vino"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV Festival  ESPHOUSES-Open rapidas Dama de Guardamar",
         "ciudad": "GUARDAMAR DEL SEGURA",
         "fechaini": "06-09-2026",
@@ -2518,18 +2530,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/ii-torneo-de-ajedrez-cuervos-de-pravia"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIX Fiestas del Vino",
-        "ciudad": "Valdepeñas",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7594573,
-        "lon": -3.3847392,
-        "link": "https://info64.org/xxix-fiestas-del-vino"
     },
     {
         "origin": "info64",
@@ -3133,6 +3133,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II Open Internaciona Ciudad de Santurtzi",
+        "ciudad": "Santurtzi",
+        "fechaini": "19-09-2026",
+        "fechafin": "19-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3287527,
+        "lon": -3.0318766,
+        "link": "https://info64.org/ii-open-internaciona-ciudad-de-santurtzi"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXXII Torneo de Ajedrez San Miguel 2026",
         "ciudad": "Trevias",
         "fechaini": "19-09-2026",
@@ -3166,18 +3178,6 @@
         "lat": 38.6135956,
         "lon": -1.1157882,
         "link": "https://info64.org/liii-torneo-de-ajedrez-feria-de-yecla-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open Internaciona Ciudad de Santurtzi",
-        "ciudad": "Santurtzi",
-        "fechaini": "19-09-2026",
-        "fechafin": "19-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3287527,
-        "lon": -3.0318766,
-        "link": "https://info64.org/ii-open-internaciona-ciudad-de-santurtzi"
     },
     {
         "origin": "chess-results",
