@@ -686,18 +686,6 @@
     {
         "origin": "chess-results",
         "nombre": "II Torneo de Ajedrez de Verano de Arenas de San Pe",
-        "ciudad": "Polideportivo Jesús Navarro ( Arenas de San Pedro)",
-        "fechaini": "16-08-2026",
-        "fechafin": "16-08-2026",
-        "organizador": "Ayuntamiento de Arenas de San Pedro",
-        "ritmo": "10 minutos+ 3 segundos",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1424937.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "II Torneo de Ajedrez de Verano de Arenas de San Pe",
         "ciudad": "",
         "fechaini": "16-08-2026",
         "fechafin": "16-08-2026",
@@ -706,6 +694,18 @@
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1399394.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "II Torneo de Ajedrez de Verano de Arenas de San Pe",
+        "ciudad": "Polideportivo Jesús Navarro ( Arenas de San Pedro)",
+        "fechaini": "16-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "Ayuntamiento de Arenas de San Pedro",
+        "ritmo": "10 minutos+ 3 segundos",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1424937.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1435,8 +1435,8 @@
         "fechafin": "27-08-2026",
         "organizador": "Baena Deporte - Ayuntamiento de Baena",
         "ritmo": "5+3",
-        "lat": 37.6146069,
-        "lon": -4.3256643,
+        "lat": 37.614452,
+        "lon": -4.3258292,
         "link": "https://chess-results.com/tnr1472735.aspx?lan=2"
     },
     {
@@ -3253,8 +3253,20 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "II Jornada de Ajedrez PARQUE PASEO EUROPA - LOS BE",
-        "ciudad": "Parque Europa- Avenida de Europa - Los Bermejales - Sevilla",
+        "nombre": "I Torneo Ajedrez Acústico Cadrete",
+        "ciudad": "PUB Rana 2000, Cadrete",
+        "fechaini": "19-09-2026",
+        "fechafin": "19-09-2026",
+        "organizador": "Edgar González Romea",
+        "ritmo": "3+2",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1476056.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "II Jornada de Ajedrez LOS BERMEJALES",
+        "ciudad": "Parque de los Bermejales-2 Avenida de Irlanda. 41012-Sevilla",
         "fechaini": "19-09-2026",
         "fechafin": "19-09-2026",
         "organizador": "Ayuntamiento de Sevilla - Distrito Bellavista",
@@ -4675,8 +4687,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3889426,
-        "lon": -0.5176876,
+        "lat": 38.3915493,
+        "lon": -0.5208521,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     },
     {
