@@ -205,6 +205,54 @@
     },
     {
         "origin": "info64",
+        "nombre": "XV Torneo de Ajedrez Feria de Miajadas",
+        "ciudad": "Miajadas",
+        "fechaini": "15-08-2026",
+        "fechafin": "15-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1501902,
+        "lon": -5.9090558,
+        "link": "https://info64.org/xv-torneo-de-ajedrez-feria-de-miajadas"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CE Relampago 2026",
+        "ciudad": "Mengibar",
+        "fechaini": "15-08-2026",
+        "fechafin": "15-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.9680499,
+        "lon": -3.8087804,
+        "link": "https://info64.org/ce-relampago-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Open de Belorado C2 Aficionados",
+        "ciudad": "Belorado",
+        "fechaini": "15-08-2026",
+        "fechafin": "15-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4267072,
+        "lon": -3.1964952,
+        "link": "https://info64.org/vi-open-de-belorado-c2-aficionados"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Open de Belorado C1 Absoluto",
+        "ciudad": "Belorado",
+        "fechaini": "15-08-2026",
+        "fechafin": "15-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4267072,
+        "lon": -3.1964952,
+        "link": "https://info64.org/vi-open-de-belorado-c1-absoluto"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Open de Belorado Infantil",
         "ciudad": "Belorado",
         "fechaini": "15-08-2026",
@@ -265,30 +313,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Open de Belorado C2 Aficionados",
-        "ciudad": "Belorado",
-        "fechaini": "15-08-2026",
-        "fechafin": "15-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4267072,
-        "lon": -3.1964952,
-        "link": "https://info64.org/vi-open-de-belorado-c2-aficionados"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Open de Belorado C1 Absoluto",
-        "ciudad": "Belorado",
-        "fechaini": "15-08-2026",
-        "fechafin": "15-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4267072,
-        "lon": -3.1964952,
-        "link": "https://info64.org/vi-open-de-belorado-c1-absoluto"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Torneo de ajedrez ABRUCENA 2026 - Torneo VÁLIDO PARA ELO FADA",
         "ciudad": "Abrucena",
         "fechaini": "15-08-2026",
@@ -298,18 +322,6 @@
         "lat": 37.1332098,
         "lon": -2.797482,
         "link": "https://info64.org/i-torneo-de-ajedrez-abrucena-2026-torneo-valido-para-elo-fada"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XV Torneo de Ajedrez Feria de Miajadas",
-        "ciudad": "Miajadas",
-        "fechaini": "15-08-2026",
-        "fechafin": "15-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1501902,
-        "lon": -5.9090558,
-        "link": "https://info64.org/xv-torneo-de-ajedrez-feria-de-miajadas"
     },
     {
         "origin": "info64",
@@ -334,18 +346,6 @@
         "lat": 43.2794373,
         "lon": -8.7126883,
         "link": "https://info64.org/i-eu-quero-razo-baldaio"
-    },
-    {
-        "origin": "info64",
-        "nombre": "CE Relampago 2026",
-        "ciudad": "Mengibar",
-        "fechaini": "15-08-2026",
-        "fechafin": "15-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.9680499,
-        "lon": -3.8087804,
-        "link": "https://info64.org/ce-relampago-2026"
     },
     {
         "origin": "info64",
@@ -745,18 +745,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
-        "ciudad": "Zaragoza",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
-        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
-    },
-    {
-        "origin": "info64",
         "nombre": "TORNEO A - 8 Open Internacional Sub2200 Hotel Vertice Sevilla Bormujos",
         "ciudad": "Bormujos",
         "fechaini": "21-08-2026",
@@ -766,6 +754,18 @@
         "lat": 37.3715939,
         "lon": -6.07133,
         "link": "https://info64.org/torneo-a-8-open-internacional-sub2200-hotel-vertice-sevilla-bormujos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
+        "ciudad": "Zaragoza",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
     },
     {
         "origin": "info64",
@@ -877,6 +877,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "TORNEO C - 2 BLITZ NOCTURNO Trebejo Solidario Hotel Vertice Sevilla Bormujos",
+        "ciudad": "Bormujos",
+        "fechaini": "22-08-2026",
+        "fechafin": "22-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3715939,
+        "lon": -6.07133,
+        "link": "https://info64.org/torneo-c-2-blitz-nocturno-trebejo-solidario-hotel-vertice-sevilla-bormujos"
+    },
+    {
+        "origin": "info64",
         "nombre": "XVII Torneo de Ajedrez Villa de Guareña",
         "ciudad": "Guareña",
         "fechaini": "22-08-2026",
@@ -910,18 +922,6 @@
         "lat": 39.9522413,
         "lon": -4.8901772,
         "link": "https://info64.org/memorial-jose-angel-de-jesus-y-encinas"
-    },
-    {
-        "origin": "info64",
-        "nombre": "TORNEO C - 2 BLITZ NOCTURNO Trebejo Solidario Hotel Vertice Sevilla Bormujos",
-        "ciudad": "Bormujos",
-        "fechaini": "22-08-2026",
-        "fechafin": "22-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3715939,
-        "lon": -6.07133,
-        "link": "https://info64.org/torneo-c-2-blitz-nocturno-trebejo-solidario-hotel-vertice-sevilla-bormujos"
     },
     {
         "origin": "info64",
