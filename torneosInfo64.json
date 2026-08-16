@@ -1,6 +1,102 @@
 [
     {
         "origin": "info64",
+        "nombre": "V Nocturno Centro Comercial Arousa",
+        "ciudad": "Vilagarcía",
+        "fechaini": "28-08-2026",
+        "fechafin": "28-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5947625,
+        "lon": -8.7669178,
+        "link": "https://info64.org/v-nocturno-centro-comercial-arousa"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
+        "ciudad": "Zaragoza",
+        "fechaini": "21-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Santa Rosa Benjamin Prebenjamin",
+        "ciudad": "Venta de Baños",
+        "fechaini": "16-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.9206919,
+        "lon": -4.4931598,
+        "link": "https://info64.org/x-santa-rosa-benjamin-prebenjamin"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V TORNEO INTERNACIONAL MOROS Y CRISTIANOS DE MUTXAMEL",
+        "ciudad": "MUTXAMEL",
+        "fechaini": "25-08-2026",
+        "fechafin": "27-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4136518,
+        "lon": -0.444471,
+        "link": "https://info64.org/v-torneo-internacional-moros-y-cristianos-de-mutxamel"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Santa Rosa Infantil Alevin",
+        "ciudad": "Venta de Baños",
+        "fechaini": "16-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.9206919,
+        "lon": -4.4931598,
+        "link": "https://info64.org/x-santa-rosa-infantil-alevin"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Torneo Santa Rosa Absoluto",
+        "ciudad": "Venta de Baños",
+        "fechaini": "16-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.9206919,
+        "lon": -4.4931598,
+        "link": "https://info64.org/x-torneo-santa-rosa-absoluto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Internacional El Campello",
+        "ciudad": "El Campello",
+        "fechaini": "17-08-2026",
+        "fechafin": "19-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.427416,
+        "lon": -0.3983685,
+        "link": "https://info64.org/iii-torneo-internacional-el-campello"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XIX OPEN INTERNACIONAL POBLE DE MONTSERRAT 2026",
+        "ciudad": "Montserrat",
+        "fechaini": "24-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.3576494,
+        "lon": -0.6031,
+        "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "CE Rapido 2026",
         "ciudad": "Mengibar",
         "fechaini": "16-08-2026",
@@ -301,18 +397,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Torneo Internacional El Campello",
-        "ciudad": "El Campello",
-        "fechaini": "17-08-2026",
-        "fechafin": "19-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.427416,
-        "lon": -0.3983685,
-        "link": "https://info64.org/iii-torneo-internacional-el-campello"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open Transpirenaico Memorial Salvador Casado - Oberena -",
         "ciudad": "Pamplona",
         "fechaini": "18-09-2026",
@@ -541,18 +625,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Nocturno Centro Comercial Arousa",
-        "ciudad": "Vilagarcía",
-        "fechaini": "28-08-2026",
-        "fechafin": "28-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5947625,
-        "lon": -8.7669178,
-        "link": "https://info64.org/v-nocturno-centro-comercial-arousa"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Torneo de Ajedrez Cuervos de Pravia",
         "ciudad": "Polideportivo IES Pravia",
         "fechaini": "06-09-2026",
@@ -649,18 +721,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XIX OPEN INTERNACIONAL POBLE DE MONTSERRAT 2026",
-        "ciudad": "Montserrat",
-        "fechaini": "24-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.3576494,
-        "lon": -0.6031,
-        "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 4: GUADIX",
         "ciudad": "Guadix",
         "fechaini": "23-08-2026",
@@ -754,18 +814,6 @@
         "lat": 39.071992,
         "lon": -0.4869889,
         "link": "https://info64.org/ii-irt-sub-2200-club-doble-dama"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
-        "ciudad": "Zaragoza",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
-        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
     },
     {
         "origin": "info64",
@@ -1381,42 +1429,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Santa Rosa Benjamin Prebenjamin",
-        "ciudad": "Venta de Baños",
-        "fechaini": "16-08-2026",
-        "fechafin": "16-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.9206919,
-        "lon": -4.4931598,
-        "link": "https://info64.org/x-santa-rosa-benjamin-prebenjamin"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Santa Rosa Infantil Alevin",
-        "ciudad": "Venta de Baños",
-        "fechaini": "16-08-2026",
-        "fechafin": "16-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.9206919,
-        "lon": -4.4931598,
-        "link": "https://info64.org/x-santa-rosa-infantil-alevin"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Torneo Santa Rosa Absoluto",
-        "ciudad": "Venta de Baños",
-        "fechaini": "16-08-2026",
-        "fechafin": "16-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.9206919,
-        "lon": -4.4931598,
-        "link": "https://info64.org/x-torneo-santa-rosa-absoluto"
-    },
-    {
-        "origin": "info64",
         "nombre": "Calledrez - Sub 14 - 2026",
         "ciudad": "Aviles",
         "fechaini": "29-08-2026",
@@ -1642,18 +1654,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/20260905_xxxitorneoajedrezvillamiguelturra2026-infantil"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V TORNEO INTERNACIONAL MOROS Y CRISTIANOS DE MUTXAMEL",
-        "ciudad": "MUTXAMEL",
-        "fechaini": "25-08-2026",
-        "fechafin": "27-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4136518,
-        "lon": -0.444471,
-        "link": "https://info64.org/v-torneo-internacional-moros-y-cristianos-de-mutxamel"
     },
     {
         "origin": "info64",
