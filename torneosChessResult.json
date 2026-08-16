@@ -187,8 +187,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3915493,
-        "lon": -0.5208521,
+        "lat": 38.3889426,
+        "lon": -0.5176876,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     },
     {
@@ -1069,6 +1069,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "XIV TORNERO CIUDAD DE PEÑARROYA - PUEBLONUEVO 06/0",
+        "ciudad": "PISCINA MUNICIPAL",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "F. J DE LOS RIOS",
+        "ritmo": "12+3",
+        "lat": 42.1733145,
+        "lon": -2.5442953,
+        "link": "https://chess-results.com/tnr1477437.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "XXIV Open d'escacs Festes Alaquàs 2026",
         "ciudad": "Alaquàs - Ateneu Cultural i Esportiu, plaça Constitució",
         "fechaini": "06-09-2026",
@@ -1765,11 +1777,35 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "I Torneo de Ajedrez en honor a San RoqueFiestas pa",
-        "ciudad": "Arroyo de las Fraguas, Guadalajara",
+        "nombre": "I Master Escolar Illa de Mallorca",
+        "ciudad": "Palma de Mallorca",
         "fechaini": "16-08-2026",
         "fechafin": "16-08-2026",
-        "organizador": "Comisión de festejos 2026",
+        "organizador": "Associació d'Escaquistes de Balears",
+        "ritmo": "3 min para toda la partida",
+        "lat": 39.5695818,
+        "lon": 2.6500745,
+        "link": "https://chess-results.com/tnr1477445.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "I Master Illa de Mallorca",
+        "ciudad": "Palma de Mallorca",
+        "fechaini": "16-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "Associació d'Escaquistes de Balears",
+        "ritmo": "3 min para toda la partida",
+        "lat": 39.5695818,
+        "lon": 2.6500745,
+        "link": "https://chess-results.com/tnr1477459.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "I Torneo de Ajedrez Fiestas de San Roque - Arroyo",
+        "ciudad": "Arroyo de las Fraguas",
+        "fechaini": "16-08-2026",
+        "fechafin": "16-08-2026",
+        "organizador": "Comisión de Festejos",
         "ritmo": "",
         "lat": 41.1030119,
         "lon": -3.1317598,
