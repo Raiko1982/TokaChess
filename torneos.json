@@ -145,15 +145,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Torneo Internacional El Campello",
-        "ciudad": "El Campello",
+        "nombre": "myTournament",
+        "ciudad": "myTown",
         "fechaini": "17-08-2026",
-        "fechafin": "19-08-2026",
+        "fechafin": "17-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.427416,
-        "lon": -0.3983685,
-        "link": "https://info64.org/iii-torneo-internacional-el-campello"
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/mytournament-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
     },
     {
         "origin": "info64",
@@ -166,6 +166,18 @@
         "lat": 38.0919777,
         "lon": -3.6399715,
         "link": "https://info64.org/campeonato-de-espana-individual-absoluto-y-femenino-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Internacional El Campello",
+        "ciudad": "El Campello",
+        "fechaini": "17-08-2026",
+        "fechafin": "19-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.427416,
+        "lon": -0.3983685,
+        "link": "https://info64.org/iii-torneo-internacional-el-campello"
     },
     {
         "origin": "info64",
@@ -409,6 +421,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Memorial Jose Angel de Jesus y Encinas",
+        "ciudad": "Talavera de la Reina",
+        "fechaini": "22-08-2026",
+        "fechafin": "22-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9522413,
+        "lon": -4.8901772,
+        "link": "https://info64.org/memorial-jose-angel-de-jesus-y-encinas"
+    },
+    {
+        "origin": "info64",
         "nombre": "VII Torneo de Ajedrez de Cardeñosa",
         "ciudad": "Cardeñosa",
         "fechaini": "22-08-2026",
@@ -478,18 +502,6 @@
         "lat": 39.9522413,
         "lon": -4.8901772,
         "link": "https://info64.org/ii-torneo-de-promocion-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Memorial Jose Angel de Jesus y Encinas",
-        "ciudad": "Talavera de la Reina",
-        "fechaini": "22-08-2026",
-        "fechafin": "22-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9522413,
-        "lon": -4.8901772,
-        "link": "https://info64.org/memorial-jose-angel-de-jesus-y-encinas"
     },
     {
         "origin": "info64",
@@ -1033,6 +1045,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "III TORNEO AJEDREZ VIRGEN DE LA VICTORIA",
+        "ciudad": "TRUJILLO - Cáceres",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4605657,
+        "lon": -5.8816626,
+        "link": "https://info64.org/iii-torneo-ajedrez-virgen-de-la-victoria"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXVII Torneo de Ajedrez Fiestas Santa Marta Astorga 2026",
         "ciudad": "Astorga, Pabellon de Rectivia",
         "fechaini": "29-08-2026",
@@ -1105,18 +1129,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III TORNEO AJEDREZ VIRGEN DE LA VICTORIA",
-        "ciudad": "TRUJILLO - Cáceres",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4605657,
-        "lon": -5.8816626,
-        "link": "https://info64.org/iii-torneo-ajedrez-virgen-de-la-victoria"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Torneo Vila de Celanova Sub-14",
         "ciudad": "Celanova",
         "fechaini": "29-08-2026",
@@ -1171,8 +1183,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
+        "lat": 43.5555299,
+        "lon": -5.9222186,
         "link": "https://info64.org/calledrez-2026"
     },
     {
@@ -1183,8 +1195,8 @@
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5554436,
-        "lon": -5.9222466,
+        "lat": 43.5555299,
+        "lon": -5.9222186,
         "link": "https://info64.org/calledrez-sub-14-2026"
     },
     {
