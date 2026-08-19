@@ -1,6 +1,54 @@
 [
     {
         "origin": "info64",
+        "nombre": "XVIII T. Villa Los Navalmorales S14",
+        "ciudad": "Los Navalmorales",
+        "fechaini": "19-08-2026",
+        "fechafin": "19-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.7243542,
+        "lon": -4.6405765,
+        "link": "https://info64.org/xviii-t-villa-los-navalmorales-s14"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XLIII Torneo Abierto Internacional de Ajedrez de Collado Villalba  (475611)",
+        "ciudad": "Collado Villalba",
+        "fechaini": "21-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6483467,
+        "lon": -3.9819765,
+        "link": "https://info64.org/xliii-torneo-abierto-internacional-de-ajedrez-de-collado-villalba"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Veran Xadrez Ortigueira",
+        "ciudad": "Ortigueira- A Coruña",
+        "fechaini": "30-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.6516865,
+        "lon": -7.8400525,
+        "link": "https://info64.org/i-torneo-veran-xadrez-ortigueira"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Preferia *La Espe* 2026 Lillo",
+        "ciudad": "Lillo",
+        "fechaini": "22-08-2026",
+        "fechafin": "22-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.7231443,
+        "lon": -3.304908,
+        "link": "https://info64.org/lillo2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 4: GUADIX",
         "ciudad": "Guadix",
         "fechaini": "23-08-2026",
@@ -10,6 +58,78 @@
         "lat": 37.3724432,
         "lon": -3.068928,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-4-guadix"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IX Aberto Concello de Carballo Clasico",
+        "ciudad": "Carballo - A Coruña",
+        "fechaini": "21-08-2026",
+        "fechafin": "27-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2086195,
+        "lon": -8.6668237,
+        "link": "https://info64.org/ix-aberto-concello-de-carballo-clasico"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XIX OPEN INTERNACIONAL POBLE DE MONTSERRAT 2026",
+        "ciudad": "Montserrat",
+        "fechaini": "24-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.3576494,
+        "lon": -0.6031,
+        "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III TORNEO AJEDREZ VIRGEN DE LA VICTORIA",
+        "ciudad": "TRUJILLO - Cáceres",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4605657,
+        "lon": -5.8816626,
+        "link": "https://info64.org/iii-torneo-ajedrez-virgen-de-la-victoria"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XVIII T. Villa Los Navalmorales",
+        "ciudad": "Los Navalmorales",
+        "fechaini": "19-08-2026",
+        "fechafin": "19-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.7243542,
+        "lon": -4.6405765,
+        "link": "https://info64.org/xviii-t-villa-los-navalmorales"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXIX T. Ferias Los Yebenes",
+        "ciudad": "Los Yebenes",
+        "fechaini": "30-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.5823444,
+        "lon": -3.8702361,
+        "link": "https://info64.org/xxxix-t-ferias-los-yebenes"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de Ajedrez Feria de Utrera 2026",
+        "ciudad": "UTRERA",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.1824646,
+        "lon": -5.7817506,
+        "link": "https://info64.org/torneo-de-ajedrez-feria-de-utrera-2026"
     },
     {
         "origin": "info64",
@@ -673,18 +793,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IX Aberto Concello de Carballo Clasico",
-        "ciudad": "Carballo - A Coruña",
-        "fechaini": "21-08-2026",
-        "fechafin": "27-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.2086195,
-        "lon": -8.6668237,
-        "link": "https://info64.org/ix-aberto-concello-de-carballo-clasico"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Torneo de Ajedrez Letrao Chess(III Circuito Diputación Pr. Badajoz)",
         "ciudad": "Villafranca B.",
         "fechaini": "03-09-2026",
@@ -721,18 +829,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XIX OPEN INTERNACIONAL POBLE DE MONTSERRAT 2026",
-        "ciudad": "Montserrat",
-        "fechaini": "24-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.3576494,
-        "lon": -0.6031,
-        "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Individual Absoluto, Castellon",
         "ciudad": "Castellon",
         "fechaini": "19-09-2026",
@@ -754,18 +850,6 @@
         "lat": 37.3715939,
         "lon": -6.07133,
         "link": "https://info64.org/torneo-b-5-open-internacional-sub1800-hotel-vertice-sevilla-bormujos"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Preferia *La Espe* 2026 Lillo",
-        "ciudad": "Lillo",
-        "fechaini": "22-08-2026",
-        "fechafin": "22-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.7231443,
-        "lon": -3.304908,
-        "link": "https://info64.org/lillo2026"
     },
     {
         "origin": "info64",
@@ -1249,18 +1333,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXXIX T. Ferias Los Yebenes",
-        "ciudad": "Los Yebenes",
-        "fechaini": "30-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5823444,
-        "lon": -3.8702361,
-        "link": "https://info64.org/xxxix-t-ferias-los-yebenes"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Individual Preferente, Basilio",
         "ciudad": "Valencia",
         "fechaini": "19-09-2026",
@@ -1333,18 +1405,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XLIII Torneo Abierto Internacional de Ajedrez de Collado Villalba  (475611)",
-        "ciudad": "Collado Villalba",
-        "fechaini": "21-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6483467,
-        "lon": -3.9819765,
-        "link": "https://info64.org/xliii-torneo-abierto-internacional-de-ajedrez-de-collado-villalba"
-    },
-    {
-        "origin": "info64",
         "nombre": "VII Torneo de Xadrez Val Miñor",
         "ciudad": "Nigrán",
         "fechaini": "05-09-2026",
@@ -1414,18 +1474,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/septiembre-2026-octava-casilla-academia-aldea-hortaleza"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XVIII T. Villa Los Navalmorales S14",
-        "ciudad": "Los Navalmorales",
-        "fechaini": "19-08-2026",
-        "fechafin": "19-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.7243542,
-        "lon": -4.6405765,
-        "link": "https://info64.org/xviii-t-villa-los-navalmorales-s14"
     },
     {
         "origin": "info64",
@@ -1534,18 +1582,6 @@
         "lat": 38.4136518,
         "lon": -0.444471,
         "link": "https://info64.org/i-blitz-internacional-moros-y-cristianos-de-mutxamel"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XVIII T. Villa Los Navalmorales",
-        "ciudad": "Los Navalmorales",
-        "fechaini": "19-08-2026",
-        "fechafin": "19-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.7243542,
-        "lon": -4.6405765,
-        "link": "https://info64.org/xviii-t-villa-los-navalmorales"
     },
     {
         "origin": "info64",
@@ -1846,18 +1882,6 @@
         "lat": 39.2181465,
         "lon": -3.6070212,
         "link": "https://info64.org/i-torneo-ciudad-de-villarrubia-de-los-ojos-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III TORNEO AJEDREZ VIRGEN DE LA VICTORIA",
-        "ciudad": "TRUJILLO - Cáceres",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4605657,
-        "lon": -5.8816626,
-        "link": "https://info64.org/iii-torneo-ajedrez-virgen-de-la-victoria"
     },
     {
         "origin": "info64",
@@ -2329,18 +2353,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo de Ajedrez Feria de Utrera 2026",
-        "ciudad": "UTRERA",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.1824646,
-        "lon": -5.7817506,
-        "link": "https://info64.org/torneo-de-ajedrez-feria-de-utrera-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Simultáneas con GM Ibarra",
         "ciudad": "Murcia",
         "fechaini": "28-08-2026",
@@ -2350,18 +2362,6 @@
         "lat": 37.9347521,
         "lon": -1.1131029,
         "link": "https://info64.org/simultaneas-con-gm-ibarra"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Veran Xadrez Ortigueira",
-        "ciudad": "Ortigueira- A Coruña",
-        "fechaini": "30-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.6516865,
-        "lon": -7.8400525,
-        "link": "https://info64.org/i-torneo-veran-xadrez-ortigueira"
     },
     {
         "origin": "info64",
