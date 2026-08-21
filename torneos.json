@@ -265,6 +265,30 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "III Torneo de Rápidas de Agosto La Zubia 2026",
+        "ciudad": "La Zubia",
+        "fechaini": "21-08-2026",
+        "fechafin": "21-08-2026",
+        "organizador": "C. A. Villa de La Zubia",
+        "ritmo": "5'+2''",
+        "lat": 37.1206862,
+        "lon": -3.5850833,
+        "link": "https://chess-results.com/tnr1480838.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Lliga Club d'Escacs Calp 2026",
+        "ciudad": "Calp",
+        "fechaini": "21-08-2026",
+        "fechafin": "21-08-2026",
+        "organizador": "Club d'Escacs Calp",
+        "ritmo": "5+3",
+        "lat": 38.6443252,
+        "lon": 0.046012,
+        "link": "https://chess-results.com/tnr1480847.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Open Ansite 2026 (Sub 2100)",
         "ciudad": "Club La Caja Vecindario - C/Famara, 76 - Vecindario (Gran Canaria)",
         "fechaini": "21-08-2026",
@@ -274,6 +298,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1475405.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "UDA OSTIRALAK 21-8-2026",
+        "ciudad": "DONOSTIA",
+        "fechaini": "21-08-2026",
+        "fechafin": "21-08-2026",
+        "organizador": "",
+        "ritmo": "",
+        "lat": 43.3224219,
+        "lon": -1.9838889,
+        "link": "https://chess-results.com/tnr1480786.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -454,6 +490,18 @@
         "lat": 36.8352646,
         "lon": -4.1935703,
         "link": "https://info64.org/iii-torneo-de-ajedrez-villa-de-benamargosa"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Ajedrez Pedrajas de San Esteban 2026",
+        "ciudad": "Pedrajas de San Esteban (Valladolid)",
+        "fechaini": "22-08-2026",
+        "fechafin": "22-08-2026",
+        "organizador": "Ayuntamiento de Pedrajas de San Esteban",
+        "ritmo": "10 Minutos",
+        "lat": 41.3419664,
+        "lon": -4.5807181,
+        "link": "https://chess-results.com/tnr1480792.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -744,6 +792,30 @@
         "link": "https://chess-results.com/tnr1467459.aspx?lan=2"
     },
     {
+        "origin": "chess-results",
+        "nombre": "XVII Torneo de Ajedrez Reina Juana I de Castilla 2",
+        "ciudad": "Tordesillas (Valladolid)",
+        "fechaini": "23-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "Club Ajedrez Reina Juana Tordesillas",
+        "ritmo": "10+2 segundos de incremento por jugada",
+        "lat": 41.500851,
+        "lon": -5.00053,
+        "link": "https://chess-results.com/tnr1480805.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XVII Torneo de Ajedrez Reina Juana I de Castilla 2",
+        "ciudad": "Tordesillas (Valladolid)",
+        "fechaini": "23-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "Club Ajedrez Reina Juana Tordesillas",
+        "ritmo": "10+2 segundos de incremento por jugada",
+        "lat": 41.500851,
+        "lon": -5.00053,
+        "link": "https://chess-results.com/tnr1480812.aspx?lan=2"
+    },
+    {
         "origin": "info64",
         "nombre": "XIX OPEN INTERNACIONAL POBLE DE MONTSERRAT 2026",
         "ciudad": "Montserrat",
@@ -1027,8 +1099,8 @@
         "fechafin": "27-08-2026",
         "organizador": "Baena Deporte - Ayuntamiento de Baena",
         "ritmo": "5+3",
-        "lat": 37.6146296,
-        "lon": -4.3263272,
+        "lat": 37.614452,
+        "lon": -4.3258292,
         "link": "https://chess-results.com/tnr1472735.aspx?lan=2"
     },
     {
@@ -4325,7 +4397,7 @@
         "ciudad": "Calvià (Mallorca)",
         "fechaini": "10-10-2026",
         "fechafin": "18-10-2026",
-        "organizador": "Sergio Estremera Paños",
+        "organizador": "IO Sergio Estremera Paños",
         "ritmo": "90mn 40 jugadas + 15min + 30seg desde la jugada 1",
         "lat": 39.5021057,
         "lon": 2.5332835,
