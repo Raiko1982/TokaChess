@@ -1,6 +1,102 @@
 [
     {
         "origin": "info64",
+        "nombre": "Simultáneas con GM Ibarra",
+        "ciudad": "Murcia",
+        "fechaini": "28-08-2026",
+        "fechafin": "28-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.9347521,
+        "lon": -1.1131029,
+        "link": "https://info64.org/simultaneas-con-gm-ibarra"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de ajedrez SAN JUAN DE LOS TERREROS 2026",
+        "ciudad": "San Juan de los Terreros,Pulpí",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3608107,
+        "lon": -1.6636704,
+        "link": "https://info64.org/torneo-de-ajedrez-san-juan-de-los-terreros-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Internaciona Ciudad de Santurtzi",
+        "ciudad": "Santurtzi",
+        "fechaini": "19-09-2026",
+        "fechafin": "19-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3287527,
+        "lon": -3.0318766,
+        "link": "https://info64.org/ii-open-internaciona-ciudad-de-santurtzi"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XIX OPEN INTERNACIONAL POBLE DE MONTSERRAT 2026",
+        "ciudad": "Montserrat",
+        "fechaini": "24-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.3576494,
+        "lon": -0.6031,
+        "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 4: GUADIX",
+        "ciudad": "Guadix",
+        "fechaini": "23-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3724432,
+        "lon": -3.068928,
+        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-4-guadix"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo Internacional Alfafar 2026 Miguel Martinez",
+        "ciudad": "Alfafar",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4200749,
+        "lon": -0.3891355,
+        "link": "https://info64.org/iv-torneo-internacional-alfafar-2026-miguel-martinez"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV INTERNACIONAL CHESS OPEN HOTEL CAP NEGRET 65",
+        "ciudad": "Altea SPAIN",
+        "fechaini": "07-11-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iv-internacional-chess-open-hotel-cap-negret-65"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Campo de Montiel",
+        "ciudad": "Cózar",
+        "fechaini": "23-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.6608157,
+        "lon": -3.0735807,
+        "link": "https://info64.org/i-torneo-campo-de-montiel"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXVII Torneo de Ajedrez Fiestas Santa Marta Astorga 2026",
         "ciudad": "Astorga, Pabellon de Rectivia",
         "fechaini": "29-08-2026",
@@ -313,18 +409,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 4: GUADIX",
-        "ciudad": "Guadix",
-        "fechaini": "23-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3724432,
-        "lon": -3.068928,
-        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-4-guadix"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
         "ciudad": "Benidorm",
         "fechaini": "28-11-2026",
@@ -502,18 +586,6 @@
         "lat": 38.0899985,
         "lon": -0.65381,
         "link": "https://info64.org/iv-festival-internacional-esphouses-irt-2400"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIX OPEN INTERNACIONAL POBLE DE MONTSERRAT 2026",
-        "ciudad": "Montserrat",
-        "fechaini": "24-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.3576494,
-        "lon": -0.6031,
-        "link": "https://info64.org/xix-open-internacional-poble-de-montserrat-2026"
     },
     {
         "origin": "info64",
@@ -766,18 +838,6 @@
         "lat": 38.7594573,
         "lon": -3.3847392,
         "link": "https://info64.org/i-torneo-social-los-molinos-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Campo de Montiel",
-        "ciudad": "Cózar",
-        "fechaini": "23-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.6608157,
-        "lon": -3.0735807,
-        "link": "https://info64.org/i-torneo-campo-de-montiel"
     },
     {
         "origin": "info64",
@@ -1117,30 +1177,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV INTERNACIONAL CHESS OPEN HOTEL CAP NEGRET 65",
-        "ciudad": "Altea SPAIN",
-        "fechaini": "07-11-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-internacional-chess-open-hotel-cap-negret-65"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo Internacional Alfafar 2026 Miguel Martinez",
-        "ciudad": "Alfafar",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4200749,
-        "lon": -0.3891355,
-        "link": "https://info64.org/iv-torneo-internacional-alfafar-2026-miguel-martinez"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Blitz Internacional de Aranjuez",
         "ciudad": "Aranjuez",
         "fechaini": "25-10-2026",
@@ -1150,18 +1186,6 @@
         "lat": 40.0322289,
         "lon": -3.6040097,
         "link": "https://info64.org/torneo-blitz-internacional-de-aranjuez"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo de ajedrez SAN JUAN DE LOS TERREROS 2026",
-        "ciudad": "San Juan de los Terreros,Pulpí",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3608107,
-        "lon": -1.6636704,
-        "link": "https://info64.org/torneo-de-ajedrez-san-juan-de-los-terreros-2026"
     },
     {
         "origin": "info64",
@@ -1207,8 +1231,8 @@
         "fechafin": "30-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.9174665,
-        "lon": -6.3443977,
+        "lat": 38.9543062,
+        "lon": -6.3504832,
         "link": "https://info64.org/vii-torneo-de-ajedrez-para-aficionados-lavadero-de-lanas"
     },
     {
@@ -1333,18 +1357,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Simultáneas con GM Ibarra",
-        "ciudad": "Murcia",
-        "fechaini": "28-08-2026",
-        "fechafin": "28-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.9347521,
-        "lon": -1.1131029,
-        "link": "https://info64.org/simultaneas-con-gm-ibarra"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Memorial Emilio Sánchez Jerez",
         "ciudad": "Beniaján",
         "fechaini": "29-08-2026",
@@ -1402,18 +1414,6 @@
         "lat": 42.5947625,
         "lon": -8.7669178,
         "link": "https://info64.org/v-nocturno-centro-comercial-arousa"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open Internaciona Ciudad de Santurtzi",
-        "ciudad": "Santurtzi",
-        "fechaini": "19-09-2026",
-        "fechafin": "19-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3287527,
-        "lon": -3.0318766,
-        "link": "https://info64.org/ii-open-internaciona-ciudad-de-santurtzi"
     },
     {
         "origin": "info64",
@@ -1522,18 +1522,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/septiembre-2026-octava-casilla-academia-aldea-hortaleza"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo de Verano 2026",
-        "ciudad": "Burlada",
-        "fechaini": "21-08-2026",
-        "fechafin": "21-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8230299,
-        "lon": -1.614076,
-        "link": "https://info64.org/iii-torneo-de-verano-2026"
     },
     {
         "origin": "info64",
