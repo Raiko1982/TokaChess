@@ -145,18 +145,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Torneo Ajedrez Porcuna",
-        "ciudad": "Porcuna",
-        "fechaini": "20-08-2026",
-        "fechafin": "20-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8710423,
-        "lon": -4.1842853,
-        "link": "https://info64.org/ii-torneo-ajedrez-porcuna"
-    },
-    {
-        "origin": "info64",
         "nombre": "II IRT Sub-2200 Club Doble Dama",
         "ciudad": "Sant Joanet",
         "fechaini": "20-08-2026",
@@ -181,15 +169,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "IX Aberto Concello de Carballo Clasico",
-        "ciudad": "Carballo - A Coruña",
+        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
+        "ciudad": "Zaragoza",
         "fechaini": "21-08-2026",
-        "fechafin": "27-08-2026",
+        "fechafin": "23-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.2086195,
-        "lon": -8.6668237,
-        "link": "https://info64.org/ix-aberto-concello-de-carballo-clasico"
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
     },
     {
         "origin": "info64",
@@ -202,6 +190,18 @@
         "lat": 37.3715939,
         "lon": -6.07133,
         "link": "https://info64.org/torneo-a-8-open-internacional-sub2200-hotel-vertice-sevilla-bormujos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IX Aberto Concello de Carballo Clasico",
+        "ciudad": "Carballo - A Coruña",
+        "fechaini": "21-08-2026",
+        "fechafin": "27-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2086195,
+        "lon": -8.6668237,
+        "link": "https://info64.org/ix-aberto-concello-de-carballo-clasico"
     },
     {
         "origin": "info64",
@@ -238,18 +238,6 @@
         "lat": 42.8230299,
         "lon": -1.614076,
         "link": "https://info64.org/iii-torneo-de-verano-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Internacional de Ajedrez Nubiaegip",
-        "ciudad": "Zaragoza",
-        "fechaini": "21-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
-        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-nubiaegip"
     },
     {
         "origin": "chess-results",
@@ -337,6 +325,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXVIII Torneo Verano Cuidad de Briviesca Absoluto",
+        "ciudad": "Briviesca",
+        "fechaini": "22-08-2026",
+        "fechafin": "22-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5550091,
+        "lon": -3.3015416,
+        "link": "https://info64.org/xxviii-torneo-verano-cuidad-de-briviesca-absoluto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VII Torneo de Ajedrez de Cardeñosa",
+        "ciudad": "Cardeñosa",
+        "fechaini": "22-08-2026",
+        "fechafin": "22-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7440033,
+        "lon": -4.7449591,
+        "link": "https://info64.org/vii-torneo-de-ajedrez-de-cardenosa"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXVIII Torneo Verano Cuidad de Briviesca Infantil",
+        "ciudad": "Briviesca",
+        "fechaini": "22-08-2026",
+        "fechafin": "22-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5550091,
+        "lon": -3.3015416,
+        "link": "https://info64.org/xxviii-torneo-verano-cuidad-de-briviesca-infantil"
+    },
+    {
+        "origin": "info64",
         "nombre": "IX Campeonato Ajedrez Blitz Equipos CLM 2026",
         "ciudad": "Tomelloso",
         "fechaini": "22-08-2026",
@@ -373,30 +397,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXVIII Torneo Verano Cuidad de Briviesca Infantil",
-        "ciudad": "Briviesca",
-        "fechaini": "22-08-2026",
-        "fechafin": "22-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5550091,
-        "lon": -3.3015416,
-        "link": "https://info64.org/xxviii-torneo-verano-cuidad-de-briviesca-infantil"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXVIII Torneo Verano Cuidad de Briviesca Absoluto",
-        "ciudad": "Briviesca",
-        "fechaini": "22-08-2026",
-        "fechafin": "22-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5550091,
-        "lon": -3.3015416,
-        "link": "https://info64.org/xxviii-torneo-verano-cuidad-de-briviesca-absoluto"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Torneo Preferia *La Espe* 2026 Lillo",
         "ciudad": "Lillo",
         "fechaini": "22-08-2026",
@@ -418,18 +418,6 @@
         "lat": 36.277054,
         "lon": -6.0881874,
         "link": "https://info64.org/iv-open-internacional-de-conil"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VII Torneo de Ajedrez de Cardeñosa",
-        "ciudad": "Cardeñosa",
-        "fechaini": "22-08-2026",
-        "fechafin": "22-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7440033,
-        "lon": -4.7449591,
-        "link": "https://info64.org/vii-torneo-de-ajedrez-de-cardenosa"
     },
     {
         "origin": "info64",
@@ -589,6 +577,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "DATo Villaluenga Sub12",
+        "ciudad": "Villaluenga",
+        "fechaini": "23-08-2026",
+        "fechafin": "23-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0271087,
+        "lon": -3.9115161,
+        "link": "https://info64.org/dato-villaluenga-sub12"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 4: GUADIX",
         "ciudad": "Guadix",
         "fechaini": "23-08-2026",
@@ -682,18 +682,6 @@
         "lat": 39.0405325,
         "lon": -1.7027629,
         "link": "https://info64.org/torneo-verano-cultural-la-felipa-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "DATo Villaluenga Sub12",
-        "ciudad": "Villaluenga",
-        "fechaini": "23-08-2026",
-        "fechafin": "23-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0271087,
-        "lon": -3.9115161,
-        "link": "https://info64.org/dato-villaluenga-sub12"
     },
     {
         "origin": "info64",
@@ -1249,15 +1237,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "XII Calledrez Junior 2026",
-        "ciudad": "Aviles",
+        "nombre": "XXVII Torneo de Ajedrez Fiestas Santa Marta Astorga 2026",
+        "ciudad": "Astorga, Pabellon de Rectivia",
         "fechaini": "29-08-2026",
         "fechafin": "29-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.5555299,
-        "lon": -5.9222186,
-        "link": "https://info64.org/xii-calledrez-junior-2026"
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/xxvii-torneo-de-ajedrez-fiestas-santa-marta-astorga-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Vila de Celanova Sub-08",
+        "ciudad": "Celanova",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1664426,
+        "lon": -7.9611378,
+        "link": "https://info64.org/i-torneo-vila-de-celanova-sub-08"
     },
     {
         "origin": "info64",
@@ -1270,6 +1270,18 @@
         "lat": 43.5555299,
         "lon": -5.9222186,
         "link": "https://info64.org/xviii-calledrez-san-agustin-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Calledrez Junior 2026",
+        "ciudad": "Aviles",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5555299,
+        "lon": -5.9222186,
+        "link": "https://info64.org/xii-calledrez-junior-2026"
     },
     {
         "origin": "info64",
@@ -1321,18 +1333,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXVII Torneo de Ajedrez Fiestas Santa Marta Astorga 2026",
-        "ciudad": "Astorga, Pabellon de Rectivia",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xxvii-torneo-de-ajedrez-fiestas-santa-marta-astorga-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Torneo Vila de Celanova Sub-14",
         "ciudad": "Celanova",
         "fechaini": "29-08-2026",
@@ -1378,18 +1378,6 @@
         "lat": 42.1664426,
         "lon": -7.9611378,
         "link": "https://info64.org/i-torneo-vila-de-celanova-sub-10"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Vila de Celanova Sub-08",
-        "ciudad": "Celanova",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1664426,
-        "lon": -7.9611378,
-        "link": "https://info64.org/i-torneo-vila-de-celanova-sub-08"
     },
     {
         "origin": "info64",
@@ -1621,15 +1609,39 @@
     },
     {
         "origin": "info64",
-        "nombre": "XI Open Caballo de Plata",
-        "ciudad": "Motril",
+        "nombre": "V TORNEIG D’ESCACS CASTELL DE CORBERA 2026",
+        "ciudad": "Corbera",
         "fechaini": "30-08-2026",
         "fechafin": "30-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7450888,
-        "lon": -3.5207655,
-        "link": "https://info64.org/xi-open-caballo-de-plata"
+        "lat": 39.1580768,
+        "lon": -0.3540631,
+        "link": "https://info64.org/v-torneig-descacs-castell-de-corbera-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXX Torneo de Fiestas 2026 San Sebastian De Los Reyes",
+        "ciudad": "San Sebastian de los Reyes",
+        "fechaini": "30-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5473698,
+        "lon": -3.6260586,
+        "link": "https://info64.org/xxx-torneo-de-fiestas-2026-san-sebastian-de-los-reyes"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Torneo Internacional de Ajedrez Ciudad de Bejar",
+        "ciudad": "Bejar",
+        "fechaini": "30-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.3865812,
+        "lon": -5.7649619,
+        "link": "https://info64.org/vi-torneo-internacional-de-ajedrez-ciudad-de-bejar"
     },
     {
         "origin": "info64",
@@ -1645,6 +1657,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XI Open Caballo de Plata",
+        "ciudad": "Motril",
+        "fechaini": "30-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7450888,
+        "lon": -3.5207655,
+        "link": "https://info64.org/xi-open-caballo-de-plata"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXXIX T. Ferias Los Yebenes",
         "ciudad": "Los Yebenes",
         "fechaini": "30-08-2026",
@@ -1654,18 +1678,6 @@
         "lat": 39.5823444,
         "lon": -3.8702361,
         "link": "https://info64.org/xxxix-t-ferias-los-yebenes"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Torneo Internacional de Ajedrez Ciudad de Bejar",
-        "ciudad": "Bejar",
-        "fechaini": "30-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.3865812,
-        "lon": -5.7649619,
-        "link": "https://info64.org/vi-torneo-internacional-de-ajedrez-ciudad-de-bejar"
     },
     {
         "origin": "info64",
@@ -1750,18 +1762,6 @@
         "lat": 43.6516865,
         "lon": -7.8400525,
         "link": "https://info64.org/i-torneo-veran-xadrez-ortigueira"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXX Torneo de Fiestas 2026 San Sebastian De Los Reyes",
-        "ciudad": "San Sebastian de los Reyes",
-        "fechaini": "30-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5473698,
-        "lon": -3.6260586,
-        "link": "https://info64.org/xxx-torneo-de-fiestas-2026-san-sebastian-de-los-reyes"
     },
     {
         "origin": "info64",
@@ -4093,6 +4093,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "V Aberto de Outono de Ourense de Xadrez Activo",
+        "ciudad": "Ourense",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1939629,
+        "lon": -7.537124,
+        "link": "https://info64.org/v-aberto-de-outono-de-ourense-de-xadrez-activo"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Torneo Social Los Molinos 2026",
         "ciudad": "Valdepeñas",
         "fechaini": "03-10-2026",
@@ -4150,18 +4162,6 @@
         "lat": 42.8230299,
         "lon": -1.614076,
         "link": "https://info64.org/ii-torneo-de-blitz-mikel-gurea-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Aberto de Outono de Ourense de Xadrez Activo",
-        "ciudad": "Ourense",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/v-aberto-de-outono-de-ourense-de-xadrez-activo"
     },
     {
         "origin": "chess-results",
