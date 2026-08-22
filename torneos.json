@@ -505,7 +505,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Torneo Ferica Cancelada",
+        "nombre": "Torneo Feria Cancelada",
         "ciudad": "TENENCIA ALCALDÍA DE CANCELADA JUNTO A OFICINA DE CORREOS",
         "fechaini": "22-08-2026",
         "fechafin": "22-08-2026",
@@ -685,7 +685,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "XII Torneo de Ajedrez de Tardienta 2026",
+        "nombre": "XII Torneo de Ajedrez de Tardienta 2026Cambio de S",
         "ciudad": "Tardienta",
         "fechaini": "23-08-2026",
         "fechafin": "23-08-2026",
@@ -1015,8 +1015,8 @@
         "fechafin": "27-08-2026",
         "organizador": "Baena Deporte - Ayuntamiento de Baena",
         "ritmo": "5+3",
-        "lat": 37.614452,
-        "lon": -4.3258292,
+        "lat": 37.6146069,
+        "lon": -4.3256643,
         "link": "https://chess-results.com/tnr1472735.aspx?lan=2"
     },
     {
@@ -1138,6 +1138,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1422827.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "IV Open de Ajedrez Ciudad de Punta Umbria",
+        "ciudad": "",
+        "fechaini": "28-08-2026",
+        "fechafin": "28-08-2026",
+        "organizador": "",
+        "ritmo": "8+3",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1481552.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2293,6 +2305,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "II TORNEO DE AJEDREZ DE FIESTAS DEL ZAIDÍN",
+        "ciudad": "Centro Cívico Zaidín (entrada por C/ Pintor Manuel Maldonado)",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "AVV Zaidín - Club de Ajedrez Villa de La Zubia - Ayto. Granada",
+        "ritmo": "8'+3\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1481441.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "IV TORNEO INTERNACIONAL DE AJEDREZ ALFAFAR 2026- M",
         "ciudad": "Calle Manuel Baixauli Andrés, S/N, 46910, Alfafar (Valencia)",
         "fechaini": "05-09-2026",
@@ -2601,18 +2625,6 @@
         "ritmo": "12+3",
         "lat": 42.1733145,
         "lon": -2.5442953,
-        "link": "https://chess-results.com/tnr1477437.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "XIV TORNERO CIUDAD DE PEÑARROYA - PUEBLONUEVO 06/0",
-        "ciudad": "PISCINA MUNICIPAL",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "F. J DE LOS RIOS",
-        "ritmo": "12+3",
-        "lat": 42.1733145,
-        "lon": -2.5442953,
         "link": "https://chess-results.com/tnr1476262.aspx?lan=2"
     },
     {
@@ -2638,6 +2650,18 @@
         "lat": 42.1733145,
         "lon": -2.5442953,
         "link": "https://chess-results.com/tnr1476610.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XIV TORNERO CIUDAD DE PEÑARROYA - PUEBLONUEVO 06/0",
+        "ciudad": "PISCINA MUNICIPAL",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "F. J DE LOS RIOS",
+        "ritmo": "12+3",
+        "lat": 42.1733145,
+        "lon": -2.5442953,
+        "link": "https://chess-results.com/tnr1477437.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -5257,19 +5281,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "VI Bambuchess Chess Festival – Masters",
-        "ciudad": "Villablanca (Huelva)",
-        "fechaini": "26-12-2026",
-        "fechafin": "30-12-2026",
-        "organizador": "Samuel Lares, Jairo 32047100",
-        "ritmo": "90'+30\"",
-        "lat": 37.3028005,
-        "lon": -7.3423138,
-        "link": "https://chess-results.com/tnr1458042.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "VI Bambuchess Chess Festival – Masters B",
+        "nombre": "VI Bambuchess Chess Festival – Masters B IM NORM",
         "ciudad": "Villablanca (Huelva)",
         "fechaini": "26-12-2026",
         "fechafin": "30-12-2026",
@@ -5278,6 +5290,18 @@
         "lat": 37.3028005,
         "lon": -7.3423138,
         "link": "https://chess-results.com/tnr1458044.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "VI Bambuchess Chess Festival – Masters IM NORM",
+        "ciudad": "Villablanca (Huelva)",
+        "fechaini": "26-12-2026",
+        "fechafin": "30-12-2026",
+        "organizador": "Samuel Lares, Jairo 32047100",
+        "ritmo": "90'+30\"",
+        "lat": 37.3028005,
+        "lon": -7.3423138,
+        "link": "https://chess-results.com/tnr1458042.aspx?lan=2"
     },
     {
         "origin": "chess-results",
