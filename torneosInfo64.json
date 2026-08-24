@@ -1,6 +1,174 @@
 [
     {
         "origin": "info64",
+        "nombre": "I OPEN SUB 2200 FIDE EL COLORADO",
+        "ciudad": "El Colorado",
+        "fechaini": "28-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.848579,
+        "lon": -5.0380606,
+        "link": "https://info64.org/i-open-sub-2200-fide-el-colorado"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XI Open Caballo de Plata",
+        "ciudad": "Motril",
+        "fechaini": "30-08-2026",
+        "fechafin": "30-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7450888,
+        "lon": -3.5207655,
+        "link": "https://info64.org/xi-open-caballo-de-plata"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIV Torneo de Fiestas 2026 Villatobas",
+        "ciudad": "Villatobas",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9018494,
+        "lon": -3.3239156,
+        "link": "https://info64.org/xxiv-torneo-de-fiestas-2026-villatobas"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXVII Torneo Pueblo Nuevo  Martes y Jueves",
+        "ciudad": "Calle Alava, 14. Madrid",
+        "fechaini": "15-09-2026",
+        "fechafin": "08-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4201061,
+        "lon": -3.5265901,
+        "link": "https://info64.org/xxvii-torneo-pueblo-nuevo-martes-y-jueves"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXVII Torneo de Ajedrez Diputacion de Caceres",
+        "ciudad": "Jarandilla de la Vera",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.1282875,
+        "lon": -5.6587,
+        "link": "https://info64.org/xxxvii-torneo-de-ajedrez-diputacion-de-caceres"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura de Ajedrez Relampago Individual",
+        "ciudad": "Jarandilla de la Vera",
+        "fechaini": "04-09-2026",
+        "fechafin": "04-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.1282875,
+        "lon": -5.6587,
+        "link": "https://info64.org/campeonato-de-extremadura-de-ajedrez-relampago-individual"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Extremadura de Ajedrez Rapid Individual",
+        "ciudad": "Jarandilla de la Vera",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.1282875,
+        "lon": -5.6587,
+        "link": "https://info64.org/campeonato-de-extremadura-de-ajedrez-rapid-individual"
+    },
+    {
+        "origin": "info64",
+        "nombre": "RAPID FIDE - Ibiza Travel 2026",
+        "ciudad": "Sant Antoni de Portmany",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9830568,
+        "lon": 1.3009485,
+        "link": "https://info64.org/rapid-fide-ibiza-travel-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "BLITZ FIDE - Ibiza Travel 2026",
+        "ciudad": "Sant Antoni de Portmany",
+        "fechaini": "02-10-2026",
+        "fechafin": "02-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9830568,
+        "lon": 1.3009485,
+        "link": "https://info64.org/blitz-fide-ibiza-travel-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIX Open Internacional Ajedrez Moratalaz",
+        "ciudad": "Madrid",
+        "fechaini": "05-09-2026",
+        "fechafin": "13-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/xxix-open-internacional-ajedrez-moratalaz"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Amateur - Ibiza Travel 2026",
+        "ciudad": "Sant Antoni de Portmany",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9830568,
+        "lon": 1.3009485,
+        "link": "https://info64.org/amateur-ibiza-travel-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Ciudad de Villarrubia de los Ojos",
+        "ciudad": "Villarrubia de los Ojos",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2181465,
+        "lon": -3.6070212,
+        "link": "https://info64.org/i-torneo-ciudad-de-villarrubia-de-los-ojos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III TORNEO AJEDREZ VIRGEN DE LA VICTORIA",
+        "ciudad": "TRUJILLO - Cáceres",
+        "fechaini": "29-08-2026",
+        "fechafin": "29-08-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4605657,
+        "lon": -5.8816626,
+        "link": "https://info64.org/iii-torneo-ajedrez-virgen-de-la-victoria"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXI Trofeo IberCaja - Ciudad de Zaragoza",
+        "ciudad": "E.M. El Olivar - Zaragoza",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
+    },
+    {
+        "origin": "info64",
         "nombre": "VII Torneo de Xadrez Val Miñor",
         "ciudad": "Nigrán",
         "fechaini": "05-09-2026",
@@ -373,18 +541,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III TORNEO AJEDREZ VIRGEN DE LA VICTORIA",
-        "ciudad": "TRUJILLO - Cáceres",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4605657,
-        "lon": -5.8816626,
-        "link": "https://info64.org/iii-torneo-ajedrez-virgen-de-la-victoria"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXI OPEN BASILIO VELA 2026",
         "ciudad": "ESTACIÓN LINARES BAEZA",
         "fechaini": "06-09-2026",
@@ -403,8 +559,8 @@
         "fechafin": "30-08-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.9543062,
-        "lon": -6.3504832,
+        "lat": 38.9174665,
+        "lon": -6.3443977,
         "link": "https://info64.org/vii-torneo-de-ajedrez-para-aficionados-lavadero-de-lanas"
     },
     {
@@ -430,18 +586,6 @@
         "lat": 42.1068416,
         "lon": -8.5620619,
         "link": "https://info64.org/iv-torneo-veran-absoluto-salceda"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I OPEN SUB 2200 FIDE EL COLORADO",
-        "ciudad": "El Colorado",
-        "fechaini": "28-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.848579,
-        "lon": -5.0380606,
-        "link": "https://info64.org/i-open-sub-2200-fide-el-colorado"
     },
     {
         "origin": "info64",
@@ -649,18 +793,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXVII Torneo Pueblo Nuevo  Martes y Jueves",
-        "ciudad": "Calle Alava, 14. Madrid",
-        "fechaini": "15-09-2026",
-        "fechafin": "08-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4201061,
-        "lon": -3.5265901,
-        "link": "https://info64.org/xxvii-torneo-pueblo-nuevo-martes-y-jueves"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Blitz Internacional de Aranjuez",
         "ciudad": "Aranjuez",
         "fechaini": "25-10-2026",
@@ -718,6 +850,18 @@
         "lat": 38.0816732,
         "lon": -1.0588684,
         "link": "https://info64.org/vi-memoral-dr-jose-aguilera"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CECLUB PRIMERA DIVISION 2026",
+        "ciudad": "Linares",
+        "fechaini": "27-08-2026",
+        "fechafin": "02-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.087695,
+        "lon": -3.6401793,
+        "link": "https://info64.org/team/ceclub-primera-division-2026"
     },
     {
         "origin": "info64",
@@ -877,18 +1021,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo Ciudad de Villarrubia de los Ojos",
-        "ciudad": "Villarrubia de los Ojos",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2181465,
-        "lon": -3.6070212,
-        "link": "https://info64.org/i-torneo-ciudad-de-villarrubia-de-los-ojos"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Individual Preferente, Alicante",
         "ciudad": "Alicante",
         "fechaini": "19-09-2026",
@@ -958,18 +1090,6 @@
         "lat": 43.6516865,
         "lon": -7.8400525,
         "link": "https://info64.org/i-torneo-veran-xadrez-ortigueira"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIV Torneo de Fiestas 2026 Villatobas",
-        "ciudad": "Villatobas",
-        "fechaini": "29-08-2026",
-        "fechafin": "29-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9018494,
-        "lon": -3.3239156,
-        "link": "https://info64.org/xxiv-torneo-de-fiestas-2026-villatobas"
     },
     {
         "origin": "info64",
@@ -1597,18 +1717,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XI Open Caballo de Plata",
-        "ciudad": "Motril",
-        "fechaini": "30-08-2026",
-        "fechafin": "30-08-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7450888,
-        "lon": -3.5207655,
-        "link": "https://info64.org/xi-open-caballo-de-plata"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Open Yebel",
         "ciudad": "Los Yebenes",
         "fechaini": "02-10-2026",
@@ -1777,78 +1885,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXXVII Torneo de Ajedrez Diputacion de Caceres",
-        "ciudad": "Jarandilla de la Vera",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.1282875,
-        "lon": -5.6587,
-        "link": "https://info64.org/xxxvii-torneo-de-ajedrez-diputacion-de-caceres"
-    },
-    {
-        "origin": "info64",
-        "nombre": "RAPID FIDE - Ibiza Travel 2026",
-        "ciudad": "Sant Antoni de Portmany",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9830568,
-        "lon": 1.3009485,
-        "link": "https://info64.org/rapid-fide-ibiza-travel-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Extremadura de Ajedrez Rapid Individual",
-        "ciudad": "Jarandilla de la Vera",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.1282875,
-        "lon": -5.6587,
-        "link": "https://info64.org/campeonato-de-extremadura-de-ajedrez-rapid-individual"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Extremadura de Ajedrez Relampago Individual",
-        "ciudad": "Jarandilla de la Vera",
-        "fechaini": "04-09-2026",
-        "fechafin": "04-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.1282875,
-        "lon": -5.6587,
-        "link": "https://info64.org/campeonato-de-extremadura-de-ajedrez-relampago-individual"
-    },
-    {
-        "origin": "info64",
-        "nombre": "BLITZ FIDE - Ibiza Travel 2026",
-        "ciudad": "Sant Antoni de Portmany",
-        "fechaini": "02-10-2026",
-        "fechafin": "02-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9830568,
-        "lon": 1.3009485,
-        "link": "https://info64.org/blitz-fide-ibiza-travel-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Amateur - Ibiza Travel 2026",
-        "ciudad": "Sant Antoni de Portmany",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9830568,
-        "lon": 1.3009485,
-        "link": "https://info64.org/amateur-ibiza-travel-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Torneo Internacional Concello de Oroso",
         "ciudad": "Oroso- A Coruña",
         "fechaini": "06-09-2026",
@@ -2014,18 +2050,6 @@
         "lat": 40.481954,
         "lon": -3.363981,
         "link": "https://info64.org/ferias-y-fiestas-de-alcala-de-henares-2026-sub14"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXI Trofeo IberCaja - Ciudad de Zaragoza",
-        "ciudad": "E.M. El Olivar - Zaragoza",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
     },
     {
         "origin": "info64",
@@ -2362,18 +2386,6 @@
         "lat": 39.1209651,
         "lon": -0.4472814,
         "link": "https://info64.org/ii-torneig-descacs-sub-16-motilla-bressol-de-la-taronja"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIX Open Internacional Ajedrez Moratalaz",
-        "ciudad": "Madrid",
-        "fechaini": "05-09-2026",
-        "fechafin": "13-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/xxix-open-internacional-ajedrez-moratalaz"
     },
     {
         "origin": "info64",
