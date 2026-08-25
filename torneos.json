@@ -216,54 +216,6 @@
         "link": "https://info64.org/copa-gonzalez-march-2026-sub14"
     },
     {
-        "origin": "chess-results",
-        "nombre": "Aste Nagusia 2026-Zona Albia",
-        "ciudad": "",
-        "fechaini": "24-08-2026",
-        "fechafin": "24-08-2026",
-        "organizador": "Juanan Galan",
-        "ritmo": "3+2",
-        "lat": 39.3260685,
-        "lon": -4.8379791,
-        "link": "https://chess-results.com/tnr1479301.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Sant Lluis 2026 - Absolut",
-        "ciudad": "Sant Lluis",
-        "fechaini": "24-08-2026",
-        "fechafin": "24-08-2026",
-        "organizador": "Delegació Menorca Federació Balear d'Escacs - CCE Sant Lluis",
-        "ritmo": "4'+2\" blitz",
-        "lat": 39.8491294,
-        "lon": 4.2579831,
-        "link": "https://chess-results.com/tnr1455278.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Sant Lluis 2026 - Escolar",
-        "ciudad": "Sant Lluis",
-        "fechaini": "24-08-2026",
-        "fechafin": "24-08-2026",
-        "organizador": "Delegació Menorca Federació Balear d'Escacs - CCE Sant Lluis",
-        "ritmo": "4'+2\" blitz",
-        "lat": 39.8491294,
-        "lon": 4.2579831,
-        "link": "https://chess-results.com/tnr1455457.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "TORNEO PACHANGA BERAUN BERA 24/08/2026",
-        "ciudad": "",
-        "fechaini": "24-08-2026",
-        "fechafin": "24-08-2026",
-        "organizador": "Beraun Bera Xake Elkartea",
-        "ritmo": "3+2",
-        "lat": 39.3260685,
-        "lon": -4.8379791,
-        "link": "https://chess-results.com/tnr1482715.aspx?lan=2"
-    },
-    {
         "origin": "info64",
         "nombre": "V TORNEO INTERNACIONAL MOROS Y CRISTIANOS DE MUTXAMEL",
         "ciudad": "MUTXAMEL",
@@ -499,8 +451,8 @@
         "fechafin": "27-08-2026",
         "organizador": "Baena Deporte - Ayuntamiento de Baena",
         "ritmo": "5+3",
-        "lat": 37.6146069,
-        "lon": -4.3256643,
+        "lat": 37.614452,
+        "lon": -4.3258292,
         "link": "https://chess-results.com/tnr1472735.aspx?lan=2"
     },
     {
@@ -2177,6 +2129,18 @@
         "ciudad": "PISCINA MUNICIPAL",
         "fechaini": "06-09-2026",
         "fechafin": "06-09-2026",
+        "organizador": "F. J DE LOS RIOS",
+        "ritmo": "12+3",
+        "lat": 42.1733145,
+        "lon": -2.5442953,
+        "link": "https://chess-results.com/tnr1477437.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XIV TORNERO CIUDAD DE PEÑARROYA - PUEBLONUEVO 06/0",
+        "ciudad": "PISCINA MUNICIPAL",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
         "organizador": "F. J DE LOS RIOS LOPEZ",
         "ritmo": "12+3",
         "lat": 42.1733145,
@@ -2194,18 +2158,6 @@
         "lat": 42.1733145,
         "lon": -2.5442953,
         "link": "https://chess-results.com/tnr1479348.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "XIV TORNERO CIUDAD DE PEÑARROYA - PUEBLONUEVO 06/0",
-        "ciudad": "PISCINA MUNICIPAL",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "F. J DE LOS RIOS",
-        "ritmo": "12+3",
-        "lat": 42.1733145,
-        "lon": -2.5442953,
-        "link": "https://chess-results.com/tnr1477437.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -3685,7 +3637,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "III Torneig d'Escacs per Equips La Vila Joiosa",
+        "nombre": "III Torneig Escacs per Equips La Vila Joiosa",
         "ciudad": "Club de Tennis per El Pòsit, La Vila Joiosa",
         "fechaini": "27-09-2026",
         "fechafin": "27-09-2026",
@@ -4462,6 +4414,18 @@
         "lat": 37.717227,
         "lon": -2.6425103,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026-torneo-10-castillejar"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XXX TORNEO DE AJEDREZ CIUDAD DE LUCENA 2026",
+        "ciudad": "CENTRO CÍVICO DEL VALLE C/Maestro Gordillo",
+        "fechaini": "21-11-2026",
+        "fechafin": "21-11-2026",
+        "organizador": "CLUB DE AJEDREZ RUY LÓPEZ DE LUCENA",
+        "ritmo": "8 MINUTOS MÁS 3 SEGUNDOS POR JUGADA",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1483218.aspx?lan=2"
     },
     {
         "origin": "info64",
