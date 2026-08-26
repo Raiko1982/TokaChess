@@ -13,7 +13,7 @@ const TokaChess = {
         cityCoords: { lat: null, lon: null },
         radioMaxKm: 100,
         config: {
-            tileLayer: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
+            tileLayer: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
             mapCenter: [40.41, -2.70],
             defaultZoom: 6.8
         }
