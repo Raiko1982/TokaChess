@@ -661,14 +661,14 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "I Jornada de Ajedrez - Bellavista",
-        "ciudad": "",
+        "nombre": "Jornada II de Ajedrez - Bellavista",
+        "ciudad": "Parque Jardines de Hércules. Bellavista Sevilla",
         "fechaini": "10-10-2026",
         "fechafin": "10-10-2026",
-        "organizador": "Ayuntamiento de Sevilla",
+        "organizador": "Ayuntamiento de Sevilla. Distrito Bellavista - La Palmera",
         "ritmo": "8´+ 3´´",
-        "lat": 39.3260685,
-        "lon": -4.8379791,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1477679.aspx?lan=2"
     },
     {
@@ -1033,18 +1033,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "I Jornada de Ajedrez LOS BERMEJALES",
-        "ciudad": "Parque de los Bermejales-2 Avenida de Irlanda. 41012-Sevilla",
-        "fechaini": "19-09-2026",
-        "fechafin": "19-09-2026",
-        "organizador": "Ayuntamiento de Sevilla - Distrito Bellavista",
-        "ritmo": "8´+3´´",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1475147.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "I Open de Ajedrez de Prado del Rey",
         "ciudad": "Prado del Rey (Cádiz)",
         "fechaini": "19-09-2026",
@@ -1081,6 +1069,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Jornada I de Ajedrez LOS BERMEJALES",
+        "ciudad": "Parque de los Bermejales-2 Avenida de Irlanda. 41012-Sevilla",
+        "fechaini": "19-09-2026",
+        "fechafin": "19-09-2026",
+        "organizador": "Ayuntamiento de Sevilla - Distrito Bellavista - La Palmera",
+        "ritmo": "8´+3´´",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1475147.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "I Torneo Ajedrez Acústico Cadrete",
         "ciudad": "PUB Rana 2000, Cadrete",
         "fechaini": "18-09-2026",
@@ -1101,7 +1101,7 @@
         "ritmo": "90 minutes + 30 seconds per movement",
         "lat": 40.5762809,
         "lon": -3.928603,
-        "link": "https://chess-results.com/tnr1429138.aspx?lan=2"
+        "link": "https://chess-results.com/tnr1417768.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1113,7 +1113,7 @@
         "ritmo": "90 minutes + 30 seconds per movement",
         "lat": 40.5762809,
         "lon": -3.928603,
-        "link": "https://chess-results.com/tnr1417768.aspx?lan=2"
+        "link": "https://chess-results.com/tnr1429138.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1393,6 +1393,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "ARLeyendas & Prodigios II Grupo B",
+        "ciudad": "Madrid",
+        "fechaini": "07-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "",
+        "ritmo": "60 minutes with 30 second increment from move 1",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://chess-results.com/tnr1471075.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Leyendas & Prodigios II",
         "ciudad": "Madrid",
         "fechaini": "07-09-2026",
@@ -1402,18 +1414,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://chess-results.com/tnr1471070.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Leyendas & Prodigios II Grupo B",
-        "ciudad": "Madrid",
-        "fechaini": "07-09-2026",
-        "fechafin": "12-09-2026",
-        "organizador": "",
-        "ritmo": "60 minutes with 30 second increment from move 1",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://chess-results.com/tnr1471075.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1435,8 +1435,8 @@
         "fechafin": "06-09-2026",
         "organizador": "Associació de Veïns del Cavaller de Cas Concos - Club Foment Escacs Campos",
         "ritmo": "5' + 3\"",
-        "lat": 39.4186289,
-        "lon": 3.1362288,
+        "lat": 39.4185671,
+        "lon": 3.1365292,
         "link": "https://chess-results.com/tnr1485536.aspx?lan=2"
     },
     {
@@ -1505,30 +1505,6 @@
         "ciudad": "PISCINA MUNICIPAL",
         "fechaini": "06-09-2026",
         "fechafin": "06-09-2026",
-        "organizador": "F. J DE LOS RIOS LOPEZ",
-        "ritmo": "12+3",
-        "lat": 42.1733145,
-        "lon": -2.5442953,
-        "link": "https://chess-results.com/tnr1479347.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "XIV TORNERO CIUDAD DE PEÑARROYA - PUEBLONUEVO 06/0",
-        "ciudad": "PISCINA MUNICIPAL",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "F. J DE LOS RIOS LOPEZ",
-        "ritmo": "12+3",
-        "lat": 42.1733145,
-        "lon": -2.5442953,
-        "link": "https://chess-results.com/tnr1479348.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "XIV TORNERO CIUDAD DE PEÑARROYA - PUEBLONUEVO 06/0",
-        "ciudad": "PISCINA MUNICIPAL",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
         "organizador": "F. J DE LOS RIOS",
         "ritmo": "12+3",
         "lat": 42.1733145,
@@ -1570,6 +1546,30 @@
         "lat": 42.1733145,
         "lon": -2.5442953,
         "link": "https://chess-results.com/tnr1477437.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XIV TORNERO CIUDAD DE PEÑARROYA - PUEBLONUEVO 06/0",
+        "ciudad": "PISCINA MUNICIPAL",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "F. J DE LOS RIOS LOPEZ",
+        "ritmo": "12+3",
+        "lat": 42.1733145,
+        "lon": -2.5442953,
+        "link": "https://chess-results.com/tnr1479347.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XIV TORNERO CIUDAD DE PEÑARROYA - PUEBLONUEVO 06/0",
+        "ciudad": "PISCINA MUNICIPAL",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "F. J DE LOS RIOS LOPEZ",
+        "ritmo": "12+3",
+        "lat": 42.1733145,
+        "lon": -2.5442953,
+        "link": "https://chess-results.com/tnr1479348.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1750,6 +1750,18 @@
         "lat": 38.9950921,
         "lon": -1.8559154,
         "link": "https://chess-results.com/tnr1477981.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "OPEN D'ESCACS FESTES PATRONALS ALCOSSEBRE 2026",
+        "ciudad": "Nou Espai d'Oci Alcossebre",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "Club Escacs Alcalà-Alcossebre",
+        "ritmo": "5' + 3\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1478869.aspx?lan=2"
     },
     {
         "origin": "chess-results",
