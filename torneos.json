@@ -277,18 +277,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XL Torneo del Cordero Aranda de Duero",
-        "ciudad": "Aranda de Duero",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6715067,
-        "lon": -3.6851172,
-        "link": "https://info64.org/xl-torneo-del-cordero-aranda-de-duero"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXIX Open Internacional Ajedrez Moratalaz",
         "ciudad": "Madrid",
         "fechaini": "05-09-2026",
@@ -298,6 +286,30 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/xxix-open-internacional-ajedrez-moratalaz-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo San Cibrao ( Carballiño )",
+        "ciudad": "Carballiño",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.0167208,
+        "lon": -8.2109905,
+        "link": "https://info64.org/i-torneo-san-cibrao-carballino-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XL Torneo del Cordero Aranda de Duero",
+        "ciudad": "Aranda de Duero",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6715067,
+        "lon": -3.6851172,
+        "link": "https://info64.org/xl-torneo-del-cordero-aranda-de-duero"
     },
     {
         "origin": "info64",
@@ -334,18 +346,6 @@
         "lat": 40.8203657,
         "lon": 0.50343,
         "link": "https://info64.org/campeonato-sub18-almeria"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo San Cibrao ( Carballiño )",
-        "ciudad": "Carballiño",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.0167208,
-        "lon": -8.2109905,
-        "link": "https://info64.org/i-torneo-san-cibrao-carballino-1"
     },
     {
         "origin": "info64",
@@ -1861,18 +1861,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XII Torneo Internacional de Ajedrez Carthagineses y Romanos Sub 2400",
-        "ciudad": "Cartagena",
-        "fechaini": "18-09-2026",
-        "fechafin": "20-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6155018,
-        "lon": -0.987511,
-        "link": "https://info64.org/xii-torneo-internacional-de-ajedrez-carthagineses-y-romanos-sub-2400"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open Transpirenaico Memorial Salvador Casado - Oberena -",
         "ciudad": "Pamplona",
         "fechaini": "18-09-2026",
@@ -1882,6 +1870,18 @@
         "lat": 42.815686,
         "lon": -1.6522353,
         "link": "https://info64.org/i-open-transpirenaico-memorial-salvador-casado-oberena"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Torneo Internacional de Ajedrez Carthagineses y Romanos Sub 2400",
+        "ciudad": "Cartagena",
+        "fechaini": "18-09-2026",
+        "fechafin": "20-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.6155018,
+        "lon": -0.987511,
+        "link": "https://info64.org/xii-torneo-internacional-de-ajedrez-carthagineses-y-romanos-sub-2400"
     },
     {
         "origin": "info64",
@@ -4297,6 +4297,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "VI Bambuchess Chess Festival – Masters B",
+        "ciudad": "Villablanca",
+        "fechaini": "26-12-2026",
+        "fechafin": "30-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3028005,
+        "lon": -7.3423138,
+        "link": "https://info64.org/vi-bambuchess-chess-festival-masters-b"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Bambuchess Chess Festival – Masters",
         "ciudad": "Villablanca",
         "fechaini": "26-12-2026",
@@ -4354,18 +4366,6 @@
         "lat": 37.3028005,
         "lon": -7.3423138,
         "link": "https://info64.org/vi-bambuchess-chess-festival-open-irt-sub1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Bambuchess Chess Festival – Masters B",
-        "ciudad": "Villablanca",
-        "fechaini": "26-12-2026",
-        "fechafin": "30-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3028005,
-        "lon": -7.3423138,
-        "link": "https://info64.org/vi-bambuchess-chess-festival-masters-b"
     },
     {
         "origin": "chess-results",
