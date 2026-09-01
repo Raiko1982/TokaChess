@@ -97,18 +97,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "CE Tramos Elo 1700 2026",
-        "ciudad": "Hoznayo",
-        "fechaini": "30-08-2026",
-        "fechafin": "04-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3891151,
-        "lon": -3.6931459,
-        "link": "https://info64.org/ce-tramos-elo-1700-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "CE Tramos Elo 2000 2026",
         "ciudad": "Hoznayo",
         "fechaini": "30-08-2026",
@@ -130,6 +118,18 @@
         "lat": 43.3891151,
         "lon": -3.6931459,
         "link": "https://info64.org/ce-tramos-elo-2300-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "CE Tramos Elo 1700 2026",
+        "ciudad": "Hoznayo",
+        "fechaini": "30-08-2026",
+        "fechafin": "04-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3891151,
+        "lon": -3.6931459,
+        "link": "https://info64.org/ce-tramos-elo-1700-2026"
     },
     {
         "origin": "info64",
@@ -313,6 +313,78 @@
     },
     {
         "origin": "info64",
+        "nombre": "Torneo Sub 14 Blitz Akeru",
+        "ciudad": "Vicalvaro",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4018377,
+        "lon": -3.5950537,
+        "link": "https://info64.org/torneo-sub-14-blitz-akeru"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XVII Torneo Internacional Concello de Rianxo",
+        "ciudad": "Rianxo - A Coruña",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.6909268,
+        "lon": -8.7911951,
+        "link": "https://info64.org/xvii-torneo-internacional-concello-de-rianxo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo de Ajedrez Villa de Navia",
+        "ciudad": "Navia, Asturias",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5275049,
+        "lon": -6.6755155,
+        "link": "https://info64.org/iii-torneo-de-ajedrez-villa-de-navia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "20260905_XXXITorneoAjedrezVillaMiguelturra2026-Absoluto",
+        "ciudad": "Miguelturra",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9648147,
+        "lon": -3.8898604,
+        "link": "https://info64.org/20260905_xxxitorneoajedrezvillamiguelturra2026-absoluto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo de Ajedrez Infantil Miguel Martinez 2026",
+        "ciudad": "Alfafar",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4200749,
+        "lon": -0.3891355,
+        "link": "https://info64.org/torneo-de-ajedrez-infantil-miguel-martinez-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo Internacional Alfafar 2026 Miguel Martinez",
+        "ciudad": "Alfafar",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4200749,
+        "lon": -0.3891355,
+        "link": "https://info64.org/iv-torneo-internacional-alfafar-2026-miguel-martinez"
+    },
+    {
+        "origin": "info64",
         "nombre": "V SuperBlitzChessMarathon - Fiestas de Alcorcon",
         "ciudad": "Alcorcon",
         "fechaini": "05-09-2026",
@@ -322,6 +394,18 @@
         "lat": 40.3492998,
         "lon": -3.8284295,
         "link": "https://info64.org/v-superblitzchessmarathon-fiestas-de-alcorcon"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Infantil de San Gil - Enguera",
+        "ciudad": "Enguera",
+        "fechaini": "05-09-2026",
+        "fechafin": "05-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9804366,
+        "lon": -0.6894299,
+        "link": "https://info64.org/v-torneo-infantil-de-san-gil-enguera"
     },
     {
         "origin": "info64",
@@ -373,18 +457,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XVII Torneo Internacional Concello de Rianxo",
-        "ciudad": "Rianxo - A Coruña",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.6909268,
-        "lon": -8.7911951,
-        "link": "https://info64.org/xvii-torneo-internacional-concello-de-rianxo"
-    },
-    {
-        "origin": "info64",
         "nombre": "XVII Concello de Rianxo sub14",
         "ciudad": "Rianxo - A Coruña",
         "fechaini": "05-09-2026",
@@ -421,30 +493,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo de Ajedrez Infantil Miguel Martinez 2026",
-        "ciudad": "Alfafar",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4200749,
-        "lon": -0.3891355,
-        "link": "https://info64.org/torneo-de-ajedrez-infantil-miguel-martinez-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Torneo Internacional Alfafar 2026 Miguel Martinez",
-        "ciudad": "Alfafar",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4200749,
-        "lon": -0.3891355,
-        "link": "https://info64.org/iv-torneo-internacional-alfafar-2026-miguel-martinez"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXIX Open Internacional Ajedrez Moratalaz",
         "ciudad": "Madrid",
         "fechaini": "05-09-2026",
@@ -478,30 +526,6 @@
         "lat": 41.6715067,
         "lon": -3.6851172,
         "link": "https://info64.org/xl-torneo-del-cordero-aranda-de-duero"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo de Ajedrez Villa de Navia",
-        "ciudad": "Navia, Asturias",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5275049,
-        "lon": -6.6755155,
-        "link": "https://info64.org/iii-torneo-de-ajedrez-villa-de-navia"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Infantil de San Gil - Enguera",
-        "ciudad": "Enguera",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9804366,
-        "lon": -0.6894299,
-        "link": "https://info64.org/v-torneo-infantil-de-san-gil-enguera"
     },
     {
         "origin": "info64",
@@ -550,30 +574,6 @@
         "lat": 42.6909268,
         "lon": -8.7911951,
         "link": "https://info64.org/xvii-concello-de-rianxo-sub10"
-    },
-    {
-        "origin": "info64",
-        "nombre": "20260905_XXXITorneoAjedrezVillaMiguelturra2026-Absoluto",
-        "ciudad": "Miguelturra",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9648147,
-        "lon": -3.8898604,
-        "link": "https://info64.org/20260905_xxxitorneoajedrezvillamiguelturra2026-absoluto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Sub 14 Blitz Akeru",
-        "ciudad": "Vicalvaro",
-        "fechaini": "05-09-2026",
-        "fechafin": "05-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4018377,
-        "lon": -3.5950537,
-        "link": "https://info64.org/torneo-sub-14-blitz-akeru"
     },
     {
         "origin": "info64",
@@ -841,6 +841,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXIII Open Internacional de Ajedrez Villa de Ibi 2026 - Grupo B",
+        "ciudad": "Ibi",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.623288,
+        "lon": -0.5730513,
+        "link": "https://info64.org/xxiii-open-internacional-de-ajedrez-villa-de-ibi-2026-grupo-b"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXIII Open Internacional de Ajedrez Villa de Ibi 2026 - Grupo A",
         "ciudad": "Ibi",
         "fechaini": "06-09-2026",
@@ -850,6 +862,90 @@
         "lat": 38.623288,
         "lon": -0.5730513,
         "link": "https://info64.org/xxiii-open-internacional-de-ajedrez-villa-de-ibi-2026-grupo-a"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneig d'Escacs Sub-16 Motilla Bressol de la Taronja",
+        "ciudad": "Carcaixent",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1209651,
+        "lon": -0.4472814,
+        "link": "https://info64.org/ii-torneig-descacs-sub-16-motilla-bressol-de-la-taronja"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Rapidas Akeru Vicalvaro",
+        "ciudad": "Madrid",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/ii-torneo-rapidas-akeru-vicalvaro"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Fiestas de Valdeavero 2026",
+        "ciudad": "Valdeavero",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6308406,
+        "lon": -3.3328589,
+        "link": "https://info64.org/fiestas-de-valdeavero-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Internacional Concello de Oroso",
+        "ciudad": "Oroso- A Coruña",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.0000895,
+        "lon": -8.379909,
+        "link": "https://info64.org/ii-torneo-internacional-concello-de-oroso"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 5: ATARFE",
+        "ciudad": "Atarfe",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.2226964,
+        "lon": -3.6865662,
+        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-5-atarfe"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIX Fiestas del Vino",
+        "ciudad": "Valdepeñas",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.7594573,
+        "lon": -3.3847392,
+        "link": "https://info64.org/xxix-fiestas-del-vino"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Festival  ESPHOUSES-Open rapidas Dama de Guardamar",
+        "ciudad": "GUARDAMAR DEL SEGURA",
+        "fechaini": "06-09-2026",
+        "fechafin": "06-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0899985,
+        "lon": -0.65381,
+        "link": "https://info64.org/iv-festival-esphouses-open-rapidas-dama-de-guardamar"
     },
     {
         "origin": "info64",
@@ -877,30 +973,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 5: ATARFE",
-        "ciudad": "Atarfe",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.2226964,
-        "lon": -3.6865662,
-        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-torneo-5-atarfe"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Festival  ESPHOUSES-Open rapidas Dama de Guardamar",
-        "ciudad": "GUARDAMAR DEL SEGURA",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0899985,
-        "lon": -0.65381,
-        "link": "https://info64.org/iv-festival-esphouses-open-rapidas-dama-de-guardamar"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato de Extremadura de Ajedrez Rapido 2026",
         "ciudad": "Jarandilla",
         "fechaini": "06-09-2026",
@@ -913,42 +985,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Torneo Internacional Concello de Oroso",
-        "ciudad": "Oroso- A Coruña",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.0000895,
-        "lon": -8.379909,
-        "link": "https://info64.org/ii-torneo-internacional-concello-de-oroso"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIII Open Internacional de Ajedrez Villa de Ibi 2026 - Grupo B",
-        "ciudad": "Ibi",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.623288,
-        "lon": -0.5730513,
-        "link": "https://info64.org/xxiii-open-internacional-de-ajedrez-villa-de-ibi-2026-grupo-b"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIX Fiestas del Vino",
-        "ciudad": "Valdepeñas",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.7594573,
-        "lon": -3.3847392,
-        "link": "https://info64.org/xxix-fiestas-del-vino"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Torneo Fiestas de Cercedilla 2026",
         "ciudad": "Cercedilla",
         "fechaini": "06-09-2026",
@@ -958,30 +994,6 @@
         "lat": 40.7412931,
         "lon": -4.0558002,
         "link": "https://info64.org/vi-torneo-fiestas-de-cercedilla-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneig d'Escacs Sub-16 Motilla Bressol de la Taronja",
-        "ciudad": "Carcaixent",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1209651,
-        "lon": -0.4472814,
-        "link": "https://info64.org/ii-torneig-descacs-sub-16-motilla-bressol-de-la-taronja"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo Rapidas Akeru Vicalvaro",
-        "ciudad": "Madrid",
-        "fechaini": "06-09-2026",
-        "fechafin": "06-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/ii-torneo-rapidas-akeru-vicalvaro"
     },
     {
         "origin": "info64",
@@ -1381,6 +1393,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "XI Memorial Blitz Eduardo Perez",
+        "ciudad": "Manuel",
+        "fechaini": "12-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.0513265,
+        "lon": -0.4909038,
+        "link": "https://info64.org/xi-memorial-blitz-eduardo-perez"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Ferias Ajedrez Callejero 2026",
+        "ciudad": "Guadalajara, Parque Concordia",
+        "fechaini": "12-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iii-torneo-ferias-ajedrez-callejero-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VII Torneo Ajedrez Daimiel 2026-Absoluto",
+        "ciudad": "Daimiel",
+        "fechaini": "12-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.072196,
+        "lon": -3.6143611,
+        "link": "https://info64.org/vii-torneo-ajedrez-daimiel-2026-absoluto"
+    },
+    {
+        "origin": "info64",
         "nombre": "VIII T. Numancia de la Sagra",
         "ciudad": "Numancia de la Sagra",
         "fechaini": "12-09-2026",
@@ -1429,18 +1477,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Torneo Ferias Ajedrez Callejero 2026",
-        "ciudad": "Guadalajara, Parque Concordia",
-        "fechaini": "12-09-2026",
-        "fechafin": "12-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iii-torneo-ferias-ajedrez-callejero-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "VIII TORNEO XADREZ CIDADE DE COMPOSTELA SUB-12",
         "ciudad": "Santiago de Compostela",
         "fechaini": "12-09-2026",
@@ -1450,18 +1486,6 @@
         "lat": 42.9064576,
         "lon": -8.5192983,
         "link": "https://info64.org/viii-torneo-xadrez-cidade-de-compostela-sub-12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VII Torneo Ajedrez Daimiel 2026-Absoluto",
-        "ciudad": "Daimiel",
-        "fechaini": "12-09-2026",
-        "fechafin": "12-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.072196,
-        "lon": -3.6143611,
-        "link": "https://info64.org/vii-torneo-ajedrez-daimiel-2026-absoluto"
     },
     {
         "origin": "info64",
@@ -1534,18 +1558,6 @@
         "lat": 42.9064576,
         "lon": -8.5192983,
         "link": "https://info64.org/viii-torneo-xadrez-cidade-de-compostela"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XI Memorial Blitz Eduardo Perez",
-        "ciudad": "Manuel",
-        "fechaini": "12-09-2026",
-        "fechafin": "12-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.0513265,
-        "lon": -0.4909038,
-        "link": "https://info64.org/xi-memorial-blitz-eduardo-perez"
     },
     {
         "origin": "info64",
@@ -1729,6 +1741,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Septiembre 2026 Octava Casilla Academia Aldea Hortaleza",
+        "ciudad": "Madrid",
+        "fechaini": "13-09-2026",
+        "fechafin": "13-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/septiembre-2026-octava-casilla-academia-aldea-hortaleza"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo de Ajedrez Benéfico - Caminando con Laia",
         "ciudad": "Alcorcon",
         "fechaini": "13-09-2026",
@@ -1774,18 +1798,6 @@
         "lat": 36.7382658,
         "lon": -3.3899284,
         "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026-torneo-6-galchos"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Septiembre 2026 Octava Casilla Academia Aldea Hortaleza",
-        "ciudad": "Madrid",
-        "fechaini": "13-09-2026",
-        "fechafin": "13-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/septiembre-2026-octava-casilla-academia-aldea-hortaleza"
     },
     {
         "origin": "info64",
@@ -2077,6 +2089,78 @@
     },
     {
         "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Primera, Almussafes",
+        "ciudad": "Almussafes",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2924334,
+        "lon": -0.4138577,
+        "link": "https://info64.org/campeonato-provincial-individual-primera-almussafes-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Segunda, Almussafes",
+        "ciudad": "Almussafes",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2924334,
+        "lon": -0.4138577,
+        "link": "https://info64.org/campeonato-provincial-individual-segunda-almussafes-1-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Internaciona Ciudad de Santurtzi",
+        "ciudad": "Santurtzi",
+        "fechaini": "19-09-2026",
+        "fechafin": "19-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3287527,
+        "lon": -3.0318766,
+        "link": "https://info64.org/ii-open-internaciona-ciudad-de-santurtzi"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo de Ajedrez FreeStyle",
+        "ciudad": "Viso del Marqués",
+        "fechaini": "19-09-2026",
+        "fechafin": "19-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5217338,
+        "lon": -3.5627159,
+        "link": "https://info64.org/i-torneo-de-ajedrez-freestyle"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Primera, Benimaclet",
+        "ciudad": "Benimaclet, Valencia",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.487148,
+        "lon": -0.3566225,
+        "link": "https://info64.org/campeonato-provincial-invidual-primera-benimaclet"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Absoluto, Castellon",
+        "ciudad": "Castellon",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.2518568,
+        "lon": -0.0615052,
+        "link": "https://info64.org/campeonato-provincial-individual-absoluto-castellon-1-1-1"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato Provincial Individual Preferente, Alcoy",
         "ciudad": "Alcoy",
         "fechaini": "19-09-2026",
@@ -2134,18 +2218,6 @@
         "lat": 40.481954,
         "lon": -3.363981,
         "link": "https://info64.org/fiestas-patronales-virgen-del-val-2026-absoluto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo de Ajedrez FreeStyle",
-        "ciudad": "Viso del Marqués",
-        "fechaini": "19-09-2026",
-        "fechafin": "19-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5217338,
-        "lon": -3.5627159,
-        "link": "https://info64.org/i-torneo-de-ajedrez-freestyle"
     },
     {
         "origin": "info64",
@@ -2245,18 +2317,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Absoluto, Castellon",
-        "ciudad": "Castellon",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.2518568,
-        "lon": -0.0615052,
-        "link": "https://info64.org/campeonato-provincial-individual-absoluto-castellon-1-1-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI MEMORAL DR. JOSÉ AGUILERA",
         "ciudad": "Santomera, Murcia",
         "fechaini": "19-09-2026",
@@ -2302,18 +2362,6 @@
         "lat": 40.5961297,
         "lon": -3.4974479,
         "link": "https://info64.org/torneo-ajedrez-960-fischer-random"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open Internaciona Ciudad de Santurtzi",
-        "ciudad": "Santurtzi",
-        "fechaini": "19-09-2026",
-        "fechafin": "19-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3287527,
-        "lon": -3.0318766,
-        "link": "https://info64.org/ii-open-internaciona-ciudad-de-santurtzi"
     },
     {
         "origin": "info64",
@@ -2365,30 +2413,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Primera, Almussafes",
-        "ciudad": "Almussafes",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2924334,
-        "lon": -0.4138577,
-        "link": "https://info64.org/campeonato-provincial-individual-primera-almussafes-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Segunda, Almussafes",
-        "ciudad": "Almussafes",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2924334,
-        "lon": -0.4138577,
-        "link": "https://info64.org/campeonato-provincial-individual-segunda-almussafes-1-1-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Individual Preferente, Almussafes",
         "ciudad": "Almussafes",
         "fechaini": "19-09-2026",
@@ -2434,18 +2458,6 @@
         "lat": 38.4136518,
         "lon": -0.444471,
         "link": "https://info64.org/campeonato-provincial-individual-preferente-mutxamel-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Primera, Benimaclet",
-        "ciudad": "Benimaclet, Valencia",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.487148,
-        "lon": -0.3566225,
-        "link": "https://info64.org/campeonato-provincial-invidual-primera-benimaclet"
     },
     {
         "origin": "info64",
@@ -2533,6 +2545,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Open Internacional de Ajedrez de Chamartin 2026 (489316)",
+        "ciudad": "C. de Pradillo, 3 28002 Madrid",
+        "fechaini": "20-09-2026",
+        "fechafin": "20-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4488298,
+        "lon": -3.6767354,
+        "link": "https://info64.org/open-internacional-de-ajedrez-de-chamartin-1"
+    },
+    {
+        "origin": "info64",
         "nombre": "V Open de Ajedrez Circulo La Unión-Grazalema",
         "ciudad": "Circulo La Unión",
         "fechaini": "20-09-2026",
@@ -2590,18 +2614,6 @@
         "lat": 38.4735408,
         "lon": -1.3285417,
         "link": "https://info64.org/team/x-batala-por-equipos-de-la-amistad"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Open Internacional de Ajedrez de Chamartin 2026 (489316)",
-        "ciudad": "C. de Pradillo, 3 28002 Madrid",
-        "fechaini": "20-09-2026",
-        "fechafin": "20-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4488298,
-        "lon": -3.6767354,
-        "link": "https://info64.org/open-internacional-de-ajedrez-de-chamartin-1"
     },
     {
         "origin": "info64",
@@ -2701,18 +2713,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Blitz Nocturno- Cena en Guadassuar",
-        "ciudad": "Guadassuar",
-        "fechaini": "25-09-2026",
-        "fechafin": "25-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1857839,
-        "lon": -0.4778181,
-        "link": "https://info64.org/v-blitz-nocturno-cena-en-guadassuar"
-    },
-    {
-        "origin": "info64",
         "nombre": "VII Open Internacional de Ajedrez Sub 2200 FIDE Costa de la Luz 2026",
         "ciudad": "Conil de la Frontera",
         "fechaini": "25-09-2026",
@@ -2722,6 +2722,18 @@
         "lat": 36.277054,
         "lon": -6.0881874,
         "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub-2200-fide-costa-de-la-luz"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Blitz Nocturno- Cena en Guadassuar",
+        "ciudad": "Guadassuar",
+        "fechaini": "25-09-2026",
+        "fechafin": "25-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1857839,
+        "lon": -0.4778181,
+        "link": "https://info64.org/v-blitz-nocturno-cena-en-guadassuar"
     },
     {
         "origin": "info64",
@@ -2761,18 +2773,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXXII Memorial Adolfo Pedrido sub14",
-        "ciudad": "Vilagarcía de Arousa",
-        "fechaini": "26-09-2026",
-        "fechafin": "26-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5950502,
-        "lon": -8.7430537,
-        "link": "https://info64.org/xxxii-memorial-adolfo-pedrido-sub14"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Torneo Fiestas de Mula (Murcia)",
         "ciudad": "Convento de San Francisco",
         "fechaini": "26-09-2026",
@@ -2782,6 +2782,18 @@
         "lat": 42.4312834,
         "lon": -8.643149,
         "link": "https://info64.org/v-torneo-fiestas-de-mula-murcia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXII Memorial Adolfo Pedrido sub14",
+        "ciudad": "Vilagarcía de Arousa",
+        "fechaini": "26-09-2026",
+        "fechafin": "26-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5950502,
+        "lon": -8.7430537,
+        "link": "https://info64.org/xxxii-memorial-adolfo-pedrido-sub14"
     },
     {
         "origin": "info64",
@@ -3685,18 +3697,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Open 300 Torres Infantil",
-        "ciudad": "Onda",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.965214,
-        "lon": -0.2625745,
-        "link": "https://info64.org/ii-open-300-torres-infantil"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Open 300 Torres",
         "ciudad": "Onda",
         "fechaini": "18-10-2026",
@@ -3706,6 +3706,18 @@
         "lat": 39.965214,
         "lon": -0.2625745,
         "link": "https://info64.org/ii-open-300-torres"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open 300 Torres Infantil",
+        "ciudad": "Onda",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.965214,
+        "lon": -0.2625745,
+        "link": "https://info64.org/ii-open-300-torres-infantil"
     },
     {
         "origin": "info64",
