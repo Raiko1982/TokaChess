@@ -421,6 +421,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "VIII TORNEO XADREZ CIDADE DE COMPOSTELA",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "12-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.9064576,
+        "lon": -8.5192983,
+        "link": "https://info64.org/viii-torneo-xadrez-cidade-de-compostela"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII TORNEO XADREZ CIDADE DE COMPOSTELA SUB-14",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "12-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.9064576,
+        "lon": -8.5192983,
+        "link": "https://info64.org/viii-torneo-xadrez-cidade-de-compostela-sub-14"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII TORNEO XADREZ CIDADE DE COMPOSTELA SUB-12",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "12-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.9064576,
+        "lon": -8.5192983,
+        "link": "https://info64.org/viii-torneo-xadrez-cidade-de-compostela-sub-12"
+    },
+    {
+        "origin": "info64",
         "nombre": "OPEN CASINO PRIMITIVO JAEN 2026",
         "ciudad": "C/ Maestra 16, Jaen",
         "fechaini": "12-09-2026",
@@ -517,18 +553,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VIII TORNEO XADREZ CIDADE DE COMPOSTELA",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "12-09-2026",
-        "fechafin": "12-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.9064576,
-        "lon": -8.5192983,
-        "link": "https://info64.org/viii-torneo-xadrez-cidade-de-compostela"
-    },
-    {
-        "origin": "info64",
         "nombre": "VIII TORNEO XADREZ CIDADE DE COMPOSTELA SUB-8",
         "ciudad": "Santiago de Compostela",
         "fechaini": "12-09-2026",
@@ -550,30 +574,6 @@
         "lat": 42.9064576,
         "lon": -8.5192983,
         "link": "https://info64.org/viii-torneo-xadrez-cidade-de-compostela-sub-10"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VIII TORNEO XADREZ CIDADE DE COMPOSTELA SUB-12",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "12-09-2026",
-        "fechafin": "12-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.9064576,
-        "lon": -8.5192983,
-        "link": "https://info64.org/viii-torneo-xadrez-cidade-de-compostela-sub-12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VIII TORNEO XADREZ CIDADE DE COMPOSTELA SUB-14",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "12-09-2026",
-        "fechafin": "12-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.9064576,
-        "lon": -8.5192983,
-        "link": "https://info64.org/viii-torneo-xadrez-cidade-de-compostela-sub-14"
     },
     {
         "origin": "info64",
@@ -1117,18 +1117,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XII Torneo Internacional de Ajedrez Carthagineses y Romanos Sub 2400",
-        "ciudad": "Cartagena",
-        "fechaini": "18-09-2026",
-        "fechafin": "20-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6155018,
-        "lon": -0.987511,
-        "link": "https://info64.org/xii-torneo-internacional-de-ajedrez-carthagineses-y-romanos-sub-2400"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open Transpirenaico Memorial Salvador Casado - Oberena -",
         "ciudad": "Pamplona",
         "fechaini": "18-09-2026",
@@ -1138,6 +1126,18 @@
         "lat": 42.815686,
         "lon": -1.6522353,
         "link": "https://info64.org/i-open-transpirenaico-memorial-salvador-casado-oberena"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Torneo Internacional de Ajedrez Carthagineses y Romanos Sub 2400",
+        "ciudad": "Cartagena",
+        "fechaini": "18-09-2026",
+        "fechafin": "20-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.6155018,
+        "lon": -0.987511,
+        "link": "https://info64.org/xii-torneo-internacional-de-ajedrez-carthagineses-y-romanos-sub-2400"
     },
     {
         "origin": "info64",
@@ -2641,6 +2641,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXI Trofeo IberCaja - Ciudad de Zaragoza",
+        "ciudad": "E.M. El Olivar - Zaragoza",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Torneo Blitz Akeru Vicalvaro",
         "ciudad": "Madrid",
         "fechaini": "03-10-2026",
@@ -2662,18 +2674,6 @@
         "lat": 43.3466447,
         "lon": -8.4127029,
         "link": "https://info64.org/vi-ciudad-de-coruna"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXI Trofeo IberCaja - Ciudad de Zaragoza",
-        "ciudad": "E.M. El Olivar - Zaragoza",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
     },
     {
         "origin": "info64",
