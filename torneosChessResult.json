@@ -283,8 +283,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3915493,
-        "lon": -0.5208521,
+        "lat": 38.3889426,
+        "lon": -0.5176876,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     },
     {
@@ -601,6 +601,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Copa Infantil por equipos Sevilla 2026",
+        "ciudad": "Sevilla",
+        "fechaini": "01-11-2026",
+        "fechafin": "29-11-2026",
+        "organizador": "Delegacion sevillana de ajedrez",
+        "ritmo": "40´+10´´",
+        "lat": 37.3886303,
+        "lon": -5.9953403,
+        "link": "https://chess-results.com/tnr1493449.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Torneo Blitz Internacional de Aranjuez",
         "ciudad": "Aranjuez (Madrid) Spain",
         "fechaini": "25-10-2026",
@@ -733,6 +745,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Copa de Sevilla por Equipos 2026",
+        "ciudad": "Sevilla",
+        "fechaini": "12-10-2026",
+        "fechafin": "29-11-2026",
+        "organizador": "Delegacion Sevillana de Ajedrez",
+        "ritmo": "90´+30´´",
+        "lat": 37.3886303,
+        "lon": -5.9953403,
+        "link": "https://chess-results.com/tnr1493446.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "XXVII Torneig Absolut d´escacs Ciutat de Carcaixen",
         "ciudad": "Passeig de Carcaixent (entre Assesoria Pons i Dolçs Llegenda - zona central)",
         "fechaini": "12-10-2026",
@@ -811,8 +835,8 @@
         "fechafin": "10-10-2026",
         "organizador": "Comerciants de Gata de Gorgos",
         "ritmo": "5 minuts+3 segons d'increment per jugada",
-        "lat": 38.773813,
-        "lon": 0.0858008,
+        "lat": 38.7743144,
+        "lon": 0.085629,
         "link": "https://chess-results.com/tnr1488131.aspx?lan=2"
     },
     {
@@ -823,8 +847,8 @@
         "fechafin": "10-10-2026",
         "organizador": "Comerciants de Gata de Gorgos",
         "ritmo": "5 minuts+3 segons d'increment per jugada",
-        "lat": 38.773813,
-        "lon": 0.0858008,
+        "lat": 38.7743144,
+        "lon": 0.085629,
         "link": "https://chess-results.com/tnr1488128.aspx?lan=2"
     },
     {
@@ -1159,8 +1183,8 @@
         "fechafin": "26-09-2026",
         "organizador": "Amurrio Xake Kluba",
         "ritmo": "10+0",
-        "lat": 43.0535248,
-        "lon": -2.9960343,
+        "lat": 43.0540419,
+        "lon": -2.9983025,
         "link": "https://chess-results.com/tnr1491531.aspx?lan=2"
     },
     {
@@ -1705,6 +1729,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Torneo Memorial Biro y Cris 20260913",
+        "ciudad": "Calle de Martín de Vargas 46 Local PCM Arganzuela, Madrid",
+        "fechaini": "13-09-2026",
+        "fechafin": "13-09-2026",
+        "organizador": "Club La Corrala Lavapiés",
+        "ritmo": "10'+5\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1493482.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "V Circuito Blitz En Plazas 2026 - Guia de Isora",
         "ciudad": "",
         "fechaini": "13-09-2026",
@@ -1837,7 +1873,43 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "IX Festival de Ajedrez Fiestas Patronales de Honda",
+        "nombre": "IX Hondarribiako Jai Nagusietako Xake Jaialdia. A",
+        "ciudad": "Plaza Gipuzkoa, Hondarribia",
+        "fechaini": "12-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "Hondarribia - Marlaxka",
+        "ritmo": "10 min",
+        "lat": 43.3640602,
+        "lon": -1.79261,
+        "link": "https://chess-results.com/tnr1493542.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "IX Hondarribiako Jai Nagusietako Xake Jaialdia. B",
+        "ciudad": "Plaza Gipuzkoa, Hondarribia",
+        "fechaini": "12-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "Hondarribia - Marlaxka",
+        "ritmo": "10 min",
+        "lat": 43.3640602,
+        "lon": -1.79261,
+        "link": "https://chess-results.com/tnr1493547.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "IX Hondarribiako Jai Nagusietako Xake Jaialdia. C",
+        "ciudad": "Plaza Gipuzkoa, Hondarribia",
+        "fechaini": "12-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "Hondarribia - Marlaxka",
+        "ritmo": "10 min",
+        "lat": 43.3640602,
+        "lon": -1.79261,
+        "link": "https://chess-results.com/tnr1493548.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "IX Hondarribiako Jai Nagusietako Xake Jaialdia2026",
         "ciudad": "Plaza Gipuzkoa, Hondarribia",
         "fechaini": "12-09-2026",
         "fechafin": "12-09-2026",
@@ -1849,7 +1921,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "IX Festival de Ajedrez Fiestas Patronales de Honda",
+        "nombre": "IX Hondarribiako Jai Nagusietako Xake Jaialdia2026",
         "ciudad": "Plaza Gipuzkoa, Hondarribia",
         "fechaini": "12-09-2026",
         "fechafin": "12-09-2026",
