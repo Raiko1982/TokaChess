@@ -1,6 +1,114 @@
 [
     {
         "origin": "info64",
+        "nombre": "XXI Trofeo IberCaja - Ciudad de Zaragoza",
+        "ciudad": "E.M. El Olivar - Zaragoza",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Primera, Xeraco",
+        "ciudad": "Xeraco",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.0331946,
+        "lon": -0.2152033,
+        "link": "https://info64.org/campeonato-provincial-individual-primera-xeraco-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Preferente, Xeraco",
+        "ciudad": "Xeraco",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.0331946,
+        "lon": -0.2152033,
+        "link": "https://info64.org/campeonato-provincial-individual-preferente-xeraco-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Open Transpirenaico Memorial Salvador Casado - Oberena -",
+        "ciudad": "Pamplona",
+        "fechaini": "18-09-2026",
+        "fechafin": "20-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.815686,
+        "lon": -1.6522353,
+        "link": "https://info64.org/i-open-transpirenaico-memorial-salvador-casado-oberena"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Bambuchess Chess Festival – Open IRT Sub1800",
+        "ciudad": "Villablanca",
+        "fechaini": "26-12-2026",
+        "fechafin": "28-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3028005,
+        "lon": -7.3423138,
+        "link": "https://info64.org/vi-bambuchess-chess-festival-open-irt-sub1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIX Open Internacional Ajedrez Moratalaz",
+        "ciudad": "Madrid",
+        "fechaini": "05-09-2026",
+        "fechafin": "13-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/xxix-open-internacional-ajedrez-moratalaz-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Torneo de Xadrez Relámpago Campus de Ourense",
+        "ciudad": "Ourense",
+        "fechaini": "20-09-2026",
+        "fechafin": "20-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1939629,
+        "lon": -7.537124,
+        "link": "https://info64.org/xii-torneo-de-xadrez-relampago-campus-de-ourense"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Torneo de Xadrez Rápido Campus de Ourense",
+        "ciudad": "Ourense",
+        "fechaini": "19-09-2026",
+        "fechafin": "19-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1939629,
+        "lon": -7.537124,
+        "link": "https://info64.org/xii-torneo-de-xadrez-rapido-campus-de-ourense"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Sevilla Absoluto, Femenino y Sub18 2026",
+        "ciudad": "Alcala de Guadaira",
+        "fechaini": "13-09-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3397709,
+        "lon": -5.8408396,
+        "link": "https://info64.org/campeonato-de-sevilla-absoluto-femenino-y-sub18-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "XIX Torneo Internacional de Ajedrez Malpartida de Caceres",
         "ciudad": "Malpartida de Caceres",
         "fechaini": "12-09-2026",
@@ -229,18 +337,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXIX Open Internacional Ajedrez Moratalaz",
-        "ciudad": "Madrid",
-        "fechaini": "05-09-2026",
-        "fechafin": "13-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/xxix-open-internacional-ajedrez-moratalaz-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "2 Open Internacional Sub2200 Hotel Vertice Chipiona Mar",
         "ciudad": "Chipiona",
         "fechaini": "06-11-2026",
@@ -466,18 +562,6 @@
         "lat": 40.3865812,
         "lon": -5.7649619,
         "link": "https://info64.org/xviii-torneo-de-ajedrez-ferias-de-bejar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Open Transpirenaico Memorial Salvador Casado - Oberena -",
-        "ciudad": "Pamplona",
-        "fechaini": "18-09-2026",
-        "fechafin": "20-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.815686,
-        "lon": -1.6522353,
-        "link": "https://info64.org/i-open-transpirenaico-memorial-salvador-casado-oberena"
     },
     {
         "origin": "info64",
@@ -997,18 +1081,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXI Trofeo IberCaja - Ciudad de Zaragoza",
-        "ciudad": "E.M. El Olivar - Zaragoza",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Open 300 Torres",
         "ciudad": "Onda",
         "fechaini": "18-10-2026",
@@ -1309,18 +1381,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Primera, Xeraco",
-        "ciudad": "Xeraco",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.0331946,
-        "lon": -0.2152033,
-        "link": "https://info64.org/campeonato-provincial-individual-primera-xeraco-1-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "XII Open Internacional de Ajedrez Ciudad de Albacete Sub1800",
         "ciudad": "Albacete",
         "fechaini": "25-09-2026",
@@ -1474,18 +1534,6 @@
         "lat": 38.5406255,
         "lon": -0.1290929,
         "link": "https://info64.org/xxiii-torneo-internacional-gran-hotel-bali-grupo-a"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Sevilla Absoluto, Femenino y Sub18 2026",
-        "ciudad": "Alcala de Guadaira",
-        "fechaini": "13-09-2026",
-        "fechafin": "25-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3397709,
-        "lon": -5.8408396,
-        "link": "https://info64.org/campeonato-de-sevilla-absoluto-femenino-y-sub18-2026"
     },
     {
         "origin": "info64",
@@ -1738,30 +1786,6 @@
         "lat": 38.7594573,
         "lon": -3.3847392,
         "link": "https://info64.org/i-torneo-social-los-molinos-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Torneo de Xadrez Rápido Campus de Ourense",
-        "ciudad": "Ourense",
-        "fechaini": "19-09-2026",
-        "fechafin": "19-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/xii-torneo-de-xadrez-rapido-campus-de-ourense"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Torneo de Xadrez Relámpago Campus de Ourense",
-        "ciudad": "Ourense",
-        "fechaini": "20-09-2026",
-        "fechafin": "20-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/xii-torneo-de-xadrez-relampago-campus-de-ourense"
     },
     {
         "origin": "info64",
@@ -2086,18 +2110,6 @@
         "lat": 40.4488298,
         "lon": -3.6767354,
         "link": "https://info64.org/open-internacional-de-ajedrez-de-chamartin-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Preferente, Xeraco",
-        "ciudad": "Xeraco",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.0331946,
-        "lon": -0.2152033,
-        "link": "https://info64.org/campeonato-provincial-individual-preferente-xeraco-1-1"
     },
     {
         "origin": "info64",
@@ -2461,78 +2473,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Open internacional de Xadrez Rápido  “Camiño Francés”",
-        "ciudad": "Ourense",
-        "fechaini": "26-06-2027",
-        "fechafin": "27-06-2027",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/torneo-internacional-de-xadrez-rapido-camino-frances"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo internacional blitz  “Camiño Portugués”",
-        "ciudad": "Ourense",
-        "fechaini": "25-06-2027",
-        "fechafin": "25-06-2027",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/ii-torneo-internacional-de-xadrez-lostrego-camino-portugues"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo internacional Blitz “Camiño de Fisterra”",
-        "ciudad": "Ourense",
-        "fechaini": "23-06-2027",
-        "fechafin": "23-06-2027",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/i-torneo-internacional-de-xadrez-lostrego-camino-de-fisterra"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo “Xadrez entre canóns, mosteiros e viñedos”",
-        "ciudad": "Ourense",
-        "fechaini": "25-06-2027",
-        "fechafin": "25-06-2027",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/xadrez-entre-canons-mosteiros-e-vinedos"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Open internacional “Vía da Prata”",
-        "ciudad": "Ourense",
-        "fechaini": "19-06-2027",
-        "fechafin": "24-06-2027",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/open-internacional-de-xadrez-via-da-prata"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo de Parellas Mixtas  “Camiño do Norte”",
-        "ciudad": "Ourense",
-        "fechaini": "25-06-2027",
-        "fechafin": "25-06-2027",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/torneo-de-parellas-mixtas-camino-do-norte"
-    },
-    {
-        "origin": "info64",
         "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-10",
         "ciudad": "Benidorm",
         "fechaini": "27-11-2026",
@@ -2542,18 +2482,6 @@
         "lat": 38.5406255,
         "lon": -0.1290929,
         "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-10"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Bambuchess Chess Festival – Open IRT Sub1800",
-        "ciudad": "Villablanca",
-        "fechaini": "26-12-2026",
-        "fechafin": "28-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3028005,
-        "lon": -7.3423138,
-        "link": "https://info64.org/vi-bambuchess-chess-festival-open-irt-sub1800"
     },
     {
         "origin": "info64",
