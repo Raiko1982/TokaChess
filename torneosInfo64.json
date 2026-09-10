@@ -1,6 +1,66 @@
 [
     {
         "origin": "info64",
+        "nombre": "I Torneo Ajedrez Caballo de Fuego",
+        "ciudad": "Motril",
+        "fechaini": "10-10-2026",
+        "fechafin": "10-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7450888,
+        "lon": -3.5207655,
+        "link": "https://info64.org/i-torneo-ajedrez-caballo-de-fuego"
+    },
+    {
+        "origin": "info64",
+        "nombre": "39º Open de ajedrez CARBONERAS 2026",
+        "ciudad": "Carboneras",
+        "fechaini": "13-09-2026",
+        "fechafin": "13-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.9968699,
+        "lon": -1.8946552,
+        "link": "https://info64.org/39o-open-de-ajedrez-carboneras-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIX Open Internacional Ajedrez Moratalaz",
+        "ciudad": "Madrid",
+        "fechaini": "05-09-2026",
+        "fechafin": "13-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/xxix-open-internacional-ajedrez-moratalaz-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Infantil Miranda de Ebro 2026",
+        "ciudad": "Miranda de Ebro",
+        "fechaini": "13-09-2026",
+        "fechafin": "13-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.6800943,
+        "lon": -2.9747229,
+        "link": "https://info64.org/torneo-infantil-miranda-de-ebro-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Festival Ajedrez Artauro Cerrado C",
+        "ciudad": "Mos",
+        "fechaini": "10-10-2026",
+        "fechafin": "12-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1879926,
+        "lon": -8.6262198,
+        "link": "https://info64.org/ii-festival-ajedrez-artauro-cerrado-c"
+    },
+    {
+        "origin": "info64",
         "nombre": "XVII Obert Internacional Benimodo",
         "ciudad": "Benimodo",
         "fechaini": "13-09-2026",
@@ -46,18 +106,6 @@
         "lat": 42.9064576,
         "lon": -8.5192983,
         "link": "https://info64.org/viii-torneo-xadrez-cidade-de-compostela"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIX Open Internacional Ajedrez Moratalaz",
-        "ciudad": "Madrid",
-        "fechaini": "05-09-2026",
-        "fechafin": "13-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/xxix-open-internacional-ajedrez-moratalaz-1"
     },
     {
         "origin": "info64",
@@ -229,18 +277,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "39º Open de ajedrez CARBONERAS 2026",
-        "ciudad": "Carboneras",
-        "fechaini": "13-09-2026",
-        "fechafin": "13-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.9968699,
-        "lon": -1.8946552,
-        "link": "https://info64.org/39o-open-de-ajedrez-carboneras-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Fiestas Patronales Virgen del Val 2026 Absoluto",
         "ciudad": "Alcalá de Henares",
         "fechaini": "19-09-2026",
@@ -409,18 +445,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Festival Ajedrez Artauro Cerrado C",
-        "ciudad": "Mos",
-        "fechaini": "10-10-2026",
-        "fechafin": "12-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1879926,
-        "lon": -8.6262198,
-        "link": "https://info64.org/ii-festival-ajedrez-artauro-cerrado-c"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Festival Ajedrez Artauro Cerrado A",
         "ciudad": "Mos",
         "fechaini": "10-10-2026",
@@ -574,18 +598,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/iii-torneo-ferias-ajedrez-callejero-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Infantil Miranda de Ebro 2026",
-        "ciudad": "Miranda de Ebro",
-        "fechaini": "13-09-2026",
-        "fechafin": "13-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.6800943,
-        "lon": -2.9747229,
-        "link": "https://info64.org/torneo-infantil-miranda-de-ebro-2026"
     },
     {
         "origin": "info64",
@@ -1270,18 +1282,6 @@
         "lat": 42.8230299,
         "lon": -1.614076,
         "link": "https://info64.org/vi-torneo-open-sub-2200-de-burlada"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Ajedrez Caballo de Fuego",
-        "ciudad": "Motril",
-        "fechaini": "10-10-2026",
-        "fechafin": "10-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7450888,
-        "lon": -3.5207655,
-        "link": "https://info64.org/i-torneo-ajedrez-caballo-de-fuego"
     },
     {
         "origin": "info64",
