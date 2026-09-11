@@ -1,6 +1,54 @@
 [
     {
         "origin": "info64",
+        "nombre": "XII TORNEO SUB 2400 CIUTAT DE BURJASSOT",
+        "ciudad": "Burjassot",
+        "fechaini": "11-09-2026",
+        "fechafin": "30-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.5090599,
+        "lon": -0.4108581,
+        "link": "https://info64.org/xii-torneo-sub-2400-ciutat-de-burjassot"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIX Open Internacional Ajedrez Moratalaz",
+        "ciudad": "Madrid",
+        "fechaini": "05-09-2026",
+        "fechafin": "13-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/xxix-open-internacional-ajedrez-moratalaz-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IX Torneo de Ajedrez por la Igualdad",
+        "ciudad": "Valencia",
+        "fechaini": "12-09-2026",
+        "fechafin": "12-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/team/ix-torneo-de-ajedrez-por-la-igualdad"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Blitz Sub-14 Akeru",
+        "ciudad": "Vicálvaro",
+        "fechaini": "04-10-2026",
+        "fechafin": "04-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4018377,
+        "lon": -3.5950537,
+        "link": "https://info64.org/torneo-blitz-sub-14-akeru"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXXVI Torneo Ajedrez Tinamar 2026",
         "ciudad": "Vega de San Mateo",
         "fechaini": "10-09-2026",
@@ -10,6 +58,42 @@
         "lat": 27.9961882,
         "lon": -15.5682128,
         "link": "https://info64.org/xxxvi-torneo-ajedrez-tinamar-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Copa Diputacion de Segovia-El Espinar-Chess Open Internacional",
+        "ciudad": "El Espinar",
+        "fechaini": "09-10-2026",
+        "fechafin": "12-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7170769,
+        "lon": -4.2459968,
+        "link": "https://info64.org/ii-copa-diputacion-de-segovia-el-espinar-chess-open-internacional"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Torneo de Xadrez Relámpago Campus de Ourense",
+        "ciudad": "Ourense",
+        "fechaini": "20-09-2026",
+        "fechafin": "20-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1939629,
+        "lon": -7.537124,
+        "link": "https://info64.org/xii-torneo-de-xadrez-relampago-campus-de-ourense"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Torneo de Xadrez Rápido Campus de Ourense",
+        "ciudad": "Ourense",
+        "fechaini": "19-09-2026",
+        "fechafin": "19-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1939629,
+        "lon": -7.537124,
+        "link": "https://info64.org/xii-torneo-de-xadrez-rapido-campus-de-ourense"
     },
     {
         "origin": "info64",
@@ -118,18 +202,6 @@
         "lat": 43.2349957,
         "lon": -5.769932,
         "link": "https://info64.org/team/campeonato-de-asturias-por-equipos-sub-12-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIX Open Internacional Ajedrez Moratalaz",
-        "ciudad": "Madrid",
-        "fechaini": "05-09-2026",
-        "fechafin": "13-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/xxix-open-internacional-ajedrez-moratalaz-1"
     },
     {
         "origin": "info64",
@@ -322,18 +394,6 @@
         "lat": 39.8876912,
         "lon": -0.0846321,
         "link": "https://info64.org/xiii-campeonato-de-ajedrez-memorial-asuncion-enrique"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII TORNEO SUB 2400 CIUTAT DE BURJASSOT",
-        "ciudad": "Burjassot",
-        "fechaini": "11-09-2026",
-        "fechafin": "30-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5090599,
-        "lon": -0.4108581,
-        "link": "https://info64.org/xii-torneo-sub-2400-ciutat-de-burjassot"
     },
     {
         "origin": "info64",
@@ -1393,18 +1453,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Copa Diputacion de Segovia-El Espinar-Chess Open Internacional",
-        "ciudad": "El Espinar",
-        "fechaini": "09-10-2026",
-        "fechafin": "12-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7170769,
-        "lon": -4.2459968,
-        "link": "https://info64.org/ii-copa-diputacion-de-segovia-el-espinar-chess-open-internacional"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXIII Torneo Internacional Gran Hotel Bali Grupo A",
         "ciudad": "Benidorm",
         "fechaini": "28-11-2026",
@@ -1450,18 +1498,6 @@
         "lat": 38.5406255,
         "lon": -0.1290929,
         "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Escolar 26/27 Club AMIGOS DEL AJEDREZ EDUCATIVO",
-        "ciudad": "San Lorenzo de El Escorial",
-        "fechaini": "09-09-2026",
-        "fechafin": "10-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5926673,
-        "lon": -4.1471642,
-        "link": "https://info64.org/torneo-escolar-club-amigos-del-ajedrez-educativo"
     },
     {
         "origin": "info64",
@@ -1750,30 +1786,6 @@
         "lat": 39.0331946,
         "lon": -0.2152033,
         "link": "https://info64.org/campeonato-provincial-individual-preferente-xeraco-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Torneo de Xadrez Relámpago Campus de Ourense",
-        "ciudad": "Ourense",
-        "fechaini": "20-09-2026",
-        "fechafin": "20-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/xii-torneo-de-xadrez-relampago-campus-de-ourense"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Torneo de Xadrez Rápido Campus de Ourense",
-        "ciudad": "Ourense",
-        "fechaini": "19-09-2026",
-        "fechafin": "19-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/xii-torneo-de-xadrez-rapido-campus-de-ourense"
     },
     {
         "origin": "info64",
