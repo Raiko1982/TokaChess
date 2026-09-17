@@ -301,6 +301,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "XII Torneo Internacional de Ajedrez Carthagineses y Romanos Sub 2400",
+        "ciudad": "Cartagena",
+        "fechaini": "18-09-2026",
+        "fechafin": "20-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.6155018,
+        "lon": -0.987511,
+        "link": "https://info64.org/xii-torneo-internacional-de-ajedrez-carthagineses-y-romanos-sub-2400"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Open Transpirenaico Memorial Salvador Casado - Oberena -",
+        "ciudad": "Pamplona",
+        "fechaini": "18-09-2026",
+        "fechafin": "20-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.815686,
+        "lon": -1.6522353,
+        "link": "https://info64.org/i-open-transpirenaico-memorial-salvador-casado-oberena"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II OPEN DE TORRELODONES Memorial Ramon Torres Grupo B",
+        "ciudad": "Torrelodones, ESP",
+        "fechaini": "18-09-2026",
+        "fechafin": "26-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/ii-open-de-torrelodones-memorial-ramon-torres-grupo-b"
+    },
+    {
+        "origin": "info64",
         "nombre": "II OPEN DE TORRELODONES Memorial Ramon Torres Grupo A",
         "ciudad": "Torrelodones, ESP",
         "fechaini": "18-09-2026",
@@ -325,18 +361,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II OPEN DE TORRELODONES Memorial Ramon Torres Grupo B",
-        "ciudad": "Torrelodones, ESP",
-        "fechaini": "18-09-2026",
-        "fechafin": "26-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/ii-open-de-torrelodones-memorial-ramon-torres-grupo-b"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI TORNEO CASINO DE TOMELLOSO 2026",
         "ciudad": "Tomelloso",
         "fechaini": "18-09-2026",
@@ -346,18 +370,6 @@
         "lat": 39.1585549,
         "lon": -3.0214851,
         "link": "https://info64.org/v-torneo-casino-de-tomelloso"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Open Transpirenaico Memorial Salvador Casado - Oberena -",
-        "ciudad": "Pamplona",
-        "fechaini": "18-09-2026",
-        "fechafin": "20-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.815686,
-        "lon": -1.6522353,
-        "link": "https://info64.org/i-open-transpirenaico-memorial-salvador-casado-oberena"
     },
     {
         "origin": "info64",
@@ -394,18 +406,6 @@
         "lat": 43.2949177,
         "lon": -2.9887476,
         "link": "https://info64.org/xxxix-trofeo-ayuntamiento-de-barakaldo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Torneo Internacional de Ajedrez Carthagineses y Romanos Sub 2400",
-        "ciudad": "Cartagena",
-        "fechaini": "18-09-2026",
-        "fechafin": "20-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6155018,
-        "lon": -0.987511,
-        "link": "https://info64.org/xii-torneo-internacional-de-ajedrez-carthagineses-y-romanos-sub-2400"
     },
     {
         "origin": "chess-results",
@@ -481,15 +481,39 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Preferente, Castellon",
-        "ciudad": "Castellon",
+        "nombre": "Campeonato Provincial Individual Primera, Benimaclet",
+        "ciudad": "Benimaclet, Valencia",
         "fechaini": "19-09-2026",
         "fechafin": "14-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.2518568,
-        "lon": -0.0615052,
-        "link": "https://info64.org/campeonato-provincial-individual-preferente-castellon-1-1-1"
+        "lat": 39.487148,
+        "lon": -0.3566225,
+        "link": "https://info64.org/campeonato-provincial-invidual-primera-benimaclet"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Primera, Almussafes",
+        "ciudad": "Almussafes",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2924334,
+        "lon": -0.4138577,
+        "link": "https://info64.org/campeonato-provincial-individual-primera-almussafes-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Internacional Ciudad de Santurtzi",
+        "ciudad": "Santurtzi",
+        "fechaini": "19-09-2026",
+        "fechafin": "19-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3287527,
+        "lon": -3.0318766,
+        "link": "https://info64.org/ii-open-internaciona-ciudad-de-santurtzi"
     },
     {
         "origin": "info64",
@@ -505,15 +529,123 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Primera, Benimaclet",
-        "ciudad": "Benimaclet, Valencia",
+        "nombre": "Campeonato Provincial Individual Preferente, Alicante",
+        "ciudad": "Alicante",
         "fechaini": "19-09-2026",
         "fechafin": "14-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.487148,
-        "lon": -0.3566225,
-        "link": "https://info64.org/campeonato-provincial-invidual-primera-benimaclet"
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/campeonato-provincial-individual-preferente-alicante-1-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Segunda, Almussafes",
+        "ciudad": "Almussafes",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2924334,
+        "lon": -0.4138577,
+        "link": "https://info64.org/campeonato-provincial-individual-segunda-almussafes-1-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo de Ajedrez FreeStyle",
+        "ciudad": "Viso del Marqués",
+        "fechaini": "19-09-2026",
+        "fechafin": "19-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5217338,
+        "lon": -3.5627159,
+        "link": "https://info64.org/i-torneo-de-ajedrez-freestyle"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Segunda, Monteolivete",
+        "ciudad": "Monteolivete",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4593043,
+        "lon": -0.3638668,
+        "link": "https://info64.org/campeonato-provincial-individual-segunda-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Absoluto, Alicante",
+        "ciudad": "Alicante",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "link": "https://info64.org/campeonato-provincial-individual-absoluto-alicante-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Preferente, Almussafes",
+        "ciudad": "Almussafes",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2924334,
+        "lon": -0.4138577,
+        "link": "https://info64.org/campeonato-provincial-individual-preferente-almussafes-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Segunda, Alzira",
+        "ciudad": "Alzira",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.151212,
+        "lon": -0.4346556,
+        "link": "https://info64.org/campeonato-provincial-individual-segunda-alzira-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI MEMORAL DR. JOSÉ AGUILERA",
+        "ciudad": "Santomera, Murcia",
+        "fechaini": "19-09-2026",
+        "fechafin": "19-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0816732,
+        "lon": -1.0588684,
+        "link": "https://info64.org/vi-memoral-dr-jose-aguilera"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV OPEN INTERNACIONAL DE RAPIDAS CIUDAD DE DAROCA",
+        "ciudad": "Daroca",
+        "fechaini": "19-09-2026",
+        "fechafin": "19-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.1133264,
+        "lon": -1.4170637,
+        "link": "https://info64.org/iv-open-internacional-de-rapidas-ciudad-de-daroca"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Preferente, Castellon",
+        "ciudad": "Castellon",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.2518568,
+        "lon": -0.0615052,
+        "link": "https://info64.org/campeonato-provincial-individual-preferente-castellon-1-1-1"
     },
     {
         "origin": "info64",
@@ -541,18 +673,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo de Ajedrez FreeStyle",
-        "ciudad": "Viso del Marqués",
-        "fechaini": "19-09-2026",
-        "fechafin": "19-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5217338,
-        "lon": -3.5627159,
-        "link": "https://info64.org/i-torneo-de-ajedrez-freestyle"
-    },
-    {
-        "origin": "info64",
         "nombre": "LIII TORNEO DE AJEDREZ FERIA DE YECLA 2026",
         "ciudad": "Yecla",
         "fechaini": "19-09-2026",
@@ -562,18 +682,6 @@
         "lat": 38.6135956,
         "lon": -1.1157882,
         "link": "https://info64.org/liii-torneo-de-ajedrez-feria-de-yecla-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open Internacional Ciudad de Santurtzi",
-        "ciudad": "Santurtzi",
-        "fechaini": "19-09-2026",
-        "fechafin": "19-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3287527,
-        "lon": -3.0318766,
-        "link": "https://info64.org/ii-open-internaciona-ciudad-de-santurtzi"
     },
     {
         "origin": "info64",
@@ -598,18 +706,6 @@
         "lat": 40.481954,
         "lon": -3.363981,
         "link": "https://info64.org/fiestas-patronales-virgen-del-val-2026-absoluto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Segunda, Monteolivete",
-        "ciudad": "Monteolivete",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4593043,
-        "lon": -0.3638668,
-        "link": "https://info64.org/campeonato-provincial-individual-segunda-1"
     },
     {
         "origin": "info64",
@@ -661,18 +757,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Segunda, Alzira",
-        "ciudad": "Alzira",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.151212,
-        "lon": -0.4346556,
-        "link": "https://info64.org/campeonato-provincial-individual-segunda-alzira-1-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "VII TORNEO FIESTAS PATRONALES MOLINA DE SEGURA, SUB10",
         "ciudad": "Molina de Segura, Murcia",
         "fechaini": "19-09-2026",
@@ -682,30 +766,6 @@
         "lat": 38.0572339,
         "lon": -1.2095298,
         "link": "https://info64.org/vii-torneo-fiestas-patronales-molina-de-segura-sub10"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI MEMORAL DR. JOSÉ AGUILERA",
-        "ciudad": "Santomera, Murcia",
-        "fechaini": "19-09-2026",
-        "fechafin": "19-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0816732,
-        "lon": -1.0588684,
-        "link": "https://info64.org/vi-memoral-dr-jose-aguilera"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Primera, Almussafes",
-        "ciudad": "Almussafes",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2924334,
-        "lon": -0.4138577,
-        "link": "https://info64.org/campeonato-provincial-individual-primera-almussafes-1-1"
     },
     {
         "origin": "info64",
@@ -730,18 +790,6 @@
         "lat": 36.5074781,
         "lon": -4.8047219,
         "link": "https://info64.org/torneo-de-ajedrez-world-wellness-weekend-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV OPEN INTERNACIONAL DE RAPIDAS CIUDAD DE DAROCA",
-        "ciudad": "Daroca",
-        "fechaini": "19-09-2026",
-        "fechafin": "19-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.1133264,
-        "lon": -1.4170637,
-        "link": "https://info64.org/iv-open-internacional-de-rapidas-ciudad-de-daroca"
     },
     {
         "origin": "info64",
@@ -1021,30 +1069,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Segunda, Almussafes",
-        "ciudad": "Almussafes",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2924334,
-        "lon": -0.4138577,
-        "link": "https://info64.org/campeonato-provincial-individual-segunda-almussafes-1-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Preferente, Almussafes",
-        "ciudad": "Almussafes",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2924334,
-        "lon": -0.4138577,
-        "link": "https://info64.org/campeonato-provincial-individual-preferente-almussafes-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI TORNEO PROMOCION XADREZ NARON SUB10",
         "ciudad": "NARON",
         "fechaini": "19-09-2026",
@@ -1105,18 +1129,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Preferente, Alicante",
-        "ciudad": "Alicante",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/campeonato-provincial-individual-preferente-alicante-1-1-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Individual Preferente, Alcoy",
         "ciudad": "Alcoy",
         "fechaini": "19-09-2026",
@@ -1126,18 +1138,6 @@
         "lat": 38.6982348,
         "lon": -0.4747619,
         "link": "https://info64.org/campeonato-provincial-individual-preferente-alcoy-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Absoluto, Alicante",
-        "ciudad": "Alicante",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3436365,
-        "lon": -0.4881708,
-        "link": "https://info64.org/campeonato-provincial-individual-absoluto-alicante-1-1"
     },
     {
         "origin": "info64",
@@ -1393,27 +1393,39 @@
     },
     {
         "origin": "info64",
-        "nombre": "XIX Memorial Germán Montaner",
-        "ciudad": "Altura",
+        "nombre": "III Concello de Ordes",
+        "ciudad": "Ordes - A Coruña",
         "fechaini": "20-09-2026",
         "fechafin": "20-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.8512304,
-        "lon": -0.5128608,
-        "link": "https://info64.org/xix-memorial-german-montaner"
+        "lat": 43.0852753,
+        "lon": -8.4015362,
+        "link": "https://info64.org/iii-concello-de-ordes"
     },
     {
         "origin": "info64",
-        "nombre": "Open Internacional de Ajedrez de Chamartin 2026 (489316)",
-        "ciudad": "C. de Pradillo, 3 28002 Madrid",
+        "nombre": "Campeonato de Ajedrez Rápido por Equipos de Madrid 2026-2027",
+        "ciudad": "Madrid",
+        "fechaini": "20-09-2026",
+        "fechafin": "08-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/team/campeonato-de-ajedrez-rapido-por-equipos-de-madrid-2026-2027"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Torneig d'Escoles - La Primitiva Xàtiva",
+        "ciudad": "Xàtiva",
         "fechaini": "20-09-2026",
         "fechafin": "20-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4488298,
-        "lon": -3.6767354,
-        "link": "https://info64.org/open-internacional-de-ajedrez-de-chamartin-1"
+        "lat": 38.988085,
+        "lon": -0.5200428,
+        "link": "https://info64.org/xii-torneig-descoles-la-primitiva-xativa"
     },
     {
         "origin": "info64",
@@ -1441,15 +1453,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Concello de Ordes",
-        "ciudad": "Ordes - A Coruña",
+        "nombre": "XIX Memorial Germán Montaner",
+        "ciudad": "Altura",
         "fechaini": "20-09-2026",
         "fechafin": "20-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.0852753,
-        "lon": -8.4015362,
-        "link": "https://info64.org/iii-concello-de-ordes"
+        "lat": 39.8512304,
+        "lon": -0.5128608,
+        "link": "https://info64.org/xix-memorial-german-montaner"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Open Internacional de Ajedrez de Chamartin 2026 (489316)",
+        "ciudad": "C. de Pradillo, 3 28002 Madrid",
+        "fechaini": "20-09-2026",
+        "fechafin": "20-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4488298,
+        "lon": -3.6767354,
+        "link": "https://info64.org/open-internacional-de-ajedrez-de-chamartin-1"
     },
     {
         "origin": "info64",
@@ -1474,18 +1498,6 @@
         "lat": 36.962894,
         "lon": -2.2063758,
         "link": "https://info64.org/torneo-de-ajedrez-villa-de-nijar-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Torneig d'Escoles - La Primitiva Xàtiva",
-        "ciudad": "Xàtiva",
-        "fechaini": "20-09-2026",
-        "fechafin": "20-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.988085,
-        "lon": -0.5200428,
-        "link": "https://info64.org/xii-torneig-descoles-la-primitiva-xativa"
     },
     {
         "origin": "info64",
@@ -2581,6 +2593,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV LIGA LOCAL",
+        "ciudad": "Almansa",
+        "fechaini": "02-10-2026",
+        "fechafin": "27-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.8682065,
+        "lon": -1.0978627,
+        "link": "https://info64.org/iv-liga-local"
+    },
+    {
+        "origin": "info64",
         "nombre": "II Open Gambito de Guada Sub 2400",
         "ciudad": "Guadalajara",
         "fechaini": "02-10-2026",
@@ -2650,18 +2674,6 @@
         "lat": 43.3431164,
         "lon": -3.0078627,
         "link": "https://info64.org/xi-open-internacional-de-ajedrez-ayuntamiento-de-getxo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV LIGA LOCAL",
-        "ciudad": "Almansa",
-        "fechaini": "02-10-2026",
-        "fechafin": "27-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.8682065,
-        "lon": -1.0978627,
-        "link": "https://info64.org/iv-liga-local"
     },
     {
         "origin": "chess-results",
@@ -3061,18 +3073,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 7: MOTRIL",
-        "ciudad": "Motril",
-        "fechaini": "04-10-2026",
-        "fechafin": "04-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7450888,
-        "lon": -3.5207655,
-        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026-torneo-7-motril"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Torneig Infantil d'Anna",
         "ciudad": "Anna",
         "fechaini": "04-10-2026",
@@ -3082,6 +3082,18 @@
         "lat": 39.0204311,
         "lon": -0.6461361,
         "link": "https://info64.org/iii-torneig-infantil-danna"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Circuito Provincial de Ajedrez 2026 - Torneo 7: MOTRIL",
+        "ciudad": "Motril",
+        "fechaini": "04-10-2026",
+        "fechafin": "04-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7450888,
+        "lon": -3.5207655,
+        "link": "https://info64.org/vi-circuito-provincial-de-ajedrez-2026-torneo-7-motril"
     },
     {
         "origin": "info64",
@@ -3673,6 +3685,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Torneig Infantil El Genovés",
+        "ciudad": "El Genovés",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9884181,
+        "lon": -0.4704196,
+        "link": "https://info64.org/i-torneig-infantil-el-genoves"
+    },
+    {
+        "origin": "info64",
         "nombre": "II Open 300 Torres Infantil",
         "ciudad": "Onda",
         "fechaini": "18-10-2026",
@@ -3694,18 +3718,6 @@
         "lat": 40.1197677,
         "lon": -3.8042363,
         "link": "https://info64.org/ii-t-ajedrez-en-yeles"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneig Infantil El Genovés",
-        "ciudad": "El Genovés",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9884181,
-        "lon": -0.4704196,
-        "link": "https://info64.org/i-torneig-infantil-el-genoves"
     },
     {
         "origin": "info64",
