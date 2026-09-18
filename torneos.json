@@ -481,6 +481,54 @@
     },
     {
         "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Segunda, Xeraco",
+        "ciudad": "Xeraco",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.0331946,
+        "lon": -0.2152033,
+        "link": "https://info64.org/campeonato-provincial-individual-segunda-xeraco-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Primera, Xeraco",
+        "ciudad": "Xeraco",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.0331946,
+        "lon": -0.2152033,
+        "link": "https://info64.org/campeonato-provincial-individual-primera-xeraco-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Preferente, Xeraco",
+        "ciudad": "Xeraco",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.0331946,
+        "lon": -0.2152033,
+        "link": "https://info64.org/campeonato-provincial-individual-preferente-xeraco-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Torneo de Xadrez Rápido Campus de Ourense",
+        "ciudad": "Ourense",
+        "fechaini": "19-09-2026",
+        "fechafin": "19-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1939629,
+        "lon": -7.537124,
+        "link": "https://info64.org/xii-torneo-de-xadrez-rapido-campus-de-ourense"
+    },
+    {
+        "origin": "info64",
         "nombre": "II Open Internacional Ciudad de Santurtzi",
         "ciudad": "Santurtzi",
         "fechaini": "19-09-2026",
@@ -901,30 +949,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XII Torneo de Xadrez Rápido Campus de Ourense",
-        "ciudad": "Ourense",
-        "fechaini": "19-09-2026",
-        "fechafin": "19-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/xii-torneo-de-xadrez-rapido-campus-de-ourense"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Primera, Xeraco",
-        "ciudad": "Xeraco",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.0331946,
-        "lon": -0.2152033,
-        "link": "https://info64.org/campeonato-provincial-individual-primera-xeraco-1-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Individual Primera, Alcoy",
         "ciudad": "Alcoy",
         "fechaini": "19-09-2026",
@@ -946,30 +970,6 @@
         "lat": 40.2518568,
         "lon": -0.0615052,
         "link": "https://info64.org/campeonato-provincial-individual-absoluto-castellon-1-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Segunda, Xeraco",
-        "ciudad": "Xeraco",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.0331946,
-        "lon": -0.2152033,
-        "link": "https://info64.org/campeonato-provincial-individual-segunda-xeraco-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Preferente, Xeraco",
-        "ciudad": "Xeraco",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.0331946,
-        "lon": -0.2152033,
-        "link": "https://info64.org/campeonato-provincial-individual-preferente-xeraco-1-1"
     },
     {
         "origin": "info64",
@@ -1465,6 +1465,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Campeonato de Ajedrez Rápido por Equipos de Madrid 2026-2027",
+        "ciudad": "Madrid",
+        "fechaini": "20-09-2026",
+        "fechafin": "08-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/team/campeonato-de-ajedrez-rapido-por-equipos-de-madrid-2026-2027"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Torneo de Xadrez Relámpago Campus de Ourense",
+        "ciudad": "Ourense",
+        "fechaini": "20-09-2026",
+        "fechafin": "20-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1939629,
+        "lon": -7.537124,
+        "link": "https://info64.org/xii-torneo-de-xadrez-relampago-campus-de-ourense"
+    },
+    {
+        "origin": "info64",
         "nombre": "XII Torneig d'Escoles - La Primitiva Xàtiva",
         "ciudad": "Xàtiva",
         "fechaini": "20-09-2026",
@@ -1561,18 +1585,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Ajedrez Rápido por Equipos de Madrid 2026-2027",
-        "ciudad": "Madrid",
-        "fechaini": "20-09-2026",
-        "fechafin": "08-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/team/campeonato-de-ajedrez-rapido-por-equipos-de-madrid-2026-2027"
-    },
-    {
-        "origin": "info64",
         "nombre": "XIX Memorial Germán Montaner",
         "ciudad": "Altura",
         "fechaini": "20-09-2026",
@@ -1618,18 +1630,6 @@
         "lat": 36.962894,
         "lon": -2.2063758,
         "link": "https://info64.org/torneo-de-ajedrez-villa-de-nijar-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Torneo de Xadrez Relámpago Campus de Ourense",
-        "ciudad": "Ourense",
-        "fechaini": "20-09-2026",
-        "fechafin": "20-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/xii-torneo-de-xadrez-relampago-campus-de-ourense"
     },
     {
         "origin": "info64",
