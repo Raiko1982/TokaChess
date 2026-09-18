@@ -421,18 +421,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "I Torneig Escacs llampec Monar't",
-        "ciudad": "Girona",
-        "fechaini": "18-09-2026",
-        "fechafin": "18-09-2026",
-        "organizador": "",
-        "ritmo": "Rapid: 5min +3sec increment per move starting from move 1",
-        "lat": 41.9793006,
-        "lon": 2.8199439,
-        "link": "https://chess-results.com/tnr1499449.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "I Torneo Ajedrez Acústico Cadrete",
         "ciudad": "PUB Rana 2000, Cadrete",
         "fechaini": "18-09-2026",
@@ -469,6 +457,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "III Torneo de Rápidas de Septiembre La Zubia 2026",
+        "ciudad": "La Zubia",
+        "fechaini": "18-09-2026",
+        "fechafin": "18-09-2026",
+        "organizador": "C. A. Villa de La Zubia",
+        "ritmo": "5'+2''",
+        "lat": 37.1206862,
+        "lon": -3.5850833,
+        "link": "https://chess-results.com/tnr1499827.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "IV Torneo Nocturno de Ajedrez PARQUE DEL ALAMILLO",
         "ciudad": "Patio del Cortijo, Parque del Alamillo, Sevilla",
         "fechaini": "18-09-2026",
@@ -481,12 +481,24 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "LOST OF TT CHAMP",
+        "nombre": "Lliga Club d'Escacs Calp 2026",
+        "ciudad": "Calp",
+        "fechaini": "18-09-2026",
+        "fechafin": "18-09-2026",
+        "organizador": "Club d'Escacs Calp",
+        "ritmo": "5+3",
+        "lat": 38.6443252,
+        "lon": 0.046012,
+        "link": "https://chess-results.com/tnr1499854.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "lott champ",
         "ciudad": "",
         "fechaini": "18-09-2026",
         "fechafin": "18-09-2026",
         "organizador": "",
-        "ritmo": "65",
+        "ritmo": "10",
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1499723.aspx?lan=2"
@@ -1406,13 +1418,13 @@
     {
         "origin": "chess-results",
         "nombre": "Jornada I de Ajedrez LOS BERMEJALES",
-        "ciudad": "Parque de los Bermejales-2 Avenida de Irlanda. 41012-Sevilla",
+        "ciudad": "Avenida de Irlanda. 41012-Sevilla",
         "fechaini": "19-09-2026",
         "fechafin": "19-09-2026",
         "organizador": "Ayuntamiento de Sevilla - Distrito Bellavista - La Palmera",
         "ritmo": "8´+3´´",
-        "lat": 40.4167,
-        "lon": -3.7033,
+        "lat": 37.3425121,
+        "lon": -5.9784656,
         "link": "https://chess-results.com/tnr1475147.aspx?lan=2"
     },
     {
@@ -1849,8 +1861,8 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Torneo de Ajedrez Villa de Nijar 2026",
-        "ciudad": "Bijar",
+        "nombre": "Torneo de Ajedrez Villa de Nijar 2026- Sub1700 par",
+        "ciudad": "Plaza La Glorieta de Níjar, Almería",
         "fechaini": "20-09-2026",
         "fechafin": "20-09-2026",
         "organizador": "Ayuntamiento de Nijar",
@@ -2338,6 +2350,18 @@
         "lat": 42.1939629,
         "lon": -7.537124,
         "link": "https://info64.org/torneo-xadrez-activo-pontevella-2026"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "I Torneig Escacs llampec Monar't",
+        "ciudad": "Girona",
+        "fechaini": "26-09-2026",
+        "fechafin": "26-09-2026",
+        "organizador": "",
+        "ritmo": "Blitz: 5min +3sec increment per move starting from move 1",
+        "lat": 41.9793006,
+        "lon": 2.8199439,
+        "link": "https://chess-results.com/tnr1499449.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -3619,8 +3643,8 @@
         "fechafin": "10-10-2026",
         "organizador": "Comerciants de Gata de Gorgos",
         "ritmo": "5 minuts+3 segons d'increment per jugada",
-        "lat": 38.773813,
-        "lon": 0.0858008,
+        "lat": 38.7743144,
+        "lon": 0.085629,
         "link": "https://chess-results.com/tnr1488131.aspx?lan=2"
     },
     {
@@ -3631,8 +3655,8 @@
         "fechafin": "10-10-2026",
         "organizador": "Comerciants de Gata de Gorgos",
         "ritmo": "5 minuts+3 segons d'increment per jugada",
-        "lat": 38.773813,
-        "lon": 0.0858008,
+        "lat": 38.7743144,
+        "lon": 0.085629,
         "link": "https://chess-results.com/tnr1488128.aspx?lan=2"
     },
     {
