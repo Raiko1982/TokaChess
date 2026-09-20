@@ -103,8 +103,8 @@
         "fechafin": "01-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.0166291,
-        "lon": -1.1622696,
+        "lat": 38.0163591,
+        "lon": -1.1620992,
         "link": "https://info64.org/team/ii-liga-por-equipos-thader-chess"
     },
     {
@@ -361,39 +361,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Segunda, Xeraco",
-        "ciudad": "Xeraco",
+        "nombre": "Campeonato Provincial Individual Preferente, Alcoy",
+        "ciudad": "Alcoy",
         "fechaini": "19-09-2026",
         "fechafin": "14-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.0331946,
-        "lon": -0.2152033,
-        "link": "https://info64.org/campeonato-provincial-individual-segunda-xeraco-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Social de Ajedrez 2026 Club de Campo Villa de Madrid",
-        "ciudad": "Madrid",
-        "fechaini": "19-09-2026",
-        "fechafin": "28-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/torneo-social-de-ajedrez-2026-club-de-campo-villa-de-madrid"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Primera, Mutxamel",
-        "ciudad": "Mutxamel",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4136518,
-        "lon": -0.444471,
-        "link": "https://info64.org/campeonato-provincial-individual-primera-mutxamel-1"
+        "lat": 38.6982348,
+        "lon": -0.4747619,
+        "link": "https://info64.org/campeonato-provincial-individual-preferente-alcoy-1-1"
     },
     {
         "origin": "info64",
@@ -430,6 +406,42 @@
         "lat": 39.151212,
         "lon": -0.4346556,
         "link": "https://info64.org/campeonato-provincial-individual-preferente-alzira-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Social de Ajedrez 2026 Club de Campo Villa de Madrid",
+        "ciudad": "Madrid",
+        "fechaini": "19-09-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/torneo-social-de-ajedrez-2026-club-de-campo-villa-de-madrid"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Segunda, Xeraco",
+        "ciudad": "Xeraco",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.0331946,
+        "lon": -0.2152033,
+        "link": "https://info64.org/campeonato-provincial-individual-segunda-xeraco-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Primera, Mutxamel",
+        "ciudad": "Mutxamel",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4136518,
+        "lon": -0.444471,
+        "link": "https://info64.org/campeonato-provincial-individual-primera-mutxamel-1"
     },
     {
         "origin": "info64",
@@ -541,18 +553,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Preferente, Alcoy",
-        "ciudad": "Alcoy",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.6982348,
-        "lon": -0.4747619,
-        "link": "https://info64.org/campeonato-provincial-individual-preferente-alcoy-1-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Individual Absoluto, Castellon",
         "ciudad": "Castellon",
         "fechaini": "19-09-2026",
@@ -637,30 +637,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Concello de Ordes",
-        "ciudad": "Ordes - A Coruña",
-        "fechaini": "20-09-2026",
-        "fechafin": "20-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.0852753,
-        "lon": -8.4015362,
-        "link": "https://info64.org/iii-concello-de-ordes"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIX Memorial Germán Montaner",
-        "ciudad": "Altura",
-        "fechaini": "20-09-2026",
-        "fechafin": "20-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.8512304,
-        "lon": -0.5128608,
-        "link": "https://info64.org/xix-memorial-german-montaner"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato de Ajedrez Rápido por Equipos de Madrid 2026-2027",
         "ciudad": "Madrid",
         "fechaini": "20-09-2026",
@@ -670,18 +646,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/team/campeonato-de-ajedrez-rapido-por-equipos-de-madrid-2026-2027"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo de Ajedrez Villa de Nijar 2026",
-        "ciudad": "Nijar",
-        "fechaini": "20-09-2026",
-        "fechafin": "20-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.962894,
-        "lon": -2.2063758,
-        "link": "https://info64.org/torneo-de-ajedrez-villa-de-nijar-2026"
     },
     {
         "origin": "chess-results",
@@ -1153,18 +1117,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Torneo de Ajedrez Rápido de Sevilla la Nueva",
-        "ciudad": "Sevilla La Nueva",
-        "fechaini": "26-09-2026",
-        "fechafin": "26-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.3475422,
-        "lon": -4.0275268,
-        "link": "https://info64.org/vi-torneo-de-ajedrez-rapido-de-sevilla-la-nueva"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Torneo Fiestas de Mula (Murcia)",
         "ciudad": "Convento de San Francisco",
         "fechaini": "26-09-2026",
@@ -1174,18 +1126,6 @@
         "lat": 42.4312834,
         "lon": -8.643149,
         "link": "https://info64.org/v-torneo-fiestas-de-mula-murcia"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo ENROQUE PIPORRO",
-        "ciudad": "Aceuchal BADAJOZ",
-        "fechaini": "26-09-2026",
-        "fechafin": "26-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.6479821,
-        "lon": -6.486997,
-        "link": "https://info64.org/i-torneo-enrique-piporro"
     },
     {
         "origin": "info64",
@@ -1201,6 +1141,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXXII Memorial Adolfo Pedrido sub10",
+        "ciudad": "Vilagarcía de Arousa",
+        "fechaini": "26-09-2026",
+        "fechafin": "26-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.5950502,
+        "lon": -8.7430537,
+        "link": "https://info64.org/xxxii-memorial-adolfo-pedrido-sub10"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXXII Memorial Adolfo Pedrido sub12",
         "ciudad": "Vilagarcía de Arousa",
         "fechaini": "26-09-2026",
@@ -1213,18 +1165,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "40º Aniversario EDM de Bargas Promocion",
-        "ciudad": "Bargas",
-        "fechaini": "26-09-2026",
-        "fechafin": "26-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9393212,
-        "lon": -4.0201526,
-        "link": "https://info64.org/t-stmo-cristo-de-la-sala-promocion"
-    },
-    {
-        "origin": "info64",
         "nombre": "X Open de Ajedrez Villa de Frigiliana",
         "ciudad": "Frigiliana",
         "fechaini": "26-09-2026",
@@ -1234,6 +1174,54 @@
         "lat": 36.7909126,
         "lon": -3.8953919,
         "link": "https://info64.org/x-open-de-ajedrez-villa-de-frigiliana"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open de Otono GROS XAKE Udazkeneko Irekia",
+        "ciudad": "Donostia",
+        "fechaini": "26-09-2026",
+        "fechafin": "21-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3224219,
+        "lon": -1.9838889,
+        "link": "https://info64.org/ii-open-de-otono-gros-xake-udazkeneko-irekia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Torneo de Ajedrez Rápido de Sevilla la Nueva",
+        "ciudad": "Sevilla La Nueva",
+        "fechaini": "26-09-2026",
+        "fechafin": "26-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.3475422,
+        "lon": -4.0275268,
+        "link": "https://info64.org/vi-torneo-de-ajedrez-rapido-de-sevilla-la-nueva"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo ENROQUE PIPORRO",
+        "ciudad": "Aceuchal BADAJOZ",
+        "fechaini": "26-09-2026",
+        "fechafin": "26-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.6479821,
+        "lon": -6.486997,
+        "link": "https://info64.org/i-torneo-enrique-piporro"
+    },
+    {
+        "origin": "info64",
+        "nombre": "40º Aniversario EDM de Bargas Promocion",
+        "ciudad": "Bargas",
+        "fechaini": "26-09-2026",
+        "fechafin": "26-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9393212,
+        "lon": -4.0201526,
+        "link": "https://info64.org/t-stmo-cristo-de-la-sala-promocion"
     },
     {
         "origin": "info64",
@@ -1270,18 +1258,6 @@
         "lat": 42.5950502,
         "lon": -8.7430537,
         "link": "https://info64.org/xxxii-memorial-adolfo-pedrido-sub14"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXXII Memorial Adolfo Pedrido sub10",
-        "ciudad": "Vilagarcía de Arousa",
-        "fechaini": "26-09-2026",
-        "fechafin": "26-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5950502,
-        "lon": -8.7430537,
-        "link": "https://info64.org/xxxii-memorial-adolfo-pedrido-sub10"
     },
     {
         "origin": "info64",
@@ -1342,18 +1318,6 @@
         "lat": 43.2072784,
         "lon": -8.3758368,
         "link": "https://info64.org/xii-veran-carral"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open de Otono GROS XAKE Udazkeneko Irekia",
-        "ciudad": "Donostia",
-        "fechaini": "26-09-2026",
-        "fechafin": "21-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3224219,
-        "lon": -1.9838889,
-        "link": "https://info64.org/ii-open-de-otono-gros-xake-udazkeneko-irekia"
     },
     {
         "origin": "info64",
@@ -2266,6 +2230,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1492304.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo escuelas de ajedrez Vicar",
+        "ciudad": "Vicar, Almeria",
+        "fechaini": "04-10-2026",
+        "fechafin": "04-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.8316986,
+        "lon": -2.6430297,
+        "link": "https://info64.org/i-torneo-escuelas-de-ajedrez-vicar"
     },
     {
         "origin": "info64",
@@ -4273,18 +4249,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Magistral Villa de Zahara 2027",
-        "ciudad": "Zahara",
-        "fechaini": "24-03-2027",
-        "fechafin": "28-03-2027",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.8405841,
-        "lon": -5.3905374,
-        "link": "https://info64.org/vi-magistral-villa-de-zahara-2027"
-    },
-    {
-        "origin": "info64",
         "nombre": "XI Open Internacional de Ajedrez Semana Santa San Vicente del Raspeig 2027 A",
         "ciudad": "San Vicente del Raspeig",
         "fechaini": "24-03-2027",
@@ -4294,6 +4258,18 @@
         "lat": 38.3964248,
         "lon": -0.5250339,
         "link": "https://info64.org/xi-open-internacional-de-ajedrez-semana-santa-san-vicente-del-raspeig-2027-a"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Magistral Villa de Zahara 2027",
+        "ciudad": "Zahara",
+        "fechaini": "24-03-2027",
+        "fechafin": "28-03-2027",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.8405841,
+        "lon": -5.3905374,
+        "link": "https://info64.org/vi-magistral-villa-de-zahara-2027"
     },
     {
         "origin": "info64",
