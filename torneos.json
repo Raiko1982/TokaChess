@@ -103,8 +103,8 @@
         "fechafin": "01-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.0163591,
-        "lon": -1.1620992,
+        "lat": 38.0166291,
+        "lon": -1.1622696,
         "link": "https://info64.org/team/ii-liga-por-equipos-thader-chess"
     },
     {
@@ -649,18 +649,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IX TORNEO CIRCUITO DE VERANO BLITZ Y RAPIDAS NERJA 2026",
-        "ciudad": "NERJA",
-        "fechaini": "23-09-2026",
-        "fechafin": "23-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7468565,
-        "lon": -3.8790164,
-        "link": "https://info64.org/ix-torneo-circuito-de-verano-blitz-y-rapidas-nerja-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "III TORNEO DE AJEDREZ SAN MATEO",
         "ciudad": "LOGRONO",
         "fechaini": "23-09-2026",
@@ -670,6 +658,18 @@
         "lat": 42.4661196,
         "lon": -2.4396676,
         "link": "https://info64.org/iii-torneo-de-ajedrez-san-mateo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IX TORNEO CIRCUITO DE VERANO BLITZ Y RAPIDAS NERJA 2026",
+        "ciudad": "NERJA",
+        "fechaini": "23-09-2026",
+        "fechafin": "23-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7468565,
+        "lon": -3.8790164,
+        "link": "https://info64.org/ix-torneo-circuito-de-verano-blitz-y-rapidas-nerja-2026"
     },
     {
         "origin": "chess-results",
@@ -1537,6 +1537,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Trofeo Rector Curso 2026-27",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "fechaini": "02-10-2026",
+        "fechafin": "02-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 28.1288694,
+        "lon": -15.4349015,
+        "link": "https://info64.org/trofeo-rector-curso-2026-27"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Cto Espana Individual Veteranos S65 2026",
+        "ciudad": "Roqueras de Mar",
+        "fechaini": "02-10-2026",
+        "fechafin": "10-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/cto-espana-individual-veteranos-s65-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "BLITZ FIDE - Ibiza Travel 2026",
         "ciudad": "Sant Antoni de Portmany",
         "fechaini": "02-10-2026",
@@ -1630,18 +1654,6 @@
         "lat": 38.8682065,
         "lon": -1.0978627,
         "link": "https://info64.org/iv-liga-local"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Cto Espana Individual Veteranos S65 2026",
-        "ciudad": "Roqueras de Mar",
-        "fechaini": "02-10-2026",
-        "fechafin": "10-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/cto-espana-individual-veteranos-s65-2026"
     },
     {
         "origin": "chess-results",
