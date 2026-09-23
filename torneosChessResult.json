@@ -295,8 +295,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3915493,
-        "lon": -0.5208521,
+        "lat": 38.3889426,
+        "lon": -0.5176876,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     },
     {
@@ -1201,6 +1201,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "II Torneo Escolar Mossèn Fenollar Sub 10",
+        "ciudad": "PLaza Patraix",
+        "fechaini": "04-10-2026",
+        "fechafin": "04-10-2026",
+        "organizador": "",
+        "ritmo": "10 Finish",
+        "lat": 39.4631042,
+        "lon": -0.3925024,
+        "link": "https://chess-results.com/tnr1503177.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Trofeo Escolar Abadia 2026",
         "ciudad": "",
         "fechaini": "04-10-2026",
@@ -1711,8 +1723,8 @@
         "fechafin": "26-09-2026",
         "organizador": "Amurrio Xake Kluba",
         "ritmo": "10+0",
-        "lat": 43.0540419,
-        "lon": -2.9983025,
+        "lat": 43.0535248,
+        "lon": -2.9960343,
         "link": "https://chess-results.com/tnr1491531.aspx?lan=2"
     },
     {
@@ -1822,6 +1834,30 @@
         "lat": 41.6915847,
         "lon": -0.9101268,
         "link": "https://chess-results.com/tnr1483868.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo Ajedrez Infantil Indifferent Minds San Seba",
+        "ciudad": "C. del Poeta Rafael Morales, 2 San Sebastián de los Reyes",
+        "fechaini": "26-09-2026",
+        "fechafin": "26-09-2026",
+        "organizador": "Club Ajedrez V Centenario San Sebastian de los Reyes",
+        "ritmo": "10 minutos",
+        "lat": 40.5586947,
+        "lon": -3.6134676,
+        "link": "https://chess-results.com/tnr1503193.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo Ajedrez Infantil Indifferent Minds San Seba",
+        "ciudad": "C. del Poeta Rafael Morales, 2 San Sebastián de los Reyes",
+        "fechaini": "26-09-2026",
+        "fechafin": "26-09-2026",
+        "organizador": "Club Ajedrez V Centenario San Sebastian de los Reyes",
+        "ritmo": "10 minutos",
+        "lat": 40.5586947,
+        "lon": -3.6134676,
+        "link": "https://chess-results.com/tnr1503185.aspx?lan=2"
     },
     {
         "origin": "chess-results",
