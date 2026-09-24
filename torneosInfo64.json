@@ -1,6 +1,126 @@
 [
     {
         "origin": "info64",
+        "nombre": "XXXVI Open FEDC (495804)",
+        "ciudad": "Isla",
+        "fechaini": "24-09-2026",
+        "fechafin": "30-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4934282,
+        "lon": -3.5689291,
+        "link": "https://info64.org/xxxvi-open-fedc-495804"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXI Trofeo IberCaja - Ciudad de Zaragoza",
+        "ciudad": "E.M. El Olivar - Zaragoza",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Fiestas de Mula (Murcia)",
+        "ciudad": "Convento de San Francisco",
+        "fechaini": "26-09-2026",
+        "fechafin": "26-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4312834,
+        "lon": -8.643149,
+        "link": "https://info64.org/v-torneo-fiestas-de-mula-murcia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXI Torneo Sub-2400",
+        "ciudad": "Ferrol",
+        "fechaini": "26-09-2026",
+        "fechafin": "27-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5113053,
+        "lon": -8.2624767,
+        "link": "https://info64.org/xxxi-torneo-sub-2400"
+    },
+    {
+        "origin": "info64",
+        "nombre": "40º Aniversario EDM de Bargas Promocion",
+        "ciudad": "Bargas",
+        "fechaini": "26-09-2026",
+        "fechafin": "26-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9393212,
+        "lon": -4.0201526,
+        "link": "https://info64.org/t-stmo-cristo-de-la-sala-promocion"
+    },
+    {
+        "origin": "info64",
+        "nombre": "40º Aniversario EDM de Bargas",
+        "ciudad": "Bargas",
+        "fechaini": "26-09-2026",
+        "fechafin": "26-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.9393212,
+        "lon": -4.0201526,
+        "link": "https://info64.org/t-stmo-cristo-de-la-sala-1-1-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo de los Viernes de Mikel Gurea 2026-2027",
+        "ciudad": "Burlada",
+        "fechaini": "24-09-2026",
+        "fechafin": "24-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8230299,
+        "lon": -1.614076,
+        "link": "https://info64.org/i-torneo-de-los-viernes-de-mikel-gurea-2026-2027"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VII Open Internacional La Nucía Grupo A Open",
+        "ciudad": "La Nucía",
+        "fechaini": "07-10-2026",
+        "fechafin": "12-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.6133727,
+        "lon": -0.1257319,
+        "link": "https://info64.org/vii-open-internacional-la-nucia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VII Open Internacional La Nucía Grupo B Sub-1700",
+        "ciudad": "La Nucía",
+        "fechaini": "10-10-2026",
+        "fechafin": "11-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.6133727,
+        "lon": -0.1257319,
+        "link": "https://info64.org/vii-open-internacional-la-nucia-grupo-b-sub-1700"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Yebel",
+        "ciudad": "Los Yebenes",
+        "fechaini": "02-10-2026",
+        "fechafin": "04-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.5823444,
+        "lon": -3.8702361,
+        "link": "https://info64.org/ii-open-yebel"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Torneig Escacs per Equips La Vila Joiosa",
         "ciudad": "La Vila Joiosa",
         "fechaini": "27-09-2026",
@@ -313,18 +433,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Torneo Fiestas de Mula (Murcia)",
-        "ciudad": "Convento de San Francisco",
-        "fechaini": "26-09-2026",
-        "fechafin": "26-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4312834,
-        "lon": -8.643149,
-        "link": "https://info64.org/v-torneo-fiestas-de-mula-murcia"
-    },
-    {
-        "origin": "info64",
         "nombre": "V Blitz Nocturno- Cena en Guadassuar",
         "ciudad": "Guadassuar",
         "fechaini": "25-09-2026",
@@ -526,18 +634,6 @@
         "lat": 39.5300573,
         "lon": -0.4109383,
         "link": "https://info64.org/i-torneo-santa-barbara-club-de-campo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IX TORNEO CIRCUITO DE VERANO BLITZ Y RAPIDAS NERJA 2026",
-        "ciudad": "NERJA",
-        "fechaini": "23-09-2026",
-        "fechafin": "23-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7468565,
-        "lon": -3.8790164,
-        "link": "https://info64.org/ix-torneo-circuito-de-verano-blitz-y-rapidas-nerja-2026"
     },
     {
         "origin": "info64",
@@ -805,18 +901,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXXVI Open FEDC (495804)",
-        "ciudad": "Isla",
-        "fechaini": "24-09-2026",
-        "fechafin": "30-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4934282,
-        "lon": -3.5689291,
-        "link": "https://info64.org/xxxvi-open-fedc-495804"
-    },
-    {
-        "origin": "info64",
         "nombre": "BENIDORM CHESS OPEN B Sub-2000 2026",
         "ciudad": "Benidorm",
         "fechaini": "25-10-2026",
@@ -949,30 +1033,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VII Open Internacional La Nucía Grupo B Sub-1700",
-        "ciudad": "La Nucía",
-        "fechaini": "10-10-2026",
-        "fechafin": "11-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.6133727,
-        "lon": -0.1257319,
-        "link": "https://info64.org/vii-open-internacional-la-nucia-grupo-b-sub-1700"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VII Open Internacional La Nucía Grupo A Open",
-        "ciudad": "La Nucía",
-        "fechaini": "07-10-2026",
-        "fechafin": "12-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.6133727,
-        "lon": -0.1257319,
-        "link": "https://info64.org/vii-open-internacional-la-nucia"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Magistral Internacional La Nucía",
         "ciudad": "La Nucía",
         "fechaini": "06-10-2026",
@@ -1018,18 +1078,6 @@
         "lat": 38.5613352,
         "lon": -6.3392388,
         "link": "https://info64.org/vi-torneo-virgen-del-pilar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXI Trofeo IberCaja - Ciudad de Zaragoza",
-        "ciudad": "E.M. El Olivar - Zaragoza",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
     },
     {
         "origin": "info64",
@@ -1297,30 +1345,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "40º Aniversario EDM de Bargas",
-        "ciudad": "Bargas",
-        "fechaini": "26-09-2026",
-        "fechafin": "26-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9393212,
-        "lon": -4.0201526,
-        "link": "https://info64.org/t-stmo-cristo-de-la-sala-1-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXXI Torneo Sub-2400",
-        "ciudad": "Ferrol",
-        "fechaini": "26-09-2026",
-        "fechafin": "27-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5113053,
-        "lon": -8.2624767,
-        "link": "https://info64.org/xxxi-torneo-sub-2400"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV Open Internacional de Ajedrez Concejo de Aller",
         "ciudad": "Moreda",
         "fechaini": "17-10-2026",
@@ -1438,18 +1462,6 @@
         "lat": 36.8316986,
         "lon": -2.6430297,
         "link": "https://info64.org/i-torneo-escuelas-de-ajedrez-vicar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "40º Aniversario EDM de Bargas Promocion",
-        "ciudad": "Bargas",
-        "fechaini": "26-09-2026",
-        "fechafin": "26-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.9393212,
-        "lon": -4.0201526,
-        "link": "https://info64.org/t-stmo-cristo-de-la-sala-promocion"
     },
     {
         "origin": "info64",
@@ -1681,18 +1693,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Open Yebel",
-        "ciudad": "Los Yebenes",
-        "fechaini": "02-10-2026",
-        "fechafin": "04-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5823444,
-        "lon": -3.8702361,
-        "link": "https://info64.org/ii-open-yebel"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Avanzado Otono 2026",
         "ciudad": "Alicante",
         "fechaini": "02-10-2026",
@@ -1783,8 +1783,8 @@
         "fechafin": "01-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.0163591,
-        "lon": -1.1620992,
+        "lat": 38.0166291,
+        "lon": -1.1622696,
         "link": "https://info64.org/team/ii-liga-por-equipos-thader-chess"
     },
     {
