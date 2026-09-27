@@ -79,8 +79,8 @@
         "fechafin": "01-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.0163591,
-        "lon": -1.1620992,
+        "lat": 38.0166291,
+        "lon": -1.1622696,
         "link": "https://info64.org/team/ii-liga-por-equipos-thader-chess"
     },
     {
@@ -202,6 +202,18 @@
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1502563.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Segunda, Monteolivete",
+        "ciudad": "Monteolivete",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4593043,
+        "lon": -0.3638668,
+        "link": "https://info64.org/campeonato-provincial-individual-segunda-1"
     },
     {
         "origin": "info64",
@@ -361,18 +373,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Segunda, Monteolivete",
-        "ciudad": "Monteolivete",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4593043,
-        "lon": -0.3638668,
-        "link": "https://info64.org/campeonato-provincial-individual-segunda-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Individual Primera, Almussafes",
         "ciudad": "Almussafes",
         "fechaini": "19-09-2026",
@@ -529,6 +529,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Campeonato de España Individual de Ajedrez Inclusivo 2026",
+        "ciudad": "Roquetas de Mar",
+        "fechaini": "25-09-2026",
+        "fechafin": "27-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7630203,
+        "lon": -2.6115886,
+        "link": "https://info64.org/campeonato-de-espana-individual-de-ajedrez-inclusivo-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VII Open Internacional de Ajedrez Sub 2200 FIDE Costa de la Luz 2026",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "25-09-2026",
+        "fechafin": "27-09-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub-2200-fide-costa-de-la-luz"
+    },
+    {
+        "origin": "info64",
         "nombre": "XII Open Internacional de Ajedrez Ciudad de Albacete Sub2400",
         "ciudad": "Albacete",
         "fechaini": "25-09-2026",
@@ -550,30 +574,6 @@
         "lat": 38.9950921,
         "lon": -1.8559154,
         "link": "https://info64.org/xii-open-internacional-de-ajedrez-ciudad-de-albacete-sub1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VII Open Internacional de Ajedrez Sub 2200 FIDE Costa de la Luz 2026",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "25-09-2026",
-        "fechafin": "27-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/vi-open-internacional-de-ajedrez-sub-2200-fide-costa-de-la-luz"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de España Individual de Ajedrez Inclusivo 2026",
-        "ciudad": "Roquetas de Mar",
-        "fechaini": "25-09-2026",
-        "fechafin": "27-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7630203,
-        "lon": -2.6115886,
-        "link": "https://info64.org/campeonato-de-espana-individual-de-ajedrez-inclusivo-2026"
     },
     {
         "origin": "chess-results",
@@ -673,51 +673,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Campeonato de Ajedrez Penaguila Cuna de Mosen Bernat Fenollar",
-        "ciudad": "Penaguila",
+        "nombre": "IX Torneo de Xadrez Vila de Ponteareas Categoria Afeccionados",
+        "ciudad": "Ponteareas",
         "fechaini": "27-09-2026",
         "fechafin": "27-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.6794181,
-        "lon": -0.3590426,
-        "link": "https://info64.org/iv-campeonato-de-ajedrez-penaguila-cuna-de-mosen-bernat-fenollar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXVII OPEN DE NERJA – MEMORIAL ANDRES PIEDRAFITA",
-        "ciudad": "NERJA",
-        "fechaini": "27-09-2026",
-        "fechafin": "27-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7468565,
-        "lon": -3.8790164,
-        "link": "https://info64.org/xxvii-open-de-nerja-memorial-andres-piedrafita"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Torneo Memorial Jose Luis Bano Orbezo",
-        "ciudad": "Enguera",
-        "fechaini": "27-09-2026",
-        "fechafin": "27-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9804366,
-        "lon": -0.6894299,
-        "link": "https://info64.org/vi-torneo-memorial-jose-luis-bano-orbezo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneig Escacs per Equips La Vila Joiosa",
-        "ciudad": "La Vila Joiosa",
-        "fechaini": "27-09-2026",
-        "fechafin": "27-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5100778,
-        "lon": -0.2296202,
-        "link": "https://info64.org/team/iii-torneig-descacs-per-equips-la-vila-joiosa"
+        "lat": 42.1886579,
+        "lon": -8.5054515,
+        "link": "https://info64.org/ix-torneo-de-xadrez-vila-de-ponteareas-categoria-afeccionados"
     },
     {
         "origin": "info64",
@@ -733,87 +697,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "IX Torneo de Xadrez Vila de Ponteareas Categoria Absoluta",
-        "ciudad": "Ponteareas",
+        "nombre": "III Torneig Escacs per Equips La Vila Joiosa",
+        "ciudad": "La Vila Joiosa",
         "fechaini": "27-09-2026",
         "fechafin": "27-09-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.1886579,
-        "lon": -8.5054515,
-        "link": "https://info64.org/ix-torneo-de-xadrez-vila-de-ponteareas-categoria-absoluta"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IX Torneo de Xadrez Vila de Ponteareas Categoria Afeccionados",
-        "ciudad": "Ponteareas",
-        "fechaini": "27-09-2026",
-        "fechafin": "27-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1886579,
-        "lon": -8.5054515,
-        "link": "https://info64.org/ix-torneo-de-xadrez-vila-de-ponteareas-categoria-afeccionados"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Open de Sasamon",
-        "ciudad": "Sasamon",
-        "fechaini": "27-09-2026",
-        "fechafin": "27-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4179379,
-        "lon": -4.0432798,
-        "link": "https://info64.org/v-open-de-sasamon"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Abierto 40 Aniversario Club Ajedrez Azuqueca",
-        "ciudad": "Azuqueca de Henares",
-        "fechaini": "27-09-2026",
-        "fechafin": "27-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5683808,
-        "lon": -3.2627134,
-        "link": "https://info64.org/torneo-abierto-40-aniversario-club-ajedrez-azuqueca"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Especial II Torneo Escolar Merindad de Sanguesa",
-        "ciudad": "Sanguesa",
-        "fechaini": "27-09-2026",
-        "fechafin": "27-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5646889,
-        "lon": -1.2541073,
-        "link": "https://info64.org/especial-ii-torneo-escolar-merindad-de-sanguesa"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Sub 12 II Torneo Escolar Merindad de Sanguesa",
-        "ciudad": "Sanguesa",
-        "fechaini": "27-09-2026",
-        "fechafin": "27-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5646889,
-        "lon": -1.2541073,
-        "link": "https://info64.org/sub-12-ii-torneo-escolar-merindad-de-sanguesa"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Sub 8-10 II Torneo Escolar Merindad de Sanguesa",
-        "ciudad": "Sanguesa",
-        "fechaini": "27-09-2026",
-        "fechafin": "27-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.5646889,
-        "lon": -1.2541073,
-        "link": "https://info64.org/sub-8-ii-torneo-escolar-merindad-de-sanguesa"
+        "lat": 38.5100778,
+        "lon": -0.2296202,
+        "link": "https://info64.org/team/iii-torneig-descacs-per-equips-la-vila-joiosa"
     },
     {
         "origin": "chess-results",
@@ -1009,6 +901,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "BLITZ FIDE - Ibiza Travel 2026",
+        "ciudad": "Sant Antoni de Portmany",
+        "fechaini": "02-10-2026",
+        "fechafin": "02-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9830568,
+        "lon": 1.3009485,
+        "link": "https://info64.org/blitz-fide-ibiza-travel-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI TORNEO OPEN SUB 2200 de BURLADA (492341)",
         "ciudad": "BURLADA",
         "fechaini": "02-10-2026",
@@ -1105,18 +1009,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "BLITZ FIDE - Ibiza Travel 2026",
-        "ciudad": "Sant Antoni de Portmany",
-        "fechaini": "02-10-2026",
-        "fechafin": "02-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9830568,
-        "lon": 1.3009485,
-        "link": "https://info64.org/blitz-fide-ibiza-travel-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Avanzado Otono 2026",
         "ciudad": "Alicante",
         "fechaini": "02-10-2026",
@@ -1189,6 +1081,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "RAPID FIDE - Ibiza Travel 2026",
+        "ciudad": "Sant Antoni de Portmany",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9830568,
+        "lon": 1.3009485,
+        "link": "https://info64.org/rapid-fide-ibiza-travel-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Amateur - Ibiza Travel 2026",
+        "ciudad": "Sant Antoni de Portmany",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9830568,
+        "lon": 1.3009485,
+        "link": "https://info64.org/amateur-ibiza-travel-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXI Trofeo IberCaja - Ciudad de Zaragoza",
+        "ciudad": "E.M. El Olivar - Zaragoza",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Ciudad de Coruna",
         "ciudad": "A Coruna",
         "fechaini": "03-10-2026",
@@ -1249,18 +1177,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXI Trofeo IberCaja - Ciudad de Zaragoza",
-        "ciudad": "E.M. El Olivar - Zaragoza",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
-    },
-    {
-        "origin": "info64",
         "nombre": "32 Circuito Provincial de Ajedrez Diputacion de Malaga 2026 Cutar",
         "ciudad": "Cutar",
         "fechaini": "03-10-2026",
@@ -1306,30 +1222,6 @@
         "lat": 38.9950921,
         "lon": -1.8559154,
         "link": "https://info64.org/team/campeonato-provincial-por-equipos-albacete-2026-primera"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Amateur - Ibiza Travel 2026",
-        "ciudad": "Sant Antoni de Portmany",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9830568,
-        "lon": 1.3009485,
-        "link": "https://info64.org/amateur-ibiza-travel-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "RAPID FIDE - Ibiza Travel 2026",
-        "ciudad": "Sant Antoni de Portmany",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9830568,
-        "lon": 1.3009485,
-        "link": "https://info64.org/rapid-fide-ibiza-travel-2026"
     },
     {
         "origin": "info64",
@@ -1921,6 +1813,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "III TORNEO FIESTAS DE DESAPARADOS, ABSOLUTO",
+        "ciudad": "Desamparados, Orihuela",
+        "fechaini": "10-10-2026",
+        "fechafin": "10-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0596145,
+        "lon": -0.9828908,
+        "link": "https://info64.org/iii-torneo-fiestas-de-desaparados-absoluto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III TORNEO FIESTAS DE DESAPARADOS, SUB12",
+        "ciudad": "Desamparados, Orihuela",
+        "fechaini": "10-10-2026",
+        "fechafin": "10-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0596145,
+        "lon": -0.9828908,
+        "link": "https://info64.org/iii-torneo-fiestas-de-desaparados-sub12"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Torneo de Ajedrez  ''La Velá'' (III Circuito Diputación Pr. Badajoz)",
         "ciudad": "Don Benito",
         "fechaini": "10-10-2026",
@@ -1966,18 +1882,6 @@
         "lat": 42.1879926,
         "lon": -8.6262198,
         "link": "https://info64.org/ii-festival-ajedrez-artauro-sub-2400"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III TORNEO FIESTAS DE DESAPARADOS, ABSOLUTO",
-        "ciudad": "Desamparados, Orihuela",
-        "fechaini": "10-10-2026",
-        "fechafin": "10-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0596145,
-        "lon": -0.9828908,
-        "link": "https://info64.org/iii-torneo-fiestas-de-desaparados-absoluto"
     },
     {
         "origin": "info64",
@@ -2038,18 +1942,6 @@
         "lat": 42.1879926,
         "lon": -8.6262198,
         "link": "https://info64.org/ii-festival-ajedrez-artauro-cerrado-b"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III TORNEO FIESTAS DE DESAPARADOS, SUB12",
-        "ciudad": "Desamparados, Orihuela",
-        "fechaini": "10-10-2026",
-        "fechafin": "10-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.0596145,
-        "lon": -0.9828908,
-        "link": "https://info64.org/iii-torneo-fiestas-de-desaparados-sub12"
     },
     {
         "origin": "info64",
@@ -2761,6 +2653,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "BENIDORM CHESS OPEN A 2026",
+        "ciudad": "Benidorm",
+        "fechaini": "25-10-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/benidorm-chess-open-a-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "BENIDORM CHESS OPEN B Sub-2000 2026",
         "ciudad": "Benidorm",
         "fechaini": "25-10-2026",
@@ -2794,18 +2698,6 @@
         "lat": 37.8845813,
         "lon": -4.7760138,
         "link": "https://info64.org/campeonato-provincial-absoluto-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "BENIDORM CHESS OPEN A 2026",
-        "ciudad": "Benidorm",
-        "fechaini": "25-10-2026",
-        "fechafin": "01-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/benidorm-chess-open-a-2026"
     },
     {
         "origin": "chess-results",
@@ -2929,18 +2821,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VIII Torneig Vall dels Alcalans",
-        "ciudad": "Montserrat",
-        "fechaini": "06-11-2026",
-        "fechafin": "20-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.3576494,
-        "lon": -0.6031,
-        "link": "https://info64.org/viii-vall-dels-alcalans"
-    },
-    {
-        "origin": "info64",
         "nombre": "2 Open Internacional Sub2200 Hotel Vertice Chipiona Mar",
         "ciudad": "Chipiona",
         "fechaini": "06-11-2026",
@@ -2950,6 +2830,18 @@
         "lat": 36.7355451,
         "lon": -6.4348221,
         "link": "https://info64.org/2-open-internacional-sub2200-hotel-vertice-chipiona-mar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII Torneig Vall dels Alcalans",
+        "ciudad": "Montserrat",
+        "fechaini": "06-11-2026",
+        "fechafin": "20-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.3576494,
+        "lon": -0.6031,
+        "link": "https://info64.org/viii-vall-dels-alcalans"
     },
     {
         "origin": "chess-results",
@@ -2965,18 +2857,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV INTERNACIONAL CHESS OPEN HOTEL CAP NEGRET 50",
-        "ciudad": "Altea SPAIN",
-        "fechaini": "07-11-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/iv-internacional-chess-open-hotel-cap-negret-50"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV INTERNACIONAL CHESS OPEN HOTEL CAP NEGRET 65",
         "ciudad": "Altea SPAIN",
         "fechaini": "07-11-2026",
@@ -2986,6 +2866,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/iv-internacional-chess-open-hotel-cap-negret-65"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV INTERNACIONAL CHESS OPEN HOTEL CAP NEGRET 50",
+        "ciudad": "Altea SPAIN",
+        "fechaini": "07-11-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/iv-internacional-chess-open-hotel-cap-negret-50"
     },
     {
         "origin": "info64",
@@ -3697,6 +3589,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "V Open Internacional de Navidad Diagonal Alcorcon",
+        "ciudad": "Alcorcon",
+        "fechaini": "26-12-2026",
+        "fechafin": "30-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.3492998,
+        "lon": -3.8284295,
+        "link": "https://info64.org/v-open-internacional-de-navidad-diagonal-alcorcon"
+    },
+    {
+        "origin": "info64",
         "nombre": "III Cerrado de Navidad Diagonal Alcorcon A (GM)",
         "ciudad": "Alcorcon",
         "fechaini": "26-12-2026",
@@ -3730,18 +3634,6 @@
         "lat": 40.3492998,
         "lon": -3.8284295,
         "link": "https://info64.org/prueba2"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Open Internacional de Navidad Diagonal Alcorcon",
-        "ciudad": "Alcorcon",
-        "fechaini": "26-12-2026",
-        "fechafin": "30-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.3492998,
-        "lon": -3.8284295,
-        "link": "https://info64.org/v-open-internacional-de-navidad-diagonal-alcorcon"
     },
     {
         "origin": "info64",
