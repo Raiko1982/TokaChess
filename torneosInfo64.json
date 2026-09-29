@@ -1,6 +1,42 @@
 [
     {
         "origin": "info64",
+        "nombre": "III Torneo de Ajedrez Memorial Juan Jose Troyano",
+        "ciudad": "Santa Marta de los Barros",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.6137965,
+        "lon": -6.6275791,
+        "link": "https://info64.org/iii-torneo-de-ajedrez-memorial-juan-jose-troyano"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Yebel",
+        "ciudad": "Los Yebenes",
+        "fechaini": "02-10-2026",
+        "fechafin": "04-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.5823444,
+        "lon": -3.8702361,
+        "link": "https://info64.org/ii-open-yebel"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXI Trofeo IberCaja - Ciudad de Zaragoza",
+        "ciudad": "E.M. El Olivar - Zaragoza",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
+    },
+    {
+        "origin": "info64",
         "nombre": "II Festival Ajedrez Artauro Cerrado C",
         "ciudad": "Mos",
         "fechaini": "10-10-2026",
@@ -193,18 +229,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "ROUND ROBLIN CLUB",
-        "ciudad": "myTown",
-        "fechaini": "28-09-2026",
-        "fechafin": "28-09-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/round-roblin-club"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Bambuchess Chess Festival – Masters C",
         "ciudad": "Villablanca",
         "fechaini": "26-12-2026",
@@ -373,18 +397,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Open Yebel",
-        "ciudad": "Los Yebenes",
-        "fechaini": "02-10-2026",
-        "fechafin": "04-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5823444,
-        "lon": -3.8702361,
-        "link": "https://info64.org/ii-open-yebel"
-    },
-    {
-        "origin": "info64",
         "nombre": "II T. Ajedrez en Yeles",
         "ciudad": "Yeles",
         "fechaini": "18-10-2026",
@@ -478,18 +490,6 @@
         "lat": 39.5300573,
         "lon": -0.4109383,
         "link": "https://info64.org/i-torneo-santa-barbara-club-de-campo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXI Trofeo IberCaja - Ciudad de Zaragoza",
-        "ciudad": "E.M. El Olivar - Zaragoza",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
     },
     {
         "origin": "info64",
@@ -1237,18 +1237,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Torneo de Ajedrez Memorial Juan Jose Troyano",
-        "ciudad": "Santa Marta de los Barros",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.6137965,
-        "lon": -6.6275791,
-        "link": "https://info64.org/iii-torneo-de-ajedrez-memorial-juan-jose-troyano"
-    },
-    {
-        "origin": "info64",
         "nombre": "XII TORNEO SUB 2400 CIUTAT DE BURJASSOT",
         "ciudad": "Burjassot",
         "fechaini": "11-09-2026",
@@ -1363,8 +1351,8 @@
         "fechafin": "01-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.0166291,
-        "lon": -1.1622696,
+        "lat": 38.0163591,
+        "lon": -1.1620992,
         "link": "https://info64.org/team/ii-liga-por-equipos-thader-chess"
     },
     {
