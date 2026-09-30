@@ -79,8 +79,8 @@
         "fechafin": "01-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.0166291,
-        "lon": -1.1622696,
+        "lat": 38.0163591,
+        "lon": -1.1620992,
         "link": "https://info64.org/team/ii-liga-por-equipos-thader-chess"
     },
     {
@@ -589,6 +589,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II Open Yebel",
+        "ciudad": "Los Yebenes",
+        "fechaini": "02-10-2026",
+        "fechafin": "04-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.5823444,
+        "lon": -3.8702361,
+        "link": "https://info64.org/ii-open-yebel"
+    },
+    {
+        "origin": "info64",
         "nombre": "Social Otoño 2020",
         "ciudad": "Alicante",
         "fechaini": "02-10-2026",
@@ -610,18 +622,6 @@
         "lat": 38.9830568,
         "lon": 1.3009485,
         "link": "https://info64.org/blitz-fide-ibiza-travel-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open Yebel",
-        "ciudad": "Los Yebenes",
-        "fechaini": "02-10-2026",
-        "fechafin": "04-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.5823444,
-        "lon": -3.8702361,
-        "link": "https://info64.org/ii-open-yebel"
     },
     {
         "origin": "info64",
@@ -2545,15 +2545,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Absoluto de Jaen",
-        "ciudad": "Jaen",
+        "nombre": "X Torneo Escolar Plaza Mayor Sub 10",
+        "ciudad": "Malaga",
         "fechaini": "24-10-2026",
-        "fechafin": "29-11-2026",
+        "fechafin": "24-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 37.7728858,
-        "lon": -3.7883289,
-        "link": "https://info64.org/campeonato-absoluto-de-jaen-1-1-1"
+        "lat": 36.7647913,
+        "lon": -4.4422005,
+        "link": "https://info64.org/x-torneo-escolar-plaza-mayor-sub-10"
     },
     {
         "origin": "info64",
@@ -2569,15 +2569,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Torneo Escolar Plaza Mayor Sub 10",
-        "ciudad": "Malaga",
+        "nombre": "Campeonato Absoluto de Jaen",
+        "ciudad": "Jaen",
         "fechaini": "24-10-2026",
-        "fechafin": "24-10-2026",
+        "fechafin": "29-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.7647913,
-        "lon": -4.4422005,
-        "link": "https://info64.org/x-torneo-escolar-plaza-mayor-sub-10"
+        "lat": 37.7728858,
+        "lon": -3.7883289,
+        "link": "https://info64.org/campeonato-absoluto-de-jaen-1-1-1"
     },
     {
         "origin": "info64",
