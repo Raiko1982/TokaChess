@@ -769,6 +769,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Open Mallorca Amateur S1800 2026",
+        "ciudad": "491907",
+        "fechaini": "02-10-2026",
+        "fechafin": "04-10-2026",
+        "organizador": "Abadia Pascual, Lluis (ESP) 2284839",
+        "ritmo": "Standard: 60 minutes with 30 seconds increment from move 1",
+        "lat": 40.4237276,
+        "lon": -3.6899043,
+        "link": "https://chess-results.com/tnr1478758.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Open Mallorca Amateur S2400 2026",
         "ciudad": "Palma de Mallorca",
         "fechaini": "02-10-2026",
@@ -802,6 +814,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1503579.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XIV MULTITORNEO XAKE TXAPELKETA OSTIRALAK",
+        "ciudad": "DONOSTIA",
+        "fechaini": "02-10-2026",
+        "fechafin": "02-10-2026",
+        "organizador": "GROS XAKE TALDEA",
+        "ritmo": "",
+        "lat": 43.3224219,
+        "lon": -1.9838889,
+        "link": "https://chess-results.com/tnr1510086.aspx?lan=2"
     },
     {
         "origin": "info64",
@@ -1612,7 +1636,7 @@
         "nombre": "Gipuzkoako Kadete 2026ko Txapelketa",
         "ciudad": "Beraun 27, bajo (Errenteria)",
         "fechaini": "04-10-2026",
-        "fechafin": "22-11-2026",
+        "fechafin": "08-11-2026",
         "organizador": "Gipuzkoako Xake Federazioa - Beraun Bera X.T.",
         "ritmo": "90 min. + 30 seg.",
         "lat": 40.4167,
@@ -1663,8 +1687,8 @@
         "fechafin": "04-10-2026",
         "organizador": "",
         "ritmo": "10 Finish",
-        "lat": 39.4630129,
-        "lon": -0.3921662,
+        "lat": 39.4631294,
+        "lon": -0.3926254,
         "link": "https://chess-results.com/tnr1503177.aspx?lan=2"
     },
     {
@@ -1675,8 +1699,8 @@
         "fechafin": "04-10-2026",
         "organizador": "",
         "ritmo": "10 Finish",
-        "lat": 39.4631042,
-        "lon": -0.3925024,
+        "lat": 39.4631294,
+        "lon": -0.3926254,
         "link": "https://chess-results.com/tnr1507140.aspx?lan=2"
     },
     {
@@ -3121,7 +3145,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Ibailakuako Gau Beltza Xake Txapelketa (39 plazas",
+        "nombre": "Ibailakuako Gau Beltza Xake Txapelketa (36 plazas",
         "ciudad": "Centro Civico Ibaiondo",
         "fechaini": "30-10-2026",
         "fechafin": "30-10-2026",
@@ -3170,7 +3194,7 @@
     {
         "origin": "chess-results",
         "nombre": "PEPE CHESS",
-        "ciudad": "ZARAGOZA.  ZARAGOZA CAMPING OCEANO ATLANTICO.  PARKING GRATUITO.",
+        "ciudad": "ZARAGOZA.  ZARAGOZA CAMPING OCEANO ATLANTICO.",
         "fechaini": "31-10-2026",
         "fechafin": "31-10-2026",
         "organizador": "",
@@ -3193,8 +3217,32 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "PEPE CHESS 32 (GRUPO 1)",
+        "nombre": "PEPE CHESS 16 (GRUPO 2)",
         "ciudad": "ZARAGOZA.  ZARAGOZA CAMPING OCEANO ATLANTICO.  PARKING GRATUITO.",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "",
+        "ritmo": "SIETE MINUTOS FINISH (sin incremento por movimiento)",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1509921.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "PEPE CHESS 16 (GRUPO 3)",
+        "ciudad": "ZARAGOZA.  ZARAGOZA CAMPING OCEANO ATLANTICO.  PARKING GRATUITO.",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "",
+        "ritmo": "SIETE MINUTOS FINISH (sin incremento por movimiento)",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1510051.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "PEPE CHESS 32 (GRUPO 1)",
+        "ciudad": "ZARAGOZA.  ZARAGOZA CAMPING OCEANO ATLANTICO.",
         "fechaini": "31-10-2026",
         "fechafin": "31-10-2026",
         "organizador": "",
@@ -3202,6 +3250,78 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1508646.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "PEPE CHESS 32 (GRUPO 2)",
+        "ciudad": "ZARAGOZA.  ZARAGOZA CAMPING OCEANO ATLANTICO.  PARKING GRATUITO.",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "",
+        "ritmo": "SEIS MINUTOS FINISH (sin incremento por movimiento)",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1509916.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "PEPE CHESS 8 (GRUPO 1)",
+        "ciudad": "ZARAGOZA.  ZARAGOZA CAMPING OCEANO ATLANTICO.",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "",
+        "ritmo": "OCHO MINUTOS FINISH (sin incremento por movimiento)",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1510035.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "PEPE CHESS 8 (GRUPO 2)",
+        "ciudad": "ZARAGOZA.  ZARAGOZA CAMPING OCEANO ATLANTICO.",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "",
+        "ritmo": "OCHO MINUTOS FINISH (sin incremento por movimiento)",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1510059.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "PEPE CHESS 8 (GRUPO 3)",
+        "ciudad": "ZARAGOZA.  ZARAGOZA CAMPING OCEANO ATLANTICO.",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "",
+        "ritmo": "OCHO MINUTOS FINISH (sin incremento por movimiento)",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1510054.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "PEPE CHESS 8 (GRUPO 4)",
+        "ciudad": "ZARAGOZA.  ZARAGOZA CAMPING OCEANO ATLANTICO.",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "",
+        "ritmo": "OCHO MINUTOS FINISH (sin incremento por movimiento)",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1510056.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "PEPE CHESS 8 (GRUPO 5)",
+        "ciudad": "ZARAGOZA.  ZARAGOZA CAMPING OCEANO ATLANTICO.",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "",
+        "ritmo": "OCHO MINUTOS FINISH (sin incremento por movimiento)",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1510057.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -4044,6 +4164,18 @@
         "link": "https://info64.org/viii-torneo-ajedrez-navidad-2026-absoluto"
     },
     {
+        "origin": "chess-results",
+        "nombre": "V Torneo de Navidad de Ajedrez Sub2200 Salesianos",
+        "ciudad": "Naves de Envidarte (Montilla)",
+        "fechaini": "13-12-2026",
+        "fechafin": "13-12-2026",
+        "organizador": "Club Deportivo Salesianos Montilla",
+        "ritmo": "8+3",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1509873.aspx?lan=2"
+    },
+    {
         "origin": "info64",
         "nombre": "II COPA DE INVIERNO - VILA-REAL",
         "ciudad": "Vila-real",
@@ -4339,8 +4471,8 @@
         "fechafin": "30-12-2026",
         "organizador": "Club de Ajedrez Dama Negra",
         "ritmo": "90 min + 30 sec per move from the first move",
-        "lat": 38.3889426,
-        "lon": -0.5176876,
+        "lat": 38.3915493,
+        "lon": -0.5208521,
         "link": "https://chess-results.com/tnr1418723.aspx?lan=2"
     },
     {
