@@ -793,6 +793,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXI Trofeo IberCaja - Ciudad de Zaragoza",
+        "ciudad": "E.M. El Olivar - Zaragoza",
+        "fechaini": "03-10-2026",
+        "fechafin": "03-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV OPEN DE AJEDREZ A.V.V. CAMPO DE CONIL",
         "ciudad": "A.V.V. CAMPO DE CONIL",
         "fechaini": "03-10-2026",
@@ -910,18 +922,6 @@
         "lat": 28.0590002,
         "lon": -15.5475653,
         "link": "https://info64.org/vi-torneo-blitz-aguas-de-teror-chess-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXI Trofeo IberCaja - Ciudad de Zaragoza",
-        "ciudad": "E.M. El Olivar - Zaragoza",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xxi-trofeo-ibercaja-ciudad-de-zaragoza"
     },
     {
         "origin": "info64",
@@ -2401,7 +2401,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - O11",
+        "nombre": "FIDE World Championship 2026 - O17",
         "ciudad": "Roquetas de Mar, Spain",
         "fechaini": "14-10-2026",
         "fechafin": "20-10-2026",
@@ -2409,7 +2409,31 @@
         "ritmo": "-",
         "lat": 40.4167,
         "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-o11"
+        "link": "https://info64.org/fide-world-championship-2026-o17"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - O15",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-o15"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - G15",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-g15"
     },
     {
         "origin": "info64",
@@ -2425,7 +2449,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - O17",
+        "nombre": "FIDE World Championship 2026 - O11",
         "ciudad": "Roquetas de Mar, Spain",
         "fechaini": "14-10-2026",
         "fechafin": "20-10-2026",
@@ -2433,19 +2457,7 @@
         "ritmo": "-",
         "lat": 40.4167,
         "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-o17"
-    },
-    {
-        "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - G15",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-g15"
+        "link": "https://info64.org/fide-world-championship-2026-o11"
     },
     {
         "origin": "info64",
@@ -2506,18 +2518,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/fide-world-championship-2026-o13"
-    },
-    {
-        "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - O15",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-o15"
     },
     {
         "origin": "info64",
