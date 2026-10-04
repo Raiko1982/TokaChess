@@ -697,18 +697,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Torneo de Blitz Mikel Gurea (492340)",
-        "ciudad": "Burlada",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.8230299,
-        "lon": -1.614076,
-        "link": "https://info64.org/ii-torneo-de-blitz-mikel-gurea-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Ciudad de Coruna",
         "ciudad": "A Coruna",
         "fechaini": "03-10-2026",
@@ -745,18 +733,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Aberto de Outono de Ourense de Xadrez Activo",
-        "ciudad": "Ourense",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1939629,
-        "lon": -7.537124,
-        "link": "https://info64.org/v-aberto-de-outono-de-ourense-de-xadrez-activo"
-    },
-    {
-        "origin": "info64",
         "nombre": "CAMPEONATO DE JAEN SUB18",
         "ciudad": "MENGIBAR",
         "fechaini": "03-10-2026",
@@ -766,30 +742,6 @@
         "lat": 37.9680499,
         "lon": -3.8087804,
         "link": "https://info64.org/campeonato-de-jaen-sub18"
-    },
-    {
-        "origin": "info64",
-        "nombre": "RAPID FIDE - Ibiza Travel 2026",
-        "ciudad": "Sant Antoni de Portmany",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9830568,
-        "lon": 1.3009485,
-        "link": "https://info64.org/rapid-fide-ibiza-travel-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Amateur - Ibiza Travel 2026",
-        "ciudad": "Sant Antoni de Portmany",
-        "fechaini": "03-10-2026",
-        "fechafin": "03-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9830568,
-        "lon": 1.3009485,
-        "link": "https://info64.org/amateur-ibiza-travel-2026"
     },
     {
         "origin": "info64",
@@ -985,6 +937,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "TORNEO AJEDREZ VILLA DE PIZARRA 2026",
+        "ciudad": "PIZARRA",
+        "fechaini": "04-10-2026",
+        "fechafin": "04-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.766795,
+        "lon": -4.707687,
+        "link": "https://info64.org/torneo-ajedrez-villa-de-pizarra-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV Torneig Infantil d'Anna",
         "ciudad": "Anna",
         "fechaini": "04-10-2026",
@@ -1090,18 +1054,6 @@
         "lat": 40.5961297,
         "lon": -3.4974479,
         "link": "https://info64.org/campeonato-absoluto-de-algete-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "TORNEO AJEDREZ VILLA DE PIZARRA 2026",
-        "ciudad": "PIZARRA",
-        "fechaini": "04-10-2026",
-        "fechafin": "04-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.766795,
-        "lon": -4.707687,
-        "link": "https://info64.org/torneo-ajedrez-villa-de-pizarra-2026"
     },
     {
         "origin": "info64",
@@ -1993,6 +1945,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - G13",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-g13"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - O9",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-o9"
+    },
+    {
+        "origin": "info64",
         "nombre": "FIDE World Championship 2026 - G17",
         "ciudad": "Roquetas de Mar, Spain",
         "fechaini": "14-10-2026",
@@ -2002,30 +1978,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/fide-world-championship-2026-g17"
-    },
-    {
-        "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - O17",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-o17"
-    },
-    {
-        "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - G15",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-g15"
     },
     {
         "origin": "info64",
@@ -2041,7 +1993,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - G13",
+        "nombre": "FIDE World Championship 2026 - G15",
         "ciudad": "Roquetas de Mar, Spain",
         "fechaini": "14-10-2026",
         "fechafin": "20-10-2026",
@@ -2049,7 +2001,7 @@
         "ritmo": "-",
         "lat": 40.4167,
         "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-g13"
+        "link": "https://info64.org/fide-world-championship-2026-g15"
     },
     {
         "origin": "info64",
@@ -2077,18 +2029,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - O11",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-o11"
-    },
-    {
-        "origin": "info64",
         "nombre": "FIDE World Championship 2026 - G9",
         "ciudad": "Roquetas de Mar, Spain",
         "fechaini": "14-10-2026",
@@ -2101,7 +2041,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - O9",
+        "nombre": "FIDE World Championship 2026 - O17",
         "ciudad": "Roquetas de Mar, Spain",
         "fechaini": "14-10-2026",
         "fechafin": "20-10-2026",
@@ -2109,7 +2049,19 @@
         "ritmo": "-",
         "lat": 40.4167,
         "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-o9"
+        "link": "https://info64.org/fide-world-championship-2026-o17"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - O11",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-o11"
     },
     {
         "origin": "info64",
@@ -2146,6 +2098,30 @@
         "lat": 41.667948,
         "lon": -0.822276,
         "link": "https://chess-results.com/tnr1502125.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo de Ajedrez por Equipos Concejo de Aller",
+        "ciudad": "Moreda",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.1706329,
+        "lon": -5.7419089,
+        "link": "https://info64.org/team/i-torneo-de-ajedrez-por-equipos-concejo-de-aller"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Open Internacional de Ajedrez Concejo de Aller",
+        "ciudad": "Moreda",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.1706329,
+        "lon": -5.7419089,
+        "link": "https://info64.org/iv-open-internacional-de-ajedrez-concejo-de-aller"
     },
     {
         "origin": "info64",
@@ -2194,30 +2170,6 @@
         "lat": 38.6137965,
         "lon": -6.6275791,
         "link": "https://info64.org/iii-torneo-de-ajedrez-memorial-juan-jose-troyano"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Open Internacional de Ajedrez Concejo de Aller",
-        "ciudad": "Moreda",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.1706329,
-        "lon": -5.7419089,
-        "link": "https://info64.org/iv-open-internacional-de-ajedrez-concejo-de-aller"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo de Ajedrez por Equipos Concejo de Aller",
-        "ciudad": "Moreda",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.1706329,
-        "lon": -5.7419089,
-        "link": "https://info64.org/team/i-torneo-de-ajedrez-por-equipos-concejo-de-aller"
     },
     {
         "origin": "chess-results",
