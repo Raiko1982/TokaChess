@@ -733,6 +733,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "VIII TORNEO A.V. AXERQUIA",
+        "ciudad": "Cordoba",
+        "fechaini": "06-11-2026",
+        "fechafin": "06-11-2026",
+        "organizador": "A. V. AXERQUIA",
+        "ritmo": "",
+        "lat": 37.8845813,
+        "lon": -4.7760138,
+        "link": "https://chess-results.com/tnr1512020.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Copa Infantil por equipos Sevilla 2026",
         "ciudad": "Sevilla",
         "fechaini": "01-11-2026",
@@ -982,6 +994,18 @@
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1507429.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Equipos CTL Salamanca 2027",
+        "ciudad": "Centro Gallego (Calle Arriba nº6, Salamanca)",
+        "fechaini": "24-10-2026",
+        "fechafin": "13-02-2027",
+        "organizador": "",
+        "ritmo": "90 minutos + 30 segundos por jugada",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1512000.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1639,8 +1663,8 @@
         "fechafin": "04-10-2026",
         "organizador": "",
         "ritmo": "10 Finish",
-        "lat": 39.4631294,
-        "lon": -0.3926254,
+        "lat": 39.4631042,
+        "lon": -0.3925024,
         "link": "https://chess-results.com/tnr1507140.aspx?lan=2"
     },
     {
