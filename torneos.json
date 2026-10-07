@@ -841,18 +841,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Absoluto de Algete 2026",
-        "ciudad": "Algete",
-        "fechaini": "04-10-2026",
-        "fechafin": "15-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5961297,
-        "lon": -3.4974479,
-        "link": "https://info64.org/campeonato-absoluto-de-algete-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato de Asturias Individual Cuarta 2026",
         "ciudad": "Gijon",
         "fechaini": "04-10-2026",
@@ -898,6 +886,18 @@
         "lat": 43.5449422,
         "lon": -5.66275,
         "link": "https://info64.org/campeonato-de-asturias-individual-primera-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Absoluto de Algete 2026",
+        "ciudad": "Algete",
+        "fechaini": "04-10-2026",
+        "fechafin": "15-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5961297,
+        "lon": -3.4974479,
+        "link": "https://info64.org/campeonato-absoluto-de-algete-2026"
     },
     {
         "origin": "chess-results",
@@ -1543,8 +1543,8 @@
         "fechafin": "11-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.4294362,
-        "lon": -3.6696476,
+        "lat": 40.4296048,
+        "lon": -3.6708768,
         "link": "https://info64.org/torneo-fiestas-del-pilar-barrio-de-salamanca"
     },
     {
@@ -1969,6 +1969,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXIII Calvia Chess Festival 2026 - Chessbase Amateur Blitz Tournament",
+        "ciudad": "Calvia",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.549557,
+        "lon": 2.5184396,
+        "link": "https://info64.org/xxiii-calvia-chess-festival-2026-chessbase-amateur-blitz-tournament"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV Open Internacional de Ajedrez Concejo de Aller",
         "ciudad": "Moreda",
         "fechaini": "17-10-2026",
@@ -2026,18 +2038,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/xii-torneo-xii-open-de-ajedrez-arcos-de-la-frontera-m-ja-fernandez-parrilla"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIII Calvia Chess Festival 2026 - Chessbase Amateur Blitz Tournament",
-        "ciudad": "Calvia",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.549557,
-        "lon": 2.5184396,
-        "link": "https://info64.org/xxiii-calvia-chess-festival-2026-chessbase-amateur-blitz-tournament"
     },
     {
         "origin": "info64",
@@ -2113,6 +2113,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II Open 300 Torres",
+        "ciudad": "Onda",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.965214,
+        "lon": -0.2625745,
+        "link": "https://info64.org/ii-open-300-torres"
+    },
+    {
+        "origin": "info64",
         "nombre": "II T. Ajedrez en Yeles",
         "ciudad": "Yeles",
         "fechaini": "18-10-2026",
@@ -2134,18 +2146,6 @@
         "lat": 38.9884181,
         "lon": -0.4704196,
         "link": "https://info64.org/i-torneig-infantil-el-genoves"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open 300 Torres",
-        "ciudad": "Onda",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.965214,
-        "lon": -0.2625745,
-        "link": "https://info64.org/ii-open-300-torres"
     },
     {
         "origin": "info64",
@@ -2662,6 +2662,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1498292.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo de Ajedrez FreeStyle Mieres",
+        "ciudad": "Centru Cultural Mieres",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2511582,
+        "lon": -5.7729289,
+        "link": "https://info64.org/ii-torneo-de-ajedrez-freestyle-mieres"
     },
     {
         "origin": "info64",
