@@ -1432,7 +1432,7 @@
         "nombre": "Campeonato de Cantabria por Equipos Sub-18",
         "ciudad": "Centro de Cultura de Vioño de Piélagos: https://maps.app.goo.gl/ocUzhSWjyWXAvhC",
         "fechaini": "10-10-2026",
-        "fechafin": "10-10-2026",
+        "fechafin": "11-10-2026",
         "organizador": "Federación Cántabra de Ajedrez",
         "ritmo": "90´+30´´",
         "lat": 40.4167,
@@ -1474,6 +1474,18 @@
         "lat": 41.667948,
         "lon": -0.822276,
         "link": "https://chess-results.com/tnr1502124.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "II Torneo Iscar 2026",
+        "ciudad": "Valladolid",
+        "fechaini": "10-10-2026",
+        "fechafin": "10-10-2026",
+        "organizador": "Cesar Fernandez",
+        "ritmo": "7 minutos + 2 segundos por jugada",
+        "lat": 41.6200024,
+        "lon": -4.7259906,
+        "link": "https://chess-results.com/tnr1514320.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1545,18 +1557,6 @@
         "ritmo": "10'",
         "lat": 40.4167,
         "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1512279.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Torneo El Pilar 2026",
-        "ciudad": "Campa de las Fiestas El Pilar ( Guarnizo)",
-        "fechaini": "10-10-2026",
-        "fechafin": "10-10-2026",
-        "organizador": "Club Ajedrez Astillero",
-        "ritmo": "10'",
-        "lat": 40.4167,
-        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1513611.aspx?lan=2"
     },
     {
@@ -1573,26 +1573,38 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "XII Torneig (Sub 14) d'Escacs Gata Fira al carrer",
-        "ciudad": "Plaça Nova, ( 03740 ) Gata de Gorgos, Alicante",
+        "nombre": "Torneo El Pilar 2026",
+        "ciudad": "Campa de las Fiestas El Pilar ( Guarnizo)",
+        "fechaini": "10-10-2026",
+        "fechafin": "10-10-2026",
+        "organizador": "Club Ajedrez Astillero",
+        "ritmo": "10'",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1512279.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XII Torneig (Sub 14) d'Escacs Fira Gata al carrer",
+        "ciudad": "Carrer del Doctor Gómez Ferrer, ( 03740 ) Gata de Gorgos, Alicante",
         "fechaini": "10-10-2026",
         "fechafin": "10-10-2026",
         "organizador": "Comerciants de Gata de Gorgos",
         "ritmo": "5 minuts+3 segons d'increment per jugada",
-        "lat": 38.7743144,
-        "lon": 0.085629,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1488131.aspx?lan=2"
     },
     {
         "origin": "chess-results",
-        "nombre": "XII Torneig d'Escacs Gata Fira al carrer 2026Categ",
-        "ciudad": "Plaça Nova, ( 03740 ) Gata de Gorgos, Alicante",
+        "nombre": "XII Torneig d'Escacs Fira Gata al carrer 2026Categ",
+        "ciudad": "Carrer del Doctor Gómez Ferrer, ( 03740 ) Gata de Gorgos, Alicante",
         "fechaini": "10-10-2026",
         "fechafin": "10-10-2026",
         "organizador": "Comerciants de Gata de Gorgos",
         "ritmo": "5 minuts+3 segons d'increment per jugada",
-        "lat": 38.7743144,
-        "lon": 0.085629,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1488128.aspx?lan=2"
     },
     {
