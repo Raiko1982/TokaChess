@@ -1837,6 +1837,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "3a Ronda del Circuit de Santanyí",
+        "ciudad": "Centre Jove Santanyí (Carrer Bernat Vidal i Tomas s/n)",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "Escacs Municipi de Santanyí",
+        "ritmo": "5' + 3\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1517575.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Campeonato Individual Promoción Huesca 2026",
         "ciudad": "BARBASTRO (Centro de Congresos)",
         "fechaini": "18-10-2026",
@@ -1908,6 +1920,30 @@
         "link": "https://chess-results.com/tnr1493279.aspx?lan=2"
     },
     {
+        "origin": "chess-results",
+        "nombre": "Torneo Ajedrez 2026 Sub14 - Junta Central Fallera",
+        "ciudad": "Falla Duque de Calabria - Pobla de Farnals",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "Club de Ajedrez Monteolivete",
+        "ritmo": "10+0",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1517587.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo Ajedrez 2026 Sub18 - Junta Central Fallera",
+        "ciudad": "Duque de Gaeta - Pobla de Farnals",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "Junta Central Fallera",
+        "ritmo": "10+0",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1517577.aspx?lan=2"
+    },
+    {
         "origin": "info64",
         "nombre": "XXVIII Torneo Pueblo Nuevo  Martes y Jueves",
         "ciudad": "Calle Alava, 14. Madrid",
@@ -1918,6 +1954,18 @@
         "lat": 40.4201061,
         "lon": -3.5265901,
         "link": "https://info64.org/xxviii-torneo-pueblo-nuevo-martes-y-jueves"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Escacs a la UIB - Torneig Octubre 2026",
+        "ciudad": "Aula A14 Edifici Anselm Turmeda, UIB",
+        "fechaini": "21-10-2026",
+        "fechafin": "21-10-2026",
+        "organizador": "Universitat de les Illes Balears",
+        "ritmo": "5'+3\"",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1517583.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -4165,7 +4213,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "VI Bambuchess Chess Festival – Masters B IM NORM -",
+        "nombre": "VI Bambuchess Chess Festival – Masters B IM NORM",
         "ciudad": "Villablanca (Huelva)",
         "fechaini": "26-12-2026",
         "fechafin": "30-12-2026",
@@ -4759,8 +4807,8 @@
         "fechafin": "29-05-2027",
         "organizador": "Club d'Escacs Xàbia",
         "ritmo": "5 minuts per jugador + 3 segons d’increment per jugada",
-        "lat": 38.7886371,
-        "lon": 0.1653001,
+        "lat": 38.7891991,
+        "lon": 0.1683179,
         "link": "https://chess-results.com/tnr1462497.aspx?lan=2"
     },
     {
