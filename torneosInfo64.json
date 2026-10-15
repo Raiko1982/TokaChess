@@ -1,7 +1,31 @@
 [
     {
         "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - O15",
+        "nombre": "2 Open Internacional Sub2200 Hotel Vertice Chipiona Mar",
+        "ciudad": "Chipiona",
+        "fechaini": "06-11-2026",
+        "fechafin": "08-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7355451,
+        "lon": -6.4348221,
+        "link": "https://info64.org/2-open-internacional-sub2200-hotel-vertice-chipiona-mar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Copa Diputacion de Malaga por equipos 2026",
+        "ciudad": "Rincon De La Victoria",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7162109,
+        "lon": -4.2793767,
+        "link": "https://info64.org/team/copa-diputacion-de-malaga-por-equipos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - O11",
         "ciudad": "Roquetas de Mar, Spain",
         "fechaini": "14-10-2026",
         "fechafin": "20-10-2026",
@@ -9,7 +33,55 @@
         "ritmo": "-",
         "lat": 40.4167,
         "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-o15"
+        "link": "https://info64.org/fide-world-championship-2026-o11"
+    },
+    {
+        "origin": "info64",
+        "nombre": "BENIDORM CHESS OPEN B Sub-2000 2026",
+        "ciudad": "Benidorm",
+        "fechaini": "25-10-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/benidorm-chess-open-b-sub-2000-2026-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open 300 Torres Infantil",
+        "ciudad": "Onda",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.965214,
+        "lon": -0.2625745,
+        "link": "https://info64.org/ii-open-300-torres-infantil"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IRT Copa Sub1800 Burgos 2026",
+        "ciudad": "Burgos",
+        "fechaini": "24-10-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3448498,
+        "lon": -3.6812477,
+        "link": "https://info64.org/irt-copa-sub1800-burgos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - G9",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-g9"
     },
     {
         "origin": "info64",
@@ -22,6 +94,222 @@
         "lat": 42.3007027,
         "lon": -3.667743,
         "link": "https://info64.org/torneo-clausura-circuito-burgales-2026-aficionados"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Clausura Circuito Burgales 2026",
+        "ciudad": "Cardenadijo",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3007027,
+        "lon": -3.667743,
+        "link": "https://info64.org/torneo-clausura-circuito-burgales-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - G7",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-g7"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Liga Gambito de Guada Grupo B",
+        "ciudad": "Guadalajara",
+        "fechaini": "12-10-2026",
+        "fechafin": "10-01-2027",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7399963,
+        "lon": -2.50593,
+        "link": "https://info64.org/v-liga-gambito-de-guada-grupo-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Liga Gambito de Guada Grupo A",
+        "ciudad": "Guadalajara",
+        "fechaini": "12-10-2026",
+        "fechafin": "10-01-2027",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7399963,
+        "lon": -2.50593,
+        "link": "https://info64.org/v-liga-gambito-de-guada-grupo-a"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo de Ajedrez por Equipos Concejo de Aller",
+        "ciudad": "Moreda",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.1706329,
+        "lon": -5.7419089,
+        "link": "https://info64.org/team/i-torneo-de-ajedrez-por-equipos-concejo-de-aller"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Gambito de Guada Sub 2400",
+        "ciudad": "Guadalajara",
+        "fechaini": "02-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7399963,
+        "lon": -2.50593,
+        "link": "https://info64.org/ii-open-gambito-de-guada-sub-2400"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXI Copa Diputacion Infantil de Malaga por Equipos 2026",
+        "ciudad": "Torre de Benagalbon",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7175157,
+        "lon": -4.2480397,
+        "link": "https://info64.org/team/xxi-copa-diputacion-infantil-de-malaga-por-equipos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XII Open de Ajedrez Arcos de la Frontera - M. J.A Fernández Parrilla",
+        "ciudad": "Hotel Rest. El Lago - Arcos",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/xii-torneo-xii-open-de-ajedrez-arcos-de-la-frontera-m-ja-fernandez-parrilla"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Torre-Fortaleza de Mesia",
+        "ciudad": "Mesia",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.0886943,
+        "lon": -8.2156017,
+        "link": "https://info64.org/iii-torneo-torre-fortaleza-de-mesia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Individual Absoluto de la Rioja",
+        "ciudad": "La Rioja",
+        "fechaini": "17-10-2026",
+        "fechafin": "05-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.2814642,
+        "lon": -2.482805,
+        "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Open Internacional de Ajedrez Concejo de Aller",
+        "ciudad": "Moreda",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.1706329,
+        "lon": -5.7419089,
+        "link": "https://info64.org/iv-open-internacional-de-ajedrez-concejo-de-aller"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Rapidas del Centenario de La Didactica 1927-2027",
+        "ciudad": "Madrid",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/i-torneo-rapidas-del-centenario-de-la-didactica-1927-2027"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open 300 Torres",
+        "ciudad": "Onda",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.965214,
+        "lon": -0.2625745,
+        "link": "https://info64.org/ii-open-300-torres"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Activo Lanzaloe OneChess 2026 - Cto de Canarias Circuito Activo",
+        "ciudad": "Lanzarote",
+        "fechaini": "24-10-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 29.0397081,
+        "lon": -13.6362916,
+        "link": "https://info64.org/ii-torneo-activo-lanzaloe-onechess-2026-campeonato-de-canarias-circuito-activo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Blitz Lanzaloe-OneChess 2026",
+        "ciudad": "Lanzarote",
+        "fechaini": "23-10-2026",
+        "fechafin": "23-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 29.0397081,
+        "lon": -13.6362916,
+        "link": "https://info64.org/i-blitz-lanzaloe-onechess-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Campeonato de Ajedrez Rotary Club Santiago",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "24-10-2026",
+        "fechafin": "24-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.9064576,
+        "lon": -8.5192983,
+        "link": "https://info64.org/ii-campeonato-de-ajedrez-rotary-club-santiago"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
+        "ciudad": "Benidorm",
+        "fechaini": "28-11-2026",
+        "fechafin": "05-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - O15",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-o15"
     },
     {
         "origin": "info64",
@@ -97,18 +385,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - O11",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-o11"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Torneo de Ajedrez Memorial Juan Jose Troyano",
         "ciudad": "Santa Marta de los Barros",
         "fechaini": "17-10-2026",
@@ -121,18 +397,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Copa Diputacion de Malaga por equipos 2026",
-        "ciudad": "Torre de Benagalbon",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7175157,
-        "lon": -4.2480397,
-        "link": "https://info64.org/team/copa-diputacion-de-malaga-por-equipos-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "II T. Ajedrez en Yeles",
         "ciudad": "Yeles",
         "fechaini": "18-10-2026",
@@ -142,18 +406,6 @@
         "lat": 40.1197677,
         "lon": -3.8042363,
         "link": "https://info64.org/ii-t-ajedrez-en-yeles"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Rapidas del Centenario de La Didactica 1927-2027",
-        "ciudad": "Madrid",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/i-torneo-rapidas-del-centenario-de-la-didactica-1927-2027"
     },
     {
         "origin": "info64",
@@ -190,66 +442,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/fide-world-championship-2026-o7"
-    },
-    {
-        "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - G9",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-g9"
-    },
-    {
-        "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - G7",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-g7"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Open de Ajedrez Arcos de la Frontera - M. J.A Fernández Parrilla",
-        "ciudad": "Hotel Rest. El Lago - Arcos",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xii-torneo-xii-open-de-ajedrez-arcos-de-la-frontera-m-ja-fernandez-parrilla"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Clausura Circuito Burgales 2026",
-        "ciudad": "Cardenadijo",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.3007027,
-        "lon": -3.667743,
-        "link": "https://info64.org/torneo-clausura-circuito-burgales-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "BENIDORM CHESS OPEN B Sub-2000 2026",
-        "ciudad": "Benidorm",
-        "fechaini": "25-10-2026",
-        "fechafin": "01-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/benidorm-chess-open-b-sub-2000-2026-1"
     },
     {
         "origin": "info64",
@@ -409,42 +601,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo de Ajedrez por Equipos Concejo de Aller",
-        "ciudad": "Moreda",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.1706329,
-        "lon": -5.7419089,
-        "link": "https://info64.org/team/i-torneo-de-ajedrez-por-equipos-concejo-de-aller"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Campeonato de Ajedrez Rotary Club Santiago",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "24-10-2026",
-        "fechafin": "24-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.9064576,
-        "lon": -8.5192983,
-        "link": "https://info64.org/ii-campeonato-de-ajedrez-rotary-club-santiago"
-    },
-    {
-        "origin": "info64",
-        "nombre": "2 Open Internacional Sub2200 Hotel Vertice Chipiona Mar",
-        "ciudad": "Chipiona",
-        "fechaini": "06-11-2026",
-        "fechafin": "08-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7355451,
-        "lon": -6.4348221,
-        "link": "https://info64.org/2-open-internacional-sub2200-hotel-vertice-chipiona-mar"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Torneig Infantil El Genovés",
         "ciudad": "El Genovés",
         "fechaini": "18-10-2026",
@@ -529,18 +685,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Individual Absoluto de la Rioja",
-        "ciudad": "La Rioja",
-        "fechaini": "17-10-2026",
-        "fechafin": "05-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.2814642,
-        "lon": -2.482805,
-        "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Open Sub-2400 Marcos Frechín Memorial Mercedes Parrón",
         "ciudad": "Zaragoza",
         "fechaini": "05-12-2026",
@@ -550,18 +694,6 @@
         "lat": 41.6915847,
         "lon": -0.9101268,
         "link": "https://info64.org/vi-open-sub-2400-marcos-frechin-memorial-mercedes-parron"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo Torre-Fortaleza de Mesia",
-        "ciudad": "Mesia",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.0886943,
-        "lon": -8.2156017,
-        "link": "https://info64.org/iii-torneo-torre-fortaleza-de-mesia"
     },
     {
         "origin": "info64",
@@ -589,30 +721,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Open Internacional de Ajedrez Concejo de Aller",
-        "ciudad": "Moreda",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.1706329,
-        "lon": -5.7419089,
-        "link": "https://info64.org/iv-open-internacional-de-ajedrez-concejo-de-aller"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open 300 Torres",
-        "ciudad": "Onda",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.965214,
-        "lon": -0.2625745,
-        "link": "https://info64.org/ii-open-300-torres"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Individual Preferente Basilio 2026",
         "ciudad": "Valencia",
         "fechaini": "03-10-2026",
@@ -634,18 +742,6 @@
         "lat": 39.4697065,
         "lon": -0.3763353,
         "link": "https://info64.org/campeonato-provincial-individual-absoluto-basilio"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXI Copa Infantil de Malaga por Equipos",
-        "ciudad": "Torre de Benagalbon",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7175157,
-        "lon": -4.2480397,
-        "link": "https://info64.org/team/xxi-copa-infantil-de-malaga-por-equipos"
     },
     {
         "origin": "info64",
@@ -721,18 +817,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Open 300 Torres Infantil",
-        "ciudad": "Onda",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.965214,
-        "lon": -0.2625745,
-        "link": "https://info64.org/ii-open-300-torres-infantil"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXVIII Torneo Pueblo Nuevo  Martes y Jueves",
         "ciudad": "Madrid",
         "fechaini": "20-10-2026",
@@ -790,18 +874,6 @@
         "lat": 42.6291227,
         "lon": -8.9370382,
         "link": "https://info64.org/x-pizza-movil-concello-da-pobra-absoluto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
-        "ciudad": "Benidorm",
-        "fechaini": "28-11-2026",
-        "fechafin": "05-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
     },
     {
         "origin": "info64",
@@ -1309,18 +1381,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo Blitz Lanzaloe-OneChess 2026",
-        "ciudad": "Lanzarote",
-        "fechaini": "23-10-2026",
-        "fechafin": "23-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 29.0397081,
-        "lon": -13.6362916,
-        "link": "https://info64.org/i-blitz-lanzaloe-onechess-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Absoluto 2026",
         "ciudad": "Córdoba",
         "fechaini": "25-10-2026",
@@ -1330,18 +1390,6 @@
         "lat": 37.8845813,
         "lon": -4.7760138,
         "link": "https://info64.org/campeonato-provincial-absoluto-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo Activo Lanzaloe OneChess 2026 - Cto de Canarias Circuito Activo",
-        "ciudad": "Lanzarote",
-        "fechaini": "24-10-2026",
-        "fechafin": "25-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 29.0397081,
-        "lon": -13.6362916,
-        "link": "https://info64.org/ii-torneo-activo-lanzaloe-onechess-2026-campeonato-de-canarias-circuito-activo"
     },
     {
         "origin": "info64",
@@ -2065,18 +2113,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Liga Gambito de Guada Grupo B",
-        "ciudad": "Guadalajara",
-        "fechaini": "12-10-2026",
-        "fechafin": "10-01-2027",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7399963,
-        "lon": -2.50593,
-        "link": "https://info64.org/v-liga-gambito-de-guada-grupo-b"
-    },
-    {
-        "origin": "info64",
         "nombre": "VIII TORNEO AJEDREZ ISTAN 2026",
         "ciudad": "ISTAN",
         "fechaini": "18-10-2026",
@@ -2386,18 +2422,6 @@
         "lat": 42.7597656,
         "lon": -8.6236363,
         "link": "https://info64.org/iv-torneo-rosalia-de-castro-concello-de-padron"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open Gambito de Guada Sub 2400",
-        "ciudad": "Guadalajara",
-        "fechaini": "02-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7399963,
-        "lon": -2.50593,
-        "link": "https://info64.org/ii-open-gambito-de-guada-sub-2400"
     },
     {
         "origin": "info64",
