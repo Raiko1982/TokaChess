@@ -1429,15 +1429,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Torneo Virgen del Pilar",
-        "ciudad": "Villafranca de los Barros",
+        "nombre": "XXIII Calvia Chess Festival 2026 - Chessbase Amateur Blitz Tournament",
+        "ciudad": "Calvia",
         "fechaini": "17-10-2026",
         "fechafin": "17-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.5613352,
-        "lon": -6.3392388,
-        "link": "https://info64.org/vi-torneo-virgen-del-pilar"
+        "lat": 39.549557,
+        "lon": 2.5184396,
+        "link": "https://info64.org/xxiii-calvia-chess-festival-2026-chessbase-amateur-blitz-tournament"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXII Torneo Sub-2400",
+        "ciudad": "Ferrol",
+        "fechaini": "17-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5113053,
+        "lon": -8.2624767,
+        "link": "https://info64.org/xxxii-torneo-sub-2400"
     },
     {
         "origin": "info64",
@@ -1450,6 +1462,18 @@
         "lat": 43.1706329,
         "lon": -5.7419089,
         "link": "https://info64.org/team/i-torneo-de-ajedrez-por-equipos-concejo-de-aller"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Torneo Virgen del Pilar",
+        "ciudad": "Villafranca de los Barros",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5613352,
+        "lon": -6.3392388,
+        "link": "https://info64.org/vi-torneo-virgen-del-pilar"
     },
     {
         "origin": "info64",
@@ -1474,18 +1498,6 @@
         "lat": 42.2814642,
         "lon": -2.482805,
         "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIII Calvia Chess Festival 2026 - Chessbase Amateur Blitz Tournament",
-        "ciudad": "Calvia",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.549557,
-        "lon": 2.5184396,
-        "link": "https://info64.org/xxiii-calvia-chess-festival-2026-chessbase-amateur-blitz-tournament"
     },
     {
         "origin": "info64",
@@ -1608,18 +1620,6 @@
         "link": "https://info64.org/cto-individual-preferente-alavesa-2026"
     },
     {
-        "origin": "info64",
-        "nombre": "XXXII Torneo Sub-2400",
-        "ciudad": "Ferrol",
-        "fechaini": "17-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5113053,
-        "lon": -8.2624767,
-        "link": "https://info64.org/xxxii-torneo-sub-2400"
-    },
-    {
         "origin": "chess-results",
         "nombre": "Circuito Base Benimaclet sub 12-10-8",
         "ciudad": "",
@@ -1702,6 +1702,30 @@
         "lat": 39.5021057,
         "lon": 2.5332835,
         "link": "https://chess-results.com/tnr1488703.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Clausura Circuito Burgales 2026 - Aficionados",
+        "ciudad": "Cardenadijo",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3007027,
+        "lon": -3.667743,
+        "link": "https://info64.org/torneo-clausura-circuito-burgales-2026-aficionados"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Clausura Circuito Burgales 2026",
+        "ciudad": "Cardenadijo",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3007027,
+        "lon": -3.667743,
+        "link": "https://info64.org/torneo-clausura-circuito-burgales-2026"
     },
     {
         "origin": "info64",
@@ -2101,6 +2125,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II Campeonato de Ajedrez Rotary Club Santiago",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "24-10-2026",
+        "fechafin": "24-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.9064576,
+        "lon": -8.5192983,
+        "link": "https://info64.org/ii-campeonato-de-ajedrez-rotary-club-santiago"
+    },
+    {
+        "origin": "info64",
         "nombre": "7º Torneo Social C. A. Torrelodones",
         "ciudad": "Torrelodones, Madrid",
         "fechaini": "24-10-2026",
@@ -2158,18 +2194,6 @@
         "lat": 36.7647913,
         "lon": -4.4422005,
         "link": "https://info64.org/x-torneo-escolar-plaza-mayor-sub-10"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Campeonato de Ajedrez Rotary Club Santiago",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "24-10-2026",
-        "fechafin": "24-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.9064576,
-        "lon": -8.5192983,
-        "link": "https://info64.org/ii-campeonato-de-ajedrez-rotary-club-santiago"
     },
     {
         "origin": "info64",
@@ -2377,6 +2401,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "BENIDORM CHESS OPEN A 2026",
+        "ciudad": "Benidorm",
+        "fechaini": "25-10-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/benidorm-chess-open-a-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "BENIDORM CHESS OPEN B Sub-2000 2026",
         "ciudad": "Benidorm",
         "fechaini": "25-10-2026",
@@ -2398,18 +2434,6 @@
         "lat": 39.4745175,
         "lon": -6.3716761,
         "link": "https://info64.org/i-torneo-infantil-atenea"
-    },
-    {
-        "origin": "info64",
-        "nombre": "BENIDORM CHESS OPEN A 2026",
-        "ciudad": "Benidorm",
-        "fechaini": "25-10-2026",
-        "fechafin": "01-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/benidorm-chess-open-a-2026"
     },
     {
         "origin": "info64",
