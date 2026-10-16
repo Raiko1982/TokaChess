@@ -529,18 +529,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Open Gambito de Guada Sub 2400",
-        "ciudad": "Guadalajara",
-        "fechaini": "02-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.7399963,
-        "lon": -2.50593,
-        "link": "https://info64.org/ii-open-gambito-de-guada-sub-2400"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV LIGA LOCAL",
         "ciudad": "Almansa",
         "fechaini": "02-10-2026",
@@ -550,6 +538,18 @@
         "lat": 38.8682065,
         "lon": -1.0978627,
         "link": "https://info64.org/iv-liga-local"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Gambito de Guada Sub 2400",
+        "ciudad": "Guadalajara",
+        "fechaini": "02-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.7399963,
+        "lon": -2.50593,
+        "link": "https://info64.org/ii-open-gambito-de-guada-sub-2400"
     },
     {
         "origin": "chess-results",
@@ -1129,6 +1129,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "III SOCIAL TARDOR 2026 (Absolut)",
+        "ciudad": "Carlet",
+        "fechaini": "13-10-2026",
+        "fechafin": "27-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2251696,
+        "lon": -0.5202051,
+        "link": "https://info64.org/iii-social-tardor-2026-absolut"
+    },
+    {
+        "origin": "info64",
         "nombre": "III SOCIAL TARDOR 2026 (Sub-16)",
         "ciudad": "Carlet",
         "fechaini": "13-10-2026",
@@ -1141,15 +1153,111 @@
     },
     {
         "origin": "info64",
-        "nombre": "III SOCIAL TARDOR 2026 (Absolut)",
-        "ciudad": "Carlet",
-        "fechaini": "13-10-2026",
-        "fechafin": "27-11-2026",
+        "nombre": "FIDE World Championship 2026 - O17",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 39.2251696,
-        "lon": -0.5202051,
-        "link": "https://info64.org/iii-social-tardor-2026-absolut"
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-o17"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - O13",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-o13"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - O9",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-o9"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - G13",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-g13"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - O15",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-o15"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - O11",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-o11"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - G15",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-g15"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - G11",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-g11"
+    },
+    {
+        "origin": "info64",
+        "nombre": "FIDE World Championship 2026 - G17",
+        "ciudad": "Roquetas de Mar, Spain",
+        "fechaini": "14-10-2026",
+        "fechafin": "20-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/fide-world-championship-2026-g17"
     },
     {
         "origin": "info64",
@@ -1189,123 +1297,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - O15",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-o15"
-    },
-    {
-        "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - G15",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-g15"
-    },
-    {
-        "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - G13",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-g13"
-    },
-    {
-        "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - O9",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-o9"
-    },
-    {
-        "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - G11",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-g11"
-    },
-    {
-        "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - O13",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-o13"
-    },
-    {
-        "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - O17",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-o17"
-    },
-    {
-        "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - O11",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-o11"
-    },
-    {
-        "origin": "info64",
-        "nombre": "FIDE World Championship 2026 - G17",
-        "ciudad": "Roquetas de Mar, Spain",
-        "fechaini": "14-10-2026",
-        "fechafin": "20-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/fide-world-championship-2026-g17"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Torneo de los Viernes de Mikel Gurea 2026-2027",
-        "ciudad": "Burlada",
+        "nombre": "Torneo Promocion Elo Octubre Club Ajedrez Fundacion La Caja 2026.GrupoA",
+        "ciudad": "Las Palmas de Gran Canaria",
         "fechaini": "16-10-2026",
-        "fechafin": "16-10-2026",
+        "fechafin": "24-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.8230299,
-        "lon": -1.614076,
-        "link": "https://info64.org/iii-torneo-de-los-viernes-de-mikel-gurea-2026-2027"
+        "lat": 28.1288694,
+        "lon": -15.4349015,
+        "link": "https://info64.org/torneo-promocion-elo-octubre-club-ajedrez-fundacion-la-caja-2026grupoa"
     },
     {
         "origin": "info64",
@@ -1321,7 +1321,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo Promocion Elo Octubre Club Ajedrez Fundacion La Caja 2026.GrupoE",
+        "nombre": "Torneo Promocion Elo Octubre Club Ajedrez Fundacion La Caja 2026.GrupoB",
         "ciudad": "Las Palmas de Gran Canaria",
         "fechaini": "16-10-2026",
         "fechafin": "24-10-2026",
@@ -1329,19 +1329,7 @@
         "ritmo": "-",
         "lat": 28.1288694,
         "lon": -15.4349015,
-        "link": "https://info64.org/torneo-promocion-elo-octubre-club-ajedrez-fundacion-la-caja-2026grupoe"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Promocion Elo Octubre Club Ajedrez Fundacion La Caja 2026.GrupoD",
-        "ciudad": "Las Palmas de Gran Canaria",
-        "fechaini": "16-10-2026",
-        "fechafin": "24-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 28.1288694,
-        "lon": -15.4349015,
-        "link": "https://info64.org/torneo-promocion-elo-octubre-club-ajedrez-fundacion-la-caja-2026grupod"
+        "link": "https://info64.org/torneo-promocion-elo-octubre-club-ajedrez-fundacion-la-caja-2026grupob"
     },
     {
         "origin": "info64",
@@ -1357,7 +1345,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo Promocion Elo Octubre Club Ajedrez Fundacion La Caja 2026.GrupoB",
+        "nombre": "Torneo Promocion Elo Octubre Club Ajedrez Fundacion La Caja 2026.GrupoD",
         "ciudad": "Las Palmas de Gran Canaria",
         "fechaini": "16-10-2026",
         "fechafin": "24-10-2026",
@@ -1365,11 +1353,11 @@
         "ritmo": "-",
         "lat": 28.1288694,
         "lon": -15.4349015,
-        "link": "https://info64.org/torneo-promocion-elo-octubre-club-ajedrez-fundacion-la-caja-2026grupob"
+        "link": "https://info64.org/torneo-promocion-elo-octubre-club-ajedrez-fundacion-la-caja-2026grupod"
     },
     {
         "origin": "info64",
-        "nombre": "Torneo Promocion Elo Octubre Club Ajedrez Fundacion La Caja 2026.GrupoA",
+        "nombre": "Torneo Promocion Elo Octubre Club Ajedrez Fundacion La Caja 2026.GrupoE",
         "ciudad": "Las Palmas de Gran Canaria",
         "fechaini": "16-10-2026",
         "fechafin": "24-10-2026",
@@ -1377,7 +1365,7 @@
         "ritmo": "-",
         "lat": 28.1288694,
         "lon": -15.4349015,
-        "link": "https://info64.org/torneo-promocion-elo-octubre-club-ajedrez-fundacion-la-caja-2026grupoa"
+        "link": "https://info64.org/torneo-promocion-elo-octubre-club-ajedrez-fundacion-la-caja-2026grupoe"
     },
     {
         "origin": "chess-results",
@@ -1525,6 +1513,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV Open Internacional de Ajedrez Concejo de Aller",
+        "ciudad": "Moreda",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.1706329,
+        "lon": -5.7419089,
+        "link": "https://info64.org/iv-open-internacional-de-ajedrez-concejo-de-aller"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Clausura Provincial 2026",
+        "ciudad": "Palencia",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4096322,
+        "lon": -4.6161004,
+        "link": "https://info64.org/clausura-provincial-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Clausura Barrios online",
         "ciudad": "Palencia",
         "fechaini": "17-10-2026",
@@ -1537,15 +1549,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo Rapidas del Centenario de La Didactica 1927-2027",
-        "ciudad": "Madrid",
+        "nombre": "V Torneo Interescolar CC Los Prados 17 Octubre",
+        "ciudad": "Centro Comercial Los Prados",
         "fechaini": "17-10-2026",
         "fechafin": "17-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/i-torneo-rapidas-del-centenario-de-la-didactica-1927-2027"
+        "lat": 43.3710039,
+        "lon": -5.8311153,
+        "link": "https://info64.org/v-torneo-interescolar-cc-los-prados-17-octubre"
     },
     {
         "origin": "info64",
@@ -1558,6 +1570,54 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/xii-torneo-xii-open-de-ajedrez-arcos-de-la-frontera-m-ja-fernandez-parrilla"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XV Torneo de Ajedrez Garciotum 2026",
+        "ciudad": "Garciotum",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0986693,
+        "lon": -4.6470658,
+        "link": "https://info64.org/xv-torneo-de-ajedrez-garciotum"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Torneo Virgen del Pilar",
+        "ciudad": "Villafranca de los Barros",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5613352,
+        "lon": -6.3392388,
+        "link": "https://info64.org/vi-torneo-virgen-del-pilar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Interescolar CC Los Prados",
+        "ciudad": "Centro Comercial Los Prados",
+        "fechaini": "17-10-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3710039,
+        "lon": -5.8311153,
+        "link": "https://info64.org/v-torneo-interescolar-cc-los-prados"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Rapidas del Centenario de La Didactica 1927-2027",
+        "ciudad": "Madrid",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/i-torneo-rapidas-del-centenario-de-la-didactica-1927-2027"
     },
     {
         "origin": "info64",
@@ -1582,30 +1642,6 @@
         "lat": 43.2630018,
         "lon": -2.9350039,
         "link": "https://info64.org/campeonato-absoluto-de-bizkaia-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Torneo Virgen del Pilar",
-        "ciudad": "Villafranca de los Barros",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5613352,
-        "lon": -6.3392388,
-        "link": "https://info64.org/vi-torneo-virgen-del-pilar"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XV Torneo de Ajedrez Garciotum 2026",
-        "ciudad": "Garciotum",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0986693,
-        "lon": -4.6470658,
-        "link": "https://info64.org/xv-torneo-de-ajedrez-garciotum"
     },
     {
         "origin": "info64",
@@ -1639,8 +1675,8 @@
         "fechafin": "05-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
     },
     {
@@ -1702,30 +1738,6 @@
         "lat": 39.549557,
         "lon": 2.5184396,
         "link": "https://info64.org/xxiii-calvia-chess-festival-2026-chessbase-amateur-blitz-tournament"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV Open Internacional de Ajedrez Concejo de Aller",
-        "ciudad": "Moreda",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.1706329,
-        "lon": -5.7419089,
-        "link": "https://info64.org/iv-open-internacional-de-ajedrez-concejo-de-aller"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Interescolar CC Los Prados",
-        "ciudad": "Centro Comercial Los Prados",
-        "fechaini": "17-10-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3710039,
-        "lon": -5.8311153,
-        "link": "https://info64.org/v-torneo-interescolar-cc-los-prados"
     },
     {
         "origin": "info64",
@@ -1861,31 +1873,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXV Open de Ajedrez de Villanueva de Cordoba",
-        "ciudad": "Villanueva de Cordoba",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3230235,
-        "lon": -4.6279655,
-        "link": "https://info64.org/xxv-open-de-ajedrez-de-villanueva-de-cordoba"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II T. Ajedrez en Yeles",
-        "ciudad": "Yeles",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.1197677,
-        "lon": -3.8042363,
-        "link": "https://info64.org/ii-t-ajedrez-en-yeles"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open 300 Torres",
+        "nombre": "II Open 300 Torres Infantil",
         "ciudad": "Onda",
         "fechaini": "18-10-2026",
         "fechafin": "18-10-2026",
@@ -1893,31 +1881,19 @@
         "ritmo": "-",
         "lat": 39.965214,
         "lon": -0.2625745,
-        "link": "https://info64.org/ii-open-300-torres"
+        "link": "https://info64.org/ii-open-300-torres-infantil"
     },
     {
         "origin": "info64",
-        "nombre": "X Pizza Movil Concello da Pobra Absoluto",
-        "ciudad": "Pobra do Caramiñal",
+        "nombre": "III Torneo Torre-Fortaleza de Mesia",
+        "ciudad": "Mesia",
         "fechaini": "18-10-2026",
         "fechafin": "18-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.6291227,
-        "lon": -8.9370382,
-        "link": "https://info64.org/x-pizza-movil-concello-da-pobra-absoluto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Clausura Circuito Burgales 2026 - Aficionados",
-        "ciudad": "Cardenadijo",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.3007027,
-        "lon": -3.667743,
-        "link": "https://info64.org/torneo-clausura-circuito-burgales-2026-aficionados"
+        "lat": 43.0886943,
+        "lon": -8.2156017,
+        "link": "https://info64.org/iii-torneo-torre-fortaleza-de-mesia"
     },
     {
         "origin": "info64",
@@ -1945,7 +1921,55 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Open 300 Torres Infantil",
+        "nombre": "VIII TORNEO AJEDREZ ISTAN 2026",
+        "ciudad": "ISTAN",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.5819684,
+        "lon": -4.9495445,
+        "link": "https://info64.org/viii-torneo-ajedrez-istan-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II T. Ajedrez en Yeles",
+        "ciudad": "Yeles",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.1197677,
+        "lon": -3.8042363,
+        "link": "https://info64.org/ii-t-ajedrez-en-yeles"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Clausura Circuito Burgales 2026 - Aficionados",
+        "ciudad": "Cardenadijo",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3007027,
+        "lon": -3.667743,
+        "link": "https://info64.org/torneo-clausura-circuito-burgales-2026-aficionados"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXV Open de Ajedrez de Villanueva de Cordoba",
+        "ciudad": "Villanueva de Cordoba",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3230235,
+        "lon": -4.6279655,
+        "link": "https://info64.org/xxv-open-de-ajedrez-de-villanueva-de-cordoba"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open 300 Torres",
         "ciudad": "Onda",
         "fechaini": "18-10-2026",
         "fechafin": "18-10-2026",
@@ -1953,19 +1977,19 @@
         "ritmo": "-",
         "lat": 39.965214,
         "lon": -0.2625745,
-        "link": "https://info64.org/ii-open-300-torres-infantil"
+        "link": "https://info64.org/ii-open-300-torres"
     },
     {
         "origin": "info64",
-        "nombre": "III Torneo Torre-Fortaleza de Mesia",
-        "ciudad": "Mesia",
+        "nombre": "X Pizza Movil Concello da Pobra Absoluto",
+        "ciudad": "Pobra do Caramiñal",
         "fechaini": "18-10-2026",
         "fechafin": "18-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.0886943,
-        "lon": -8.2156017,
-        "link": "https://info64.org/iii-torneo-torre-fortaleza-de-mesia"
+        "lat": 42.6291227,
+        "lon": -8.9370382,
+        "link": "https://info64.org/x-pizza-movil-concello-da-pobra-absoluto"
     },
     {
         "origin": "info64",
@@ -2014,18 +2038,6 @@
         "lat": 42.6291227,
         "lon": -8.9370382,
         "link": "https://info64.org/x-torneo-de-xadrez-pizza-movil-sub8"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VIII TORNEO AJEDREZ ISTAN 2026",
-        "ciudad": "ISTAN",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.5819684,
-        "lon": -4.9495445,
-        "link": "https://info64.org/viii-torneo-ajedrez-istan-2026"
     },
     {
         "origin": "chess-results",
@@ -2173,6 +2185,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "VI Blitz Friday RGCC - Octubre",
+        "ciudad": "Gijon",
+        "fechaini": "23-10-2026",
+        "fechafin": "23-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/vi-blitz-friday-rgcc-octubre"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Torneo Blitz Lanzaloe-OneChess 2026",
         "ciudad": "Lanzarote",
         "fechaini": "23-10-2026",
@@ -2281,6 +2305,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "II Campeonato de Ajedrez Rotary Club Santiago",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "24-10-2026",
+        "fechafin": "24-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.9064576,
+        "lon": -8.5192983,
+        "link": "https://info64.org/ii-campeonato-de-ajedrez-rotary-club-santiago"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XIX Torneo Abierto de Ajedrez Alcobendas Mejor Ciudad Europea Del Deporte 2026",
+        "ciudad": "Alcobendas",
+        "fechaini": "24-10-2026",
+        "fechafin": "24-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5400082,
+        "lon": -3.6358494,
+        "link": "https://info64.org/xix-torneo-abierto-de-ajedrez-alcobendas-mejor-ciudad-europea-del-deporte-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "II Torneo Activo Lanzaloe OneChess 2026 - Cto de Canarias Circuito Activo",
         "ciudad": "Lanzarote",
         "fechaini": "24-10-2026",
@@ -2338,18 +2386,6 @@
         "lat": 42.3448498,
         "lon": -3.6812477,
         "link": "https://info64.org/irt-copa-sub1800-burgos-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Campeonato de Ajedrez Rotary Club Santiago",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "24-10-2026",
-        "fechafin": "24-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.9064576,
-        "lon": -8.5192983,
-        "link": "https://info64.org/ii-campeonato-de-ajedrez-rotary-club-santiago"
     },
     {
         "origin": "info64",
@@ -2629,6 +2665,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "BENIDORM CHESS OPEN A 2026",
+        "ciudad": "Benidorm",
+        "fechaini": "25-10-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/benidorm-chess-open-a-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open Memorial Severino Argente",
+        "ciudad": "Navarres",
+        "fechaini": "25-10-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.1024656,
+        "lon": -0.6953201,
+        "link": "https://info64.org/ii-open-memorial-severino-argente"
+    },
+    {
+        "origin": "info64",
         "nombre": "BENIDORM CHESS OPEN B Sub-2000 2026",
         "ciudad": "Benidorm",
         "fechaini": "25-10-2026",
@@ -2674,30 +2734,6 @@
         "lat": 40.0322289,
         "lon": -3.6040097,
         "link": "https://info64.org/torneo-blitz-internacional-de-aranjuez"
-    },
-    {
-        "origin": "info64",
-        "nombre": "BENIDORM CHESS OPEN A 2026",
-        "ciudad": "Benidorm",
-        "fechaini": "25-10-2026",
-        "fechafin": "01-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/benidorm-chess-open-a-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Open Memorial Severino Argente",
-        "ciudad": "Navarres",
-        "fechaini": "25-10-2026",
-        "fechafin": "25-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1024656,
-        "lon": -0.6953201,
-        "link": "https://info64.org/ii-open-memorial-severino-argente"
     },
     {
         "origin": "info64",
@@ -2785,18 +2821,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Cerrado Internacional de Ajedrez D. Jose Luis Garcia-Palacios",
-        "ciudad": "Huelva",
-        "fechaini": "29-10-2026",
-        "fechafin": "02-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.2575874,
-        "lon": -6.9484945,
-        "link": "https://info64.org/i-cerrado-internacion-de-ajedrez-d-jose-luis-garcia-palacios"
-    },
-    {
-        "origin": "info64",
         "nombre": "MEMORIAL EMILIO PELLICER 2026 - BENIDORM CHESS OPEN",
         "ciudad": "Benidorm",
         "fechaini": "29-10-2026",
@@ -2806,6 +2830,18 @@
         "lat": 38.5406255,
         "lon": -0.1290929,
         "link": "https://info64.org/memorial-emilio-pellicer-2026-benidorm-chess-open"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Cerrado Internacional de Ajedrez D. Jose Luis Garcia-Palacios",
+        "ciudad": "Huelva",
+        "fechaini": "29-10-2026",
+        "fechafin": "02-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.2575874,
+        "lon": -6.9484945,
+        "link": "https://info64.org/i-cerrado-internacion-de-ajedrez-d-jose-luis-garcia-palacios"
     },
     {
         "origin": "chess-results",
@@ -2821,18 +2857,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Torneo Halloween Xadrez Compostela 2026",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "30-10-2026",
-        "fechafin": "30-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.9064576,
-        "lon": -8.5192983,
-        "link": "https://info64.org/iv-torneo-halloween-xadrez-compostela-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "HALLOWEEN CHESS 2026 - BENIDORM CHESS OPEN",
         "ciudad": "Benidorm",
         "fechaini": "30-10-2026",
@@ -2842,6 +2866,18 @@
         "lat": 38.5406255,
         "lon": -0.1290929,
         "link": "https://info64.org/halloween-chess-2026-benidorm-chess-open"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo Halloween Xadrez Compostela 2026",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "30-10-2026",
+        "fechafin": "30-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.9064576,
+        "lon": -8.5192983,
+        "link": "https://info64.org/iv-torneo-halloween-xadrez-compostela-2026"
     },
     {
         "origin": "chess-results",
@@ -2869,18 +2905,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo Quinta Isaura Alevia",
-        "ciudad": "Alevia",
-        "fechaini": "31-10-2026",
-        "fechafin": "31-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3395896,
-        "lon": -4.5941121,
-        "link": "https://info64.org/i-torneo-quinta-isaura-alevia"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Torneo de Ajedrez FreeStyle Mieres",
         "ciudad": "Centru Cultural Mieres",
         "fechaini": "31-10-2026",
@@ -2893,18 +2917,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Torneo Rapidas Akeru Vicalvaro",
-        "ciudad": "Madrid",
-        "fechaini": "31-10-2026",
-        "fechafin": "31-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/iii-torneo-rapidas-akeru-vicalvaro"
-    },
-    {
-        "origin": "info64",
         "nombre": "XI Torneo Sub 2400 Club Ajedrez V Centenario",
         "ciudad": "San Sebastian de los Reyes",
         "fechaini": "31-10-2026",
@@ -2914,6 +2926,30 @@
         "lat": 40.5473698,
         "lon": -3.6260586,
         "link": "https://info64.org/xi-torneo-sub-2400-club-ajedrez-v-centenario"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Quinta Isaura Alevia",
+        "ciudad": "Alevia",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3395896,
+        "lon": -4.5941121,
+        "link": "https://info64.org/i-torneo-quinta-isaura-alevia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Torneo Rapidas Akeru Vicalvaro",
+        "ciudad": "Madrid",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/iii-torneo-rapidas-akeru-vicalvaro"
     },
     {
         "origin": "info64",
