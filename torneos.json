@@ -73,18 +73,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Sevilla Absoluto, Femenino y Sub18 2026",
-        "ciudad": "Alcala de Guadaira",
-        "fechaini": "13-09-2026",
-        "fechafin": "25-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3397709,
-        "lon": -5.8408396,
-        "link": "https://info64.org/campeonato-de-sevilla-absoluto-femenino-y-sub18-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "XIV Open de Otono CCC 2026",
         "ciudad": "Colmenarejo",
         "fechaini": "13-09-2026",
@@ -94,6 +82,18 @@
         "lat": 40.5607257,
         "lon": -4.0165248,
         "link": "https://info64.org/xiv-open-de-otono-ccc-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Sevilla Absoluto, Femenino y Sub18 2026",
+        "ciudad": "Alcala de Guadaira",
+        "fechaini": "13-09-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3397709,
+        "lon": -5.8408396,
+        "link": "https://info64.org/campeonato-de-sevilla-absoluto-femenino-y-sub18-2026"
     },
     {
         "origin": "chess-results",
@@ -457,18 +457,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Open de Otono GROS XAKE Udazkeneko Irekia",
-        "ciudad": "Donostia",
-        "fechaini": "26-09-2026",
-        "fechafin": "21-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3224219,
-        "lon": -1.9838889,
-        "link": "https://info64.org/ii-open-de-otono-gros-xake-udazkeneko-irekia"
-    },
-    {
-        "origin": "info64",
         "nombre": "C.A. Tomelloso - Trofeo de Otoño - Torneo B",
         "ciudad": "TOMELLOSO",
         "fechaini": "26-09-2026",
@@ -478,6 +466,18 @@
         "lat": 39.1585549,
         "lon": -3.0214851,
         "link": "https://info64.org/ca-tomelloso-trofeo-de-otono-torneo-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Open de Otono GROS XAKE Udazkeneko Irekia",
+        "ciudad": "Donostia",
+        "fechaini": "26-09-2026",
+        "fechafin": "21-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3224219,
+        "lon": -1.9838889,
+        "link": "https://info64.org/ii-open-de-otono-gros-xake-udazkeneko-irekia"
     },
     {
         "origin": "info64",
@@ -529,18 +529,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV LIGA LOCAL",
-        "ciudad": "Almansa",
-        "fechaini": "02-10-2026",
-        "fechafin": "27-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.8682065,
-        "lon": -1.0978627,
-        "link": "https://info64.org/iv-liga-local"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Open Gambito de Guada Sub 2400",
         "ciudad": "Guadalajara",
         "fechaini": "02-10-2026",
@@ -550,6 +538,18 @@
         "lat": 40.7399963,
         "lon": -2.50593,
         "link": "https://info64.org/ii-open-gambito-de-guada-sub-2400"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV LIGA LOCAL",
+        "ciudad": "Almansa",
+        "fechaini": "02-10-2026",
+        "fechafin": "27-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.8682065,
+        "lon": -1.0978627,
+        "link": "https://info64.org/iv-liga-local"
     },
     {
         "origin": "chess-results",
@@ -1429,27 +1429,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Open Internacional de Ajedrez Concejo de Aller",
-        "ciudad": "Moreda",
+        "nombre": "XII Open de Ajedrez Arcos de la Frontera - M. J.A Fernández Parrilla",
+        "ciudad": "Hotel Rest. El Lago - Arcos",
         "fechaini": "17-10-2026",
         "fechafin": "17-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 43.1706329,
-        "lon": -5.7419089,
-        "link": "https://info64.org/iv-open-internacional-de-ajedrez-concejo-de-aller"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIII Calvia Chess Festival 2026 - Chessbase Amateur Blitz Tournament",
-        "ciudad": "Calvia",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.549557,
-        "lon": 2.5184396,
-        "link": "https://info64.org/xxiii-calvia-chess-festival-2026-chessbase-amateur-blitz-tournament"
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/xii-torneo-xii-open-de-ajedrez-arcos-de-la-frontera-m-ja-fernandez-parrilla"
     },
     {
         "origin": "info64",
@@ -1465,51 +1453,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "Clausura Provincial 2026",
-        "ciudad": "Palencia",
+        "nombre": "I Torneo de Ajedrez por Equipos Concejo de Aller",
+        "ciudad": "Moreda",
         "fechaini": "17-10-2026",
         "fechafin": "17-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.4096322,
-        "lon": -4.6161004,
-        "link": "https://info64.org/clausura-provincial-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Clausura Barrios online",
-        "ciudad": "Palencia",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.4096322,
-        "lon": -4.6161004,
-        "link": "https://info64.org/clausura-barrios-online"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Interescolar CC Los Prados 17 Octubre",
-        "ciudad": "Centro Comercial Los Prados",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.3710039,
-        "lon": -5.8311153,
-        "link": "https://info64.org/v-torneo-interescolar-cc-los-prados-17-octubre"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Open de Ajedrez Arcos de la Frontera - M. J.A Fernández Parrilla",
-        "ciudad": "Hotel Rest. El Lago - Arcos",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xii-torneo-xii-open-de-ajedrez-arcos-de-la-frontera-m-ja-fernandez-parrilla"
+        "lat": 43.1706329,
+        "lon": -5.7419089,
+        "link": "https://info64.org/team/i-torneo-de-ajedrez-por-equipos-concejo-de-aller"
     },
     {
         "origin": "info64",
@@ -1534,6 +1486,66 @@
         "lat": 38.5613352,
         "lon": -6.3392388,
         "link": "https://info64.org/vi-torneo-virgen-del-pilar"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Copa Diputacion de Malaga por equipos 2026",
+        "ciudad": "Rincon De La Victoria",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7162109,
+        "lon": -4.2793767,
+        "link": "https://info64.org/team/copa-diputacion-de-malaga-por-equipos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXI Copa Diputacion Infantil de Malaga por Equipos 2026",
+        "ciudad": "Torre de Benagalbon",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7175157,
+        "lon": -4.2480397,
+        "link": "https://info64.org/team/xxi-copa-diputacion-infantil-de-malaga-por-equipos-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Open Internacional de Ajedrez Concejo de Aller",
+        "ciudad": "Moreda",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.1706329,
+        "lon": -5.7419089,
+        "link": "https://info64.org/iv-open-internacional-de-ajedrez-concejo-de-aller"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Interescolar CC Los Prados 17 Octubre",
+        "ciudad": "Centro Comercial Los Prados",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.3710039,
+        "lon": -5.8311153,
+        "link": "https://info64.org/v-torneo-interescolar-cc-los-prados-17-octubre"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Clausura Provincial 2026",
+        "ciudad": "Palencia",
+        "fechaini": "17-10-2026",
+        "fechafin": "17-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.4096322,
+        "lon": -4.6161004,
+        "link": "https://info64.org/clausura-provincial-2026"
     },
     {
         "origin": "info64",
@@ -1585,26 +1597,14 @@
     },
     {
         "origin": "info64",
-        "nombre": "Copa Diputacion de Malaga por equipos 2026",
-        "ciudad": "Rincon De La Victoria",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7162109,
-        "lon": -4.2793767,
-        "link": "https://info64.org/team/copa-diputacion-de-malaga-por-equipos-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Individual Absoluto de la Rioja",
         "ciudad": "La Rioja",
         "fechaini": "17-10-2026",
         "fechafin": "05-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.2814642,
-        "lon": -2.482805,
+        "lat": 42.3285528,
+        "lon": -2.4674917,
         "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
     },
     {
@@ -1654,30 +1654,6 @@
         "lat": 42.8505845,
         "lon": -2.66145,
         "link": "https://info64.org/cto-tercera-individual-alavesa-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo de Ajedrez por Equipos Concejo de Aller",
-        "ciudad": "Moreda",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.1706329,
-        "lon": -5.7419089,
-        "link": "https://info64.org/team/i-torneo-de-ajedrez-por-equipos-concejo-de-aller"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXI Copa Diputacion Infantil de Malaga por Equipos 2026",
-        "ciudad": "Torre de Benagalbon",
-        "fechaini": "17-10-2026",
-        "fechafin": "17-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7175157,
-        "lon": -4.2480397,
-        "link": "https://info64.org/team/xxi-copa-diputacion-infantil-de-malaga-por-equipos-2026"
     },
     {
         "origin": "chess-results",
@@ -1801,6 +1777,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Torneo Clausura Circuito Burgales 2026",
+        "ciudad": "Cardenadijo",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3007027,
+        "lon": -3.667743,
+        "link": "https://info64.org/torneo-clausura-circuito-burgales-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo Clausura Circuito Burgales 2026 - Aficionados",
         "ciudad": "Cardenadijo",
         "fechaini": "18-10-2026",
@@ -1882,18 +1870,6 @@
         "lat": 43.0886943,
         "lon": -8.2156017,
         "link": "https://info64.org/iii-torneo-torre-fortaleza-de-mesia"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Clausura Circuito Burgales 2026",
-        "ciudad": "Cardenadijo",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.3007027,
-        "lon": -3.667743,
-        "link": "https://info64.org/torneo-clausura-circuito-burgales-2026"
     },
     {
         "origin": "info64",
@@ -2257,6 +2233,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Torneig Infantil El Genoves",
+        "ciudad": "El Genovés",
+        "fechaini": "24-10-2026",
+        "fechafin": "24-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9884181,
+        "lon": -0.4704196,
+        "link": "https://info64.org/i-torneig-infantil-el-genoves-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II Torneo Ajedrez Infantil C.C. Los Llanos",
+        "ciudad": "Albacete",
+        "fechaini": "24-10-2026",
+        "fechafin": "24-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9950921,
+        "lon": -1.8559154,
+        "link": "https://info64.org/ii-torneo-ajedrez-infantil-cc-los-llanos"
+    },
+    {
+        "origin": "info64",
         "nombre": "II Campeonato de Ajedrez Rotary Club Santiago",
         "ciudad": "Santiago de Compostela",
         "fechaini": "24-10-2026",
@@ -2290,18 +2290,6 @@
         "lat": 29.0397081,
         "lon": -13.6362916,
         "link": "https://info64.org/ii-torneo-activo-lanzaloe-onechess-2026-campeonato-de-canarias-circuito-activo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo Ajedrez Infantil C.C. Los Llanos",
-        "ciudad": "Albacete",
-        "fechaini": "24-10-2026",
-        "fechafin": "24-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.9950921,
-        "lon": -1.8559154,
-        "link": "https://info64.org/ii-torneo-ajedrez-infantil-cc-los-llanos"
     },
     {
         "origin": "info64",
@@ -2617,18 +2605,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "BENIDORM CHESS OPEN A 2026",
-        "ciudad": "Benidorm",
-        "fechaini": "25-10-2026",
-        "fechafin": "01-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/benidorm-chess-open-a-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Open Memorial Severino Argente",
         "ciudad": "Navarres",
         "fechaini": "25-10-2026",
@@ -2638,6 +2614,30 @@
         "lat": 39.1024656,
         "lon": -0.6953201,
         "link": "https://info64.org/ii-open-memorial-severino-argente"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I TORNEO INFANTIL ATENEA",
+        "ciudad": "CÁCERES",
+        "fechaini": "25-10-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4745175,
+        "lon": -6.3716761,
+        "link": "https://info64.org/i-torneo-infantil-atenea"
+    },
+    {
+        "origin": "info64",
+        "nombre": "BENIDORM CHESS OPEN A 2026",
+        "ciudad": "Benidorm",
+        "fechaini": "25-10-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/benidorm-chess-open-a-2026"
     },
     {
         "origin": "info64",
@@ -2662,18 +2662,6 @@
         "lat": 37.8845813,
         "lon": -4.7760138,
         "link": "https://info64.org/campeonato-provincial-absoluto-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I TORNEO INFANTIL ATENEA",
-        "ciudad": "CÁCERES",
-        "fechaini": "25-10-2026",
-        "fechafin": "25-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4745175,
-        "lon": -6.3716761,
-        "link": "https://info64.org/i-torneo-infantil-atenea"
     },
     {
         "origin": "info64",
@@ -3205,18 +3193,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "2 Open Internacional Sub2200 Hotel Vertice Chipiona Mar",
-        "ciudad": "Chipiona",
-        "fechaini": "06-11-2026",
-        "fechafin": "08-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7355451,
-        "lon": -6.4348221,
-        "link": "https://info64.org/2-open-internacional-sub2200-hotel-vertice-chipiona-mar"
-    },
-    {
-        "origin": "info64",
         "nombre": "VIII Torneig Vall dels Alcalans",
         "ciudad": "Montserrat",
         "fechaini": "06-11-2026",
@@ -3226,6 +3202,18 @@
         "lat": 39.3576494,
         "lon": -0.6031,
         "link": "https://info64.org/viii-vall-dels-alcalans"
+    },
+    {
+        "origin": "info64",
+        "nombre": "2 Open Internacional Sub2200 Hotel Vertice Chipiona Mar",
+        "ciudad": "Chipiona",
+        "fechaini": "06-11-2026",
+        "fechafin": "08-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7355451,
+        "lon": -6.4348221,
+        "link": "https://info64.org/2-open-internacional-sub2200-hotel-vertice-chipiona-mar"
     },
     {
         "origin": "chess-results",
