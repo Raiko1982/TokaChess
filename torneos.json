@@ -985,18 +985,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Navarra Absoluto por Equipos-Tercera",
-        "ciudad": "Pamplona",
-        "fechaini": "10-10-2026",
-        "fechafin": "21-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.815686,
-        "lon": -1.6522353,
-        "link": "https://info64.org/team/campeonato-de-navarra-absoluto-por-equipos-tercera"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato de Navarra Absoluto por Equipos-Primera",
         "ciudad": "Pamplona",
         "fechaini": "10-10-2026",
@@ -1006,6 +994,18 @@
         "lat": 42.815686,
         "lon": -1.6522353,
         "link": "https://info64.org/team/campeonato-navarro-equipos-2026_primera"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Navarra Absoluto por Equipos-Tercera",
+        "ciudad": "Pamplona",
+        "fechaini": "10-10-2026",
+        "fechafin": "21-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.815686,
+        "lon": -1.6522353,
+        "link": "https://info64.org/team/campeonato-de-navarra-absoluto-por-equipos-tercera"
     },
     {
         "origin": "info64",
@@ -1573,6 +1573,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "VIII TORNEO AJEDREZ ISTAN 2026",
+        "ciudad": "ISTAN",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.5819684,
+        "lon": -4.9495445,
+        "link": "https://info64.org/viii-torneo-ajedrez-istan-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "II T. Ajedrez en Yeles",
+        "ciudad": "Yeles",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.1197677,
+        "lon": -3.8042363,
+        "link": "https://info64.org/ii-t-ajedrez-en-yeles"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXV Open de Ajedrez de Villanueva de Cordoba",
+        "ciudad": "Villanueva de Cordoba",
+        "fechaini": "18-10-2026",
+        "fechafin": "18-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.3230235,
+        "lon": -4.6279655,
+        "link": "https://info64.org/xxv-open-de-ajedrez-de-villanueva-de-cordoba"
+    },
+    {
+        "origin": "info64",
         "nombre": "X Torneo de Xadrez Pizza Movil sub8",
         "ciudad": "A Pobra do Caramiñal",
         "fechaini": "18-10-2026",
@@ -1657,18 +1693,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXV Open de Ajedrez de Villanueva de Cordoba",
-        "ciudad": "Villanueva de Cordoba",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.3230235,
-        "lon": -4.6279655,
-        "link": "https://info64.org/xxv-open-de-ajedrez-de-villanueva-de-cordoba"
-    },
-    {
-        "origin": "info64",
         "nombre": "Torneo Clausura Circuito Burgales 2026 - Aficionados",
         "ciudad": "Cardenadijo",
         "fechaini": "18-10-2026",
@@ -1714,30 +1738,6 @@
         "lat": 42.6291227,
         "lon": -8.9370382,
         "link": "https://info64.org/x-pizza-movil-s12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VIII TORNEO AJEDREZ ISTAN 2026",
-        "ciudad": "ISTAN",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.5819684,
-        "lon": -4.9495445,
-        "link": "https://info64.org/viii-torneo-ajedrez-istan-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II T. Ajedrez en Yeles",
-        "ciudad": "Yeles",
-        "fechaini": "18-10-2026",
-        "fechafin": "18-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.1197677,
-        "lon": -3.8042363,
-        "link": "https://info64.org/ii-t-ajedrez-en-yeles"
     },
     {
         "origin": "chess-results",
@@ -2653,6 +2653,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XI Torneo Sub 2400 Club Ajedrez V Centenario",
+        "ciudad": "San Sebastian de los Reyes",
+        "fechaini": "31-10-2026",
+        "fechafin": "02-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5473698,
+        "lon": -3.6260586,
+        "link": "https://info64.org/xi-torneo-sub-2400-club-ajedrez-v-centenario"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Torneig Infantil El Genoves",
         "ciudad": "El Genovés",
         "fechaini": "31-10-2026",
@@ -2710,18 +2722,6 @@
         "lat": 43.2511582,
         "lon": -5.7729289,
         "link": "https://info64.org/ii-torneo-de-ajedrez-freestyle-mieres"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XI Torneo Sub 2400 Club Ajedrez V Centenario",
-        "ciudad": "San Sebastian de los Reyes",
-        "fechaini": "31-10-2026",
-        "fechafin": "02-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5473698,
-        "lon": -3.6260586,
-        "link": "https://info64.org/xi-torneo-sub-2400-club-ajedrez-v-centenario"
     },
     {
         "origin": "info64",
