@@ -1129,6 +1129,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Torneo Promocion Elo Octubre Club Ajedrez Fundacion La Caja 2026.GrupoC",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "fechaini": "16-10-2026",
+        "fechafin": "24-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 28.1288694,
+        "lon": -15.4349015,
+        "link": "https://info64.org/torneo-promocion-elo-octubre-club-ajedrez-fundacion-la-caja-2026grupoc"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo Promocion Elo Octubre Club Ajedrez Fundacion La Caja 2026.GrupoD",
         "ciudad": "Las Palmas de Gran Canaria",
         "fechaini": "16-10-2026",
@@ -1174,18 +1186,6 @@
         "lat": 28.1288694,
         "lon": -15.4349015,
         "link": "https://info64.org/torneo-promocion-elo-octubre-club-ajedrez-fundacion-la-caja-2026grupob"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Promocion Elo Octubre Club Ajedrez Fundacion La Caja 2026.GrupoC",
-        "ciudad": "Las Palmas de Gran Canaria",
-        "fechaini": "16-10-2026",
-        "fechafin": "24-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 28.1288694,
-        "lon": -15.4349015,
-        "link": "https://info64.org/torneo-promocion-elo-octubre-club-ajedrez-fundacion-la-caja-2026grupoc"
     },
     {
         "origin": "info64",
@@ -1387,8 +1387,8 @@
         "fechafin": "25-10-2026",
         "organizador": "Federación Aragonesa de Ajedrez",
         "ritmo": "60+30",
-        "lat": 42.0564202,
-        "lon": 0.2414219,
+        "lat": 42.0554629,
+        "lon": 0.2384254,
         "link": "https://chess-results.com/tnr1510929.aspx?lan=2"
     },
     {
@@ -1440,6 +1440,30 @@
         "link": "https://chess-results.com/tnr1451238.aspx?lan=2"
     },
     {
+        "origin": "chess-results",
+        "nombre": "TORNEO IX COLEGIO DELICIAS",
+        "ciudad": "",
+        "fechaini": "22-10-2026",
+        "fechafin": "01-06-2027",
+        "organizador": "Departamento de MATEMÁTICAS",
+        "ritmo": "7+3",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1524286.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Liga Social 2026",
+        "ciudad": "myTown",
+        "fechaini": "23-10-2026",
+        "fechafin": "23-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/liga-social-2026"
+    },
+    {
         "origin": "info64",
         "nombre": "III Open de Ajedrez Ciudad de Tomelloso Sub2400",
         "ciudad": "Tomelloso",
@@ -1486,18 +1510,6 @@
         "lat": 29.0397081,
         "lon": -13.6362916,
         "link": "https://info64.org/i-blitz-lanzaloe-onechess-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Liga Social 2026",
-        "ciudad": "myTown",
-        "fechaini": "23-10-2026",
-        "fechafin": "23-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/liga-social-2026"
     },
     {
         "origin": "info64",
@@ -1596,6 +1608,18 @@
         "link": "https://chess-results.com/tnr1448184.aspx?lan=2"
     },
     {
+        "origin": "chess-results",
+        "nombre": "Social Fomento 2026",
+        "ciudad": "Fomento de Agricultura Industria y Comercio, C. de Sant Francesc de Borja, 56, 4",
+        "fechaini": "23-10-2026",
+        "fechafin": "27-11-2026",
+        "organizador": "Club d'Escacs Fomento Gandia",
+        "ritmo": "60'+10",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1524438.aspx?lan=2"
+    },
+    {
         "origin": "info64",
         "nombre": "II Torneo Ajedrez Infantil C.C. Los Llanos",
         "ciudad": "Albacete",
@@ -1606,6 +1630,18 @@
         "lat": 38.9950921,
         "lon": -1.8559154,
         "link": "https://info64.org/ii-torneo-ajedrez-infantil-cc-los-llanos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IRT Copa Sub1800 Burgos 2026",
+        "ciudad": "Burgos",
+        "fechaini": "24-10-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.3448498,
+        "lon": -3.6812477,
+        "link": "https://info64.org/irt-copa-sub1800-burgos-2026"
     },
     {
         "origin": "info64",
@@ -1678,18 +1714,6 @@
         "lat": 29.0397081,
         "lon": -13.6362916,
         "link": "https://info64.org/ii-torneo-activo-lanzaloe-onechess-2026-campeonato-de-canarias-circuito-activo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IRT Copa Sub1800 Burgos 2026",
-        "ciudad": "Burgos",
-        "fechaini": "24-10-2026",
-        "fechafin": "25-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.3448498,
-        "lon": -3.6812477,
-        "link": "https://info64.org/irt-copa-sub1800-burgos-2026"
     },
     {
         "origin": "info64",
@@ -2041,6 +2065,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "BENIDORM CHESS OPEN B Sub-2000 2026",
+        "ciudad": "Benidorm",
+        "fechaini": "25-10-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/benidorm-chess-open-b-sub-2000-2026-1"
+    },
+    {
+        "origin": "info64",
         "nombre": "X Torneo de Xadrez Concello de Ares",
         "ciudad": "Ares",
         "fechaini": "25-10-2026",
@@ -2074,18 +2110,6 @@
         "lat": 40.0322289,
         "lon": -3.6040097,
         "link": "https://info64.org/torneo-blitz-internacional-de-aranjuez"
-    },
-    {
-        "origin": "info64",
-        "nombre": "BENIDORM CHESS OPEN B Sub-2000 2026",
-        "ciudad": "Benidorm",
-        "fechaini": "25-10-2026",
-        "fechafin": "01-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/benidorm-chess-open-b-sub-2000-2026-1"
     },
     {
         "origin": "info64",
@@ -2131,8 +2155,8 @@
         "fechafin": "25-10-2026",
         "organizador": "",
         "ritmo": "",
-        "lat": 41.6718418,
-        "lon": -0.8770514,
+        "lat": 41.6719805,
+        "lon": -0.8769343,
         "link": "https://chess-results.com/tnr1521093.aspx?lan=2"
     },
     {
@@ -2203,8 +2227,8 @@
         "fechafin": "28-10-2026",
         "organizador": "Kiosco Lobero",
         "ritmo": "8 minutos + 3 seg/jugada",
-        "lat": 37.3468901,
-        "lon": -5.9800977,
+        "lat": 37.34498,
+        "lon": -5.9789525,
         "link": "https://chess-results.com/tnr1515659.aspx?lan=2"
     },
     {
@@ -2230,6 +2254,18 @@
         "lat": 37.2575874,
         "lon": -6.9484945,
         "link": "https://chess-results.com/tnr1513074.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IV Torneo de los Viernes de Mikel Gurea 2026-2027",
+        "ciudad": "Burlada",
+        "fechaini": "30-10-2026",
+        "fechafin": "30-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.8230299,
+        "lon": -1.614076,
+        "link": "https://info64.org/iv-torneo-de-los-viernes-de-mikel-gurea-2026-2027"
     },
     {
         "origin": "info64",
@@ -3277,6 +3313,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "II Torneo Escuela de Telecomunicaciones",
+        "ciudad": "Madrid",
+        "fechaini": "19-11-2026",
+        "fechafin": "19-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/ii-torneo-escuela-de-telecomunicaciones"
+    },
+    {
+        "origin": "info64",
         "nombre": "XX Open Internacional Sub 2400 Ciudad de Malaga",
         "ciudad": "Malaga",
         "fechaini": "20-11-2026",
@@ -3325,18 +3373,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I IRT Sub 2000 C.A. Olivereta",
-        "ciudad": "Valencia",
-        "fechaini": "21-11-2026",
-        "fechafin": "22-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/i-irt-sub-2000-ca-olivereta-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Aberto Magosto sub 2300",
         "ciudad": "Ourense",
         "fechaini": "21-11-2026",
@@ -3346,6 +3382,18 @@
         "lat": 42.1939629,
         "lon": -7.537124,
         "link": "https://info64.org/i-aberto-sub-2300-viva-o-magosto"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I IRT Sub 2000 C.A. Olivereta",
+        "ciudad": "Valencia",
+        "fechaini": "21-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "link": "https://info64.org/i-irt-sub-2000-ca-olivereta-1"
     },
     {
         "origin": "info64",
@@ -3541,6 +3589,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "I ABIERTO FIDE RAPIDO SUB 1800 LA ATALAYA",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "27-11-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/i-abierto-fide-rapido-sub-1800-la-atalaya"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I ABIERTO FIDE RAPIDO LA ATALAYA",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "27-11-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/i-abierto-fide-rapido-la-atalaya"
+    },
+    {
+        "origin": "info64",
         "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-12",
         "ciudad": "Benidorm",
         "fechaini": "27-11-2026",
@@ -3610,6 +3682,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1465179.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I ABIERTO SUB 1600 FADA LA ATALAYA",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "28-11-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/i-abierto-sub-1600-fada-la-atalaya"
     },
     {
         "origin": "info64",
@@ -4234,6 +4318,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1461823.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "II Abierto de Rápidas Aljarasol",
+        "ciudad": "Bar Residencial Aljarasol. Bda residencial Aljarasol, 41927 Mairena del Aljarafe",
+        "fechaini": "20-12-2026",
+        "fechafin": "20-12-2026",
+        "organizador": "Bar Residencial Aljarasol",
+        "ritmo": "8 minutos + 3 segundos/jugada",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1524291.aspx?lan=2"
     },
     {
         "origin": "info64",
