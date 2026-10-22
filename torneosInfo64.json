@@ -1,6 +1,78 @@
 [
     {
         "origin": "info64",
+        "nombre": "II Torneo Activo Lanzaloe OneChess 2026 - Cto de Canarias Circuito Activo",
+        "ciudad": "Lanzarote",
+        "fechaini": "24-10-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 29.0397081,
+        "lon": -13.6362916,
+        "link": "https://info64.org/ii-torneo-activo-lanzaloe-onechess-2026-campeonato-de-canarias-circuito-activo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
+        "ciudad": "Benidorm",
+        "fechaini": "28-11-2026",
+        "fechafin": "05-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Blitz Lanzaloe-OneChess 2026",
+        "ciudad": "Lanzarote",
+        "fechaini": "23-10-2026",
+        "fechafin": "23-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 29.0397081,
+        "lon": -13.6362916,
+        "link": "https://info64.org/i-blitz-lanzaloe-onechess-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub2400",
+        "ciudad": "Huelva",
+        "fechaini": "31-10-2026",
+        "fechafin": "02-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.2575874,
+        "lon": -6.9484945,
+        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub2400"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub1800",
+        "ciudad": "Huelva",
+        "fechaini": "31-10-2026",
+        "fechafin": "02-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.2575874,
+        "lon": -6.9484945,
+        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXVIII Open Escacs Mancomunitat Ribera Alta",
+        "ciudad": "Sant Joanet",
+        "fechaini": "01-11-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.071992,
+        "lon": -0.4869889,
+        "link": "https://info64.org/xxviii-open-escacs-mancomunitat-ribera-alta"
+    },
+    {
+        "origin": "info64",
         "nombre": "Torneo Blitz Internacional de Aranjuez",
         "ciudad": "Aranjuez",
         "fechaini": "25-10-2026",
@@ -82,18 +154,6 @@
         "lat": 42.8505845,
         "lon": -2.66145,
         "link": "https://info64.org/torneo-de-reyes-federacion-alavesa-de-2027"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
-        "ciudad": "Benidorm",
-        "fechaini": "28-11-2026",
-        "fechafin": "05-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
     },
     {
         "origin": "info64",
@@ -442,18 +502,6 @@
         "lat": 36.893528,
         "lon": -4.4287903,
         "link": "https://info64.org/campeonato-provincial-de-malaga-sub-18-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXVIII Open Escacs Mancomunitat Ribera Alta",
-        "ciudad": "Sant Joanet",
-        "fechaini": "01-11-2026",
-        "fechafin": "01-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.071992,
-        "lon": -0.4869889,
-        "link": "https://info64.org/xxviii-open-escacs-mancomunitat-ribera-alta"
     },
     {
         "origin": "info64",
@@ -1303,8 +1351,8 @@
         "fechafin": "05-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
     },
     {
@@ -1813,30 +1861,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo Blitz Lanzaloe-OneChess 2026",
-        "ciudad": "Lanzarote",
-        "fechaini": "23-10-2026",
-        "fechafin": "23-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 29.0397081,
-        "lon": -13.6362916,
-        "link": "https://info64.org/i-blitz-lanzaloe-onechess-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "II Torneo Activo Lanzaloe OneChess 2026 - Cto de Canarias Circuito Activo",
-        "ciudad": "Lanzarote",
-        "fechaini": "24-10-2026",
-        "fechafin": "25-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 29.0397081,
-        "lon": -13.6362916,
-        "link": "https://info64.org/ii-torneo-activo-lanzaloe-onechess-2026-campeonato-de-canarias-circuito-activo"
-    },
-    {
-        "origin": "info64",
         "nombre": "XVIII Open Xadrez McDonald's Vilagarcía",
         "ciudad": "Vilagarcía de Arousa",
         "fechaini": "21-11-2026",
@@ -2002,42 +2026,6 @@
         "lat": 37.3028005,
         "lon": -7.3423138,
         "link": "https://info64.org/vi-bambuchess-chess-festival-masters-b"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Cerrado Internacional de Ajedrez D. Jose Luis Garcia-Palacios",
-        "ciudad": "Huelva",
-        "fechaini": "29-10-2026",
-        "fechafin": "02-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.2575874,
-        "lon": -6.9484945,
-        "link": "https://info64.org/i-cerrado-internacion-de-ajedrez-d-jose-luis-garcia-palacios"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub1800",
-        "ciudad": "Huelva",
-        "fechaini": "31-10-2026",
-        "fechafin": "02-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.2575874,
-        "lon": -6.9484945,
-        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub2400",
-        "ciudad": "Huelva",
-        "fechaini": "31-10-2026",
-        "fechafin": "02-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.2575874,
-        "lon": -6.9484945,
-        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub2400"
     },
     {
         "origin": "info64",
