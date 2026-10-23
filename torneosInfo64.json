@@ -1,6 +1,42 @@
 [
     {
         "origin": "info64",
+        "nombre": "Torneo Blitz Internacional de Aranjuez",
+        "ciudad": "Aranjuez",
+        "fechaini": "25-10-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0322289,
+        "lon": -3.6040097,
+        "link": "https://info64.org/torneo-blitz-internacional-de-aranjuez"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXVIII Open Escacs Mancomunitat Ribera Alta",
+        "ciudad": "Sant Joanet",
+        "fechaini": "01-11-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.071992,
+        "lon": -0.4869889,
+        "link": "https://info64.org/xxviii-open-escacs-mancomunitat-ribera-alta"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Open Caballo Lento",
+        "ciudad": "Pabellón de Deportes, Motril",
+        "fechaini": "27-12-2026",
+        "fechafin": "29-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7413698,
+        "lon": -3.521282,
+        "link": "https://info64.org/i-open-caballo-lento"
+    },
+    {
+        "origin": "info64",
         "nombre": "III SOCIAL TARDOR 2026 (Absolut)",
         "ciudad": "Carlet",
         "fechaini": "13-10-2026",
@@ -253,18 +289,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo Blitz Internacional de Aranjuez",
-        "ciudad": "Aranjuez",
-        "fechaini": "25-10-2026",
-        "fechafin": "25-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0322289,
-        "lon": -3.6040097,
-        "link": "https://info64.org/torneo-blitz-internacional-de-aranjuez"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Campeonato de Ajedrez Rotary Club Santiago",
         "ciudad": "Santiago de Compostela",
         "fechaini": "24-10-2026",
@@ -457,18 +481,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXVIII Open Escacs Mancomunitat Ribera Alta",
-        "ciudad": "Sant Joanet",
-        "fechaini": "01-11-2026",
-        "fechafin": "01-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.071992,
-        "lon": -0.4869889,
-        "link": "https://info64.org/xxviii-open-escacs-mancomunitat-ribera-alta"
-    },
-    {
-        "origin": "info64",
         "nombre": "IX Torneo Social EXP",
         "ciudad": "Pontevedra",
         "fechaini": "02-11-2026",
@@ -607,8 +619,8 @@
         "fechafin": "05-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
     },
     {
