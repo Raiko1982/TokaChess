@@ -1267,8 +1267,8 @@
         "fechafin": "05-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
     },
     {
@@ -2101,6 +2101,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Torneo Blitz Internacional de Aranjuez",
+        "ciudad": "Aranjuez",
+        "fechaini": "25-10-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0322289,
+        "lon": -3.6040097,
+        "link": "https://info64.org/torneo-blitz-internacional-de-aranjuez"
+    },
+    {
+        "origin": "info64",
         "nombre": "BENIDORM CHESS OPEN B Sub-2000 2026",
         "ciudad": "Benidorm",
         "fechaini": "25-10-2026",
@@ -2134,18 +2146,6 @@
         "lat": 39.1024656,
         "lon": -0.6953201,
         "link": "https://info64.org/ii-open-memorial-severino-argente"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo Blitz Internacional de Aranjuez",
-        "ciudad": "Aranjuez",
-        "fechaini": "25-10-2026",
-        "fechafin": "25-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0322289,
-        "lon": -3.6040097,
-        "link": "https://info64.org/torneo-blitz-internacional-de-aranjuez"
     },
     {
         "origin": "info64",
@@ -4714,6 +4714,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1523685.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Open Caballo Lento",
+        "ciudad": "Pabellón de Deportes, Motril",
+        "fechaini": "27-12-2026",
+        "fechafin": "29-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7413698,
+        "lon": -3.521282,
+        "link": "https://info64.org/i-open-caballo-lento"
     },
     {
         "origin": "info64",
