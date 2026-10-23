@@ -769,18 +769,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Asturias Individual Primera 2026",
-        "ciudad": "Gijon",
-        "fechaini": "04-10-2026",
-        "fechafin": "29-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/campeonato-de-asturias-individual-primera-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Absoluto de Algete 2026",
         "ciudad": "Algete",
         "fechaini": "04-10-2026",
@@ -790,6 +778,18 @@
         "lat": 40.5961297,
         "lon": -3.4974479,
         "link": "https://info64.org/campeonato-absoluto-de-algete-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Asturias Individual Primera 2026",
+        "ciudad": "Gijon",
+        "fechaini": "04-10-2026",
+        "fechafin": "29-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/campeonato-de-asturias-individual-primera-2026"
     },
     {
         "origin": "info64",
@@ -1267,8 +1267,8 @@
         "fechafin": "05-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.2814642,
-        "lon": -2.482805,
+        "lat": 42.3285528,
+        "lon": -2.4674917,
         "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
     },
     {
@@ -1453,39 +1453,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial de Malaga Sub 18 2026",
-        "ciudad": "Casabermeja",
+        "nombre": "III Open de Ajedrez Ciudad de Tomelloso Sub1800",
+        "ciudad": "Tomelloso",
         "fechaini": "23-10-2026",
         "fechafin": "25-10-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.893528,
-        "lon": -4.4287903,
-        "link": "https://info64.org/campeonato-provincial-de-malaga-sub-18-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Torneo Blitz Lanzaloe-OneChess 2026",
-        "ciudad": "Lanzarote",
-        "fechaini": "23-10-2026",
-        "fechafin": "23-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 29.0397081,
-        "lon": -13.6362916,
-        "link": "https://info64.org/i-blitz-lanzaloe-onechess-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Liga Social 2026",
-        "ciudad": "myTown",
-        "fechaini": "23-10-2026",
-        "fechafin": "23-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/liga-social-2026"
+        "lat": 39.1585549,
+        "lon": -3.0214851,
+        "link": "https://info64.org/iii-open-de-ajedrez-ciudad-de-tomelloso-sub1800"
     },
     {
         "origin": "info64",
@@ -1513,19 +1489,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Open de Ajedrez Ciudad de Tomelloso Sub1800",
-        "ciudad": "Tomelloso",
-        "fechaini": "23-10-2026",
-        "fechafin": "25-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.1585549,
-        "lon": -3.0214851,
-        "link": "https://info64.org/iii-open-de-ajedrez-ciudad-de-tomelloso-sub1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial de Málaga Veteranos 2027",
+        "nombre": "Campeonato Provincial de Málaga Veteranos 2027 (507130)",
         "ciudad": "Casabermeja",
         "fechaini": "23-10-2026",
         "fechafin": "25-10-2026",
@@ -1534,6 +1498,42 @@
         "lat": 36.893528,
         "lon": -4.4287903,
         "link": "https://info64.org/campeonato-provincial-de-malaga-veteranos-2027"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo Blitz Lanzaloe-OneChess 2026",
+        "ciudad": "Lanzarote",
+        "fechaini": "23-10-2026",
+        "fechafin": "23-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 29.0397081,
+        "lon": -13.6362916,
+        "link": "https://info64.org/i-blitz-lanzaloe-onechess-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Liga Social 2026",
+        "ciudad": "myTown",
+        "fechaini": "23-10-2026",
+        "fechafin": "23-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/liga-social-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial de Malaga Sub 18 2026",
+        "ciudad": "Casabermeja",
+        "fechaini": "23-10-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.893528,
+        "lon": -4.4287903,
+        "link": "https://info64.org/campeonato-provincial-de-malaga-sub-18-2026"
     },
     {
         "origin": "info64",
@@ -1645,6 +1645,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "Delicias Blitz Octubre 2026",
+        "ciudad": "Madrid",
+        "fechaini": "24-10-2026",
+        "fechafin": "24-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/delicias-blitz-octubre-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XIX Torneo Abierto de Ajedrez Alcobendas Mejor Ciudad Europea Del Deporte 2026",
+        "ciudad": "Alcobendas",
+        "fechaini": "24-10-2026",
+        "fechafin": "24-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5400082,
+        "lon": -3.6358494,
+        "link": "https://info64.org/xix-torneo-abierto-de-ajedrez-alcobendas-mejor-ciudad-europea-del-deporte-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "II Torneo Ajedrez Infantil C.C. Los Llanos",
         "ciudad": "Albacete",
         "fechaini": "24-10-2026",
@@ -1666,6 +1690,18 @@
         "lat": 29.0397081,
         "lon": -13.6362916,
         "link": "https://info64.org/ii-torneo-activo-lanzaloe-onechess-2026-campeonato-de-canarias-circuito-activo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII Suboficiales Tablada",
+        "ciudad": "Tablada",
+        "fechaini": "24-10-2026",
+        "fechafin": "24-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3675298,
+        "lon": -6.0052486,
+        "link": "https://info64.org/viii-suboficiales-tablada"
     },
     {
         "origin": "info64",
@@ -1741,18 +1777,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VIII Suboficiales Tablada",
-        "ciudad": "Tablada",
-        "fechaini": "24-10-2026",
-        "fechafin": "24-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3675298,
-        "lon": -6.0052486,
-        "link": "https://info64.org/viii-suboficiales-tablada"
-    },
-    {
-        "origin": "info64",
         "nombre": "7º Torneo Social C. A. Torrelodones No Federados",
         "ciudad": "Torrelodones, Madrid",
         "fechaini": "24-10-2026",
@@ -1786,18 +1810,6 @@
         "lat": 36.7647913,
         "lon": -4.4422005,
         "link": "https://info64.org/x-torneo-escolar-plaza-mayor-sub-10"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XIX Torneo Abierto de Ajedrez Alcobendas Mejor Ciudad Europea Del Deporte 2026",
-        "ciudad": "Alcobendas",
-        "fechaini": "24-10-2026",
-        "fechafin": "24-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.5400082,
-        "lon": -3.6358494,
-        "link": "https://info64.org/xix-torneo-abierto-de-ajedrez-alcobendas-mejor-ciudad-europea-del-deporte-2026"
     },
     {
         "origin": "info64",
@@ -2113,18 +2125,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo Blitz Internacional de Aranjuez",
-        "ciudad": "Aranjuez",
-        "fechaini": "25-10-2026",
-        "fechafin": "25-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.0322289,
-        "lon": -3.6040097,
-        "link": "https://info64.org/torneo-blitz-internacional-de-aranjuez"
-    },
-    {
-        "origin": "info64",
         "nombre": "BENIDORM CHESS OPEN B Sub-2000 2026",
         "ciudad": "Benidorm",
         "fechaini": "25-10-2026",
@@ -2146,6 +2146,30 @@
         "lat": 39.4745175,
         "lon": -6.3716761,
         "link": "https://info64.org/i-torneo-infantil-atenea"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Torneo de Xadrez Concello de Ares",
+        "ciudad": "Ares",
+        "fechaini": "25-10-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4386951,
+        "lon": -8.2655827,
+        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-ares"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Blitz Internacional de Aranjuez",
+        "ciudad": "Aranjuez",
+        "fechaini": "25-10-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.0322289,
+        "lon": -3.6040097,
+        "link": "https://info64.org/torneo-blitz-internacional-de-aranjuez"
     },
     {
         "origin": "info64",
@@ -2182,18 +2206,6 @@
         "lat": 38.5406255,
         "lon": -0.1290929,
         "link": "https://info64.org/benidorm-chess-open-a-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Torneo de Xadrez Concello de Ares",
-        "ciudad": "Ares",
-        "fechaini": "25-10-2026",
-        "fechafin": "25-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4386951,
-        "lon": -8.2655827,
-        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-ares"
     },
     {
         "origin": "info64",
@@ -3118,6 +3130,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1522813.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I OPEN PEÑA BETICA MANUEL CASTAÑO",
+        "ciudad": "Bollullos del Condado",
+        "fechaini": "14-11-2026",
+        "fechafin": "15-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3248369,
+        "lon": -6.527356,
+        "link": "https://info64.org/i-open-pena-betica-manuel-castano"
     },
     {
         "origin": "info64",
