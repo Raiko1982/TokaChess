@@ -1,6 +1,90 @@
 [
     {
         "origin": "info64",
+        "nombre": "X Torneo de Xadrez Concello de Ares",
+        "ciudad": "Ares",
+        "fechaini": "25-10-2026",
+        "fechafin": "25-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.4386951,
+        "lon": -8.2655827,
+        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-ares"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Open Internacional FUGARO Marbella",
+        "ciudad": "Marbella",
+        "fechaini": "01-11-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.5074781,
+        "lon": -4.8047219,
+        "link": "https://info64.org/i-open-internacional-fugaro-marbella"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXII OPEN DE AJEDREZ CASABERMEJA",
+        "ciudad": "Casabermeja",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.893528,
+        "lon": -4.4287903,
+        "link": "https://info64.org/xxxii-open-de-ajedrez-casabermeja"
+    },
+    {
+        "origin": "info64",
+        "nombre": "BENIDORM CHESS OPEN B Sub-2000 2026",
+        "ciudad": "Benidorm",
+        "fechaini": "25-10-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/benidorm-chess-open-b-sub-2000-2026-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Navarra Absoluto por Equipos-DH",
+        "ciudad": "Pamplona",
+        "fechaini": "10-10-2026",
+        "fechafin": "21-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.815686,
+        "lon": -1.6522353,
+        "link": "https://info64.org/team/campeonato-de-navarra-absoluto-por-equipos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneig Fira dels Borja",
+        "ciudad": "Xàtiva",
+        "fechaini": "08-11-2026",
+        "fechafin": "08-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.988085,
+        "lon": -0.5200428,
+        "link": "https://info64.org/i-torneig-fira-dels-borgia"
+    },
+    {
+        "origin": "info64",
+        "nombre": "X Torneo de Ajedrez Chess and Cheese (Circuito Dip. Badajoz)",
+        "ciudad": "Zafra",
+        "fechaini": "01-11-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4253489,
+        "lon": -6.4193627,
+        "link": "https://info64.org/x-torneo-de-ajedrez-chess-and-cheese-circuito-dip-badajoz"
+    },
+    {
+        "origin": "info64",
         "nombre": "Absoluto Palencia CTL 2026",
         "ciudad": "Palencia",
         "fechaini": "07-11-2026",
@@ -241,18 +325,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Absoluto Basilio 2026 Rondas 3-5",
-        "ciudad": "Valencia",
-        "fechaini": "03-10-2026",
-        "fechafin": "24-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/campeonato-provincial-individual-absoluto-basilio"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Individual Primera, Benimaclet",
         "ciudad": "Benimaclet, Valencia",
         "fechaini": "19-09-2026",
@@ -262,18 +334,6 @@
         "lat": 39.487148,
         "lon": -0.3566225,
         "link": "https://info64.org/campeonato-provincial-invidual-primera-benimaclet"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Preferente Basilio 2026 Rondas 3-5",
-        "ciudad": "Valencia",
-        "fechaini": "03-10-2026",
-        "fechafin": "24-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4697065,
-        "lon": -0.3763353,
-        "link": "https://info64.org/campeonato-provincial-individual-preferente-basilio"
     },
     {
         "origin": "info64",
@@ -442,18 +502,6 @@
         "lat": 36.893528,
         "lon": -4.4287903,
         "link": "https://info64.org/campeonato-provincial-de-malaga-veteranos-2027"
-    },
-    {
-        "origin": "info64",
-        "nombre": "BENIDORM CHESS OPEN B Sub-2000 2026",
-        "ciudad": "Benidorm",
-        "fechaini": "25-10-2026",
-        "fechafin": "01-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/benidorm-chess-open-b-sub-2000-2026-1"
     },
     {
         "origin": "info64",
@@ -745,18 +793,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "X Torneo de Xadrez Concello de Ares",
-        "ciudad": "Ares",
-        "fechaini": "25-10-2026",
-        "fechafin": "25-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.4386951,
-        "lon": -8.2655827,
-        "link": "https://info64.org/x-torneo-de-xadrez-concello-de-ares"
-    },
-    {
-        "origin": "info64",
         "nombre": "VIII Torneig Vall dels Alcalans",
         "ciudad": "Montserrat",
         "fechaini": "06-11-2026",
@@ -826,18 +862,6 @@
         "lat": 40.5762809,
         "lon": -3.928603,
         "link": "https://info64.org/7o-torneo-social-c-a-torrelodones"
-    },
-    {
-        "origin": "info64",
-        "nombre": "X Torneo de Ajedrez Chess and Cheese (Circuito Dip. Badajoz)",
-        "ciudad": "Zafra",
-        "fechaini": "01-11-2026",
-        "fechafin": "01-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4253489,
-        "lon": -6.4193627,
-        "link": "https://info64.org/x-torneo-de-ajedrez-chess-and-cheese-circuito-dip-badajoz"
     },
     {
         "origin": "info64",
@@ -1837,18 +1861,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Navarra Absoluto por Equipos-DH",
-        "ciudad": "Pamplona",
-        "fechaini": "10-10-2026",
-        "fechafin": "21-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.815686,
-        "lon": -1.6522353,
-        "link": "https://info64.org/team/campeonato-de-navarra-absoluto-por-equipos"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Torneo Social Los Molinos 2026",
         "ciudad": "Valdepeñas",
         "fechaini": "03-10-2026",
@@ -1954,18 +1966,6 @@
         "lat": 42.5950502,
         "lon": -8.7430537,
         "link": "https://info64.org/xviii-open-xadrez-mcdonalds-vilagarcia"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Open Internacional FUGARO Marbella",
-        "ciudad": "Marbella",
-        "fechaini": "01-11-2026",
-        "fechafin": "01-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.5074781,
-        "lon": -4.8047219,
-        "link": "https://info64.org/i-open-internacional-fugaro-marbella"
     },
     {
         "origin": "info64",
