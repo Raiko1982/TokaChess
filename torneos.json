@@ -674,18 +674,6 @@
     {
         "origin": "chess-results",
         "nombre": "Gipuzkoako Hirugarren mailako Txapelketa Azpeitian",
-        "ciudad": "Enparan 6, 4-dcha",
-        "fechaini": "03-10-2026",
-        "fechafin": "21-11-2026",
-        "organizador": "Gipuzkoako Xake Federazioa - Xaputarrak X. K.",
-        "ritmo": "90 min. + 30 seg.",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1497528.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Gipuzkoako Hirugarren mailako Txapelketa Azpeitian",
         "ciudad": "Azpeitia",
         "fechaini": "03-10-2026",
         "fechafin": "21-11-2026",
@@ -1423,8 +1411,8 @@
         "fechafin": "28-10-2026",
         "organizador": "Kiosco Lobero",
         "ritmo": "8 minutos + 3 seg/jugada",
-        "lat": 37.34498,
-        "lon": -5.9789525,
+        "lat": 37.3468901,
+        "lon": -5.9800977,
         "link": "https://chess-results.com/tnr1515659.aspx?lan=2"
     },
     {
@@ -1501,7 +1489,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Ibailakuako Gau Beltza Xake Txapelketa (LLENO!)",
+        "nombre": "Ibailakuako Gau Beltza Xake Txapelketa (6 plazas l",
         "ciudad": "Centro Civico Ibaiondo",
         "fechaini": "30-10-2026",
         "fechafin": "30-10-2026",
@@ -1834,6 +1822,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1510057.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo Halloween 2026",
+        "ciudad": "Pabellón Infanta Cristina, Roquetas",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "Javi Garrido",
+        "ritmo": "",
+        "lat": 36.7683847,
+        "lon": -2.6129527,
+        "link": "https://chess-results.com/tnr1528032.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -3718,6 +3718,78 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1509873.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XVIII Torneo relampago Torrero",
+        "ciudad": "",
+        "fechaini": "13-12-2026",
+        "fechafin": "13-12-2026",
+        "organizador": "Club Ajedrez Sainz de Varanda",
+        "ritmo": "5 min + 3seg/jug",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1528010.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XVIII Torneo relampago Torrero SUB 10",
+        "ciudad": "",
+        "fechaini": "13-12-2026",
+        "fechafin": "13-12-2026",
+        "organizador": "Club Ajedrez Sainz de Varanda",
+        "ritmo": "5 min + 3seg/jug",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1528017.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XVIII Torneo relampago Torrero SUB 12",
+        "ciudad": "",
+        "fechaini": "13-12-2026",
+        "fechafin": "13-12-2026",
+        "organizador": "Club Ajedrez Sainz de Varanda",
+        "ritmo": "5 min + 3seg/jug",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1528016.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XVIII Torneo relampago Torrero SUB 14",
+        "ciudad": "",
+        "fechaini": "13-12-2026",
+        "fechafin": "13-12-2026",
+        "organizador": "Club Ajedrez Sainz de Varanda",
+        "ritmo": "5 min + 3seg/jug",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1528015.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XVIII Torneo relampago Torrero SUB 6",
+        "ciudad": "",
+        "fechaini": "13-12-2026",
+        "fechafin": "13-12-2026",
+        "organizador": "Club Ajedrez Sainz de Varanda",
+        "ritmo": "5 min + 3seg/jug",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1528019.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "XVIII Torneo relampago Torrero SUB 8",
+        "ciudad": "",
+        "fechaini": "13-12-2026",
+        "fechafin": "13-12-2026",
+        "organizador": "Club Ajedrez Sainz de Varanda",
+        "ritmo": "5 min + 3seg/jug",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1528018.aspx?lan=2"
     },
     {
         "origin": "info64",
