@@ -121,18 +121,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato Provincial Individual Segunda, Alzira",
-        "ciudad": "Alzira",
-        "fechaini": "19-09-2026",
-        "fechafin": "14-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.151212,
-        "lon": -0.4346556,
-        "link": "https://info64.org/campeonato-provincial-individual-segunda-alzira-1-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Individual Segunda, Benimaclet",
         "ciudad": "Benimaclet, Valencia",
         "fechaini": "19-09-2026",
@@ -142,6 +130,18 @@
         "lat": 39.487148,
         "lon": -0.3566225,
         "link": "https://info64.org/campeonato-provincial-invidual-segunda-benimaclet"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato Provincial Individual Segunda, Alzira",
+        "ciudad": "Alzira",
+        "fechaini": "19-09-2026",
+        "fechafin": "14-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.151212,
+        "lon": -0.4346556,
+        "link": "https://info64.org/campeonato-provincial-individual-segunda-alzira-1-1"
     },
     {
         "origin": "info64",
@@ -1051,8 +1051,8 @@
         "fechafin": "05-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
     },
     {
@@ -1525,6 +1525,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub1800",
+        "ciudad": "Huelva",
+        "fechaini": "31-10-2026",
+        "fechafin": "02-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.2575874,
+        "lon": -6.9484945,
+        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub2400",
+        "ciudad": "Huelva",
+        "fechaini": "31-10-2026",
+        "fechafin": "02-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.2575874,
+        "lon": -6.9484945,
+        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub2400"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Memorial Anibal Alonso",
         "ciudad": "Mos",
         "fechaini": "31-10-2026",
@@ -1654,30 +1678,6 @@
         "lat": 38.9884181,
         "lon": -0.4704196,
         "link": "https://info64.org/i-torneig-infantil-el-genoves-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub1800",
-        "ciudad": "Huelva",
-        "fechaini": "31-10-2026",
-        "fechafin": "02-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.2575874,
-        "lon": -6.9484945,
-        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub2400",
-        "ciudad": "Huelva",
-        "fechaini": "31-10-2026",
-        "fechafin": "02-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.2575874,
-        "lon": -6.9484945,
-        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub2400"
     },
     {
         "origin": "info64",
@@ -2053,6 +2053,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "III Campeonato Provincial Blitz de Veteranos",
+        "ciudad": "Cordoba",
+        "fechaini": "07-11-2026",
+        "fechafin": "07-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.8845813,
+        "lon": -4.7760138,
+        "link": "https://info64.org/iii-campeonato-provincial-blitz-de-veteranos"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXXII Torneo de Santa Teresa Memorial Felix Garcia Ares",
         "ciudad": "Avila",
         "fechaini": "07-11-2026",
@@ -2134,18 +2146,6 @@
         "lat": 42.9064576,
         "lon": -8.5192983,
         "link": "https://info64.org/escolar-benjamin-santiago-2026-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Campeonato Provincial Blitz de Veteranos",
-        "ciudad": "Cordoba",
-        "fechaini": "07-11-2026",
-        "fechafin": "07-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8845813,
-        "lon": -4.7760138,
-        "link": "https://info64.org/iii-campeonato-provincial-blitz-de-veteranos"
     },
     {
         "origin": "info64",
@@ -2881,6 +2881,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "IX Torneo Blitz El Copón Club Ajedrez Utebo San Lamberto",
+        "ciudad": "Utebo, España",
+        "fechaini": "21-11-2026",
+        "fechafin": "21-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/ix-torneo-blitz-el-copon-club-ajedrez-utebo-san-lamberto"
+    },
+    {
+        "origin": "info64",
         "nombre": "XVIII Open Xadrez McDonald's Vilagarcía sub14",
         "ciudad": "Vilagarcía de Arousa",
         "fechaini": "21-11-2026",
@@ -2914,18 +2926,6 @@
         "lat": 36.4268068,
         "lon": -5.1468484,
         "link": "https://info64.org/torneo-promocion-escuela-municipal-de-ajedrez-de-estepona-sub2400"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IX Torneo Blitz El Copón Club Ajedrez Utebo San Lamberto",
-        "ciudad": "Utebo, España",
-        "fechaini": "21-11-2026",
-        "fechafin": "21-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/ix-torneo-blitz-el-copon-club-ajedrez-utebo-san-lamberto"
     },
     {
         "origin": "info64",
