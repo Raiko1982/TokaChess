@@ -1135,8 +1135,8 @@
         "fechafin": "28-11-2026",
         "organizador": "Federación Vizcaina de Ajedrez",
         "ritmo": "90 ́+ 30 ́ ́",
-        "lat": 43.3093136,
-        "lon": -3.0546571,
+        "lat": 43.3101001,
+        "lon": -3.0561527,
         "link": "https://chess-results.com/tnr1519266.aspx?lan=2"
     },
     {
@@ -1390,18 +1390,6 @@
         "lat": 39.3260685,
         "lon": -4.8379791,
         "link": "https://chess-results.com/tnr1526935.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "III Escolar de Ajedrez \"VILLA DE PELIGROS\"",
-        "ciudad": "Parque Félix Rodríguez de la Fuente, Peligros (Granada)",
-        "fechaini": "27-10-2026",
-        "fechafin": "27-10-2026",
-        "organizador": "Aulajedrez, Enseñanza y Gestión del Ajedrez",
-        "ritmo": "5'+6\"",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1494816.aspx?lan=2"
     },
     {
         "origin": "info64",
@@ -1920,6 +1908,18 @@
         "link": "https://info64.org/i-open-internacional-fugaro-marbella"
     },
     {
+        "origin": "chess-results",
+        "nombre": "November chess",
+        "ciudad": "",
+        "fechaini": "01-11-2026",
+        "fechafin": "02-11-2026",
+        "organizador": "Jose Martinez Martin",
+        "ritmo": "60'+30''",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1529079.aspx?lan=2"
+    },
+    {
         "origin": "info64",
         "nombre": "IX Torneo Social EXP",
         "ciudad": "Pontevedra",
@@ -2301,7 +2301,7 @@
         "ritmo": "30' + 30''",
         "lat": 40.4167,
         "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1517196.aspx?lan=2"
+        "link": "https://chess-results.com/tnr1526675.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2313,7 +2313,7 @@
         "ritmo": "30' + 30''",
         "lat": 40.4167,
         "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1526675.aspx?lan=2"
+        "link": "https://chess-results.com/tnr1517196.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2366,7 +2366,7 @@
     {
         "origin": "chess-results",
         "nombre": "XXXII Torneo de Santa Teresa Memorial Felix Garcia",
-        "ciudad": "Palacio del Episcopio (Avila)",
+        "ciudad": "El Episcopio (Avila)",
         "fechaini": "07-11-2026",
         "fechafin": "07-11-2026",
         "organizador": "",
