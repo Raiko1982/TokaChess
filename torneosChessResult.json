@@ -438,7 +438,7 @@
         "fechaini": "26-12-2026",
         "fechafin": "27-12-2026",
         "organizador": "",
-        "ritmo": ".",
+        "ritmo": "80 minutos + 10 segundos/jugada desde la jugada 1.",
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1523684.aspx?lan=2"
@@ -1249,15 +1249,27 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Campionat de Mallorca Sub 1800 2026",
-        "ciudad": "Casal Ca'n Pere Ignasi - 07630 Campos",
+        "nombre": "Alevin, Infantil y Cadete. Torneos Promoción San S",
+        "ciudad": "Club Ajedrez V Centenario. Avenida Baunatal, 18, anexo. Sanse",
         "fechaini": "07-11-2026",
-        "fechafin": "21-11-2026",
-        "organizador": "Club Fomento Ajedrez Campos",
-        "ritmo": "30' + 30''",
+        "fechafin": "07-11-2026",
+        "organizador": "Club Ajedrez V Centenario San Sebastian de los Reyes",
+        "ritmo": "",
         "lat": 40.4167,
         "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1517196.aspx?lan=2"
+        "link": "https://chess-results.com/tnr1529701.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Benjamin. Torneos Promoción San Sebastián de los R",
+        "ciudad": "Club Ajedrez V Centenario. Avenida Baunatal, 18, anexo. Sanse",
+        "fechaini": "07-11-2026",
+        "fechafin": "07-11-2026",
+        "organizador": "Club Ajedrez V Centenario San Sebastian de los Reyes",
+        "ritmo": "",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1529700.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1270,6 +1282,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1526675.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Campionat de Mallorca Sub 1800 2026",
+        "ciudad": "Casal Ca'n Pere Ignasi - 07630 Campos",
+        "fechaini": "07-11-2026",
+        "fechafin": "21-11-2026",
+        "organizador": "Club Fomento Ajedrez Campos",
+        "ritmo": "30' + 30''",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1517196.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1318,6 +1342,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1489017.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Prebenjamin. Torneos Promoción San Sebastián de lo",
+        "ciudad": "Club Ajedrez V Centenario. Avenida Baunatal, 18, anexo. Sanse",
+        "fechaini": "07-11-2026",
+        "fechafin": "07-11-2026",
+        "organizador": "Club Ajedrez V Centenario San Sebastian de los Reyes",
+        "ritmo": "",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1529698.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1669,18 +1705,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "I TORNEO BLITZ KIOSCO LOBERO - 4ª Etapa Circuito U",
-        "ciudad": "Av. Paseo de Europa, 210. Sevilla.",
-        "fechaini": "28-10-2026",
-        "fechafin": "28-10-2026",
-        "organizador": "Kiosco Lobero",
-        "ritmo": "8 minutos + 3 seg/jugada",
-        "lat": 37.3468901,
-        "lon": -5.9800977,
-        "link": "https://chess-results.com/tnr1515659.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "Martin Baro 2026",
         "ciudad": "Valladolid",
         "fechaini": "28-10-2026",
@@ -1714,18 +1738,6 @@
         "lat": 41.6200024,
         "lon": -4.7259906,
         "link": "https://chess-results.com/tnr1529322.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Supercopa de Alcalá - Noviembre 2026",
-        "ciudad": "Peña Ajedrecística Oromana - Parque Centro S/N, Alcalá de Guadaíra",
-        "fechaini": "28-10-2026",
-        "fechafin": "28-10-2026",
-        "organizador": "Peña Ajedrecística Oromana",
-        "ritmo": "4' + 2''",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1529358.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1879,8 +1891,8 @@
         "fechafin": "28-11-2026",
         "organizador": "Federación Vizcaina de Ajedrez",
         "ritmo": "90 ́+ 30 ́ ́",
-        "lat": 43.3106523,
-        "lon": -3.056524,
+        "lat": 43.3101001,
+        "lon": -3.0561527,
         "link": "https://chess-results.com/tnr1519266.aspx?lan=2"
     },
     {
