@@ -193,6 +193,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "XLIII Obert La Lira 2027",
+        "ciudad": "Barcelona",
+        "fechaini": "15-01-2027",
+        "fechafin": "05-03-2027",
+        "organizador": "Club d'Escacs La Lira",
+        "ritmo": "90 min. plus 30 sec. per move",
+        "lat": 41.3825802,
+        "lon": 2.177073,
+        "link": "https://chess-results.com/tnr1530414.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "XVII Torneo de Reyes 2027",
         "ciudad": "Comedor Cafetería Campus Viriato ( Av. Requejo – Zamora)",
         "fechaini": "10-01-2027",
@@ -574,6 +586,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1509873.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "V TORNEO PROMESAS",
+        "ciudad": "C/ NERVA 2, BOLLULLOS DEL CONDADO",
+        "fechaini": "13-12-2026",
+        "fechafin": "13-12-2026",
+        "organizador": "JAQUE AL REY",
+        "ritmo": "8 MIN+3 SEG",
+        "lat": 37.3398389,
+        "lon": -6.5335774,
+        "link": "https://chess-results.com/tnr1529657.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1213,18 +1237,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "V TORNEO PROMESAS",
-        "ciudad": "C/ NERVA 2, BOLLULLOS DEL CONDADO",
-        "fechaini": "13-11-2026",
-        "fechafin": "13-11-2026",
-        "organizador": "JAQUE AL REY",
-        "ritmo": "8 MIN+3 SEG",
-        "lat": 37.3398389,
-        "lon": -6.5335774,
-        "link": "https://chess-results.com/tnr1529657.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "Match Candeleda-Coig 2026",
         "ciudad": "Colmenarejo",
         "fechaini": "11-11-2026",
@@ -1418,7 +1430,7 @@
     {
         "origin": "chess-results",
         "nombre": "IV Torneo \"EL TREBEJO SOLIDARIO\" - Delegación Sevi",
-        "ciudad": "Patio del Cortijo. Parque del Alamillo, Sevilla.",
+        "ciudad": "Patio del Cortijo. Parque del Alamillo, Sevilla",
         "fechaini": "07-11-2026",
         "fechafin": "07-11-2026",
         "organizador": "Delegación Sevillana de Ajedrez - El Trebejo Solidario",
@@ -1525,6 +1537,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Campionat de Mallorca Blitz 2026508788",
+        "ciudad": "",
+        "fechaini": "01-11-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "Nadal Bestard, Sebastia (ESP) (IO)",
+        "ritmo": "3 m + 2s",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1530332.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "IV Torneo de Halloween Mundo 64",
         "ciudad": "C/ Alonso V, nº 33 Bajo de ZARAGOZA",
         "fechaini": "01-11-2026",
@@ -1570,6 +1594,42 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1502268.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "II Torneo Dragones PinPon-Chess",
+        "ciudad": "Pabellón Insular de Fabelo (Fuerteventura)",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "CDA Henar y sus Dragones",
+        "ritmo": "5 minutos Finish",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1530125.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "II Torneo Dragones PinPon-Chess 2026 (Grupo AJ)",
+        "ciudad": "Pabellón Insular de Fabelo (Fuerteventura)",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "CDA Henar y sus Dragones",
+        "ritmo": "5 minutos Finish",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1530149.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "II Torneo Dragones PinPon-Chess 2026 (Grupo TM)",
+        "ciudad": "Pabellón Insular de Fabelo (Fuerteventura)",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "CDA Henar y sus Dragones",
+        "ritmo": "5 minutos Finish",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1530159.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1741,7 +1801,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Ibailakuako Gau Beltza Xake Txapelketa (4 plazas l",
+        "nombre": "Ibailakuako Gau Beltza Xake Txapelketa",
         "ciudad": "Centro Civico Ibaiondo",
         "fechaini": "30-10-2026",
         "fechafin": "30-10-2026",
@@ -1777,6 +1837,42 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Balanguera Octubre 2026",
+        "ciudad": "",
+        "fechaini": "29-10-2026",
+        "fechafin": "29-10-2026",
+        "organizador": "",
+        "ritmo": "5",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1530157.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Balanguera Octubre 2026 Obert",
+        "ciudad": "",
+        "fechaini": "29-10-2026",
+        "fechafin": "29-10-2026",
+        "organizador": "",
+        "ritmo": "3",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1530198.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "FADA Ostegunak",
+        "ciudad": "",
+        "fechaini": "29-10-2026",
+        "fechafin": "29-05-2027",
+        "organizador": "",
+        "ritmo": "",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1530246.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "I Cerrado Internacional de Ajedrez D. Jose Luis Ga",
         "ciudad": "Huelva",
         "fechaini": "29-10-2026",
@@ -1786,6 +1882,30 @@
         "lat": 37.2575874,
         "lon": -6.9484945,
         "link": "https://chess-results.com/tnr1513074.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "II Torneo de Ajedrez \" La Catedral de la Tapa \"",
+        "ciudad": "Polideportivo San Pablo c/ Doctor Laffon Sotto s/n",
+        "fechaini": "29-10-2026",
+        "fechafin": "29-10-2026",
+        "organizador": "Ismael Teran",
+        "ritmo": "8 min +3 seg",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1530093.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Torneo Pre-Jalouin Manel",
+        "ciudad": "",
+        "fechaini": "29-10-2026",
+        "fechafin": "29-10-2026",
+        "organizador": "Club de Ajedrez Thader Chess",
+        "ritmo": "10'+2\"",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1530171.aspx?lan=2"
     },
     {
         "origin": "chess-results",
