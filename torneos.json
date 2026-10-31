@@ -1009,18 +1009,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III SOCIAL TARDOR 2026 (Sub-16)",
-        "ciudad": "Carlet",
-        "fechaini": "13-10-2026",
-        "fechafin": "27-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2251696,
-        "lon": -0.5202051,
-        "link": "https://info64.org/iii-social-tardor-2026-sub-16"
-    },
-    {
-        "origin": "info64",
         "nombre": "III SOCIAL TARDOR 2026 (Absolut)",
         "ciudad": "Carlet",
         "fechaini": "13-10-2026",
@@ -1030,6 +1018,18 @@
         "lat": 39.2251696,
         "lon": -0.5202051,
         "link": "https://info64.org/iii-social-tardor-2026-absolut"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III SOCIAL TARDOR 2026 (Sub-16)",
+        "ciudad": "Carlet",
+        "fechaini": "13-10-2026",
+        "fechafin": "27-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2251696,
+        "lon": -0.5202051,
+        "link": "https://info64.org/iii-social-tardor-2026-sub-16"
     },
     {
         "origin": "info64",
@@ -1051,8 +1051,8 @@
         "fechafin": "05-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
     },
     {
@@ -1452,18 +1452,6 @@
         "link": "https://chess-results.com/tnr1513074.aspx?lan=2"
     },
     {
-        "origin": "info64",
-        "nombre": "HALLOWEEN CHESS 2026 - BENIDORM CHESS OPEN",
-        "ciudad": "Benidorm",
-        "fechaini": "30-10-2026",
-        "fechafin": "31-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/halloween-chess-2026-benidorm-chess-open"
-    },
-    {
         "origin": "chess-results",
         "nombre": "V RANKING OTOÑO ISLA BONITA 2026",
         "ciudad": "Club de Ajedrez Isla Bonita  Centro Sociocultural Montaña Tenisca",
@@ -1474,6 +1462,42 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1527031.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub1800",
+        "ciudad": "Huelva",
+        "fechaini": "31-10-2026",
+        "fechafin": "02-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.2575874,
+        "lon": -6.9484945,
+        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub2400",
+        "ciudad": "Huelva",
+        "fechaini": "31-10-2026",
+        "fechafin": "02-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.2575874,
+        "lon": -6.9484945,
+        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub2400"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Memorial Anibal Alonso",
+        "ciudad": "Mos",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1879926,
+        "lon": -8.6262198,
+        "link": "https://info64.org/vi-memorial-anibal-alonso"
     },
     {
         "origin": "info64",
@@ -1642,42 +1666,6 @@
         "lat": 42.428065,
         "lon": -8.6041447,
         "link": "https://info64.org/torneo-samain-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub2400",
-        "ciudad": "Huelva",
-        "fechaini": "31-10-2026",
-        "fechafin": "02-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.2575874,
-        "lon": -6.9484945,
-        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub2400"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub1800",
-        "ciudad": "Huelva",
-        "fechaini": "31-10-2026",
-        "fechafin": "02-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.2575874,
-        "lon": -6.9484945,
-        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Memorial Anibal Alonso",
-        "ciudad": "Mos",
-        "fechaini": "31-10-2026",
-        "fechafin": "31-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1879926,
-        "lon": -8.6262198,
-        "link": "https://info64.org/vi-memorial-anibal-alonso"
     },
     {
         "origin": "chess-results",
@@ -1885,6 +1873,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "I Open Internacional FUGARO Marbella",
+        "ciudad": "Marbella",
+        "fechaini": "01-11-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.5074781,
+        "lon": -4.8047219,
+        "link": "https://info64.org/i-open-internacional-fugaro-marbella"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXVIII Open Escacs Mancomunitat Ribera Alta",
         "ciudad": "Sant Joanet",
         "fechaini": "01-11-2026",
@@ -1906,18 +1906,6 @@
         "lat": 38.4253489,
         "lon": -6.4193627,
         "link": "https://info64.org/x-torneo-de-ajedrez-chess-and-cheese-circuito-dip-badajoz"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Open Internacional FUGARO Marbella",
-        "ciudad": "Marbella",
-        "fechaini": "01-11-2026",
-        "fechafin": "01-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.5074781,
-        "lon": -4.8047219,
-        "link": "https://info64.org/i-open-internacional-fugaro-marbella"
     },
     {
         "origin": "info64",
@@ -3145,6 +3133,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "TORNEO PROMOCION ESCUELA MUNICIPAL DE AJEDREZ DE ESTEPONA SUB2400",
+        "ciudad": "ESTEPONA",
+        "fechaini": "21-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.4268068,
+        "lon": -5.1468484,
+        "link": "https://info64.org/torneo-promocion-escuela-municipal-de-ajedrez-de-estepona-sub2400"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Aberto Magosto sub 2300",
         "ciudad": "Ourense",
         "fechaini": "21-11-2026",
@@ -3166,18 +3166,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/ix-torneo-blitz-el-copon-club-ajedrez-utebo-san-lamberto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "TORNEO PROMOCION ESCUELA MUNICIPAL DE AJEDREZ DE ESTEPONA SUB2400",
-        "ciudad": "ESTEPONA",
-        "fechaini": "21-11-2026",
-        "fechafin": "22-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.4268068,
-        "lon": -5.1468484,
-        "link": "https://info64.org/torneo-promocion-escuela-municipal-de-ajedrez-de-estepona-sub2400"
     },
     {
         "origin": "info64",
@@ -3457,6 +3445,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-08",
+        "ciudad": "Benidorm",
+        "fechaini": "27-11-2026",
+        "fechafin": "29-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-08"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-10",
+        "ciudad": "Benidorm",
+        "fechaini": "27-11-2026",
+        "fechafin": "29-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-10"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-12",
+        "ciudad": "Benidorm",
+        "fechaini": "27-11-2026",
+        "fechafin": "29-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-12"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Festival Int. Ruy López Open Sub 2400",
         "ciudad": "Zafra",
         "fechaini": "27-11-2026",
@@ -3478,30 +3502,6 @@
         "lat": 38.4253489,
         "lon": -6.4193627,
         "link": "https://info64.org/vi-festival-int-ruy-lopez-open-sub-1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-12",
-        "ciudad": "Benidorm",
-        "fechaini": "27-11-2026",
-        "fechafin": "29-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-12"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-10",
-        "ciudad": "Benidorm",
-        "fechaini": "27-11-2026",
-        "fechafin": "29-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-10"
     },
     {
         "origin": "info64",
@@ -3528,18 +3528,6 @@
         "link": "https://info64.org/i-abierto-fide-rapido-sub-1800-la-atalaya"
     },
     {
-        "origin": "info64",
-        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-08",
-        "ciudad": "Benidorm",
-        "fechaini": "27-11-2026",
-        "fechafin": "29-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-08"
-    },
-    {
         "origin": "chess-results",
         "nombre": "Simultánea Magistral Gata Kamsky Gran Hotel Bali 2",
         "ciudad": "Hotel Bali - Benidorm (Alicante - SPAIN)",
@@ -3553,18 +3541,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Open Blitz Tres Cantos",
-        "ciudad": "Tres Cantos",
-        "fechaini": "28-11-2026",
-        "fechafin": "28-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6012354,
-        "lon": -3.7038475,
-        "link": "https://info64.org/vi-open-blitz-tres-cantos"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXIII Torneo Internacional Gran Hotel Bali Grupo A",
         "ciudad": "Benidorm",
         "fechaini": "28-11-2026",
@@ -3574,6 +3550,18 @@
         "lat": 38.5406255,
         "lon": -0.1290929,
         "link": "https://info64.org/xxiii-torneo-internacional-gran-hotel-bali-grupo-a"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Open Blitz Tres Cantos",
+        "ciudad": "Tres Cantos",
+        "fechaini": "28-11-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6012354,
+        "lon": -3.7038475,
+        "link": "https://info64.org/vi-open-blitz-tres-cantos"
     },
     {
         "origin": "info64",
