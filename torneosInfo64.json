@@ -1,6 +1,150 @@
 [
     {
         "origin": "info64",
+        "nombre": "TORNEO PROMOCION ESCUELA MUNICIPAL DE AJEDREZ DE ESTEPONA SUB2400",
+        "ciudad": "ESTEPONA",
+        "fechaini": "21-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.4268068,
+        "lon": -5.1468484,
+        "link": "https://info64.org/torneo-promocion-escuela-municipal-de-ajedrez-de-estepona-sub2400"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub1800",
+        "ciudad": "Huelva",
+        "fechaini": "31-10-2026",
+        "fechafin": "02-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.2575874,
+        "lon": -6.9484945,
+        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub2400",
+        "ciudad": "Huelva",
+        "fechaini": "31-10-2026",
+        "fechafin": "02-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.2575874,
+        "lon": -6.9484945,
+        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub2400"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIII Torneo Internacional Gran Hotel Bali Grupo A",
+        "ciudad": "Benidorm",
+        "fechaini": "28-11-2026",
+        "fechafin": "05-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xxiii-torneo-internacional-gran-hotel-bali-grupo-a"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Memorial Anibal Alonso",
+        "ciudad": "Mos",
+        "fechaini": "31-10-2026",
+        "fechafin": "31-10-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1879926,
+        "lon": -8.6262198,
+        "link": "https://info64.org/vi-memorial-anibal-alonso"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-08",
+        "ciudad": "Benidorm",
+        "fechaini": "27-11-2026",
+        "fechafin": "29-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-08"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-10",
+        "ciudad": "Benidorm",
+        "fechaini": "27-11-2026",
+        "fechafin": "29-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-10"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-12",
+        "ciudad": "Benidorm",
+        "fechaini": "27-11-2026",
+        "fechafin": "29-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-12"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Open Internacional FUGARO Marbella",
+        "ciudad": "Marbella",
+        "fechaini": "01-11-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.5074781,
+        "lon": -4.8047219,
+        "link": "https://info64.org/i-open-internacional-fugaro-marbella"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III SOCIAL TARDOR 2026 (Absolut)",
+        "ciudad": "Carlet",
+        "fechaini": "13-10-2026",
+        "fechafin": "27-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2251696,
+        "lon": -0.5202051,
+        "link": "https://info64.org/iii-social-tardor-2026-absolut"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III SOCIAL TARDOR 2026 (Sub-16)",
+        "ciudad": "Carlet",
+        "fechaini": "13-10-2026",
+        "fechafin": "27-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2251696,
+        "lon": -0.5202051,
+        "link": "https://info64.org/iii-social-tardor-2026-sub-16"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VIII Torneo de Ajedrez de la Diputación de Badajoz",
+        "ciudad": "Badajoz / Extremadura",
+        "fechaini": "15-11-2026",
+        "fechafin": "15-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.619642,
+        "lon": -7.121303,
+        "link": "https://info64.org/viii-torneo-de-ajedrez-de-la-diputacion-de-badajoz"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXVIII Open Escacs Mancomunitat Ribera Alta",
         "ciudad": "Sant Joanet",
         "fechaini": "01-11-2026",
@@ -22,18 +166,6 @@
         "lat": 43.2511582,
         "lon": -5.7729289,
         "link": "https://info64.org/ii-torneo-de-ajedrez-freestyle-mieres"
-    },
-    {
-        "origin": "info64",
-        "nombre": "HALLOWEEN CHESS 2026 - BENIDORM CHESS OPEN",
-        "ciudad": "Benidorm",
-        "fechaini": "30-10-2026",
-        "fechafin": "31-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/halloween-chess-2026-benidorm-chess-open"
     },
     {
         "origin": "info64",
@@ -82,18 +214,6 @@
         "lat": 38.3436365,
         "lon": -0.4881708,
         "link": "https://info64.org/social-otono-2020"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VIII Torneo de Ajedrez de la Diputación de Badajoz",
-        "ciudad": "Badajoz / Extremadura",
-        "fechaini": "15-11-2026",
-        "fechafin": "15-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.619642,
-        "lon": -7.121303,
-        "link": "https://info64.org/viii-torneo-de-ajedrez-de-la-diputacion-de-badajoz"
     },
     {
         "origin": "info64",
@@ -565,42 +685,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub2400",
-        "ciudad": "Huelva",
-        "fechaini": "31-10-2026",
-        "fechafin": "02-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.2575874,
-        "lon": -6.9484945,
-        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub2400"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Abierto Fundacion Caja Rural del Sur D. Jose Luis Garcia-Palacios Sub1800",
-        "ciudad": "Huelva",
-        "fechaini": "31-10-2026",
-        "fechafin": "02-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.2575874,
-        "lon": -6.9484945,
-        "link": "https://info64.org/i-abierto-fundacion-caja-rural-del-sur-d-jose-luis-garcia-palacios-sub1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I Open Internacional FUGARO Marbella",
-        "ciudad": "Marbella",
-        "fechaini": "01-11-2026",
-        "fechafin": "01-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.5074781,
-        "lon": -4.8047219,
-        "link": "https://info64.org/i-open-internacional-fugaro-marbella"
-    },
-    {
-        "origin": "info64",
         "nombre": "IX Torneo Social EXP",
         "ciudad": "Pontevedra",
         "fechaini": "02-11-2026",
@@ -877,30 +961,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Memorial Anibal Alonso",
-        "ciudad": "Mos",
-        "fechaini": "31-10-2026",
-        "fechafin": "31-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1879926,
-        "lon": -8.6262198,
-        "link": "https://info64.org/vi-memorial-anibal-alonso"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIII Torneo Internacional Gran Hotel Bali Grupo A",
-        "ciudad": "Benidorm",
-        "fechaini": "28-11-2026",
-        "fechafin": "05-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xxiii-torneo-internacional-gran-hotel-bali-grupo-a"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Festival Int. Ruy López Open Sub 1800",
         "ciudad": "Zafra",
         "fechaini": "27-11-2026",
@@ -973,18 +1033,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-12",
-        "ciudad": "Benidorm",
-        "fechaini": "27-11-2026",
-        "fechafin": "29-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-12"
-    },
-    {
-        "origin": "info64",
         "nombre": "52 Abierto Internacional Ciudad de Sevilla 2027.",
         "ciudad": "Sevilla",
         "fechaini": "08-01-2027",
@@ -994,18 +1042,6 @@
         "lat": 37.3886303,
         "lon": -5.9953403,
         "link": "https://info64.org/52-abierto-internacional-ciudad-de-sevilla-2027"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-10",
-        "ciudad": "Benidorm",
-        "fechaini": "27-11-2026",
-        "fechafin": "29-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-10"
     },
     {
         "origin": "info64",
@@ -1123,8 +1159,8 @@
         "fechafin": "05-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
     },
     {
@@ -1258,18 +1294,6 @@
         "lat": 39.2924334,
         "lon": -0.4138577,
         "link": "https://info64.org/campeonato-provincial-individual-segunda-almussafes-1-1-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "TORNEO PROMOCION ESCUELA MUNICIPAL DE AJEDREZ DE ESTEPONA SUB2400",
-        "ciudad": "ESTEPONA",
-        "fechaini": "21-11-2026",
-        "fechafin": "22-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.4268068,
-        "lon": -5.1468484,
-        "link": "https://info64.org/torneo-promocion-escuela-municipal-de-ajedrez-de-estepona-sub2400"
     },
     {
         "origin": "info64",
@@ -1498,30 +1522,6 @@
         "lat": 42.9064576,
         "lon": -8.5192983,
         "link": "https://info64.org/escolar-alevin-santiago-2026-1"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III SOCIAL TARDOR 2026 (Sub-16)",
-        "ciudad": "Carlet",
-        "fechaini": "13-10-2026",
-        "fechafin": "27-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2251696,
-        "lon": -0.5202051,
-        "link": "https://info64.org/iii-social-tardor-2026-sub-16"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III SOCIAL TARDOR 2026 (Absolut)",
-        "ciudad": "Carlet",
-        "fechaini": "13-10-2026",
-        "fechafin": "27-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2251696,
-        "lon": -0.5202051,
-        "link": "https://info64.org/iii-social-tardor-2026-absolut"
     },
     {
         "origin": "info64",
@@ -2074,18 +2074,6 @@
         "lat": 36.7413698,
         "lon": -3.521282,
         "link": "https://info64.org/i-open-caballo-lento"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-08",
-        "ciudad": "Benidorm",
-        "fechaini": "27-11-2026",
-        "fechafin": "29-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-08"
     },
     {
         "origin": "info64",
