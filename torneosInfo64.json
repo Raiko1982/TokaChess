@@ -1,39 +1,99 @@
 [
     {
         "origin": "info64",
-        "nombre": "2026_EEDDCiudadReal_Segundo",
-        "ciudad": "Ciudad Real",
+        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
+        "ciudad": "Benidorm",
+        "fechaini": "28-11-2026",
+        "fechafin": "05-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXXII Torneo de Santa Teresa Memorial Felix Garcia Ares",
+        "ciudad": "Avila",
         "fechaini": "07-11-2026",
         "fechafin": "07-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.9597347,
-        "lon": -3.8828744,
-        "link": "https://info64.org/2026_eeddciudadreal_segundo"
+        "lat": 40.656478,
+        "lon": -4.7002172,
+        "link": "https://info64.org/xxxii-torneo-de-santa-teresa-memorial-felix-garcia-ares"
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo internacional de Ajedrez Arturo Pomar Sub 1800 2026",
-        "ciudad": "Alcoy",
-        "fechaini": "21-11-2026",
+        "nombre": "IV Open Internacional Jose Antonio Ferreno",
+        "ciudad": "Culleredo",
+        "fechaini": "22-11-2026",
         "fechafin": "22-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.6982348,
-        "lon": -0.4747619,
-        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-arturo-pomar-sub-1800-2026"
+        "lat": 43.2778751,
+        "lon": -8.4112161,
+        "link": "https://info64.org/iv-open-internacional-jose-antonio-ferreno"
     },
     {
         "origin": "info64",
-        "nombre": "XI Torneo Sub 2400 Club Ajedrez V Centenario",
-        "ciudad": "San Sebastian de los Reyes",
-        "fechaini": "31-10-2026",
-        "fechafin": "02-11-2026",
+        "nombre": "Campeonato de Navarra Absoluto por Equipos-Primera",
+        "ciudad": "Pamplona",
+        "fechaini": "10-10-2026",
+        "fechafin": "21-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.5473698,
-        "lon": -3.6260586,
-        "link": "https://info64.org/xi-torneo-sub-2400-club-ajedrez-v-centenario"
+        "lat": 42.815686,
+        "lon": -1.6522353,
+        "link": "https://info64.org/team/campeonato-de-navarra-absoluto-por-equipos-primera-v10"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Navarra Absoluto por Equipos-Tercera",
+        "ciudad": "Pamplona",
+        "fechaini": "10-10-2026",
+        "fechafin": "21-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.815686,
+        "lon": -1.6522353,
+        "link": "https://info64.org/team/campeonato-de-navarra-absoluto-por-equipos-tercera"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Escolar Alevin Santiago 2026",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "07-11-2026",
+        "fechafin": "07-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.9064576,
+        "lon": -8.5192983,
+        "link": "https://info64.org/escolar-alevin-santiago-2026-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Escolar Benjamin Santiago 2026",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "07-11-2026",
+        "fechafin": "07-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.9064576,
+        "lon": -8.5192983,
+        "link": "https://info64.org/escolar-benjamin-santiago-2026-1"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I TORNEO DE XADREZ BAIXO MIÑO",
+        "ciudad": "Tui",
+        "fechaini": "31-10-2026",
+        "fechafin": "01-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.0669432,
+        "lon": -8.6637585,
+        "link": "https://info64.org/i-torneo-de-xadrez-baixo-mino"
     },
     {
         "origin": "info64",
@@ -49,15 +109,63 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Navarra Absoluto por Equipos-Tercera",
-        "ciudad": "Pamplona",
-        "fechaini": "10-10-2026",
+        "nombre": "IV Torneo Blitz Akeru Vicalvaro",
+        "ciudad": "Madrid",
+        "fechaini": "21-11-2026",
         "fechafin": "21-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.815686,
-        "lon": -1.6522353,
-        "link": "https://info64.org/team/campeonato-de-navarra-absoluto-por-equipos-tercera"
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/iv-torneo-blitz-akeru-vicalvaro"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo internacional de Ajedrez Arturo Pomar Sub 1800 2026",
+        "ciudad": "Alcoy",
+        "fechaini": "21-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.6982348,
+        "lon": -0.4747619,
+        "link": "https://info64.org/i-torneo-internacional-de-ajedrez-arturo-pomar-sub-1800-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "2026_EEDDCiudadReal_Terceros",
+        "ciudad": "Ciudad Real",
+        "fechaini": "07-11-2026",
+        "fechafin": "07-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9597347,
+        "lon": -3.8828744,
+        "link": "https://info64.org/2026_eeddciudadreal_terceros"
+    },
+    {
+        "origin": "info64",
+        "nombre": "2026_EEDDCiudadReal_Segundo",
+        "ciudad": "Ciudad Real",
+        "fechaini": "07-11-2026",
+        "fechafin": "07-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.9597347,
+        "lon": -3.8828744,
+        "link": "https://info64.org/2026_eeddciudadreal_segundo"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XI Torneo Sub 2400 Club Ajedrez V Centenario",
+        "ciudad": "San Sebastian de los Reyes",
+        "fechaini": "31-10-2026",
+        "fechafin": "02-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.5473698,
+        "lon": -3.6260586,
+        "link": "https://info64.org/xi-torneo-sub-2400-club-ajedrez-v-centenario"
     },
     {
         "origin": "info64",
@@ -241,18 +349,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXXII Torneo de Santa Teresa Memorial Felix Garcia Ares",
-        "ciudad": "Avila",
-        "fechaini": "07-11-2026",
-        "fechafin": "07-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.656478,
-        "lon": -4.7002172,
-        "link": "https://info64.org/xxxii-torneo-de-santa-teresa-memorial-felix-garcia-ares"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open Internacional FUGARO Marbella",
         "ciudad": "Marbella",
         "fechaini": "01-11-2026",
@@ -385,18 +481,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "IV Open Internacional Jose Antonio Ferreno",
-        "ciudad": "Culleredo",
-        "fechaini": "22-11-2026",
-        "fechafin": "22-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.2778751,
-        "lon": -8.4112161,
-        "link": "https://info64.org/iv-open-internacional-jose-antonio-ferreno"
-    },
-    {
-        "origin": "info64",
         "nombre": "III Festival Ajedrez ABC Serrano - Torneo Open",
         "ciudad": "ABC Serrano",
         "fechaini": "07-11-2026",
@@ -493,18 +577,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo Samain da EXP 2026",
-        "ciudad": "Pontevedra",
-        "fechaini": "31-10-2026",
-        "fechafin": "31-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.428065,
-        "lon": -8.6041447,
-        "link": "https://info64.org/torneo-samain-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "IX Torneo Social EXP",
         "ciudad": "Pontevedra",
         "fechaini": "02-11-2026",
@@ -526,42 +598,6 @@
         "lat": 37.3028005,
         "lon": -7.3423138,
         "link": "https://info64.org/vi-bambuchess-chess-festival-open-irt-sub1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Inaugural Escuela Ajedrizate CAT C",
-        "ciudad": "Cartagena",
-        "fechaini": "31-10-2026",
-        "fechafin": "31-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6155018,
-        "lon": -0.987511,
-        "link": "https://info64.org/v-torneo-inaugural-escuela-ajedrizate-cat-c"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Inaugural Escuela Ajedrizate CAT B",
-        "ciudad": "Cartagena",
-        "fechaini": "31-10-2026",
-        "fechafin": "31-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6155018,
-        "lon": -0.987511,
-        "link": "https://info64.org/v-torneo-inaugural-escuela-ajedrizate-cat-b"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Torneo Inaugural Escuela Ajedrizate CAT A",
-        "ciudad": "Cartagena",
-        "fechaini": "31-10-2026",
-        "fechafin": "31-10-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.6155018,
-        "lon": -0.987511,
-        "link": "https://info64.org/v-torneo-inaugural-escuela-ajedrizate-cat-a"
     },
     {
         "origin": "info64",
@@ -1429,18 +1465,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Escolar Benjamin Santiago 2026",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "07-11-2026",
-        "fechafin": "07-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.9064576,
-        "lon": -8.5192983,
-        "link": "https://info64.org/escolar-benjamin-santiago-2026-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "I TORNEO INFANTIL RUTA DE LA PLATA",
         "ciudad": "CÁCERES",
         "fechaini": "22-11-2026",
@@ -1510,18 +1534,6 @@
         "lat": 39.487148,
         "lon": -0.3566225,
         "link": "https://info64.org/campeonato-provincial-invidual-segunda-benimaclet"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
-        "ciudad": "Benidorm",
-        "fechaini": "28-11-2026",
-        "fechafin": "05-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
     },
     {
         "origin": "info64",
@@ -1621,18 +1633,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Escolar Alevin Santiago 2026",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "07-11-2026",
-        "fechafin": "07-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.9064576,
-        "lon": -8.5192983,
-        "link": "https://info64.org/escolar-alevin-santiago-2026-1"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial Individual Preferente, Castellon",
         "ciudad": "Castellon",
         "fechaini": "19-09-2026",
@@ -1690,18 +1690,6 @@
         "lat": 37.3248369,
         "lon": -6.527356,
         "link": "https://info64.org/i-open-pena-betica-manuel-castano"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Navarra Absoluto por Equipos-Primera",
-        "ciudad": "Pamplona",
-        "fechaini": "10-10-2026",
-        "fechafin": "21-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.815686,
-        "lon": -1.6522353,
-        "link": "https://info64.org/team/campeonato-de-navarra-absoluto-por-equipos-primera-v10"
     },
     {
         "origin": "info64",
