@@ -1123,8 +1123,8 @@
         "fechafin": "28-11-2026",
         "organizador": "Federación Vizcaina de Ajedrez",
         "ritmo": "90 ́+ 30 ́ ́",
-        "lat": 43.3093136,
-        "lon": -3.0546571,
+        "lat": 43.3101001,
+        "lon": -3.0561527,
         "link": "https://chess-results.com/tnr1519266.aspx?lan=2"
     },
     {
@@ -2010,7 +2010,7 @@
         "fechaini": "07-11-2026",
         "fechafin": "10-04-2027",
         "organizador": "Federación Insular de Ajedrez de Tenerife",
-        "ritmo": "90 minutos +30 segundos de incremento por jugada",
+        "ritmo": "90 minutos + 30 segundos de incremento por jugada",
         "lat": 28.4738096,
         "lon": -16.3007092,
         "link": "https://chess-results.com/tnr1530441.aspx?lan=2"
@@ -5014,6 +5014,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1521115.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Circuito Ajedrez Base 26-27 Monteolivete",
+        "ciudad": "Club Ajedrez Monteolivete - C/ Escultor José Capuz, 44 Bajo Izq. 46006 Valencia",
+        "fechaini": "24-01-2027",
+        "fechafin": "24-01-2027",
+        "organizador": "FACV - Club Ajedrez Monteolivete",
+        "ritmo": "7 minutos + 3 segundos",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1533058.aspx?lan=2"
     },
     {
         "origin": "chess-results",
