@@ -1285,6 +1285,30 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "Campeonato de Canarias de Ajedrez Blitz Individual",
+        "ciudad": "Club Ajedrez Fundación La Caja. Calle Joaquín Blume, 13. Las Palmas de G.C.",
+        "fechaini": "21-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "Federación Canaria de Ajedrez, Federación Insular de GC, Club Fundación La Caja",
+        "ritmo": "5 minutos + 3 segundos de incremento",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1534002.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Campeonato de Canarias de Ajedrez Rapido por Equip",
+        "ciudad": "Club Ajedrez Fundación La Caja. Calle Joaquín Blume, 13. Las Palmas de G.C.",
+        "fechaini": "21-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "Federación Canaria de Ajedrez, Federación Insular de GC, Club Fundación La Caja",
+        "ritmo": "10 minutos + 5 segundos de incremento",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1534001.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "IV TORNEO DE AJEDREZ CLUB DEPORTIVO OLIVAR DE QUIN",
         "ciudad": "",
         "fechaini": "21-11-2026",
@@ -2287,8 +2311,8 @@
         "fechafin": "28-11-2026",
         "organizador": "Federación Vizcaina de Ajedrez",
         "ritmo": "90 ́+ 30 ́ ́",
-        "lat": 43.3106523,
-        "lon": -3.056524,
+        "lat": 43.3101001,
+        "lon": -3.0561527,
         "link": "https://chess-results.com/tnr1519266.aspx?lan=2"
     },
     {
