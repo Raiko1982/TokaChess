@@ -516,18 +516,6 @@
         "link": "https://chess-results.com/tnr1507227.aspx?lan=2"
     },
     {
-        "origin": "chess-results",
-        "nombre": "VIII OPEN CIUTAT DEL PRAT  Rondes 1-4 ( 494994 )",
-        "ciudad": "El Prat de Llobregat",
-        "fechaini": "02-10-2026",
-        "fechafin": "27-11-2026",
-        "organizador": "",
-        "ritmo": "60+30",
-        "lat": 41.3305918,
-        "lon": 2.0930815,
-        "link": "https://chess-results.com/tnr1465611.aspx?lan=2"
-    },
-    {
         "origin": "info64",
         "nombre": "Campeonato Provincial por Equipos Albacete 2026. Primera",
         "ciudad": "Albacete",
@@ -2173,6 +2161,18 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "LARUNBATAK AZAROAK 7",
+        "ciudad": "",
+        "fechaini": "07-11-2026",
+        "fechafin": "07-11-2026",
+        "organizador": "GROS XAKE TALDEA",
+        "ritmo": "",
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "link": "https://chess-results.com/tnr1523062.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Prebenjamin. Torneos Promoción San Sebastián de lo",
         "ciudad": "Club Ajedrez V Centenario. Avenida Baunatal, 18, anexo. Sanse",
         "fechaini": "07-11-2026",
@@ -2225,7 +2225,7 @@
         "ciudad": "",
         "fechaini": "07-11-2026",
         "fechafin": "07-11-2026",
-        "organizador": "",
+        "organizador": "https://view.livechesscloud.com#82dead2e-cd60-49ef-bddc-d0e115d93a3b",
         "ritmo": "8+3",
         "lat": 39.3260685,
         "lon": -4.8379791,
@@ -2462,25 +2462,25 @@
     {
         "origin": "chess-results",
         "nombre": "III Torneig sub16 FAST Carlet. Grup A (Sub 16 i su",
-        "ciudad": "Carlet (València)",
+        "ciudad": "Teatre Giner. Plaça Salvador Giner s/n de Carlet. (València)",
         "fechaini": "08-11-2026",
         "fechafin": "08-11-2026",
         "organizador": "FAST Carlet",
         "ritmo": "7+3",
-        "lat": 39.2251696,
-        "lon": -0.5202051,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1533376.aspx?lan=2"
     },
     {
         "origin": "chess-results",
         "nombre": "III Torneig sub16 FAST Carlet. Grup B (sub 12, sub",
-        "ciudad": "Carlet (València)",
+        "ciudad": "Teatre Giner. Plaça Salvador Giner s/n de Carlet. (València)",
         "fechaini": "08-11-2026",
         "fechafin": "08-11-2026",
         "organizador": "FAST Carlet",
         "ritmo": "7+3",
-        "lat": 39.2251696,
-        "lon": -0.5202051,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1533369.aspx?lan=2"
     },
     {
@@ -5386,6 +5386,18 @@
         "lat": 42.8505845,
         "lon": -2.66145,
         "link": "https://info64.org/torneo-de-reyes-federacion-alavesa-de-2027"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Preinscritos Roquetas Chess Festival 2027 (incluye",
+        "ciudad": "Hotel Bahía Serena, Roquetas de Mar, Almeria",
+        "fechaini": "02-01-2027",
+        "fechafin": "07-01-2027",
+        "organizador": "CA Roquetas",
+        "ritmo": "90+30",
+        "lat": 36.7227077,
+        "lon": -2.6273264,
+        "link": "https://chess-results.com/tnr1536718.aspx?lan=2"
     },
     {
         "origin": "chess-results",
