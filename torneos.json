@@ -372,18 +372,6 @@
         "link": "https://info64.org/torneo-social-de-ajedrez-2026-club-de-campo-villa-de-madrid"
     },
     {
-        "origin": "info64",
-        "nombre": "Campeonato de Ajedrez Rápido por Equipos de Madrid 2026-2027",
-        "ciudad": "Madrid",
-        "fechaini": "20-09-2026",
-        "fechafin": "08-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/team/campeonato-de-ajedrez-rapido-por-equipos-de-madrid-2026-2027"
-    },
-    {
         "origin": "chess-results",
         "nombre": "XXVIII Obert d'Escacs de Santa Margarida de Montb",
         "ciudad": "Santa Margarida de Montbui (Barcelona)",
@@ -685,6 +673,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Campeonato de Asturias Individual Primera 2026",
+        "ciudad": "Gijon",
+        "fechaini": "04-10-2026",
+        "fechafin": "29-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.5449422,
+        "lon": -5.66275,
+        "link": "https://info64.org/campeonato-de-asturias-individual-primera-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato de Asturias Individual Cuarta 2026",
         "ciudad": "Gijon",
         "fechaini": "04-10-2026",
@@ -718,18 +718,6 @@
         "lat": 43.5449422,
         "lon": -5.66275,
         "link": "https://info64.org/campeonato-de-asturias-individual-segunda-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Campeonato de Asturias Individual Primera 2026",
-        "ciudad": "Gijon",
-        "fechaini": "04-10-2026",
-        "fechafin": "29-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.5449422,
-        "lon": -5.66275,
-        "link": "https://info64.org/campeonato-de-asturias-individual-primera-2026"
     },
     {
         "origin": "info64",
@@ -967,8 +955,8 @@
         "fechafin": "05-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
     },
     {
@@ -1717,18 +1705,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Cuadrangular Inaugural Bunker de Bejar",
-        "ciudad": "Bejar",
-        "fechaini": "08-11-2026",
-        "fechafin": "08-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.3865812,
-        "lon": -5.7649619,
-        "link": "https://info64.org/team/cuadrangular-inaugural-bunker-de-bejar"
-    },
-    {
-        "origin": "info64",
         "nombre": "Campeonato Provincial por Equipos Guadalajara 2026",
         "ciudad": "Azuqueca / Guadalajara / Cabanillas",
         "fechaini": "08-11-2026",
@@ -1873,6 +1849,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "I OPEN PEÑA BETICA MANUEL CASTAÑO",
+        "ciudad": "Bollullos del Condado",
+        "fechaini": "14-11-2026",
+        "fechafin": "15-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3248369,
+        "lon": -6.527356,
+        "link": "https://info64.org/i-open-pena-betica-manuel-castano"
+    },
+    {
+        "origin": "info64",
         "nombre": "III TORNEO DE AJEDREZ DE OTONO DE BAEZA",
         "ciudad": "Baeza, Parque Leocadio Marin",
         "fechaini": "14-11-2026",
@@ -1906,18 +1894,6 @@
         "lat": 42.1886579,
         "lon": -8.5054515,
         "link": "https://info64.org/x-torneo-internacional-sub-2400-xadrez-ponteareas"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I OPEN PEÑA BETICA MANUEL CASTAÑO",
-        "ciudad": "Bollullos del Condado",
-        "fechaini": "14-11-2026",
-        "fechafin": "15-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3248369,
-        "lon": -6.527356,
-        "link": "https://info64.org/i-open-pena-betica-manuel-castano"
     },
     {
         "origin": "info64",
@@ -2881,6 +2857,66 @@
     },
     {
         "origin": "info64",
+        "nombre": "El gran salto 2027 - Tramos de Elo - Almussafes",
+        "ciudad": "Almussafes",
+        "fechaini": "22-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2924334,
+        "lon": -0.4138577,
+        "link": "https://info64.org/el-gran-salto-2027-tramos-de-elo-almussafes"
+    },
+    {
+        "origin": "info64",
+        "nombre": "El gran salto 2027 - Sub 18 - Almussafes",
+        "ciudad": "Almussafes",
+        "fechaini": "22-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2924334,
+        "lon": -0.4138577,
+        "link": "https://info64.org/el-gran-salto-2027-sub-18-almussafes"
+    },
+    {
+        "origin": "info64",
+        "nombre": "El gran salto 2027 - Sub 12- Almussafes",
+        "ciudad": "Almussafes",
+        "fechaini": "22-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2924334,
+        "lon": -0.4138577,
+        "link": "https://info64.org/el-gran-salto-2027-sub-12-almussafes"
+    },
+    {
+        "origin": "info64",
+        "nombre": "El gran salto 2027 - Sub 10- Almussafes",
+        "ciudad": "Almussafes",
+        "fechaini": "22-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2924334,
+        "lon": -0.4138577,
+        "link": "https://info64.org/el-gran-salto-2027-sub-10-almussafes"
+    },
+    {
+        "origin": "info64",
+        "nombre": "El gran salto 2027 - Sub 8 - Almussafes",
+        "ciudad": "Almussafes",
+        "fechaini": "22-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.2924334,
+        "lon": -0.4138577,
+        "link": "https://info64.org/el-gran-salto-2027-sub-8-almussafes"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV Open Internacional Jose Antonio Ferreno",
         "ciudad": "Culleredo",
         "fechaini": "22-11-2026",
@@ -2950,66 +2986,6 @@
         "lat": 39.1323971,
         "lon": -0.7877353,
         "link": "https://info64.org/i-torneo-de-la-mancomunidad-canal-de-navarres"
-    },
-    {
-        "origin": "info64",
-        "nombre": "El gran salto 2027 - Tramos de Elo - Almussafes",
-        "ciudad": "Almussafes",
-        "fechaini": "22-11-2026",
-        "fechafin": "22-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2924334,
-        "lon": -0.4138577,
-        "link": "https://info64.org/el-gran-salto-2027-tramos-de-elo-almussafes"
-    },
-    {
-        "origin": "info64",
-        "nombre": "El gran salto 2027 - Sub 18 - Almussafes",
-        "ciudad": "Almussafes",
-        "fechaini": "22-11-2026",
-        "fechafin": "22-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2924334,
-        "lon": -0.4138577,
-        "link": "https://info64.org/el-gran-salto-2027-sub-18-almussafes"
-    },
-    {
-        "origin": "info64",
-        "nombre": "El gran salto 2027 - Sub 12- Almussafes",
-        "ciudad": "Almussafes",
-        "fechaini": "22-11-2026",
-        "fechafin": "22-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2924334,
-        "lon": -0.4138577,
-        "link": "https://info64.org/el-gran-salto-2027-sub-12-almussafes"
-    },
-    {
-        "origin": "info64",
-        "nombre": "El gran salto 2027 - Sub 10- Almussafes",
-        "ciudad": "Almussafes",
-        "fechaini": "22-11-2026",
-        "fechafin": "22-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2924334,
-        "lon": -0.4138577,
-        "link": "https://info64.org/el-gran-salto-2027-sub-10-almussafes"
-    },
-    {
-        "origin": "info64",
-        "nombre": "El gran salto 2027 - Sub 8 - Almussafes",
-        "ciudad": "Almussafes",
-        "fechaini": "22-11-2026",
-        "fechafin": "22-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.2924334,
-        "lon": -0.4138577,
-        "link": "https://info64.org/el-gran-salto-2027-sub-8-almussafes"
     },
     {
         "origin": "info64",
@@ -3685,6 +3661,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "VI Open Sub-2400 Marcos Frechín Memorial Mercedes Parrón",
+        "ciudad": "Zaragoza",
+        "fechaini": "05-12-2026",
+        "fechafin": "07-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://info64.org/vi-open-sub-2400-marcos-frechin-memorial-mercedes-parron"
+    },
+    {
+        "origin": "info64",
         "nombre": "V Torneo Lentas Xadrez Compostela Sub2400",
         "ciudad": "Santiago de Compostela",
         "fechaini": "05-12-2026",
@@ -3706,18 +3694,6 @@
         "lat": 40.5473698,
         "lon": -3.6260586,
         "link": "https://info64.org/xxvi-abierto-de-la-constitucion"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Open Sub-2400 Marcos Frechín Memorial Mercedes Parrón",
-        "ciudad": "Zaragoza",
-        "fechaini": "05-12-2026",
-        "fechafin": "07-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
-        "link": "https://info64.org/vi-open-sub-2400-marcos-frechin-memorial-mercedes-parron"
     },
     {
         "origin": "info64",
@@ -5077,18 +5053,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "El gran salto 2027 - Tramos de Elo - Riba-roja",
-        "ciudad": "Riba-roja",
-        "fechaini": "17-01-2027",
-        "fechafin": "17-01-2027",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.4601848,
-        "lon": 1.9151549,
-        "link": "https://info64.org/el-gran-salto-2027-tramos-de-elo-riba-roja"
-    },
-    {
-        "origin": "info64",
         "nombre": "El gran salto 2027 - Sub 18 - Riba-roja",
         "ciudad": "Riba-roja",
         "fechaini": "17-01-2027",
@@ -5098,6 +5062,18 @@
         "lat": 41.4601848,
         "lon": 1.9151549,
         "link": "https://info64.org/el-gran-salto-2027-sub-18-riba-roja"
+    },
+    {
+        "origin": "info64",
+        "nombre": "El gran salto 2027 - Tramos de Elo - Riba-roja",
+        "ciudad": "Riba-roja",
+        "fechaini": "17-01-2027",
+        "fechafin": "17-01-2027",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.4601848,
+        "lon": 1.9151549,
+        "link": "https://info64.org/el-gran-salto-2027-tramos-de-elo-riba-roja"
     },
     {
         "origin": "info64",
