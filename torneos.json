@@ -1909,14 +1909,50 @@
     },
     {
         "origin": "chess-results",
+        "nombre": "ENTRENAMIENTO 20261115 A",
+        "ciudad": "CEIP BLAS INFANTE",
+        "fechaini": "15-11-2026",
+        "fechafin": "15-11-2026",
+        "organizador": "PEÑA ECIJANA DE AJEDREZ",
+        "ritmo": "3'+2''",
+        "lat": 37.4113915,
+        "lon": -5.9781059,
+        "link": "https://chess-results.com/tnr1542729.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "ENTRENAMIENTO 20261115 B",
+        "ciudad": "CEIP BLAS INFANTE",
+        "fechaini": "15-11-2026",
+        "fechafin": "15-11-2026",
+        "organizador": "PEÑA ECIJANA DE AJEDREZ",
+        "ritmo": "3'+2''",
+        "lat": 37.4113915,
+        "lon": -5.9781059,
+        "link": "https://chess-results.com/tnr1542735.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "ENTRENAMIENTO 20261115 C",
+        "ciudad": "CEIP BLAS INFANTE",
+        "fechaini": "15-11-2026",
+        "fechafin": "15-11-2026",
+        "organizador": "PEÑA ECIJANA DE AJEDREZ",
+        "ritmo": "3'+2''",
+        "lat": 37.4113915,
+        "lon": -5.9781059,
+        "link": "https://chess-results.com/tnr1542728.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
         "nombre": "Escolar San Vicente del Rapeig - Zona Alicante Cen",
         "ciudad": "C/ Major, 03690 Sant Vicent del Raspeig, Alicante",
         "fechaini": "15-11-2026",
         "fechafin": "15-11-2026",
         "organizador": "FACV- Club Ajedrez Raspeig",
         "ritmo": "7 minutos + 3 segundos",
-        "lat": 38.3893681,
-        "lon": -0.5223104,
+        "lat": 38.3907503,
+        "lon": -0.5223637,
         "link": "https://chess-results.com/tnr1538297.aspx?lan=2"
     },
     {
@@ -2106,7 +2142,7 @@
         "fechaini": "15-11-2026",
         "fechafin": "15-11-2026",
         "organizador": "Asociación de Ajedrez Social y Terapéutico de la Comunidad Valenciana",
-        "ritmo": "3 minutos por jugador más 2 seg. de incremento por jugada",
+        "ritmo": "5 minutos por jugador más 3 seg. de incremento por jugada",
         "lat": 38.6165533,
         "lon": -0.1223577,
         "link": "https://chess-results.com/tnr1523885.aspx?lan=2"
@@ -2346,7 +2382,7 @@
         "fechaini": "20-11-2026",
         "fechafin": "27-11-2026",
         "organizador": "Club de ajedrez Martintxo",
-        "ritmo": "7+3",
+        "ritmo": "5+3",
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1531889.aspx?lan=2"
@@ -2358,7 +2394,7 @@
         "fechaini": "20-11-2026",
         "fechafin": "27-11-2026",
         "organizador": "Club de ajedrez Martintxo",
-        "ritmo": "7+3",
+        "ritmo": "6+3",
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1531891.aspx?lan=2"
@@ -5746,6 +5782,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1462340.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "53º Torneo Internacional de Ajedrez de La Roda 202",
+        "ciudad": "La Roda",
+        "fechaini": "23-03-2027",
+        "fechafin": "28-03-2027",
+        "organizador": "Club Ajedrez Torneos La Roda",
+        "ritmo": "90 minutes + 30 seconds per move",
+        "lat": 39.20702,
+        "lon": -2.1581637,
+        "link": "https://chess-results.com/tnr1542814.aspx?lan=2"
     },
     {
         "origin": "info64",
