@@ -667,8 +667,8 @@
         "fechafin": "05-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.2814642,
-        "lon": -2.482805,
+        "lat": 42.3285528,
+        "lon": -2.4674917,
         "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
     },
     {
@@ -1279,8 +1279,8 @@
         "fechafin": "22-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 40.6378388,
-        "lon": -3.2229321,
+        "lat": 40.6365232,
+        "lon": -3.2251426,
         "link": "https://info64.org/team/campeonato-provincial-por-equipos-guadalajara-2026"
     },
     {
@@ -1645,6 +1645,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXIX Torneo Pueblo Nuevo  Martes y Jueves",
+        "ciudad": "Madrid",
+        "fechaini": "19-11-2026",
+        "fechafin": "17-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "link": "https://info64.org/xxix-torneo-pueblo-nuevo-martes-y-jueves"
+    },
+    {
+        "origin": "info64",
         "nombre": "Campeonato Provincial por Equipos Veterano Mutxamel 2026",
         "ciudad": "Mutxamel",
         "fechaini": "19-11-2026",
@@ -1668,18 +1680,6 @@
         "link": "https://info64.org/team/campeonato-provincial-por-equipos-de-veteranos-1"
     },
     {
-        "origin": "info64",
-        "nombre": "XXIX Torneo Pueblo Nuevo  Martes y Jueves",
-        "ciudad": "Madrid",
-        "fechaini": "19-11-2026",
-        "fechafin": "17-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.416782,
-        "lon": -3.703507,
-        "link": "https://info64.org/xxix-torneo-pueblo-nuevo-martes-y-jueves"
-    },
-    {
         "origin": "chess-results",
         "nombre": "Campeonato Provincial por Equipos de Veteranos",
         "ciudad": "Polideportivo Benimaclet: Carrer de Daniel Balaciart, s/n, Benimaclet, 46020",
@@ -1690,6 +1690,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1540024.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XX Open Internacional Sub 2400 Ciudad de Malaga",
+        "ciudad": "Malaga",
+        "fechaini": "20-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.7647913,
+        "lon": -4.4422005,
+        "link": "https://info64.org/xx-open-internacional-sub-2400-ciudad-de-malaga"
     },
     {
         "origin": "info64",
@@ -1738,18 +1750,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/i-torneo-jovenes-promesas-del-ajedrez-callejero"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XX Open Internacional Sub 2400 Ciudad de Malaga",
-        "ciudad": "Malaga",
-        "fechaini": "20-11-2026",
-        "fechafin": "22-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.7647913,
-        "lon": -4.4422005,
-        "link": "https://info64.org/xx-open-internacional-sub-2400-ciudad-de-malaga"
     },
     {
         "origin": "info64",
@@ -1834,6 +1834,18 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://chess-results.com/tnr1531902.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "IX Torneo Blitz El Copón Club Ajedrez Utebo San Lamberto",
+        "ciudad": "Utebo, España",
+        "fechaini": "21-11-2026",
+        "fechafin": "21-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/ix-torneo-blitz-el-copon-club-ajedrez-utebo-san-lamberto"
     },
     {
         "origin": "info64",
@@ -1966,18 +1978,6 @@
         "lat": 42.1939629,
         "lon": -7.537124,
         "link": "https://info64.org/i-aberto-sub-2300-viva-o-magosto"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IX Torneo Blitz El Copón Club Ajedrez Utebo San Lamberto",
-        "ciudad": "Utebo, España",
-        "fechaini": "21-11-2026",
-        "fechafin": "21-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/ix-torneo-blitz-el-copon-club-ajedrez-utebo-san-lamberto"
     },
     {
         "origin": "info64",
@@ -2137,6 +2137,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "I TORNEO INFANTIL RUTA DE LA PLATA",
+        "ciudad": "CÁCERES",
+        "fechaini": "22-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.4745175,
+        "lon": -6.3716761,
+        "link": "https://info64.org/i-torneo-infantil-ruta-de-la-plata"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Circuito Provincial PROMOCHESS Categ.C(2014-2013-2012 + NO FEDERADOS) ELCHE",
+        "ciudad": "ELCHE",
+        "fechaini": "22-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.2653307,
+        "lon": -0.6988391,
+        "link": "https://info64.org/v-circuito-provincial-promochess-categc2014-2013-2012-no-federados-elche"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Circuito Provincial PROMOCHESS Categ. A (2020-2019-2018) ELCHE",
+        "ciudad": "ELCHE",
+        "fechaini": "22-11-2026",
+        "fechafin": "22-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.2653307,
+        "lon": -0.6988391,
+        "link": "https://info64.org/v-circuito-provincial-promochess-categ-a-2020-2019-2018-elche"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV Open Internacional Jose Antonio Ferreno",
         "ciudad": "Culleredo",
         "fechaini": "22-11-2026",
@@ -2209,18 +2245,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I TORNEO INFANTIL RUTA DE LA PLATA",
-        "ciudad": "CÁCERES",
-        "fechaini": "22-11-2026",
-        "fechafin": "22-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 39.4745175,
-        "lon": -6.3716761,
-        "link": "https://info64.org/i-torneo-infantil-ruta-de-la-plata"
-    },
-    {
-        "origin": "info64",
         "nombre": "I Open de Ajedrez - JESUITINAS 75 Aniversario",
         "ciudad": "ELCHE",
         "fechaini": "22-11-2026",
@@ -2230,18 +2254,6 @@
         "lat": 38.2653307,
         "lon": -0.6988391,
         "link": "https://info64.org/i-open-de-ajedrez-jesuitinas-75-aniversario"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Circuito Provincial PROMOCHESS Categ. A (2020-2019-2018) ELCHE",
-        "ciudad": "ELCHE",
-        "fechaini": "22-11-2026",
-        "fechafin": "22-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.2653307,
-        "lon": -0.6988391,
-        "link": "https://info64.org/v-circuito-provincial-promochess-categ-a-2020-2019-2018-elche"
     },
     {
         "origin": "info64",
@@ -2266,18 +2278,6 @@
         "lat": 39.1323971,
         "lon": -0.7877353,
         "link": "https://info64.org/i-torneo-de-la-mancomunidad-canal-de-navarres"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Circuito Provincial PROMOCHESS Categ.C(2014-2013-2012 + NO FEDERADOS) ELCHE",
-        "ciudad": "ELCHE",
-        "fechaini": "22-11-2026",
-        "fechafin": "22-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.2653307,
-        "lon": -0.6988391,
-        "link": "https://info64.org/v-circuito-provincial-promochess-categc2014-2013-2012-no-federados-elche"
     },
     {
         "origin": "info64",
@@ -3073,6 +3073,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "VI Open Sub-2400 Marcos Frechín Memorial Mercedes Parrón",
+        "ciudad": "Zaragoza",
+        "fechaini": "05-12-2026",
+        "fechafin": "07-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://info64.org/vi-open-sub-2400-marcos-frechin-memorial-mercedes-parron"
+    },
+    {
+        "origin": "info64",
         "nombre": "VII Torneo de Ajedrez Pablo de Unamuno",
         "ciudad": "Salamanca",
         "fechaini": "05-12-2026",
@@ -3094,18 +3106,6 @@
         "lat": 42.428065,
         "lon": -8.6041447,
         "link": "https://info64.org/torneo-blitz-25-aniversario-escola-xadrez-pontevedra"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Open Sub-2400 Marcos Frechín Memorial Mercedes Parrón",
-        "ciudad": "Zaragoza",
-        "fechaini": "05-12-2026",
-        "fechafin": "07-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
-        "link": "https://info64.org/vi-open-sub-2400-marcos-frechin-memorial-mercedes-parron"
     },
     {
         "origin": "info64",
@@ -4033,6 +4033,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "IV TORNEO AJEDREZ NAVIDAD LINARES 2026",
+        "ciudad": "Linares",
+        "fechaini": "20-12-2026",
+        "fechafin": "20-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.087695,
+        "lon": -3.6401793,
+        "link": "https://info64.org/iv-torneo-ajedrez-navidad-linares-2026"
+    },
+    {
+        "origin": "info64",
         "nombre": "V Torneo Escolar CRC Porriño Benjamin",
         "ciudad": "O Porriño",
         "fechaini": "20-12-2026",
@@ -4078,18 +4090,6 @@
         "lat": 38.9098936,
         "lon": -6.6151799,
         "link": "https://info64.org/iii-torneo-de-ajedrez-villa-de-montijo"
-    },
-    {
-        "origin": "info64",
-        "nombre": "IV TORNEO AJEDREZ NAVIDAD LINARES 2026",
-        "ciudad": "Linares",
-        "fechaini": "20-12-2026",
-        "fechafin": "20-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.087695,
-        "lon": -3.6401793,
-        "link": "https://info64.org/iv-torneo-ajedrez-navidad-linares-2026"
     },
     {
         "origin": "info64",
