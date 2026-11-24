@@ -1513,15 +1513,15 @@
     },
     {
         "origin": "info64",
-        "nombre": "VI Festival Int. Ruy López Open Sub 2400",
-        "ciudad": "Zafra",
+        "nombre": "I ABIERTO FIDE RAPIDO SUB 1800 LA ATALAYA",
+        "ciudad": "Conil de la Frontera",
         "fechaini": "27-11-2026",
-        "fechafin": "29-11-2026",
+        "fechafin": "28-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 38.4253489,
-        "lon": -6.4193627,
-        "link": "https://info64.org/vi-festival-int-ruy-lopez-open-sub-2400"
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/i-abierto-fide-rapido-sub-1800-la-atalaya"
     },
     {
         "origin": "info64",
@@ -1537,18 +1537,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-12",
-        "ciudad": "Benidorm",
-        "fechaini": "27-11-2026",
-        "fechafin": "29-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-12"
-    },
-    {
-        "origin": "info64",
         "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-10",
         "ciudad": "Benidorm",
         "fechaini": "27-11-2026",
@@ -1561,15 +1549,27 @@
     },
     {
         "origin": "info64",
-        "nombre": "I ABIERTO FIDE RAPIDO SUB 1800 LA ATALAYA",
-        "ciudad": "Conil de la Frontera",
+        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-12",
+        "ciudad": "Benidorm",
         "fechaini": "27-11-2026",
-        "fechafin": "28-11-2026",
+        "fechafin": "29-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/i-abierto-fide-rapido-sub-1800-la-atalaya"
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-12"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Festival Int. Ruy López Open Sub 2400",
+        "ciudad": "Zafra",
+        "fechaini": "27-11-2026",
+        "fechafin": "29-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4253489,
+        "lon": -6.4193627,
+        "link": "https://info64.org/vi-festival-int-ruy-lopez-open-sub-2400"
     },
     {
         "origin": "info64",
@@ -1657,15 +1657,51 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Gran Prix de Carracido",
-        "ciudad": "O Porrino",
+        "nombre": "II Slowblitz Infantil Diagonal Alcorcon",
+        "ciudad": "Alcorcon",
         "fechaini": "28-11-2026",
         "fechafin": "28-11-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.1364387,
-        "lon": -8.6255949,
-        "link": "https://info64.org/v-gran-prix-de-carracido"
+        "lat": 40.3492998,
+        "lon": -3.8284295,
+        "link": "https://info64.org/ii-slowblitz-infantil-diagonal-alcorcon"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
+        "ciudad": "Benidorm",
+        "fechaini": "28-11-2026",
+        "fechafin": "05-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Open Blitz Tres Cantos",
+        "ciudad": "Tres Cantos",
+        "fechaini": "28-11-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6012354,
+        "lon": -3.7038475,
+        "link": "https://info64.org/vi-open-blitz-tres-cantos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I ABIERTO SUB 1600 FADA LA ATALAYA",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "28-11-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/i-abierto-sub-1600-fada-la-atalaya"
     },
     {
         "origin": "info64",
@@ -1678,6 +1714,18 @@
         "lat": 38.5406255,
         "lon": -0.1290929,
         "link": "https://info64.org/xxiii-torneo-internacional-gran-hotel-bali-grupo-a"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Gran Prix de Carracido",
+        "ciudad": "O Porrino",
+        "fechaini": "28-11-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1364387,
+        "lon": -8.6255949,
+        "link": "https://info64.org/v-gran-prix-de-carracido"
     },
     {
         "origin": "info64",
@@ -1717,18 +1765,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "II Slowblitz Infantil Diagonal Alcorcon",
-        "ciudad": "Alcorcon",
-        "fechaini": "28-11-2026",
-        "fechafin": "28-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.3492998,
-        "lon": -3.8284295,
-        "link": "https://info64.org/ii-slowblitz-infantil-diagonal-alcorcon"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXXIV Torneo Sub-2400",
         "ciudad": "Ferrol",
         "fechaini": "28-11-2026",
@@ -1750,18 +1786,6 @@
         "lat": 39.3956438,
         "lon": -0.4150821,
         "link": "https://info64.org/social-rapidas-2026-grupo-b"
-    },
-    {
-        "origin": "info64",
-        "nombre": "I ABIERTO SUB 1600 FADA LA ATALAYA",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "28-11-2026",
-        "fechafin": "28-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/i-abierto-sub-1600-fada-la-atalaya"
     },
     {
         "origin": "info64",
@@ -1810,30 +1834,6 @@
         "lat": 40.4167,
         "lon": -3.7033,
         "link": "https://info64.org/i-torneo-de-ajedrez-rapido-escuela-ajedrizate"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
-        "ciudad": "Benidorm",
-        "fechaini": "28-11-2026",
-        "fechafin": "05-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Open Blitz Tres Cantos",
-        "ciudad": "Tres Cantos",
-        "fechaini": "28-11-2026",
-        "fechafin": "28-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6012354,
-        "lon": -3.7038475,
-        "link": "https://info64.org/vi-open-blitz-tres-cantos"
     },
     {
         "origin": "info64",
@@ -2329,18 +2329,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "V Torneo Lentas Xadrez Compostela Sub2400",
-        "ciudad": "Santiago de Compostela",
-        "fechaini": "05-12-2026",
-        "fechafin": "08-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.9064576,
-        "lon": -8.5192983,
-        "link": "https://info64.org/v-torneo-lentas-xadrez-compostela-sub2400"
-    },
-    {
-        "origin": "info64",
         "nombre": "VI Open Sub-2400 Marcos Frechín Memorial Mercedes Parrón",
         "ciudad": "Zaragoza",
         "fechaini": "05-12-2026",
@@ -2350,6 +2338,18 @@
         "lat": 41.6915847,
         "lon": -0.9101268,
         "link": "https://info64.org/vi-open-sub-2400-marcos-frechin-memorial-mercedes-parron"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Torneo Lentas Xadrez Compostela Sub2400",
+        "ciudad": "Santiago de Compostela",
+        "fechaini": "05-12-2026",
+        "fechafin": "08-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.9064576,
+        "lon": -8.5192983,
+        "link": "https://info64.org/v-torneo-lentas-xadrez-compostela-sub2400"
     },
     {
         "origin": "info64",
@@ -2686,6 +2686,18 @@
         "lat": 38.0275575,
         "lon": -0.9130957,
         "link": "https://info64.org/i-torneo-navidad-escuela-ajedrez-orihuela"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo Solidario Ajedrez de Navidad - Alcorcon",
+        "ciudad": "Alcorcon",
+        "fechaini": "12-12-2026",
+        "fechafin": "12-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.3492998,
+        "lon": -3.8284295,
+        "link": "https://info64.org/torneo-solidario-ajedrez-de-navidad-alcorcon"
     },
     {
         "origin": "info64",
@@ -3277,6 +3289,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "XII Open Internacional Villa de Santa Pola",
+        "ciudad": "Santa Pola",
+        "fechaini": "19-12-2026",
+        "fechafin": "19-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.1923641,
+        "lon": -0.5555464,
+        "link": "https://info64.org/xii-open-internacional-villa-de-santa-pola"
+    },
+    {
+        "origin": "info64",
+        "nombre": "45 Torneo Navidad La Roda 2026. Absoluto, Veteranos y S14",
+        "ciudad": "La Roda",
+        "fechaini": "19-12-2026",
+        "fechafin": "19-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 39.20702,
+        "lon": -2.1581637,
+        "link": "https://info64.org/45-torneo-navidad-la-roda-2026-absoluto-veteranos-y-s14"
+    },
+    {
+        "origin": "info64",
         "nombre": "IV Torneo Rosalia de Castro  Concello de Padron",
         "ciudad": "Padron",
         "fechaini": "19-12-2026",
@@ -3310,18 +3346,6 @@
         "lat": 40.3397228,
         "lon": -3.8476799,
         "link": "https://info64.org/iii-torneo-panda-games"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XII Open Internacional Villa de Santa Pola",
-        "ciudad": "Santa Pola",
-        "fechaini": "19-12-2026",
-        "fechafin": "19-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.1923641,
-        "lon": -0.5555464,
-        "link": "https://info64.org/xii-open-internacional-villa-de-santa-pola"
     },
     {
         "origin": "info64",
@@ -3493,18 +3517,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Torneo relámpago El Greco. Diciembre 2026",
-        "ciudad": "Zaragoza",
-        "fechaini": "20-12-2026",
-        "fechafin": "20-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
-        "link": "https://info64.org/torneo-relampago-el-greco-diciembre-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "IV TORNEO AJEDREZ NAVIDAD LINARES 2026",
         "ciudad": "Linares",
         "fechaini": "20-12-2026",
@@ -3514,6 +3526,18 @@
         "lat": 40.5822963,
         "lon": -5.9195865,
         "link": "https://info64.org/iv-torneo-ajedrez-navidad-linares-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo relámpago El Greco. Diciembre 2026",
+        "ciudad": "Zaragoza",
+        "fechaini": "20-12-2026",
+        "fechafin": "20-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://info64.org/torneo-relampago-el-greco-diciembre-2026"
     },
     {
         "origin": "info64",
@@ -3805,6 +3829,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "III Cerrado de Navidad Diagonal Alcorcon B (IM)",
+        "ciudad": "Alcorcon",
+        "fechaini": "26-12-2026",
+        "fechafin": "30-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.3492998,
+        "lon": -3.8284295,
+        "link": "https://info64.org/iii-cerrado-de-navidad-diagonal-alcorcon-b"
+    },
+    {
+        "origin": "info64",
+        "nombre": "III Cerrado de Navidad Diagonal Alcorcon A (GM)",
+        "ciudad": "Alcorcon",
+        "fechaini": "26-12-2026",
+        "fechafin": "30-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.3492998,
+        "lon": -3.8284295,
+        "link": "https://info64.org/iii-cerrado-de-navidad-diagonal-alcorcon-a"
+    },
+    {
+        "origin": "info64",
         "nombre": "V Open Internacional de Navidad Diagonal Alcorcon",
         "ciudad": "Alcorcon",
         "fechaini": "26-12-2026",
@@ -3913,18 +3961,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "III Cerrado de Navidad Diagonal Alcorcon B (IM)",
-        "ciudad": "Alcorcon",
-        "fechaini": "26-12-2026",
-        "fechafin": "30-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.3492998,
-        "lon": -3.8284295,
-        "link": "https://info64.org/iii-cerrado-de-navidad-diagonal-alcorcon-b"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Open Internacional de Castilla y León SUB 1700",
         "ciudad": "Segovia",
         "fechaini": "26-12-2026",
@@ -3934,18 +3970,6 @@
         "lat": 40.9481192,
         "lon": -4.1172101,
         "link": "https://info64.org/ii-open-internacional-de-castilla-y-leon-sub-1700"
-    },
-    {
-        "origin": "info64",
-        "nombre": "III Cerrado de Navidad Diagonal Alcorcon A (GM)",
-        "ciudad": "Alcorcon",
-        "fechaini": "26-12-2026",
-        "fechafin": "30-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.3492998,
-        "lon": -3.8284295,
-        "link": "https://info64.org/iii-cerrado-de-navidad-diagonal-alcorcon-a"
     },
     {
         "origin": "info64",
@@ -5149,7 +5173,7 @@
     },
     {
         "origin": "info64",
-        "nombre": "2º Torneo Blitz de Ajedrez de La Roda 2027",
+        "nombre": "2º BLITZ Torneo Internacional Ajedrez de La Roda 2027",
         "ciudad": "La Roda",
         "fechaini": "25-03-2027",
         "fechafin": "26-03-2027",
