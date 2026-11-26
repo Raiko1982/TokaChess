@@ -439,8 +439,8 @@
         "fechafin": "05-12-2026",
         "organizador": "-",
         "ritmo": "-",
-        "lat": 42.3285528,
-        "lon": -2.4674917,
+        "lat": 42.2814642,
+        "lon": -2.482805,
         "link": "https://info64.org/campeonato-individual-absoluto-de-la-rioja"
     },
     {
@@ -1489,6 +1489,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "Gran Torneo Social Sofía en Myrtea",
+        "ciudad": "Centro Comercial Myrtea",
+        "fechaini": "26-11-2026",
+        "fechafin": "26-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.0163591,
+        "lon": -1.1620992,
+        "link": "https://info64.org/gran-torneo-social-sofia-en-myrtea"
+    },
+    {
+        "origin": "info64",
         "nombre": "Deporte Escolar Cartagena Open",
         "ciudad": "Cartagena",
         "fechaini": "26-11-2026",
@@ -1525,6 +1537,30 @@
     },
     {
         "origin": "info64",
+        "nombre": "I ABIERTO FIDE RAPIDO SUB 1800 LA ATALAYA",
+        "ciudad": "Conil de la Frontera",
+        "fechaini": "27-11-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 36.277054,
+        "lon": -6.0881874,
+        "link": "https://info64.org/i-abierto-fide-rapido-sub-1800-la-atalaya"
+    },
+    {
+        "origin": "info64",
+        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-12",
+        "ciudad": "Benidorm",
+        "fechaini": "27-11-2026",
+        "fechafin": "29-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-12"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Festival Int. Ruy López Open Sub 2400",
         "ciudad": "Zafra",
         "fechaini": "27-11-2026",
@@ -1549,18 +1585,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I ABIERTO FIDE RAPIDO SUB 1800 LA ATALAYA",
-        "ciudad": "Conil de la Frontera",
-        "fechaini": "27-11-2026",
-        "fechafin": "28-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 36.277054,
-        "lon": -6.0881874,
-        "link": "https://info64.org/i-abierto-fide-rapido-sub-1800-la-atalaya"
-    },
-    {
-        "origin": "info64",
         "nombre": "I ABIERTO FIDE RAPIDO LA ATALAYA",
         "ciudad": "Conil de la Frontera",
         "fechaini": "27-11-2026",
@@ -1570,18 +1594,6 @@
         "lat": 36.277054,
         "lon": -6.0881874,
         "link": "https://info64.org/i-abierto-fide-rapido-la-atalaya"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XX Torneo Internacional de Nuevas Generaciones Gran Hotel Bali SUB-12",
-        "ciudad": "Benidorm",
-        "fechaini": "27-11-2026",
-        "fechafin": "29-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xx-torneo-internacional-de-nuevas-generaciones-gran-hotel-bali-sub-12"
     },
     {
         "origin": "info64",
@@ -1789,6 +1801,54 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
+        "ciudad": "Benidorm",
+        "fechaini": "28-11-2026",
+        "fechafin": "05-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
+        "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Gran Prix de Carracido",
+        "ciudad": "O Porrino",
+        "fechaini": "28-11-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1364387,
+        "lon": -8.6255949,
+        "link": "https://info64.org/v-gran-prix-de-carracido"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Torneo infantil de ajedrez San Andrés 2026",
+        "ciudad": "Almajano",
+        "fechaini": "28-11-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.8512764,
+        "lon": -2.3384374,
+        "link": "https://info64.org/torneo-infantil-de-ajedrez-san-andres-2026"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Campeonato de Almería Veteranos 2026 Supra-50 y Supra-65",
+        "ciudad": "Albox",
+        "fechaini": "28-11-2026",
+        "fechafin": "29-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3880282,
+        "lon": -2.1455544,
+        "link": "https://info64.org/campeonato-de-almeria-veteranos-2026-supra-50-y-supra-65"
+    },
+    {
+        "origin": "info64",
         "nombre": "I Torneo de Ajedrez Solidario Parkinson Cordoba",
         "ciudad": "Cordoba",
         "fechaini": "28-11-2026",
@@ -1810,18 +1870,6 @@
         "lat": 38.4253489,
         "lon": -6.4193627,
         "link": "https://info64.org/vi-festival-int-ruy-lopez-blitz-nocturno"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Gran Prix de Carracido",
-        "ciudad": "O Porrino",
-        "fechaini": "28-11-2026",
-        "fechafin": "28-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1364387,
-        "lon": -8.6255949,
-        "link": "https://info64.org/v-gran-prix-de-carracido"
     },
     {
         "origin": "info64",
@@ -1897,18 +1945,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "Campeonato de Almería Veteranos 2026 Supra-50 y Supra-65",
-        "ciudad": "Albox",
-        "fechaini": "28-11-2026",
-        "fechafin": "29-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3880282,
-        "lon": -2.1455544,
-        "link": "https://info64.org/campeonato-de-almeria-veteranos-2026-supra-50-y-supra-65"
-    },
-    {
-        "origin": "info64",
         "nombre": "XXIII Torneo Internacional Gran Hotel Bali Grupo A",
         "ciudad": "Benidorm",
         "fechaini": "28-11-2026",
@@ -1933,18 +1969,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "XXIII Gran Torneo Internacional Aficionados Grupo B 2026",
-        "ciudad": "Benidorm",
-        "fechaini": "28-11-2026",
-        "fechafin": "05-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.5406255,
-        "lon": -0.1290929,
-        "link": "https://info64.org/xxiii-gran-torneo-internacional-aficionados-grupo-b-2026"
-    },
-    {
-        "origin": "info64",
         "nombre": "II Slowblitz Infantil Diagonal Alcorcon",
         "ciudad": "Alcorcon",
         "fechaini": "28-11-2026",
@@ -1954,18 +1978,6 @@
         "lat": 40.3492998,
         "lon": -3.8284295,
         "link": "https://info64.org/ii-slowblitz-infantil-diagonal-alcorcon"
-    },
-    {
-        "origin": "info64",
-        "nombre": "Torneo infantil de ajedrez San Andrés 2026",
-        "ciudad": "Almajano",
-        "fechaini": "28-11-2026",
-        "fechafin": "28-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.8512764,
-        "lon": -2.3384374,
-        "link": "https://info64.org/torneo-infantil-de-ajedrez-san-andres-2026"
     },
     {
         "origin": "info64",
@@ -3205,6 +3217,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXX Torneo de Navidad - XIII Isidoro de la Fuente",
+        "ciudad": "Centru Cultural Mieres",
+        "fechaini": "13-12-2026",
+        "fechafin": "20-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 43.2511582,
+        "lon": -5.7729289,
+        "link": "https://info64.org/xxx-torneo-de-navidad-xiii-isidoro-de-la-fuente"
+    },
+    {
+        "origin": "info64",
         "nombre": "XIV Open de Ajedrez NAVIDAD 2026 HUÉRCAL DE ALMERÍA",
         "ciudad": "Huércal de Almería, Teatro Mul",
         "fechaini": "13-12-2026",
@@ -3262,18 +3286,6 @@
         "lat": 39.683223,
         "lon": -3.7727849,
         "link": "https://info64.org/ix-t-navidad-en-mora"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXX Torneo de Navidad - XIII Isidoro de la Fuente",
-        "ciudad": "Centru Cultural Mieres",
-        "fechaini": "13-12-2026",
-        "fechafin": "20-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 43.2511582,
-        "lon": -5.7729289,
-        "link": "https://info64.org/xxx-torneo-de-navidad-xiii-isidoro-de-la-fuente"
     },
     {
         "origin": "info64",
