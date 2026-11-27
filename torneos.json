@@ -1440,18 +1440,6 @@
         "link": "https://info64.org/prova-mobil-resultats"
     },
     {
-        "origin": "info64",
-        "nombre": "XII OPEN CRUCERO DE AJEDREZ",
-        "ciudad": "Barco Costa Fascinosa",
-        "fechaini": "26-11-2026",
-        "fechafin": "06-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://info64.org/xii-open-crucero-de-ajedrez"
-    },
-    {
         "origin": "chess-results",
         "nombre": "Eso",
         "ciudad": "Casa pepe",
@@ -1486,6 +1474,18 @@
         "lat": 39.4805109,
         "lon": -0.390643,
         "link": "https://chess-results.com/tnr1551181.aspx?lan=2"
+    },
+    {
+        "origin": "info64",
+        "nombre": "Xv OPEN CRUCERO DE AJEDREZ",
+        "ciudad": "Barco Costa Fascinosa",
+        "fechaini": "27-11-2026",
+        "fechafin": "05-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://info64.org/xii-open-crucero-de-ajedrez"
     },
     {
         "origin": "info64",
@@ -1765,6 +1765,42 @@
     },
     {
         "origin": "info64",
+        "nombre": "VI Open Blitz Tres Cantos",
+        "ciudad": "Tres Cantos",
+        "fechaini": "28-11-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 40.6012354,
+        "lon": -3.7038475,
+        "link": "https://info64.org/vi-open-blitz-tres-cantos"
+    },
+    {
+        "origin": "info64",
+        "nombre": "V Gran Prix de Carracido",
+        "ciudad": "O Porrino",
+        "fechaini": "28-11-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 42.1364387,
+        "lon": -8.6255949,
+        "link": "https://info64.org/v-gran-prix-de-carracido"
+    },
+    {
+        "origin": "info64",
+        "nombre": "I Torneo de Ajedrez Solidario Parkinson Cordoba",
+        "ciudad": "Cordoba",
+        "fechaini": "28-11-2026",
+        "fechafin": "28-11-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.8845813,
+        "lon": -4.7760138,
+        "link": "https://info64.org/i-torneo-de-ajedrez-solidario-parkinson-cordoba"
+    },
+    {
+        "origin": "info64",
         "nombre": "I ABIERTO SUB 1600 FADA LA ATALAYA",
         "ciudad": "Conil de la Frontera",
         "fechaini": "28-11-2026",
@@ -1801,18 +1837,6 @@
     },
     {
         "origin": "info64",
-        "nombre": "I Torneo de Ajedrez Solidario Parkinson Cordoba",
-        "ciudad": "Cordoba",
-        "fechaini": "28-11-2026",
-        "fechafin": "28-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.8845813,
-        "lon": -4.7760138,
-        "link": "https://info64.org/i-torneo-de-ajedrez-solidario-parkinson-cordoba"
-    },
-    {
-        "origin": "info64",
         "nombre": "SOCIAL RAPIDAS 2026 Grupo B",
         "ciudad": "Albal",
         "fechaini": "28-11-2026",
@@ -1834,18 +1858,6 @@
         "lat": 43.5113053,
         "lon": -8.2624767,
         "link": "https://info64.org/xxxiv-torneo-sub-2400"
-    },
-    {
-        "origin": "info64",
-        "nombre": "V Gran Prix de Carracido",
-        "ciudad": "O Porrino",
-        "fechaini": "28-11-2026",
-        "fechafin": "28-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 42.1364387,
-        "lon": -8.6255949,
-        "link": "https://info64.org/v-gran-prix-de-carracido"
     },
     {
         "origin": "info64",
@@ -1942,18 +1954,6 @@
         "lat": 39.3956438,
         "lon": -0.4150821,
         "link": "https://info64.org/social-rapidas-2026-grupo-a"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Open Blitz Tres Cantos",
-        "ciudad": "Tres Cantos",
-        "fechaini": "28-11-2026",
-        "fechafin": "28-11-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 40.6012354,
-        "lon": -3.7038475,
-        "link": "https://info64.org/vi-open-blitz-tres-cantos"
     },
     {
         "origin": "info64",
@@ -2485,6 +2485,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "VI Open Sub-2400 Marcos Frechín Memorial Mercedes Parrón",
+        "ciudad": "Zaragoza",
+        "fechaini": "05-12-2026",
+        "fechafin": "07-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 41.6915847,
+        "lon": -0.9101268,
+        "link": "https://info64.org/vi-open-sub-2400-marcos-frechin-memorial-mercedes-parron"
+    },
+    {
+        "origin": "info64",
         "nombre": "XXVI Abierto de la Constitucion",
         "ciudad": "San Sebastian de los Reyes",
         "fechaini": "05-12-2026",
@@ -2506,18 +2518,6 @@
         "lat": 42.428065,
         "lon": -8.6041447,
         "link": "https://info64.org/torneo-blitz-25-aniversario-escola-xadrez-pontevedra"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Open Sub-2400 Marcos Frechín Memorial Mercedes Parrón",
-        "ciudad": "Zaragoza",
-        "fechaini": "05-12-2026",
-        "fechafin": "07-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 41.6915847,
-        "lon": -0.9101268,
-        "link": "https://info64.org/vi-open-sub-2400-marcos-frechin-memorial-mercedes-parron"
     },
     {
         "origin": "info64",
@@ -2905,6 +2905,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "XXXV Open Internacional Ciudad de Zafra",
+        "ciudad": "Zafra",
+        "fechaini": "12-12-2026",
+        "fechafin": "12-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 38.4253489,
+        "lon": -6.4193627,
+        "link": "https://info64.org/xxxv-open-internacional-ciudad-de-zafra"
+    },
+    {
+        "origin": "info64",
         "nombre": "X TORNEO COBEÑA (CATEGORÍA SUB8)",
         "ciudad": "Madrid",
         "fechaini": "12-12-2026",
@@ -2962,18 +2974,6 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/x-torneo-cobena"
-    },
-    {
-        "origin": "info64",
-        "nombre": "XXXV Open Internacional Ciudad de Zafra",
-        "ciudad": "Zafra",
-        "fechaini": "12-12-2026",
-        "fechafin": "12-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 38.4253489,
-        "lon": -6.4193627,
-        "link": "https://info64.org/xxxv-open-internacional-ciudad-de-zafra"
     },
     {
         "origin": "info64",
@@ -4117,6 +4117,18 @@
     },
     {
         "origin": "info64",
+        "nombre": "VI Bambuchess Chess Festival – Open IRT Sub2400",
+        "ciudad": "Villablanca",
+        "fechaini": "26-12-2026",
+        "fechafin": "28-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3028005,
+        "lon": -7.3423138,
+        "link": "https://info64.org/vi-bambuchess-chess-festival-open-irt-sub2400"
+    },
+    {
+        "origin": "info64",
         "nombre": "VI Bambuchess Chess Festival – Open IRT Sub1800",
         "ciudad": "Villablanca",
         "fechaini": "26-12-2026",
@@ -4126,6 +4138,18 @@
         "lat": 37.3028005,
         "lon": -7.3423138,
         "link": "https://info64.org/vi-bambuchess-chess-festival-open-irt-sub1800"
+    },
+    {
+        "origin": "info64",
+        "nombre": "VI Bambuchess Chess Festival – Blitz",
+        "ciudad": "Villablanca",
+        "fechaini": "26-12-2026",
+        "fechafin": "28-12-2026",
+        "organizador": "-",
+        "ritmo": "-",
+        "lat": 37.3028005,
+        "lon": -7.3423138,
+        "link": "https://info64.org/vi-bambuchess-chess-festival-blitz"
     },
     {
         "origin": "info64",
@@ -4222,30 +4246,6 @@
         "lat": 37.6951954,
         "lon": -1.772291,
         "link": "https://info64.org/xv-festival-internacional-ciudad-de-lorca-b-sub1800"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Bambuchess Chess Festival – Blitz",
-        "ciudad": "Villablanca",
-        "fechaini": "26-12-2026",
-        "fechafin": "28-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3028005,
-        "lon": -7.3423138,
-        "link": "https://info64.org/vi-bambuchess-chess-festival-blitz"
-    },
-    {
-        "origin": "info64",
-        "nombre": "VI Bambuchess Chess Festival – Open IRT Sub2400",
-        "ciudad": "Villablanca",
-        "fechaini": "26-12-2026",
-        "fechafin": "28-12-2026",
-        "organizador": "-",
-        "ritmo": "-",
-        "lat": 37.3028005,
-        "lon": -7.3423138,
-        "link": "https://info64.org/vi-bambuchess-chess-festival-open-irt-sub2400"
     },
     {
         "origin": "info64",
