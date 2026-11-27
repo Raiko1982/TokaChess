@@ -1285,18 +1285,6 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "Campeonato Provincial por Equipos de Veteranos",
-        "ciudad": "Polideportivo Benimaclet: Carrer de Daniel Balaciart, s/n, Benimaclet, 46020",
-        "fechaini": "19-11-2026",
-        "fechafin": "26-11-2026",
-        "organizador": "",
-        "ritmo": "20+10",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1540024.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
         "nombre": "Torneo Escolar Nuevo Centro Sub 11 J3",
         "ciudad": "Centro Comercial Nuevo Centro",
         "fechaini": "19-11-2026",
@@ -1477,19 +1465,7 @@
     },
     {
         "origin": "chess-results",
-        "nombre": "III Torneo de Ajedrez EAC",
-        "ciudad": "Polideportivo San Pablo c/ Doctor Laffon Sotto s/n",
-        "fechaini": "26-11-2026",
-        "fechafin": "26-11-2026",
-        "organizador": "Ismael Teran",
-        "ritmo": "8 min + 3 seg",
-        "lat": 40.4167,
-        "lon": -3.7033,
-        "link": "https://chess-results.com/tnr1551247.aspx?lan=2"
-    },
-    {
-        "origin": "chess-results",
-        "nombre": "Torneo Escolar Nuevo Centro Sub 11 J4",
+        "nombre": "Torneo Escolar Nuevo Centro Sub 15 J4",
         "ciudad": "Centro Comercial Nuevo Centro",
         "fechaini": "26-11-2026",
         "fechafin": "11-03-2027",
@@ -1497,7 +1473,7 @@
         "ritmo": "5 Finish",
         "lat": 39.4805109,
         "lon": -0.390643,
-        "link": "https://chess-results.com/tnr1551181.aspx?lan=2"
+        "link": "https://chess-results.com/tnr1551180.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -1509,7 +1485,7 @@
         "ritmo": "5 Finish",
         "lat": 39.4805109,
         "lon": -0.390643,
-        "link": "https://chess-results.com/tnr1551180.aspx?lan=2"
+        "link": "https://chess-results.com/tnr1551181.aspx?lan=2"
     },
     {
         "origin": "info64",
@@ -1750,6 +1726,18 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://chess-results.com/tnr1550608.aspx?lan=2"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "IX TORNEO INTERCENTROS DE AJEDREZ SAN FERNANDO",
+        "ciudad": "IES BOTÁNICO",
+        "fechaini": "27-11-2026",
+        "fechafin": "27-11-2026",
+        "organizador": "",
+        "ritmo": "5+3",
+        "lat": 36.470771,
+        "lon": -6.2027407,
+        "link": "https://chess-results.com/tnr1551599.aspx?lan=2"
     },
     {
         "origin": "chess-results",
@@ -2414,13 +2402,13 @@
     {
         "origin": "chess-results",
         "nombre": "VII elllobregat Open Group A",
-        "ciudad": "Sant Boi de Llobregat",
+        "ciudad": "Sant Boi de Llobregat, Can Massallera. Carrer Mallorca 30. Sant Boi de Llobregat",
         "fechaini": "03-12-2026",
         "fechafin": "08-12-2026",
         "organizador": "OA Perez Llorca, Xavier 24583880",
         "ritmo": "90min + 30sec from move 1",
-        "lat": 41.3241016,
-        "lon": 2.0511278,
+        "lat": 40.4167,
+        "lon": -3.7033,
         "link": "https://chess-results.com/tnr1429492.aspx?lan=2"
     },
     {
@@ -2602,6 +2590,18 @@
         "lat": 40.416782,
         "lon": -3.703507,
         "link": "https://info64.org/delicias-sub2400-diciembre-2026"
+    },
+    {
+        "origin": "chess-results",
+        "nombre": "Circuit Escacs Base: Algemesi",
+        "ciudad": "C/ Sant Josep de Calasanz, 6; 46680 Algemesí",
+        "fechaini": "05-12-2026",
+        "fechafin": "05-12-2026",
+        "organizador": "FACV - Ajuntament d'Algemesí",
+        "ritmo": "7 minutos + 3 segundos",
+        "lat": 40.4167,
+        "lon": -3.7033,
+        "link": "https://chess-results.com/tnr1551498.aspx?lan=2"
     },
     {
         "origin": "chess-results",
